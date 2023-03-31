@@ -1,0 +1,17 @@
+# .readthedocs.yaml
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+version: 2
+
+# Do not build any formats other than normal HTML
+formats: []
+
+sphinx:
+   configuration: source/conf.py
+
+# Optionally declare the Python requirements required to build your docs
+python:
+   install:
+   - requirements: requirements.txt
+   system_packages: true # Allow use of system packages
