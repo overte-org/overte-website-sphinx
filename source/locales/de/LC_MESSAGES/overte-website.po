@@ -4,20 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Overte Website \n"
+"Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-01 10:14+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-04-01 18:46+0000\n"
+"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: German <https://weblate.overte.org/projects/overte/"
+"overte-website/de/>\n"
 "Language: de\n"
-"Language-Team: de <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -58,17 +59,19 @@ msgstr ""
 
 #: ../../source/contact.rst:5 ../../source/index.rst:44
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 #: ../../source/contact.rst:7
 msgid ""
 "There are multiple channels to get in touch with the community and "
 "association."
 msgstr ""
+"Es gibt mehrere Möglichkeiten, mit der Gemeinschaft und dem Verband in "
+"Kontakt zu treten."
 
 #: ../../source/contact.rst:11
 msgid "Overte"
-msgstr ""
+msgstr "Overte"
 
 #: ../../source/contact.rst:13
 msgid ""
@@ -76,10 +79,13 @@ msgid ""
 "depth questions. Check the events calendar to find out when the next "
 "meeting is happening."
 msgstr ""
+"Unsere wöchentlichen Entwicklertreffen sind der perfekte Ort für "
+"kompliziertere Fragen. Im Veranstaltungskalender finden Sie den Zeitpunkt "
+"des nächsten Treffens."
 
 #: ../../source/contact.rst:19
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: ../../source/contact.rst:21
 msgid ""
@@ -87,10 +93,13 @@ msgid ""
 "an issue on the relevant GitHub repository. `Overte GitHub repository 🔗 "
 "<https://github.com/overte-org/overte>`_"
 msgstr ""
+"Wenn Sie einen Fehler melden möchten, öffnen Sie am besten eine „Issue“ im "
+"entsprechenden GitHub-Repository. `Overte GitHub Repository 🔗 "
+"<https://github.com/overte-org/overte>`_"
 
 #: ../../source/contact.rst:27
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 #: ../../source/contact.rst:29
 msgid ""
@@ -98,20 +107,25 @@ msgid ""
 "<https://matrix.to/#/#overte:overte.org>`_ Our Matrix Space is also "
 "bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
 msgstr ""
+"Treten Sie unserem Matrix Space auf |MatrixLink| `overte:overte.org 🔗 "
+"<https://matrix.to/#/#overte:overte.org>`_ bei. Unser Matrix Space ist auch "
+"mit |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_ verknüpft."
 
 #: ../../source/contact.rst:35
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ../../source/contact.rst:37
 msgid ""
 "There is also a forum located at `forum.overte.org 🔗 "
 "<https://forum.overte.org/>`_."
 msgstr ""
+"Es gibt auch ein Forum unter `forum.overte.org 🔗 <https://forum.overte.org/"
+">`_."
 
 #: ../../source/contact.rst:42
 msgid "Mastodon"
-msgstr ""
+msgstr "Mastodon"
 
 #: ../../source/contact.rst:44
 msgid "https://fosstodon.org/@overte"
@@ -119,7 +133,7 @@ msgstr ""
 
 #: ../../source/donate.rst:3 ../../source/index.rst:44
 msgid "Donate"
-msgstr ""
+msgstr "Spenden"
 
 #: ../../source/donate.rst:5
 msgid ""
@@ -127,34 +141,46 @@ msgid ""
 "and require us to pay a not unsignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
 msgstr ""
+"Hosting, Entwicklung, Wartung und Verwaltung sind eine Menge Arbeit und "
+"kosten uns eine nicht unerhebliche Summe. Spenden sind neben den "
+"Mitgliedsbeiträgen die einzige Einnahmequelle, mit der wir unsere Rechnungen "
+"bezahlen können."
 
 #: ../../source/donate.rst:8
 msgid ""
 "If you would like to support Overte and its development, consider "
 "donating."
 msgstr ""
+"Wenn Sie Overte und seine Entwicklung unterstützen möchten, erwägen Sie zu "
+"spenden."
 
 #: ../../source/donate.rst:10
 msgid "You may donate via the following methods in order of preferrence:"
 msgstr ""
+"Sie können über die folgenden Methoden spenden. Sortiert nach Präferenz:"
 
 #: ../../source/donate.rst:12
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
 "(preferred), Debitcard, Creditcard"
 msgstr ""
+"OpenCollective 🔗 <https://opencollective.com/overte>`_ - Banküberweisung "
+"(bevorzugt), Debitkarte, Kreditkarte"
 
 #: ../../source/donate.rst:13
 msgid ""
 "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any "
 "payment method you can think of"
 msgstr ""
+"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Fast jede "
+"erdenkliche Zahlungsmethode"
 
 #: ../../source/donate.rst:14
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
+"`PayPal 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
 msgid ""
@@ -162,10 +188,14 @@ msgid ""
 "tax deductable in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
+"Als anerkannter gemeinnütziger Verein kann der Overte e.V. Spendenquittungen "
+"ausstellen, die in Deutschland steuerlich absetzbar sind. Kontaktieren Sie "
+"uns nach Ihrer Spende unter accounting@overte.org, um eine solche Quittung "
+"anzufordern."
 
 #: ../../source/downloads.rst:5 ../../source/index.rst:44
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 #: ../../source/downloads.rst:7
 msgid ""
@@ -173,14 +203,17 @@ msgid ""
 " the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
+"Die aktuelle stabile Version von Overte ist Version 2022.12.1. Werfen Sie "
+"einen Blick auf das Änderungsprotokoll auf GitHub: `Changelog 🔗 "
+"<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:13
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../source/downloads.rst:17
 msgid "Interface"
-msgstr ""
+msgstr "Interface"
 
 #: ../../source/downloads.rst:19
 msgid ""
@@ -197,16 +230,30 @@ msgid ""
 "011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
+"Linux AppImage für amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" height="
+"\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" viewBox=\"0 0 16 "
+"16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 "
+"0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 00-."
+"073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25"
+"-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-"
+"3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-."
+"565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-"
+"7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 "
+"12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\""
+"></path></svg>"
 
 #: ../../source/downloads.rst:27
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr ""
+"Das AppImage muss mit Ihrem Dateimanager oder einen Befehl wie: :bash:`chmod "
+"+x Overte.AppImage` als **ausführbar** markiert werden."
 
 #: ../../source/downloads.rst:33
 msgid "Domain Server"
-msgstr ""
+msgstr "Domain Server"
 
 #: ../../source/downloads.rst:35
 msgid ""
@@ -216,10 +263,14 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 msgstr ""
+"Wählen Sie das passende Paket für Ihre Distribution und Architektur von "
+"unserer `GitHub Release-Seite 🔗 <https://github.com/overte-org/overte/"
+"releases/tag/2022.12.1/>`_, oder direkt von `public.overte.org 🔗 "
+"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 
 #: ../../source/downloads.rst:41
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../source/downloads.rst:43
 msgid ""
@@ -228,6 +279,12 @@ msgid ""
 "installation process if you want to run a Domain Server. You can always "
 "rerun the installer later to install the server software afterwards."
 msgstr ""
+"Das Windows-Installationsprogramm enthält sowohl Interface als auch den "
+"Domain-Server. Wenn Sie einen Domain-Server betreiben möchten, wählen Sie "
+"die benutzerdefinierte Installation und kreuzen Sie während des "
+"Installationsvorgangs „Overte Server“ an. Sie können das "
+"Installationsprogramm später jederzeit erneut ausführen, um die "
+"Serversoftware nachträglich zu installieren."
 
 #: ../../source/downloads.rst:47
 msgid ""
@@ -244,6 +301,18 @@ msgid ""
 "011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
+"Windows Installationsprogramm für x86_64 <svg version=\"1.1\" width=\"0.9em\""
+" height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" viewBox="
+"\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 "
+"0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+"0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 00-."
+"073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25"
+"-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-"
+"3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-."
+"565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-"
+"7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 "
+"12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\""
+"></path></svg>"
 
 #: ../../source/downloads.rst:55
 msgid ""
@@ -251,10 +320,14 @@ msgid ""
 "being potentially unsafe. To run it anyways click on \"**More info**\" "
 "and then \"**Run anyway**\"."
 msgstr ""
+"Windows Defender zeigt möglicherweise eine Warnung an, dass das Windows-"
+"Installationsprogramm potenziell unsicher ist. Um es trotzdem auszuführen, "
+"klicken Sie auf „**Weitere Informationen**“ und dann auf „**Trotzdem "
+"ausführen**“."
 
 #: ../../source/downloads.rst:61
 msgid "Source"
-msgstr ""
+msgstr "Quelltext"
 
 #: ../../source/downloads.rst:63
 msgid ""
@@ -262,6 +335,10 @@ msgid ""
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
+"Unser Quelltext ist auf GitHub verfügbar. Wenn Sie beabsichtigen, dem "
+"Quelltext zu kompilieren, empfehlen wir, dies direkt mit dem Master-Zweig "
+"anstelle einer Veröffentlichung zu tun, um von den neuesten Verbesserungen "
+"zu profitieren."
 
 #: ../../source/downloads.rst:66
 msgid ""
@@ -269,76 +346,81 @@ msgid ""
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
+"Für Linux gibt es eine Hilfsanwendung, die den Kompilier-Prozess für "
+"Neueinsteiger vereinfachen soll. Holen Sie es sich `Overte Builder 🔗 "
+"<https://github.com/overte-org/overte-builder/>`_ von GitHub."
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:44
 msgid "Gallery"
-msgstr ""
+msgstr "Bildergalerie"
 
 #: ../../source/gallery.rst:5
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
 "locations attended with it."
 msgstr ""
+"Diese Galerie zeigt Overte-Interface und einige vergangene Veranstaltungen "
+"und Orte, die damit besucht wurden."
 
 #: ../../source/gallery.rst:11
 msgid "A normal day in the Overte office"
-msgstr ""
+msgstr "Ein normaler Tag im Overte Büro"
 
 #: ../../source/gallery.rst:18
 msgid "New years party with the furry bartender"
-msgstr ""
+msgstr "Silvesterparty mit dem pelzigen Barkeeper"
 
 #: ../../source/gallery.rst:25
 msgid "Basinskys ambient occlusion showcase"
-msgstr ""
+msgstr "Basinskys Ambient Occlusion Vorstellung"
 
 #: ../../source/gallery.rst:32
 msgid "Installing new lanterns on the Hub bridge"
-msgstr ""
+msgstr "Anbringung neuer Laternen auf der Hub-Brücke"
 
 #: ../../source/gallery.rst:39
 msgid "Some time off in the office"
-msgstr ""
+msgstr "Eine Auszeit im Büro"
 
 #: ../../source/gallery.rst:46
 msgid "74 working on the \"Kraftwerk\" Domain"
-msgstr ""
+msgstr "74 am Arbeiten an der Kraftwerk-Domain"
 
 #: ../../source/gallery.rst:53
 msgid "Hanging out on Maker Monday"
-msgstr ""
+msgstr "Abhängen am „Maker Monday“"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
-msgstr ""
+msgstr "Basinsky zeigt seine Fotogrammetrie-Welten"
 
 #: ../../source/gallery.rst:67
 msgid "Maker Monday on Daybreak Island"
-msgstr ""
+msgstr "“Maker Monday” auf “Daybreak Island”"
 
 #: ../../source/gallery.rst:74
 msgid "Christmas in Overte"
-msgstr ""
+msgstr "Weihnachten in Overte"
 
 #: ../../source/gallery.rst:81
 msgid "Development meeting on Daybreak Island"
-msgstr ""
+msgstr "Entwicklungstreffen auf „Daybreak Island“"
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
-msgstr ""
+msgstr "Schwimmtiere erforschen eine Fantasie-Insel"
 
 #: ../../source/gallery.rst:95
 msgid "Development meeting at the Hub"
-msgstr ""
+msgstr "Entwicklungstreffen im „Hub“"
 
 #: ../../source/gallery.rst:102
 msgid "Kreolis playing in Brainstormer's Club"
-msgstr ""
+msgstr "Kreolis spielt in Brainstormers Club"
 
 #: ../../source/imprint.rst:3 ../../source/index.rst:44
 msgid "Imprint"
-msgstr ""
+msgstr "Impressum"
 
 #: ../../source/imprint.rst:5 ../../source/index.rst:44
 #: ../../source/overte_ev.rst:3
@@ -355,7 +437,7 @@ msgstr ""
 
 #: ../../source/imprint.rst:8
 msgid "Germany"
-msgstr ""
+msgstr "Deutschland"
 
 #: ../../source/imprint.rst:10
 msgid "contact@overte.org"
@@ -363,27 +445,27 @@ msgstr ""
 
 #: ../../source/index.rst:44
 msgid "Home"
-msgstr ""
+msgstr "Startseite"
 
 #: ../../source/index.rst:44
 msgid "Events 🔗"
-msgstr ""
+msgstr "Veranstaltungen 🔗"
 
 #: ../../source/index.rst:44
 msgid "Documentation 🔗"
-msgstr ""
+msgstr "Dokumentation 🔗"
 
 #: ../../source/index.rst:44
 msgid "API reference 🔗"
-msgstr ""
+msgstr "API-Referenz 🔗"
 
 #: ../../source/index.rst:44 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
-msgstr ""
+msgstr "Datenschutzbestimmungen"
 
 #: ../../source/index.rst:5
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: ../../source/index.rst:7
 msgid ""
@@ -393,62 +475,71 @@ msgid ""
 "explore other worlds, meet and connect with other users, attend or host "
 "live VR events, and much more."
 msgstr ""
+"Overte ist eine Open-Source-Software für virtuelle Welten und social-VR, mit "
+"der Sie virtuelle Welten als Virtual-Reality- (VR) und Desktoperfahrungen "
+"erstellen und teilen können. Sie können Ihre eigene virtuelle Welt erstellen "
+"und hosten, andere Welten erkunden, sich mit anderen Nutzern treffen, an "
+"Live-VR-Events teilnehmen oder diese hosten und vieles mehr."
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
-msgstr ""
+msgstr "Die Overte-Software bietet die folgenden Hauptmerkmale:"
 
 #: ../../source/index.rst:12
 msgid "Collaborative world creation and editing"
-msgstr ""
+msgstr "Gemeinsame Erstellung und Bearbeitung von Welten"
 
 #: ../../source/index.rst:13
 msgid "VR support, including body tracking"
-msgstr ""
+msgstr "VR-Unterstützung, einschließlich Body-Tracking"
 
 #: ../../source/index.rst:14
 msgid "Scalability for up to 500 users in a single world"
-msgstr ""
+msgstr "Skalierbar für bis zu 500 Benutzer in einer einzigen Welt"
 
 #: ../../source/index.rst:15
 msgid ""
 "Scripting in JavaScript, which allows creation of games, interactables, "
 "UI elements, and custom applications"
 msgstr ""
+"Scripting in JavaScript, das die Erstellung von Spielen, interaktiven "
+"Elementen, UI-Elementen und benutzerdefinierten Anwendungen ermöglicht"
 
 #: ../../source/index.rst:16
 msgid "High quality low latency spacial audio"
-msgstr ""
+msgstr "Räumlicher Ton mit hoher qualität"
 
 #: ../../source/index.rst:17
 msgid "Powerful physics Bullet physics engine"
-msgstr ""
+msgstr "Leistungsstarke Physiksimulation durch Bullet Physik-Engine"
 
 #: ../../source/index.rst:18
 msgid "Fully open-source under the permissive Apache 2.0 license"
-msgstr ""
+msgstr "Vollständig quelloffen unter der freizügigen Apache 2.0-Lizenz"
 
 #: ../../source/index.rst:19
 msgid "Supported by a democratic non-profit organization"
-msgstr ""
+msgstr "Bekräftigt durch einen demokratischen gemeinnützigen Verein"
 
 #: ../../source/index.rst:21
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
+":doc:`Holen Sie sich Overte <Downloads>` |DownloadPage| oder werfen Sie "
+"einen Blick auf unsere :doc:`Bildergallerie <gallery>` |GalleryPage|."
 
 #: ../../source/index.rst:27
 msgid "Development meeting in the Overte office"
-msgstr ""
+msgstr "Entwicklungstreffen Overte Büro"
 
 #: ../../source/index.rst:32
 msgid "News"
-msgstr ""
+msgstr "Neuigkeiten"
 
 #: ../../source/index.rst:36
 msgid "2023-04-01 New website"
-msgstr ""
+msgstr "2023-04-01 Neue Webseite"
 
 #: ../../source/index.rst:38
 msgid ""
@@ -458,6 +549,11 @@ msgid ""
 "This also allows us, among other things, to finally translate the website"
 " to different languages using Weblate."
 msgstr ""
+"Da unsere alte, auf 11ty basierende Website nicht mehr gepflegt wurde und "
+"niemand wusste, wie man sie bearbeitet, haben wir eine nagelneue Website mit "
+"Sphinx erstellt, demselben System, das wir seit Jahren für unsere "
+"Hauptdokumentation verwenden. Dies ermöglicht uns unter anderem auch, die "
+"Website mit Weblate endlich in verschiedene Sprachen zu übersetzen."
 
 #: ../../source/index.rst:41
 msgid ""
@@ -465,16 +561,21 @@ msgid ""
 "Overte, head over to `weblate.overte.org 🔗 "
 "<https://weblate.overte.org/>`_."
 msgstr ""
+"Wenn Sie bei der Übersetzung dieser Website oder anderer Teile von Overte "
+"helfen möchten, gehen Sie zu `weblate.overte.org 🔗 <https://weblate.overte."
+"org/>`_."
 
 #: ../../source/overte_ev.rst:5
 msgid ""
 "The Overte e.V. is the association behind Overte. It is a non-profit "
 "association registered in Germany."
 msgstr ""
+"Der Overte e.V. ist der Verein hinter Overte. Er ist ein in Deutschland "
+"eingetragener, gemeinnütziger Verein."
 
 #: ../../source/overte_ev.rst:10
 msgid "Articles of association"
-msgstr ""
+msgstr "Satzung"
 
 #: ../../source/overte_ev.rst:12
 msgid ""
@@ -482,22 +583,28 @@ msgid ""
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
 msgstr ""
+"Die Satzung ist die Geschäftsordnung des Vereins. Sie regelt, was der "
+"Verein, seine Mitglieder und der Vorstand tun dürfen und was nicht."
 
 #: ../../source/overte_ev.rst:15
 msgid "Take a look at them here:"
-msgstr ""
+msgstr "Schauen Sie sich die Satzung hier an:"
 
 #: ../../source/overte_ev.rst:17
 msgid ""
 "`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
 "code-draft.readthedocs.io/de/latest/>`_"
 msgstr ""
+"`Overte e.V. Satzung - Deutsches Original <https://buyanvr-organizational-"
+"code-draft.readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
 msgid ""
 "`Overte e.V. Articles of association - English translation <https"
 "://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
 msgstr ""
+"`Overte e.V. Articles of association - Englische Übersetzung <https"
+"://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
@@ -505,16 +612,22 @@ msgid ""
 "we try to make sure that the English translation is as accurate as "
 "possible. If you notice any discrepancies, please get in touch with us."
 msgstr ""
+"Während das Deutsche Original Vorrang vor der englischen Übersetzung hat, "
+"versuchen wir sicherzustellen, dass die Englische Übersetzung so genau wie "
+"möglich ist. Sollten Sie Unstimmigkeiten feststellen, setzen Sie sich bitte "
+"mit uns in Verbindung."
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership and your Contribution"
-msgstr ""
+msgstr "Mitgliedschaft"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
 msgstr ""
+"Um die Overte Software zu nutzen oder an der Entwicklung der Software "
+"mitzuwirken, ist es **NICHT** erforderlich, Mitglied des Vereins zu sein."
 
 #: ../../source/overte_ev.rst:32
 msgid ""
@@ -522,12 +635,18 @@ msgid ""
 "member. As a member you are allowed to vote in association meetings. This"
 " also includes board member elections."
 msgstr ""
+"Sie sind herzlich eingeladen, dem Verein als Mitglied oder Fördermitglied "
+"beizutreten. Als Mitglied sind Sie berechtigt, an den "
+"Mitgliederversammlungen des Vereins teilzunehmen. Das gilt auch für die "
+"Wahlen der Vorstandsmitglieder."
 
 #: ../../source/overte_ev.rst:35
 msgid ""
 "Currently the yearly membership fee is 60 Euro. The fee is pre paid "
 "either yearly or monthly."
 msgstr ""
+"Der derzeitige jährliche Mitgliedsbeitrag beträgt 60 Euro. Der Beitrag wird "
+"entweder jährlich oder monatlich im Voraus bezahlt."
 
 #: ../../source/overte_ev.rst:37
 msgid ""
@@ -537,16 +656,23 @@ msgid ""
 "address, and email address, to application@overte.org, or our postal "
 "address."
 msgstr ""
+"Wenn Sie beitreten möchten, machen Sie sich bitte mit der oben verlinkten "
+"Satzung vertraut. Um der Vereinigung beizutreten, schreiben Sie bitte einen "
+"Antrag mit Ihrem Realnamen, Benutzernamen (optional), Ihrer Postanschrift "
+"und Ihrer E-Mail-Adresse an application@overte.org oder an unsere "
+"Postanschrift."
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
-msgstr ""
+msgstr "Aktueller Vorstand"
 
 #: ../../source/overte_ev.rst:46
 msgid ""
 "The current board members were elected on the general assembly on the "
 "17th September 2022."
 msgstr ""
+"Der derzeitige Vorstand wurden auf der Mitgliederversammlung am 17. "
+"September 2022 gewählt."
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -558,11 +684,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:50
 msgid "Speaks Spanish, English and Russian."
-msgstr ""
+msgstr "Spricht Spanisch, Englisch und Russisch."
 
 #: ../../source/overte_ev.rst:51
 msgid "Chairman and developer."
-msgstr ""
+msgstr "Vorstandsvorsitzender und Entwickler."
 
 #: ../../source/overte_ev.rst:59
 msgid "|Julian_Groß| Julian Groß"
@@ -574,11 +700,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:60
 msgid "Speaks German, English and basic Japanese."
-msgstr ""
+msgstr "Spricht Deutsch, Englisch und grundlegendes Japanisch."
 
 #: ../../source/overte_ev.rst:61
 msgid "Treasurer, deputy chairman, and developer."
-msgstr ""
+msgstr "Schatzmeister, stellvertretender Vorstandsvorsitzender und Entwickler."
 
 #: ../../source/overte_ev.rst:69
 msgid "|Kreolis| Kreolis"
@@ -590,11 +716,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:70 ../../source/overte_ev.rst:90
 msgid "Speaks German and English."
-msgstr ""
+msgstr "Spricht Deutsch und Englisch."
 
 #: ../../source/overte_ev.rst:71
 msgid "Secretary and second deputy chairman."
-msgstr ""
+msgstr "Sekretär und zweiter stellvertretender Vorstandsvorsitzender."
 
 #: ../../source/overte_ev.rst:79
 msgid "|74hc595| 74hc595"
@@ -606,11 +732,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:80
 msgid "Speaks Polish and English."
-msgstr ""
+msgstr "Spricht Polnisch und Englisch."
 
 #: ../../source/overte_ev.rst:81
 msgid "Developer"
-msgstr ""
+msgstr "Entwickler"
 
 #: ../../source/overte_ev.rst:89
 msgid "|Catraxx| Catraxx"
@@ -622,7 +748,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:91
 msgid "Former website developer"
-msgstr ""
+msgstr "Ehemaliger Entwickler der Webseite"
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -859,4 +985,3 @@ msgstr ""
 #~ "or take a look at our "
 #~ ":doc:`Gallery <gallery>` |Gallery|."
 #~ msgstr ""
-
