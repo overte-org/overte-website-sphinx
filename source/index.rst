@@ -13,8 +13,8 @@ The Overte software provides the following key features:
 * VR support, including body tracking
 * Scalability for up to 500 users in a single world
 * Scripting in JavaScript, which allows creation of games, interactables, UI elements, and custom applications
-* High quality low latency spacial audio
-* Powerful physics Bullet physics engine
+* High quality low latency spatial audio
+* Powerful physics through Bullet physics engine
 * Fully open-source under the permissive Apache 2.0 license
 * Supported by a democratic non-profit organization
 

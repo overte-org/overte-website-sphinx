@@ -22,9 +22,9 @@ Take a look at them here:
     If you notice any discrepancies, please get in touch with us.
 
 
---------------------------------
-Membership and your Contribution
---------------------------------
+----------
+Membership
+----------
 
 .. note::
     To use Overte software or help develop the software it is **NOT** required to be an association member.

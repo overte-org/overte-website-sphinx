@@ -7,9 +7,9 @@ Donations are, next to membership fees, the only income that we have to pay our 
 
 If you would like to support Overte and its development, consider donating.
 
-You may donate via the following methods in order of preferrence:
+You may donate via the following methods in order of preference:
 
-- `OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer (preferred), Debitcard, Creditcard
+- `OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer (prefered), Debitcard, Creditcard
 - `Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any payment method you can think of
 - `PayPal 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_
 
