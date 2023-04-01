@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 11:52+0200\n"
+"POT-Creation-Date: 2023-04-01 10:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CH\n"
@@ -23,16 +23,16 @@ msgstr ""
 msgid "DownloadPage"
 msgstr ""
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:44 ../../source/shared.rst
-msgid "Gallery"
+#: ../../source/shared.rst
+msgid "GalleryPage"
 msgstr ""
 
 #: ../../source/shared.rst
-msgid "Discord"
+msgid "DiscordLink"
 msgstr ""
 
-#: ../../source/contact.rst:27 ../../source/shared.rst
-msgid "Matrix"
+#: ../../source/shared.rst
+msgid "MatrixLink"
 msgstr ""
 
 #: ../../source/shared.rst
@@ -87,11 +87,15 @@ msgid ""
 "<https://github.com/overte-org/overte>`_"
 msgstr ""
 
+#: ../../source/contact.rst:27
+msgid "Matrix"
+msgstr ""
+
 #: ../../source/contact.rst:29
 msgid ""
-"Join our Matrix Space on |Matrix| `overte:overte.org 🔗 "
+"Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
 "<https://matrix.to/#/#overte:overte.org>`_ Our Matrix Space is also "
-"bridged to |Discord| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
+"bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
 msgstr ""
 
 #: ../../source/contact.rst:35
@@ -265,6 +269,10 @@ msgid ""
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
 
+#: ../../source/gallery.rst:3 ../../source/index.rst:44
+msgid "Gallery"
+msgstr ""
+
 #: ../../source/gallery.rst:5
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
@@ -426,7 +434,7 @@ msgstr ""
 #: ../../source/index.rst:21
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
-":doc:`Gallery <gallery>` |Gallery|."
+":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
 
 #: ../../source/index.rst:27
@@ -832,5 +840,22 @@ msgstr ""
 #~ " the same system that we have "
 #~ "been using for our main documentation"
 #~ " for years now."
+#~ msgstr ""
+
+#~ msgid "Discord"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Join our Matrix Space on |Matrix| "
+#~ "`overte:overte.org 🔗 "
+#~ "<https://matrix.to/#/#overte:overte.org>`_ Our Matrix "
+#~ "Space is also bridged to |Discord| "
+#~ "`Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":doc:`Get Overte <downloads>` |DownloadPage| "
+#~ "or take a look at our "
+#~ ":doc:`Gallery <gallery>` |Gallery|."
 #~ msgstr ""
 
