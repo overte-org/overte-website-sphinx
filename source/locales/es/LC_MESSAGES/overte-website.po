@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 18:59+0000\n"
+"POT-Creation-Date: 2023-04-01 20:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: es\n"
@@ -736,37 +736,10 @@ msgid ""
 msgstr ""
 
 #: ../../source/privacy_policy.rst:39
-msgid "Privacy Policies"
-msgstr ""
-
-#: ../../source/privacy_policy.rst:41
-msgid ""
-"You may consult this list to find the Privacy Policy for each of the "
-"advertising partners of overte.org."
-msgstr ""
-
-#: ../../source/privacy_policy.rst:43
-msgid ""
-"Third-party ad servers or ad networks uses technologies like cookies, "
-"JavaScript, or Web Beacons that are used in their respective "
-"advertisements and links that appear on overte.org, which are sent "
-"directly to users' browser. They automatically receive your IP address "
-"when this occurs. These technologies are used to measure the "
-"effectiveness of their advertising campaigns and/or to personalize the "
-"advertising content that you see on websites that you visit."
-msgstr ""
-
-#: ../../source/privacy_policy.rst:45
-msgid ""
-"Note that overte.org has no access to or control over these cookies that "
-"are used by third-party advertisers."
-msgstr ""
-
-#: ../../source/privacy_policy.rst:49
 msgid "Third Party Privacy Policies"
 msgstr ""
 
-#: ../../source/privacy_policy.rst:51
+#: ../../source/privacy_policy.rst:41
 msgid ""
 "overte.org's Privacy Policy does not apply to other websites. Thus, we "
 "are advising you to consult the respective Privacy Policies of these "
@@ -774,7 +747,7 @@ msgid ""
 "practices and instructions about how to opt-out of certain options."
 msgstr ""
 
-#: ../../source/privacy_policy.rst:53
+#: ../../source/privacy_policy.rst:43
 msgid ""
 "You can choose to disable cookies through your individual browser "
 "options. To know more detailed information about cookie management with "
@@ -782,11 +755,11 @@ msgid ""
 "websites."
 msgstr ""
 
-#: ../../source/privacy_policy.rst:57
+#: ../../source/privacy_policy.rst:47
 msgid "Fediverse"
 msgstr ""
 
-#: ../../source/privacy_policy.rst:59
+#: ../../source/privacy_policy.rst:49
 msgid ""
 "On this website we are embedding `fediverse <https://fediverse.party/>`_ "
 "apps and content. Explicitly we are using the social network `mastodon "
@@ -796,18 +769,18 @@ msgid ""
 "all interactions with the content."
 msgstr ""
 
-#: ../../source/privacy_policy.rst:63
+#: ../../source/privacy_policy.rst:53
 msgid "Children's Information"
 msgstr ""
 
-#: ../../source/privacy_policy.rst:65
+#: ../../source/privacy_policy.rst:55
 msgid ""
 "Another part of our priority is adding protection for children while "
 "using the internet. We encourage parents and guardians to observe, "
 "participate in, and/or monitor and guide their online activity."
 msgstr ""
 
-#: ../../source/privacy_policy.rst:67
+#: ../../source/privacy_policy.rst:57
 msgid ""
 "overte.org does not knowingly collect any Personal Identifiable "
 "Information from children under the age of 13. If you think that your "
@@ -816,11 +789,11 @@ msgid ""
 "remove such information from our records."
 msgstr ""
 
-#: ../../source/privacy_policy.rst:71
+#: ../../source/privacy_policy.rst:61
 msgid "Online Privacy Policy Only"
 msgstr ""
 
-#: ../../source/privacy_policy.rst:73
+#: ../../source/privacy_policy.rst:63
 msgid ""
 "Our Privacy Policy applies only to our online activities and is valid for"
 " visitors to our website with regards to the information that they shared"
@@ -828,11 +801,11 @@ msgid ""
 "information collected offline or via channels other than this website."
 msgstr ""
 
-#: ../../source/privacy_policy.rst:77
+#: ../../source/privacy_policy.rst:67
 msgid "Consent"
 msgstr ""
 
-#: ../../source/privacy_policy.rst:79
+#: ../../source/privacy_policy.rst:69
 msgid ""
 "By using our website, you hereby consent to our Privacy Policy and agree "
 "to its terms."
@@ -892,5 +865,37 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Membership and your Contribution"
+#~ msgstr ""
+
+#~ msgid "Privacy Policies"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You may consult this list to find"
+#~ " the Privacy Policy for each of "
+#~ "the advertising partners of overte.org."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Third-party ad servers or ad "
+#~ "networks uses technologies like cookies, "
+#~ "JavaScript, or Web Beacons that are "
+#~ "used in their respective advertisements "
+#~ "and links that appear on overte.org, "
+#~ "which are sent directly to users' "
+#~ "browser. They automatically receive your "
+#~ "IP address when this occurs. These "
+#~ "technologies are used to measure the "
+#~ "effectiveness of their advertising campaigns"
+#~ " and/or to personalize the advertising "
+#~ "content that you see on websites "
+#~ "that you visit."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Note that overte.org has no access "
+#~ "to or control over these cookies "
+#~ "that are used by third-party "
+#~ "advertisers."
 #~ msgstr ""
 
