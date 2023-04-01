@@ -1,6 +1,6 @@
 # Status
 
-[![Master CI Deploy](https://readthedocs.org/projects/overte-website/badge/?version=latest)](http://overte.org/en/latest/?badge=latest) ![Master CI Warnings](https://github.com/overte-org/overte-website-sphinx/actions/workflows/master_warnings.yml/badge.svg) ![Master CI Linkcheck](https://github.com/overte-org/overte-website-sphinx/actions/workflows/master_linkcheck.yml/badge.svg)
+[![Master CI Deploy](https://readthedocs.org/projects/overte-website/badge/?version=latest)](http://overte.org/en/latest/?badge=latest) ![Master CI Warnings](https://github.com/overte-org/overte-website-sphinx/actions/workflows/master_warnings.yml/badge.svg)
 
 
 # Overview of Overte's Website Tools
