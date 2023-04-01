@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-01 18:59+0000\n"
-"PO-Revision-Date: 2023-04-01 18:46+0000\n"
+"PO-Revision-Date: 2023-04-01 19:31+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
+"overte-website/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
-"/overte-website/ja/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -58,7 +59,7 @@ msgstr ""
 
 #: ../../source/contact.rst:5 ../../source/index.rst:46
 msgid "Contact"
-msgstr "交流"
+msgstr "交流する"
 
 #: ../../source/contact.rst:7
 msgid ""
@@ -223,7 +224,8 @@ msgid ""
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr ""
 "ファイルマネージャや :bash:`chmod +x Overte.AppImage` "
-"のようなコマンドを使用して、AppImageを**実行可能**に設定する必要があります。"
+"のようなコマンドを使用して、AppImageを **実行可能** "
+"に設定する必要があります。"
 
 #: ../../source/downloads.rst:33
 msgid "Domain Server"
@@ -449,12 +451,10 @@ msgid ""
 msgstr "ゲーム、インタラクタブル、UIエレメント、カスタムアプリケーションの作成が可能なJavaScriptによるスクリプト"
 
 #: ../../source/index.rst:16
-#, fuzzy
 msgid "High quality low latency spatial audio"
-msgstr "高音質低遅延スペーシャルオーディオ"
+msgstr "高音質低遅延空間オーディオ"
 
 #: ../../source/index.rst:17
-#, fuzzy
 msgid "Powerful physics through Bullet physics engine"
 msgstr "Bullet物理演算エンジンの強力な物理演算"
 
@@ -464,11 +464,11 @@ msgstr "寛容なApache 2.0ライセンスによる完全なオープンソー�
 
 #: ../../source/index.rst:19
 msgid "No central authority. You can run your own server from home."
-msgstr ""
+msgstr "非中央集権。自宅からでも自分のサーバーを運営できる。"
 
 #: ../../source/index.rst:20
 msgid "No user account required"
-msgstr ""
+msgstr "ユーザーアカウント不要"
 
 #: ../../source/index.rst:21
 msgid "Supported by a democratic non-profit organization"
@@ -480,7 +480,7 @@ msgid ""
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
 ":doc:`Overteを入手する <downloads>` |DownloadPage| 、または :doc:`Gallery "
-"<gallery>` |GalleryPage|をご覧ください。"
+"<gallery>` |GalleryPage| をご覧ください。"
 
 #: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
@@ -538,7 +538,7 @@ msgid ""
 "`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
 "code-draft.readthedocs.io/de/latest/>`_"
 msgstr ""
-"`Overte e.V. Satzung - ドイツ語原文<https://buyanvr-organizational-code-"
+"`Overte e.V. Satzung - ドイツ語原文 <https://buyanvr-organizational-code-"
 "draft.readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
@@ -546,7 +546,7 @@ msgid ""
 "`Overte e.V. Articles of association - English translation <https"
 "://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
 msgstr ""
-"`Overte e.V. Articles of association - 英語訳<https://buyanvr-"
+"`Overte e.V. Articles of association - 英語訳 <https://buyanvr-"
 "organizational-code-draft.readthedocs.io/en/latest/>`_"
 
 #: ../../source/overte_ev.rst:21
@@ -558,13 +558,14 @@ msgstr "ドイツ語の原文が英語の翻訳に優先しますが、英語の
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership"
-msgstr ""
+msgstr "会員"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
-msgstr "Overteのソフトウェアを使用する、またはソフトウェアの開発に協力するために、協会会員である**必要はありません**。"
+msgstr "Overteのソフトウェアを使用する、またはソフトウェアの開発に協力するために、"
+"協会会員である **必要はありません** 。"
 
 #: ../../source/overte_ev.rst:32
 msgid ""
@@ -914,4 +915,3 @@ msgstr ""
 
 #~ msgid "Membership and your Contribution"
 #~ msgstr "会員登録とご寄付"
-
