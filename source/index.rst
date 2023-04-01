@@ -18,7 +18,7 @@ The Overte software provides the following key features:
 * Fully open-source under the permissive Apache 2.0 license
 * Supported by a democratic non-profit organization
 
-:doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:`Gallery <gallery>` |Gallery|.
+:doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:`Gallery <gallery>` |GalleryPage|.
 
 .. figure:: _images/gallery/overte-snap-by-X74hc595-on-2023-03-11_19-25-27.jpg
     :alt: Development meeting in the Overte office

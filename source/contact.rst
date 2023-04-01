@@ -26,8 +26,8 @@ If you would like to report an issue, the most effective way is to open an issue
 Matrix
 ------
 
-Join our Matrix Space on |Matrix| `overte:overte.org 🔗 <https://matrix.to/#/#overte:overte.org>`_
-Our Matrix Space is also bridged to |Discord| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_
+Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 <https://matrix.to/#/#overte:overte.org>`_
+Our Matrix Space is also bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_
 
 
 -----

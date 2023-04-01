@@ -4,19 +4,19 @@
               :height: 20
               :target: downloads.html
 
-.. |Gallery| image:: _images/remixicon/gallery-fill.svg
+.. |GalleryPage| image:: _images/remixicon/gallery-fill.svg
               :class: inline
               :width: 20
               :height: 20
               :target: gallery.html
 
-.. |Discord| image:: _images/remixicon/discord-fill.svg
+.. |DiscordLink| image:: _images/remixicon/discord-fill.svg
               :class: inline
               :width: 20
               :height: 20
               :target: https://discord.gg/4YuQvc8K2f
 
-.. |Matrix| image:: _images/matrix_icon.svg
+.. |MatrixLink| image:: _images/matrix_icon.svg
               :class: inline
               :width: 20
               :height: 20
