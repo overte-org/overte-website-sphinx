@@ -1,13 +1,14 @@
 name: Translation files CI update
 
 on:
-  push:
-    branches:
-      - master
-    # Only run if something other than locales are updated.
-    # This is to prevent this workflow from running when Weblate commits new translations.
-    paths-ignore:
-      - 'source/locales/**'
+  - workflow_dispatch
+  - push:
+      branches:
+        - master
+      # Only run if something other than locales are updated.
+      # This is to prevent this workflow from running when Weblate commits new translations.
+      paths-ignore:
+        - 'source/locales/**'
 
 jobs:
   regenerate_locales_docs:
