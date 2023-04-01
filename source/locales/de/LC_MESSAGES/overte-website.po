@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 18:49+0000\n"
+"POT-Creation-Date: 2023-04-01 18:59+0000\n"
 "PO-Revision-Date: 2023-04-01 18:46+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
@@ -56,7 +56,7 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:44
+#: ../../source/contact.rst:5 ../../source/index.rst:46
 msgid "Contact"
 msgstr "Kontakt"
 
@@ -132,7 +132,7 @@ msgstr "Mastodon"
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:44
+#: ../../source/donate.rst:3 ../../source/index.rst:46
 msgid "Donate"
 msgstr "Spenden"
 
@@ -196,7 +196,7 @@ msgstr ""
 "sind. Kontaktieren Sie uns nach Ihrer Spende unter accounting@overte.org,"
 " um eine solche Quittung anzufordern."
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:44
+#: ../../source/downloads.rst:5 ../../source/index.rst:46
 msgid "Downloads"
 msgstr "Downloads"
 
@@ -354,7 +354,7 @@ msgstr ""
 "Neueinsteiger vereinfachen soll. Holen Sie es sich `Overte Builder 🔗 "
 "<https://github.com/overte-org/overte-builder/>`_ von GitHub."
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:44
+#: ../../source/gallery.rst:3 ../../source/index.rst:46
 msgid "Gallery"
 msgstr "Bildergalerie"
 
@@ -422,11 +422,11 @@ msgstr "Entwicklungstreffen im „Hub“"
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr "Kreolis spielt in Brainstormers Club"
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:44
+#: ../../source/imprint.rst:3 ../../source/index.rst:46
 msgid "Imprint"
 msgstr "Impressum"
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:44
+#: ../../source/imprint.rst:5 ../../source/index.rst:46
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -447,23 +447,23 @@ msgstr "Deutschland"
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "Home"
 msgstr "Startseite"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "Events 🔗"
 msgstr "Veranstaltungen 🔗"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "Documentation 🔗"
 msgstr "Dokumentation 🔗"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "API reference 🔗"
 msgstr "API-Referenz 🔗"
 
-#: ../../source/index.rst:44 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:46 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr "Datenschutzbestimmungen"
 
@@ -525,10 +525,18 @@ msgid "Fully open-source under the permissive Apache 2.0 license"
 msgstr "Vollständig quelloffen unter der freizügigen Apache 2.0-Lizenz"
 
 #: ../../source/index.rst:19
+msgid "No central authority. You can run your own server from home."
+msgstr ""
+
+#: ../../source/index.rst:20
+msgid "No user account required"
+msgstr ""
+
+#: ../../source/index.rst:21
 msgid "Supported by a democratic non-profit organization"
 msgstr "Bekräftigt durch einen demokratischen gemeinnützigen Verein"
 
-#: ../../source/index.rst:21
+#: ../../source/index.rst:23
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
@@ -536,19 +544,19 @@ msgstr ""
 ":doc:`Holen Sie sich Overte <Downloads>` |DownloadPage| oder werfen Sie "
 "einen Blick auf unsere :doc:`Bildergallerie <gallery>` |GalleryPage|."
 
-#: ../../source/index.rst:27
+#: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
 msgstr "Entwicklungstreffen Overte Büro"
 
-#: ../../source/index.rst:32
+#: ../../source/index.rst:34
 msgid "News"
 msgstr "Neuigkeiten"
 
-#: ../../source/index.rst:36
+#: ../../source/index.rst:38
 msgid "2023-04-01 New website"
 msgstr "2023-04-01 Neue Webseite"
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:40
 msgid ""
 "Since our old 11ty based website was unmaintained and no one knew how to "
 "edit it, we created a brand spanking new website using Sphinx, the same "
@@ -562,7 +570,7 @@ msgstr ""
 "Hauptdokumentation verwenden. Dies ermöglicht uns unter anderem auch, die"
 " Website mit Weblate endlich in verschiedene Sprachen zu übersetzen."
 
-#: ../../source/index.rst:41
+#: ../../source/index.rst:43
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "

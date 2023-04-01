@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 18:49+0000\n"
+"POT-Creation-Date: 2023-04-01 18:59+0000\n"
 "PO-Revision-Date: 2023-04-01 18:46+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
 "Language: ja\n"
@@ -56,7 +56,7 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:44
+#: ../../source/contact.rst:5 ../../source/index.rst:46
 msgid "Contact"
 msgstr "交流"
 
@@ -123,7 +123,7 @@ msgstr "Mastodon"
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:44
+#: ../../source/donate.rst:3 ../../source/index.rst:46
 msgid "Donate"
 msgstr "寄付する"
 
@@ -180,7 +180,7 @@ msgstr ""
 "e.V.は、ドイツで税額控除が可能な領収書を発行することができます。領収書の発行をご希望の方は、寄付後、accounting@overte.org"
 " までご連絡ください。"
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:44
+#: ../../source/downloads.rst:5 ../../source/index.rst:46
 msgid "Downloads"
 msgstr "ダウンロード"
 
@@ -302,7 +302,7 @@ msgstr ""
 "Linuxでは、初心者向けにビルドプロセスを簡素化することを目的としたヘルパーアプリケーションが用意されています。GitHubから入手することができます："
 " `Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_"
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:44
+#: ../../source/gallery.rst:3 ../../source/index.rst:46
 msgid "Gallery"
 msgstr "ギャラリー"
 
@@ -368,11 +368,11 @@ msgstr "Hubでの開発者ミーティング"
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr "Brainstormer's Clubで演奏するKreolis"
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:44
+#: ../../source/imprint.rst:3 ../../source/index.rst:46
 msgid "Imprint"
 msgstr "インプリント"
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:44
+#: ../../source/imprint.rst:5 ../../source/index.rst:46
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -393,23 +393,23 @@ msgstr "Germany"
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "Home"
 msgstr "はじめる"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "Events 🔗"
 msgstr "イベント🔗"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "Documentation 🔗"
 msgstr "ドキュメンテーション🔗"
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:46
 msgid "API reference 🔗"
 msgstr "APIリファレンス🔗"
 
-#: ../../source/index.rst:44 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:46 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr "個人情報保護方針"
 
@@ -463,10 +463,18 @@ msgid "Fully open-source under the permissive Apache 2.0 license"
 msgstr "寛容なApache 2.0ライセンスによる完全なオープンソース"
 
 #: ../../source/index.rst:19
+msgid "No central authority. You can run your own server from home."
+msgstr ""
+
+#: ../../source/index.rst:20
+msgid "No user account required"
+msgstr ""
+
+#: ../../source/index.rst:21
 msgid "Supported by a democratic non-profit organization"
 msgstr "民主的な非営利団体によるサポート"
 
-#: ../../source/index.rst:21
+#: ../../source/index.rst:23
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
@@ -474,19 +482,19 @@ msgstr ""
 ":doc:`Overteを入手する <downloads>` |DownloadPage| 、または :doc:`Gallery "
 "<gallery>` |GalleryPage|をご覧ください。"
 
-#: ../../source/index.rst:27
+#: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
 msgstr "Overte officeでの開発者ミーティング"
 
-#: ../../source/index.rst:32
+#: ../../source/index.rst:34
 msgid "News"
 msgstr "新着情報"
 
-#: ../../source/index.rst:36
+#: ../../source/index.rst:38
 msgid "2023-04-01 New website"
 msgstr "2023-04-01 新サイト"
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:40
 msgid ""
 "Since our old 11ty based website was unmaintained and no one knew how to "
 "edit it, we created a brand spanking new website using Sphinx, the same "
@@ -495,7 +503,7 @@ msgid ""
 " to different languages using Weblate."
 msgstr "私たちの古い11tyベースのウェブサイトはメンテナンスされておらず、誰も編集の仕方を知らなかったので、私たちはSphinxを使って全く新しいウェブサイトを作りました。これにより、Weblateを使用してウェブサイトをさまざまな言語に翻訳することができるようになりました。"
 
-#: ../../source/index.rst:41
+#: ../../source/index.rst:43
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "
