@@ -1,0 +1,41 @@
+name: Production CI Build & Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_site:
+    runs-on: ubuntu-22.04
+
+    name: Build and deploy website
+      steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+      - name: Install dependencies
+    run: |
+      python3 -m pip install --upgrade pip
+      pip3 install -r requirements.txt
+
+    - name: Build website
+      shell: bash
+      run: make BUILDDIR="build/en" html
+    - name: Build German translation
+      run: make BUILDDIR="build/de" SPHINXOPTS="-Dlanguage=de" html
+    - name: Build Japanese translation
+      run: make BUILDDIR="build/ja" SPHINXOPTS="-Dlanguage=ja" html
+
+    - name: Deploy website
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server: ftp.tuxfamily.org
+        username: ${{ secrets.GHA_FTP_USER }}
+        password: ${{ secrets.GHA_FTP_PASS }}
+        local-dir: ./build/
+        server-dir: overte/staging-www.overte.org-web/htdocs/
+        exclude: |
+          .htaccess
