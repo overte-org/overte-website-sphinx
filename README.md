@@ -135,6 +135,7 @@ Generate the new language strings (see operating system specific instructions ab
 New languages need to be manually added in a number of locations, so the users can select between them and they can be automatically deployed.
 The locations include:
 - .github/workflows/master_warnings.yml
+- source/_templates/searchbox.html
 - https://readthedocs.org/projects/overte-website/
 
 
