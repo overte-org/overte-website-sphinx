@@ -16,6 +16,8 @@ The Overte software provides the following key features:
 * High quality low latency spatial audio
 * Powerful physics through Bullet physics engine
 * Fully open-source under the permissive Apache 2.0 license
+* No central authority. You can run your own server from home.
+* No user account required
 * Supported by a democratic non-profit organization
 
 :doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:`Gallery <gallery>` |GalleryPage|.
