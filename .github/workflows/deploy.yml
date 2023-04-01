@@ -25,7 +25,7 @@ jobs:
       shell: bash
       run: |
         make BUILDDIR="build/en" html
-        mv build/en/html/ output/en/
+        mv build/en/html/ output/
 
     - name: Build German translation
       run: |
