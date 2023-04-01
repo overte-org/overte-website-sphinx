@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  build_site:
+  build_website:
     runs-on: ubuntu-22.04
 
     name: Build and deploy website
