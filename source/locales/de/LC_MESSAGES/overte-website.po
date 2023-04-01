@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-01 18:59+0000\n"
-"PO-Revision-Date: 2023-04-01 18:46+0000\n"
+"PO-Revision-Date: 2023-04-01 19:31+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: German <https://weblate.overte.org/projects/overte/"
+"overte-website/de/>\n"
 "Language: de\n"
-"Language-Team: German <https://weblate.overte.org/projects/overte/overte-"
-"website/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -102,7 +103,6 @@ msgid "Matrix"
 msgstr "Matrix"
 
 #: ../../source/contact.rst:29
-#, fuzzy
 msgid ""
 "Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 <https://matrix."
 "to/#/#overte:overte.org>`_. Our Matrix Space is also bridged to |"
@@ -156,13 +156,11 @@ msgstr ""
 "spenden."
 
 #: ../../source/donate.rst:10
-#, fuzzy
 msgid "You may donate via the following methods in order of preference:"
 msgstr ""
 "Sie können über die folgenden Methoden spenden. Sortiert nach Präferenz:"
 
 #: ../../source/donate.rst:12
-#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
 "(prefered), Debitcard, Creditcard"
@@ -511,12 +509,10 @@ msgstr ""
 "Elementen, UI-Elementen und benutzerdefinierten Anwendungen ermöglicht"
 
 #: ../../source/index.rst:16
-#, fuzzy
 msgid "High quality low latency spatial audio"
-msgstr "Räumlicher Ton mit hoher qualität"
+msgstr "Räumlicher Ton mit hoher Qualität"
 
 #: ../../source/index.rst:17
-#, fuzzy
 msgid "Powerful physics through Bullet physics engine"
 msgstr "Leistungsstarke Physiksimulation durch Bullet Physik-Engine"
 
@@ -527,10 +523,12 @@ msgstr "Vollständig quelloffen unter der freizügigen Apache 2.0-Lizenz"
 #: ../../source/index.rst:19
 msgid "No central authority. You can run your own server from home."
 msgstr ""
+"Keine zentrale Behörde. Sie können Ihren eigenen Server von zu Hause aus "
+"betreiben."
 
 #: ../../source/index.rst:20
 msgid "No user account required"
-msgstr ""
+msgstr "Kein Benutzerkonto erforderlich"
 
 #: ../../source/index.rst:21 ../../source/index.rst:19
 msgid "Supported by a democratic non-profit organization"
@@ -633,7 +631,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership"
-msgstr ""
+msgstr "Mitgliedschaft"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
@@ -936,6 +934,10 @@ msgid ""
 "servers for more detailed information. It may include their practices and "
 "instructions about how to opt-out of certain options."
 msgstr ""
+"Die Datenschutzbestimmungen von overte.org gelten nicht für andere "
+"Webseiten. Wir raten Ihnen daher, die jeweiligen Datenschutzrichtlinien "
+"dieser Drittanbieter zu konsultieren. Sie können deren Praktiken und "
+"Anweisungen darüber enthalten, wie Sie bestimmte Optionen ausschalten können."
 
 #: ../../source/privacy_policy.rst:53
 msgid ""
@@ -943,10 +945,13 @@ msgid ""
 "To know more detailed information about cookie management with specific web "
 "browsers, it can be found at the browsers' respective websites."
 msgstr ""
+"Sie können Cookies über die Optionen Ihres Browsers deaktivieren. "
+"Ausführlichere Informationen zur Cookie-Verwaltung mit bestimmten "
+"Webbrowsern finden Sie auf den jeweiligen Webseiten der Browser."
 
 #: ../../source/privacy_policy.rst:57
 msgid "Fediverse"
-msgstr ""
+msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:59
 msgid ""
@@ -957,10 +962,16 @@ msgid ""
 "<https://joinmastodon.org/privacy-policy>`_ of that server applies for all "
 "interactions with the content."
 msgstr ""
+"Auf dieser Website betten wir `Fediverse <https://fediverse.party/>`_ Apps "
+"und Inhalte ein. Explizit nutzen wir das soziale Netzwerk `Mastodon "
+"<https://joinmastodon.org/>`_. Dieser Dienst zeichnet keine zusätzlichen "
+"Daten auf. Wenn Sie jedoch auf Ihrem Mastodon-Server eingeloggt sind, gilt "
+"für alle Interaktionen mit den Inhalten die `Datenschutzrichtlinie "
+"<https://joinmastodon.org/privacy-policy>`_ dieses Servers."
 
 #: ../../source/privacy_policy.rst:63
 msgid "Children's Information"
-msgstr ""
+msgstr "Informationen über Kinder"
 
 #: ../../source/privacy_policy.rst:65
 msgid ""
@@ -968,6 +979,9 @@ msgid ""
 "the internet. We encourage parents and guardians to observe, participate in, "
 "and/or monitor and guide their online activity."
 msgstr ""
+"Eine unserer Prioritäten ist der Schutz von Kindern bei der Nutzung des "
+"Internets. Wir ermutigen Eltern und Erziehungsberechtigte, ihre Online-"
+"Aktivitäten zu beobachten, daran teilzunehmen und anzuleiten."
 
 #: ../../source/privacy_policy.rst:67
 msgid ""
@@ -977,10 +991,15 @@ msgid ""
 "immediately and we will do our best efforts to promptly remove such "
 "information from our records."
 msgstr ""
+"overte.org sammelt nicht wissentlich persönliche Daten von Kindern unter 13 "
+"Jahren. Wenn Sie glauben, dass Ihr Kind diese Art von Daten auf unserer "
+"Website angegeben hat, bitten wir Sie, uns sofort zu kontaktieren, und wir "
+"werden unser Bestes tun, um diese Daten umgehend aus unseren Unterlagen zu "
+"entfernen."
 
 #: ../../source/privacy_policy.rst:71
 msgid "Online Privacy Policy Only"
-msgstr ""
+msgstr "Nur Online Datenschutzbestimmungen"
 
 #: ../../source/privacy_policy.rst:73
 msgid ""
@@ -989,16 +1008,23 @@ msgid ""
 "or collect in overte.org. This policy is not applicable to any information "
 "collected offline or via channels other than this website."
 msgstr ""
+"Unsere Datenschutzbestimmungen gelten nur für unsere Online-Aktivitäten und "
+"für die Besucher unserer Website in Bezug auf die Informationen, die sie auf "
+"overte.org teilen und/oder sammeln. Diese Richtlinie gilt nicht für "
+"Informationen, die offline oder über andere Kanäle als diese Website "
+"gesammelt werden."
 
 #: ../../source/privacy_policy.rst:77
 msgid "Consent"
-msgstr ""
+msgstr "Zustimmung"
 
 #: ../../source/privacy_policy.rst:79
 msgid ""
 "By using our website, you hereby consent to our Privacy Policy and agree to "
 "its terms."
 msgstr ""
+"Durch die Nutzung unserer Website erklären Sie sich mit unseren "
+"Datenschutzbestimmungen einverstanden und stimmen diesen zu."
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership and your Contribution"
