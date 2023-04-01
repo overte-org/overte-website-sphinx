@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 10:14+0000\n"
+"POT-Creation-Date: 2023-04-01 18:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: hi\n"
@@ -95,8 +95,8 @@ msgstr ""
 #: ../../source/contact.rst:29
 msgid ""
 "Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
-"<https://matrix.to/#/#overte:overte.org>`_ Our Matrix Space is also "
-"bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
+"<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
+"bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
 
 #: ../../source/contact.rst:35
@@ -135,13 +135,13 @@ msgid ""
 msgstr ""
 
 #: ../../source/donate.rst:10
-msgid "You may donate via the following methods in order of preferrence:"
+msgid "You may donate via the following methods in order of preference:"
 msgstr ""
 
 #: ../../source/donate.rst:12
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
-"(preferred), Debitcard, Creditcard"
+"(prefered), Debitcard, Creditcard"
 msgstr ""
 
 #: ../../source/donate.rst:13
@@ -417,11 +417,11 @@ msgid ""
 msgstr ""
 
 #: ../../source/index.rst:16
-msgid "High quality low latency spacial audio"
+msgid "High quality low latency spatial audio"
 msgstr ""
 
 #: ../../source/index.rst:17
-msgid "Powerful physics Bullet physics engine"
+msgid "Powerful physics through Bullet physics engine"
 msgstr ""
 
 #: ../../source/index.rst:18
@@ -507,7 +507,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/overte_ev.rst:27
-msgid "Membership and your Contribution"
+msgid "Membership"
 msgstr ""
 
 #: ../../source/overte_ev.rst:30
@@ -858,5 +858,31 @@ msgstr ""
 #~ ":doc:`Get Overte <downloads>` |DownloadPage| "
 #~ "or take a look at our "
 #~ ":doc:`Gallery <gallery>` |Gallery|."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Join our Matrix Space on |MatrixLink|"
+#~ " `overte:overte.org 🔗 "
+#~ "<https://matrix.to/#/#overte:overte.org>`_ Our Matrix "
+#~ "Space is also bridged to |DiscordLink|"
+#~ " `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
+#~ msgstr ""
+
+#~ msgid "You may donate via the following methods in order of preferrence:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`OpenCollective 🔗 <https://opencollective.com/overte>`_"
+#~ " - Bank transfer (preferred), Debitcard,"
+#~ " Creditcard"
+#~ msgstr ""
+
+#~ msgid "High quality low latency spacial audio"
+#~ msgstr ""
+
+#~ msgid "Powerful physics Bullet physics engine"
+#~ msgstr ""
+
+#~ msgid "Membership and your Contribution"
 #~ msgstr ""
 

@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 10:14+0000\n"
+"POT-Creation-Date: 2023-04-01 18:49+0000\n"
 "PO-Revision-Date: 2023-04-01 18:46+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
-"overte-website/ja/>\n"
 "Language: ja\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
+"/overte-website/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -76,9 +75,7 @@ msgid ""
 "Our weekly developer meetings are the perfect place for some more in-"
 "depth questions. Check the events calendar to find out when the next "
 "meeting is happening."
-msgstr ""
-"毎週開催される開発者ミーティングは、より深い質問をするのに最適な場です。イベ"
-"ントカレンダーで、次のミーティングがいつ行われるかをご確認ください。"
+msgstr "毎週開催される開発者ミーティングは、より深い質問をするのに最適な場です。イベントカレンダーで、次のミーティングがいつ行われるかをご確認ください。"
 
 #: ../../source/contact.rst:19
 msgid "GitHub"
@@ -90,23 +87,23 @@ msgid ""
 "an issue on the relevant GitHub repository. `Overte GitHub repository 🔗 "
 "<https://github.com/overte-org/overte>`_"
 msgstr ""
-"問題を報告したい場合、最も効果的な方法は、関連するGitHubリポジトリでIssueを作"
-"成することです。`Overte GitHubリポジトリ 🔗 <https://github.com/overte-org/"
-"overte>`_"
+"問題を報告したい場合、最も効果的な方法は、関連するGitHubリポジトリでIssueを作成することです。`Overte GitHubリポジトリ 🔗"
+" <https://github.com/overte-org/overte>`_"
 
 #: ../../source/contact.rst:27
 msgid "Matrix"
 msgstr "Matrix"
 
 #: ../../source/contact.rst:29
+#, fuzzy
 msgid ""
 "Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
-"<https://matrix.to/#/#overte:overte.org>`_ Our Matrix Space is also "
-"bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
+"<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
+"bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
-"|MatrixLink| `overte:overte.org 🔗 <https://matrix.to/#/#overte:overte.org>`"
-"_ のMatrixスペースへ参加しましょう。スペースは |DiscordLink| `Discord 🔗 "
-"<https://discord.gg/4YuQvc8K2f>`_ にもブリッジされています。"
+"|MatrixLink| `overte:overte.org 🔗 "
+"<https://matrix.to/#/#overte:overte.org>`_ のMatrixスペースへ参加しましょう。スペースは "
+"|DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_ にもブリッジされています。"
 
 #: ../../source/contact.rst:35
 msgid "Forum"
@@ -135,9 +132,7 @@ msgid ""
 "Hosting, development, maintainance, and administration are a lot of work "
 "and require us to pay a not unsignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
-msgstr ""
-"ホスティング、開発、保守、管理は大変な作業であり、少なからぬ金額を支払う必要"
-"があります。寄付は、そうした支払いのための、会費に次ぐ唯一の収入です。"
+msgstr "ホスティング、開発、保守、管理は大変な作業であり、少なからぬ金額を支払う必要があります。寄付は、そうした支払いのための、会費に次ぐ唯一の収入です。"
 
 #: ../../source/donate.rst:8
 msgid ""
@@ -146,13 +141,15 @@ msgid ""
 msgstr "Overteとその開発をサポートしたい方は、寄付をご検討ください。"
 
 #: ../../source/donate.rst:10
-msgid "You may donate via the following methods in order of preferrence:"
+#, fuzzy
+msgid "You may donate via the following methods in order of preference:"
 msgstr "ご寄付は、ご希望される順に以下の方法でお願いします："
 
 #: ../../source/donate.rst:12
+#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
-"(preferred), Debitcard, Creditcard"
+"(prefered), Debitcard, Creditcard"
 msgstr ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - "
 "銀行振込（優先）、デビットカード、クレジットカード"
@@ -170,7 +167,8 @@ msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
-"`PayPal 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
+"`PayPal 🔗 "
+"<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
 msgid ""
@@ -178,9 +176,9 @@ msgid ""
 "tax deductable in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
-"非営利団体として認定されたOverte e.V.は、ドイツで税額控除が可能な領収書を発行"
-"することができます。領収書の発行をご希望の方は、寄付後、accounting@"
-"overte.org までご連絡ください。"
+"非営利団体として認定されたOverte "
+"e.V.は、ドイツで税額控除が可能な領収書を発行することができます。領収書の発行をご希望の方は、寄付後、accounting@overte.org"
+" までご連絡ください。"
 
 #: ../../source/downloads.rst:5 ../../source/index.rst:44
 msgid "Downloads"
@@ -192,9 +190,8 @@ msgid ""
 " the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"Overteの現在の安定版リリースはバージョン2022.12."
-"1です。GitHubにある変更履歴をご覧ください： `Changelog 🔗 <https://github."
-"com/overte-org/overte/blob/master/CHANGELOG.md>`_"
+"Overteの現在の安定版リリースはバージョン2022.12.1です。GitHubにある変更履歴をご覧ください： `Changelog 🔗 "
+"<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:13
 msgid "Linux"
@@ -240,10 +237,10 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 msgstr ""
-"`GitHubのリリースページ🔗 <https://github.com/overte-org/overte/releases/tag/"
-"2022.12.1/>`_ から、または `public.overte.org 🔗 <https://public.overte.org/"
-"index.html#build/overte/release/2022.12.1/>`_ から、あなたのディストリビュー"
-"ションやアーキテクチャに適したパッケージを選んでください。"
+"`GitHubのリリースページ🔗 <https://github.com/overte-"
+"org/overte/releases/tag/2022.12.1/>`_ から、または `public.overte.org 🔗 "
+"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_ "
+"から、あなたのディストリビューションやアーキテクチャに適したパッケージを選んでください。"
 
 #: ../../source/downloads.rst:41
 msgid "Windows"
@@ -256,11 +253,9 @@ msgid ""
 "installation process if you want to run a Domain Server. You can always "
 "rerun the installer later to install the server software afterwards."
 msgstr ""
-"Windowsインストーラには、InterfaceとDomain Serverの両方が含まれています。"
-"Domain Serverを実行したい場合は、インストールウィザードで「custom "
-"install」を選択し、「Overte Server」にチェックを入れてください。後からインス"
-"トーラーを再実行すれば、いつでもサーバーソフトをインストールすることができま"
-"す。"
+"Windowsインストーラには、InterfaceとDomain Serverの両方が含まれています。Domain "
+"Serverを実行したい場合は、インストールウィザードで「custom install」を選択し、「Overte "
+"Server」にチェックを入れてください。後からインストーラーを再実行すれば、いつでもサーバーソフトをインストールすることができます。"
 
 #: ../../source/downloads.rst:47
 msgid ""
@@ -284,9 +279,8 @@ msgid ""
 "being potentially unsafe. To run it anyways click on \"**More info**\" "
 "and then \"**Run anyway**\"."
 msgstr ""
-"Windows Defenderが、「このアプリを実行すると、PCに問題が起こる可能性があ」る"
-"という警告を表示することがあります。とにかく実行するには、「**詳細情報**」を"
-"クリックし、「**実行**」をクリックしてください。"
+"Windows "
+"Defenderが、「このアプリを実行すると、PCに問題が起こる可能性があ」るという警告を表示することがあります。とにかく実行するには、「**詳細情報**」をクリックし、「**実行**」をクリックしてください。"
 
 #: ../../source/downloads.rst:61
 msgid "Source"
@@ -297,10 +291,7 @@ msgid ""
 "Our source code is available on GitHub. If you intend to build from "
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
-msgstr ""
-"私たちのソースコードはGitHubで公開されています。もしソースからビルドするつも"
-"りなら、最新の改良を享受するために、リリースではなく、直接masterブランチをビ"
-"ルドすることをお勧めします。"
+msgstr "私たちのソースコードはGitHubで公開されています。もしソースからビルドするつもりなら、最新の改良を享受するために、リリースではなく、直接masterブランチをビルドすることをお勧めします。"
 
 #: ../../source/downloads.rst:66
 msgid ""
@@ -308,9 +299,8 @@ msgid ""
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
-"Linuxでは、初心者向けにビルドプロセスを簡素化することを目的としたヘルパーアプ"
-"リケーションが用意されています。GitHubから入手することができます： `Overte "
-"builder 🔗 <https://github.com/overte-org/overte-builder/>`_"
+"Linuxでは、初心者向けにビルドプロセスを簡素化することを目的としたヘルパーアプリケーションが用意されています。GitHubから入手することができます："
+" `Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_"
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:44
 msgid "Gallery"
@@ -320,8 +310,7 @@ msgstr "ギャラリー"
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
 "locations attended with it."
-msgstr "このギャラリーでは、Overte "
-"Interfaceで参加したこれまでのイベントや場所を紹介しています。"
+msgstr "このギャラリーでは、Overte Interfaceで参加したこれまでのイベントや場所を紹介しています。"
 
 #: ../../source/gallery.rst:11
 msgid "A normal day in the Overte office"
@@ -435,12 +424,7 @@ msgid ""
 "and desktop experiences. You can create and host your own virtual world, "
 "explore other worlds, meet and connect with other users, attend or host "
 "live VR events, and much more."
-msgstr ""
-"Overteは、バーチャルリアリティ（VR）やデスクトップ体験としての仮想世界を作成"
-"・共有できるオープンソースの仮想世界・ソーシャルVRソフトウェアです。自分の仮"
-"想世界を作成し、ホストすることができますし、他の世界を探索し、他のユーザーと"
-"出会い、つながり、VRイベントに参加、主催したり、その他にも多くのことができま"
-"す。"
+msgstr "Overteは、バーチャルリアリティ（VR）やデスクトップ体験としての仮想世界を作成・共有できるオープンソースの仮想世界・ソーシャルVRソフトウェアです。自分の仮想世界を作成し、ホストすることができますし、他の世界を探索し、他のユーザーと出会い、つながり、VRイベントに参加、主催したり、その他にも多くのことができます。"
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
@@ -462,15 +446,16 @@ msgstr "1つのワールドで最大500ユーザーまで対応するスケー�
 msgid ""
 "Scripting in JavaScript, which allows creation of games, interactables, "
 "UI elements, and custom applications"
-msgstr "ゲーム、インタラクタブル、UIエレメント、カスタムアプリケーションの作成が可能"
-"なJavaScriptによるスクリプト"
+msgstr "ゲーム、インタラクタブル、UIエレメント、カスタムアプリケーションの作成が可能なJavaScriptによるスクリプト"
 
 #: ../../source/index.rst:16
-msgid "High quality low latency spacial audio"
+#, fuzzy
+msgid "High quality low latency spatial audio"
 msgstr "高音質低遅延スペーシャルオーディオ"
 
 #: ../../source/index.rst:17
-msgid "Powerful physics Bullet physics engine"
+#, fuzzy
+msgid "Powerful physics through Bullet physics engine"
 msgstr "Bullet物理演算エンジンの強力な物理演算"
 
 #: ../../source/index.rst:18
@@ -508,11 +493,7 @@ msgid ""
 "system that we have been using for our main documentation for years now. "
 "This also allows us, among other things, to finally translate the website"
 " to different languages using Weblate."
-msgstr ""
-"私たちの古い11tyベースのウェブサイトはメンテナンスされておらず、誰も編集の仕"
-"方を知らなかったので、私たちはSphinxを使って全く新しいウェブサイトを作りまし"
-"た。これにより、Weblateを使用してウェブサイトをさまざまな言語に翻訳することが"
-"できるようになりました。"
+msgstr "私たちの古い11tyベースのウェブサイトはメンテナンスされておらず、誰も編集の仕方を知らなかったので、私たちはSphinxを使って全く新しいウェブサイトを作りました。これにより、Weblateを使用してウェブサイトをさまざまな言語に翻訳することができるようになりました。"
 
 #: ../../source/index.rst:41
 msgid ""
@@ -520,8 +501,8 @@ msgid ""
 "Overte, head over to `weblate.overte.org 🔗 "
 "<https://weblate.overte.org/>`_."
 msgstr ""
-"このウェブサイトやOverteの他の部分の翻訳にご協力いただける方は、`"
-"weblate.overte.org 🔗 <https://weblate.overte.org/>`_ までお越しください。"
+"このウェブサイトやOverteの他の部分の翻訳にご協力いただける方は、`weblate.overte.org 🔗 "
+"<https://weblate.overte.org/>`_ までお越しください。"
 
 #: ../../source/overte_ev.rst:5
 msgid ""
@@ -538,9 +519,7 @@ msgid ""
 "The articles of association, called \"Satzung\" in German, are the "
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
-msgstr ""
-"定款は、ドイツ語で「Satzung」と呼ばれ、協会の細則となります。この定款は、協会"
-"、会員、理事会ができること、できないことを規定するものです。"
+msgstr "定款は、ドイツ語で「Satzung」と呼ばれ、協会の細則となります。この定款は、協会、会員、理事会ができること、できないことを規定するものです。"
 
 #: ../../source/overte_ev.rst:15
 msgid "Take a look at them here:"
@@ -551,43 +530,40 @@ msgid ""
 "`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
 "code-draft.readthedocs.io/de/latest/>`_"
 msgstr ""
-"`Overte e.V. Satzung - ドイツ語原文<https://buyanvr-organizational-code-draft"
-".readthedocs.io/de/latest/>`_"
+"`Overte e.V. Satzung - ドイツ語原文<https://buyanvr-organizational-code-"
+"draft.readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
 msgid ""
 "`Overte e.V. Articles of association - English translation <https"
 "://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
 msgstr ""
-"`Overte e.V. Articles of association - 英語訳<https://buyanvr-organizational-"
-"code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - 英語訳<https://buyanvr-"
+"organizational-code-draft.readthedocs.io/en/latest/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
 "While the German original takes precedence over the English translation, "
 "we try to make sure that the English translation is as accurate as "
 "possible. If you notice any discrepancies, please get in touch with us."
-msgstr "ドイツ語の原文が英語の翻訳に優先しますが、英語の翻訳ができるだけ正確であるよ"
-"うに心がけています。もし、矛盾に気づかれた場合は、ご連絡ください。"
+msgstr "ドイツ語の原文が英語の翻訳に優先しますが、英語の翻訳ができるだけ正確であるように心がけています。もし、矛盾に気づかれた場合は、ご連絡ください。"
 
 #: ../../source/overte_ev.rst:27
-msgid "Membership and your Contribution"
-msgstr "会員登録とご寄付"
+msgid "Membership"
+msgstr ""
 
 #: ../../source/overte_ev.rst:30
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
-msgstr "Overteのソフトウェアを使用する、またはソフトウェアの開発に協力するために、協"
-"会会員である**必要はありません**。"
+msgstr "Overteのソフトウェアを使用する、またはソフトウェアの開発に協力するために、協会会員である**必要はありません**。"
 
 #: ../../source/overte_ev.rst:32
 msgid ""
 "You are very welcome to join the association as a member or supporting "
 "member. As a member you are allowed to vote in association meetings. This"
 " also includes board member elections."
-msgstr "会員または賛助会員として協会に参加することは大歓迎です。会員になると、協会の"
-"会合で投票することができます。これには、役員選挙も含まれます。"
+msgstr "会員または賛助会員として協会に参加することは大歓迎です。会員になると、協会の会合で投票することができます。これには、役員選挙も含まれます。"
 
 #: ../../source/overte_ev.rst:35
 msgid ""
@@ -602,10 +578,7 @@ msgid ""
 "application containing your real name, username (optional), postal "
 "address, and email address, to application@overte.org, or our postal "
 "address."
-msgstr ""
-"入会希望の方は、上記のリンク先の定款をよくお読みください。そのうえ、本名、ユ"
-"ーザー名（任意）、住所、メールアドレスを明記の上、application@overte."
-"org、または弊社住所までお申し込みください。"
+msgstr "入会希望の方は、上記のリンク先の定款をよくお読みください。そのうえ、本名、ユーザー名（任意）、住所、メールアドレスを明記の上、application@overte.org、または弊社住所までお申し込みください。"
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
@@ -701,15 +674,13 @@ msgid ""
 "it."
 msgstr ""
 "これは、https://overte.org からアクセスできる overte.org "
-"の個人情報保護方針です。この文書には、overte."
-"orgが収集および記録する情報の種類と、その使用方法が記載されています。"
+"の個人情報保護方針です。この文書には、overte.orgが収集および記録する情報の種類と、その使用方法が記載されています。"
 
 #: ../../source/privacy_policy.rst:7
 msgid ""
 "If you have additional questions or require more information about our "
 "Privacy Policy, do not hesitate to contact us."
-msgstr "個人情報保護方針についてご質問がある場合、または詳細な情報が必要な場合は、ご"
-"遠慮なく当社までご連絡ください。"
+msgstr "個人情報保護方針についてご質問がある場合、または詳細な情報が必要な場合は、ご遠慮なく当社までご連絡ください。"
 
 #: ../../source/privacy_policy.rst:9
 msgid "We are a Data Controller of your information."
@@ -932,3 +903,7 @@ msgstr ""
 #~ "or take a look at our "
 #~ ":doc:`Gallery <gallery>` |Gallery|."
 #~ msgstr ""
+
+#~ msgid "Membership and your Contribution"
+#~ msgstr "会員登録とご寄付"
+
