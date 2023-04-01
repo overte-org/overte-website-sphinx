@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Overte Website'
-copyright = 'Copyright 2022-2023, Overte e.V.'
+project = 'Overte'
+copyright = '2022-2023, Overte e.V.'
 author = 'Julian Groß'
 
 # The short X.Y version
