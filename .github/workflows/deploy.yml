@@ -37,6 +37,11 @@ jobs:
        make BUILDDIR="build/ja" SPHINXOPTS="-Dlanguage=ja" html
        mv build/ja/html/ output/ja/
 
+    - name: Build traditional Chinese translation
+      run: |
+       make BUILDDIR="build/zh_Hant" SPHINXOPTS="-Dlanguage=zh_Hant" html
+       mv build/zh_Hant/html/ output/zh_Hant/
+
 
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
