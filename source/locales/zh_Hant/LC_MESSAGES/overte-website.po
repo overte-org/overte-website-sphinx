@@ -4,20 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Overte Website \n"
+"Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-01 20:44+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-04-03 21:28+0000\n"
+"Last-Translator: Yan-K <a080123900@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://weblate.overte.org/projects/"
+"overte/overte-website/zh_Hant/>\n"
 "Language: zh_Hant\n"
-"Language-Team: zh_Hant <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -58,28 +59,29 @@ msgstr ""
 
 #: ../../source/contact.rst:5 ../../source/index.rst:46
 msgid "Contact"
-msgstr ""
+msgstr "聯絡"
 
 #: ../../source/contact.rst:7
 msgid ""
 "There are multiple channels to get in touch with the community and "
 "association."
-msgstr ""
+msgstr "有許多可以聯絡社群成員的頻道。"
 
 #: ../../source/contact.rst:11
 msgid "Overte"
-msgstr ""
+msgstr "Overte"
 
 #: ../../source/contact.rst:13
 msgid ""
 "Our weekly developer meetings are the perfect place for some more in-"
 "depth questions. Check the events calendar to find out when the next "
 "meeting is happening."
-msgstr ""
+msgstr "我們每週舉行的開發者聚會是深入詢問問題的好地方。察看活動行事曆以確認我們下一"
+"次的聚會時間。"
 
 #: ../../source/contact.rst:19
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: ../../source/contact.rst:21
 msgid ""
@@ -87,10 +89,12 @@ msgid ""
 "an issue on the relevant GitHub repository. `Overte GitHub repository 🔗 "
 "<https://github.com/overte-org/overte>`_"
 msgstr ""
+"如果想回報問題的話，最有效的方法是在 GitHub 儲存庫內建立一個新的 Issue。`"
+"Overte GitHub 儲存庫 🔗 <https://github.com/overte-org/overte>`_"
 
 #: ../../source/contact.rst:27
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 #: ../../source/contact.rst:29
 msgid ""
@@ -98,20 +102,23 @@ msgid ""
 "<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
 "bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
+"透過 |MatrixLink| `overte:overte.org 🔗 <https://matrix.to/#/#overte:overte."
+"org>`_ 加入我們的 Matrix 空間。我們的 Matrix 空間也會同步到 |DiscordLink| `"
+"Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_。"
 
 #: ../../source/contact.rst:35
 msgid "Forum"
-msgstr ""
+msgstr "論壇"
 
 #: ../../source/contact.rst:37
 msgid ""
 "There is also a forum located at `forum.overte.org 🔗 "
 "<https://forum.overte.org/>`_."
-msgstr ""
+msgstr "在 `forum.overte.org 🔗 <https://forum.overte.org/>`_ 可以找到我們的論壇。"
 
 #: ../../source/contact.rst:42
 msgid "Mastodon"
-msgstr ""
+msgstr "Mastodon"
 
 #: ../../source/contact.rst:44
 msgid "https://fosstodon.org/@overte"
@@ -119,42 +126,47 @@ msgstr ""
 
 #: ../../source/donate.rst:3 ../../source/index.rst:46
 msgid "Donate"
-msgstr ""
+msgstr "贊助"
 
 #: ../../source/donate.rst:5
 msgid ""
 "Hosting, development, maintainance, and administration are a lot of work "
 "and require us to pay a not unsignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
-msgstr ""
+msgstr "架設、開發、維護和管理都需要大量的工作和金額支出。除了會員費以外贊助是我們唯"
+"一的收入方式。"
 
 #: ../../source/donate.rst:8
 msgid ""
 "If you would like to support Overte and its development, consider "
 "donating."
-msgstr ""
+msgstr "如果想支援 Overte 的開發，可以考慮贊助。"
 
 #: ../../source/donate.rst:10
 msgid "You may donate via the following methods in order of preference:"
-msgstr ""
+msgstr "可以透過以下幾種方式贊助："
 
 #: ../../source/donate.rst:12
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
 "(prefered), Debitcard, Creditcard"
 msgstr ""
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - 銀行轉帳 (優先), "
+"金融卡, 信用卡"
 
 #: ../../source/donate.rst:13
 msgid ""
 "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any "
 "payment method you can think of"
-msgstr ""
+msgstr "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - "
+"幾乎支援所有支付方式"
 
 #: ../../source/donate.rst:14
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
+"`PayPal 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
 msgid ""
@@ -162,10 +174,12 @@ msgid ""
 "tax deductable in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
+"作為一個德國政府認證的非營利團體，Overte e.V. 可以開立在德國可扣稅的收據。"
+"如果需要收據的話請在贊助後聯絡 accounting@overte.org。"
 
 #: ../../source/downloads.rst:5 ../../source/index.rst:46
 msgid "Downloads"
-msgstr ""
+msgstr "下載"
 
 #: ../../source/downloads.rst:7
 msgid ""
@@ -173,14 +187,16 @@ msgid ""
 " the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
+"Overte 現在的穩定版是 2022.12.1。更新履歷請查看 Github：`Changelog 🔗 "
+"<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:13
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../source/downloads.rst:17
 msgid "Interface"
-msgstr ""
+msgstr "介面"
 
 #: ../../source/downloads.rst:19
 msgid ""
@@ -197,16 +213,29 @@ msgid ""
 "011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
+"給 amd64/x86_64 架構的 Linux AppImage <svg version=\"1.1\" width=\"0.9em\" "
+"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" viewBox=\"0"
+" 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 "
+"00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+"0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 00-."
+"073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25"
+"-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-"
+"3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-."
+"565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-"
+"7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 "
+"12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\""
+"></path></svg>"
 
 #: ../../source/downloads.rst:27
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
-msgstr ""
+msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod "
+"+x Overte.AppImage`。"
 
 #: ../../source/downloads.rst:33
 msgid "Domain Server"
-msgstr ""
+msgstr "Domain 伺服器"
 
 #: ../../source/downloads.rst:35
 msgid ""
@@ -216,10 +245,14 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 msgstr ""
+"從 GitHub 發行頁面選擇適合你 Linux 發行版本和架構的套件 `GitHub Release page "
+"🔗 <https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_, or "
+"directly from `public.overte.org 🔗 <https://public.overte.org/index.html#"
+"build/overte/release/2022.12.1/>`_。"
 
 #: ../../source/downloads.rst:41
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../source/downloads.rst:43
 msgid ""
@@ -228,6 +261,9 @@ msgid ""
 "installation process if you want to run a Domain Server. You can always "
 "rerun the installer later to install the server software afterwards."
 msgstr ""
+"Windows 安裝器同時包含了 Interface 和 Domain Server。如果要執行 Domain "
+"Server 的話請選擇自訂安裝並勾選「Overte "
+"Server」。也可以重新執行安裝器再安裝伺服器軟體。"
 
 #: ../../source/downloads.rst:47
 msgid ""
@@ -244,17 +280,30 @@ msgid ""
 "011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
+"給 x86_64 架構的 Windows 安裝器 <svg version=\"1.1\" width=\"0.9em\" height="
+"\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" viewBox=\"0 0 16 "
+"16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 "
+"0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 00-."
+"073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25"
+"-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-"
+"3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-."
+"565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-"
+"7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 "
+"12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\""
+"></path></svg>"
 
 #: ../../source/downloads.rst:55
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyways click on \"**More info**\" "
 "and then \"**Run anyway**\"."
-msgstr ""
+msgstr "Windows Defender "
+"在安裝時可能會顯示安裝器不安全的警告視窗。點選「更多資訊」後選「依然執行」。"
 
 #: ../../source/downloads.rst:61
 msgid "Source"
-msgstr ""
+msgstr "原始碼"
 
 #: ../../source/downloads.rst:63
 msgid ""
@@ -262,6 +311,8 @@ msgid ""
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
+"我們原始碼會公開在 Github 頁面裡。如果希望從原始碼自行編譯的話，比起 release "
+"分支我們更建議從 master 分支編譯，才可以體驗到最新的改進。"
 
 #: ../../source/downloads.rst:66
 msgid ""
@@ -269,76 +320,79 @@ msgid ""
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
+"對 Linux 用戶我們有一個輔助程式，目標是更簡化新手的編譯流程。從這個 Github "
+"頁面取得：`Overte builder 🔗 <https://github.com/overte-org/overte-builder/"
+">`_"
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:46
 msgid "Gallery"
-msgstr ""
+msgstr "相簿"
 
 #: ../../source/gallery.rst:5
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
 "locations attended with it."
-msgstr ""
+msgstr "這個相簿是展示 Overte Interface 過往的活動和場所。"
 
 #: ../../source/gallery.rst:11
 msgid "A normal day in the Overte office"
-msgstr ""
+msgstr "Overte 辦公室普通的一天"
 
 #: ../../source/gallery.rst:18
 msgid "New years party with the furry bartender"
-msgstr ""
+msgstr "新年派對和 Furry 酒保"
 
 #: ../../source/gallery.rst:25
 msgid "Basinskys ambient occlusion showcase"
-msgstr ""
+msgstr "Basinsky 的 Ambient Occlusion 展示"
 
 #: ../../source/gallery.rst:32
 msgid "Installing new lanterns on the Hub bridge"
-msgstr ""
+msgstr "在 Hub 橋上安裝新的街燈"
 
 #: ../../source/gallery.rst:39
 msgid "Some time off in the office"
-msgstr ""
+msgstr "辦公室內也有休息時間"
 
 #: ../../source/gallery.rst:46
 msgid "74 working on the \"Kraftwerk\" Domain"
-msgstr ""
+msgstr "74 正在處理「Kraftwerk」Domain"
 
 #: ../../source/gallery.rst:53
 msgid "Hanging out on Maker Monday"
-msgstr ""
+msgstr "在 Maker Monday 一起玩"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
-msgstr ""
+msgstr "Basinsky 展示他的 3D 掃描世界"
 
 #: ../../source/gallery.rst:67
 msgid "Maker Monday on Daybreak Island"
-msgstr ""
+msgstr "Daybreak Island 上的 Maker Monday"
 
 #: ../../source/gallery.rst:74
 msgid "Christmas in Overte"
-msgstr ""
+msgstr "Overte 的聖誕節"
 
 #: ../../source/gallery.rst:81
 msgid "Development meeting on Daybreak Island"
-msgstr ""
+msgstr "Daybreak Island 上的開發者聚會"
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
-msgstr ""
+msgstr "正在探索 Fantasy Island 的 Pooltoys"
 
 #: ../../source/gallery.rst:95
 msgid "Development meeting at the Hub"
-msgstr ""
+msgstr "Hub 上的開發者聚會"
 
 #: ../../source/gallery.rst:102
 msgid "Kreolis playing in Brainstormer's Club"
-msgstr ""
+msgstr "在 Brainstormer's Club 演奏的 Kreolis"
 
 #: ../../source/imprint.rst:3 ../../source/index.rst:46
 msgid "Imprint"
-msgstr ""
+msgstr "出品"
 
 #: ../../source/imprint.rst:5 ../../source/index.rst:46
 #: ../../source/overte_ev.rst:3
@@ -355,7 +409,7 @@ msgstr ""
 
 #: ../../source/imprint.rst:8
 msgid "Germany"
-msgstr ""
+msgstr "Germany"
 
 #: ../../source/imprint.rst:10
 msgid "contact@overte.org"
@@ -363,27 +417,27 @@ msgstr ""
 
 #: ../../source/index.rst:46
 msgid "Home"
-msgstr ""
+msgstr "首頁"
 
 #: ../../source/index.rst:46
 msgid "Events 🔗"
-msgstr ""
+msgstr "活動 🔗"
 
 #: ../../source/index.rst:46
 msgid "Documentation 🔗"
-msgstr ""
+msgstr "說明文件 🔗"
 
 #: ../../source/index.rst:46
 msgid "API reference 🔗"
-msgstr ""
+msgstr "API 參考 🔗"
 
 #: ../../source/index.rst:46 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
-msgstr ""
+msgstr "個資保護政策"
 
 #: ../../source/index.rst:5
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 #: ../../source/index.rst:7
 msgid ""
@@ -393,70 +447,76 @@ msgid ""
 "explore other worlds, meet and connect with other users, attend or host "
 "live VR events, and much more."
 msgstr ""
+"Overte 是開源的虛擬世界和 VR 社交軟體，"
+"可以讓用戶在裡面創造並分享給桌上電腦和 VR 的體驗。在這裡可以建立並架設你自己"
+"的虛擬世界，探索其他人的世界，相遇其他玩家，參加或舉辦現場 VR "
+"活動，還有更多。"
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
-msgstr ""
+msgstr "Overte 軟體主要提供以下幾種功能："
 
 #: ../../source/index.rst:12
 msgid "Collaborative world creation and editing"
-msgstr ""
+msgstr "世界創造和編輯的共同協作"
 
 #: ../../source/index.rst:13
 msgid "VR support, including body tracking"
-msgstr ""
+msgstr "支援 VR，包含身體追蹤"
 
 #: ../../source/index.rst:14
 msgid "Scalability for up to 500 users in a single world"
-msgstr ""
+msgstr "一個世界最高可以容納 500 位使用者"
 
 #: ../../source/index.rst:15
 msgid ""
 "Scripting in JavaScript, which allows creation of games, interactables, "
 "UI elements, and custom applications"
-msgstr ""
+msgstr "用 JavaScript 編寫腳本，可以製作遊戲、互動、UI 介面或其他的應用"
 
 #: ../../source/index.rst:16
 msgid "High quality low latency spatial audio"
-msgstr ""
+msgstr "高音質且低延遲的環繞音效"
 
 #: ../../source/index.rst:17
 msgid "Powerful physics through Bullet physics engine"
-msgstr ""
+msgstr "Bullet 物理引擎提供的強力物理演算"
 
 #: ../../source/index.rst:18
 msgid "Fully open-source under the permissive Apache 2.0 license"
-msgstr ""
+msgstr "完全開放原始碼並採用寬容的 Apache 2.0 授權"
 
 #: ../../source/index.rst:19
 msgid "No central authority. You can run your own server from home."
-msgstr ""
+msgstr "非中心化。在自己家也可以架設伺服器。"
 
 #: ../../source/index.rst:20
 msgid "No user account required"
-msgstr ""
+msgstr "不需要使用者帳號"
 
 #: ../../source/index.rst:21
 msgid "Supported by a democratic non-profit organization"
-msgstr ""
+msgstr "由民主的非營利團體提供支援"
 
 #: ../../source/index.rst:23
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
+":doc:`取得 Overte <downloads>` |DownloadPage| 或看看我們的 :doc:`相簿 "
+"<gallery>` |GalleryPage|."
 
 #: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
-msgstr ""
+msgstr "Overte 辦公室的開發者聚會"
 
 #: ../../source/index.rst:34
 msgid "News"
-msgstr ""
+msgstr "新聞"
 
 #: ../../source/index.rst:38
 msgid "2023-04-01 New website"
-msgstr ""
+msgstr "2023-04-01 新網站"
 
 #: ../../source/index.rst:40
 msgid ""
@@ -466,6 +526,9 @@ msgid ""
 "This also allows us, among other things, to finally translate the website"
 " to different languages using Weblate."
 msgstr ""
+"由於我們基於 11ty 的舊網站已無法維護且沒人知道該如何編輯，我們使用 Sphinx 建"
+"立了一個全新的網站，和我們使用多年的說明文件使用同個系統。這個系統可以幫助我"
+"們更好的維護網站，例如用 Weblate 系統翻譯成多國語言。"
 
 #: ../../source/index.rst:43
 msgid ""
@@ -473,69 +536,78 @@ msgid ""
 "Overte, head over to `weblate.overte.org 🔗 "
 "<https://weblate.overte.org/>`_."
 msgstr ""
+"如果有興趣翻譯 Overte 的網站或其他部分，請參考 `weblate.overte.org 🔗 "
+"<https://weblate.overte.org/>`_。"
 
 #: ../../source/overte_ev.rst:5
 msgid ""
 "The Overte e.V. is the association behind Overte. It is a non-profit "
 "association registered in Germany."
-msgstr ""
+msgstr "Overte e.V. 是支援 Overte 的組織。是一間註冊在德國的非營利組織。"
 
 #: ../../source/overte_ev.rst:10
 msgid "Articles of association"
-msgstr ""
+msgstr "規章"
 
 #: ../../source/overte_ev.rst:12
 msgid ""
 "The articles of association, called \"Satzung\" in German, are the "
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
-msgstr ""
+msgstr "在德國，規章稱為「Satzung」，是組織的細節規定。這個規章規定了相關的組織、成員"
+"、董事會可以和不可以做的事。"
 
 #: ../../source/overte_ev.rst:15
 msgid "Take a look at them here:"
-msgstr ""
+msgstr "請看這裡："
 
 #: ../../source/overte_ev.rst:17
 msgid ""
 "`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
 "code-draft.readthedocs.io/de/latest/>`_"
 msgstr ""
+"`Overte e.V. Satzung - 德文版原文 <https://buyanvr-organizational-code-draft."
+"readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
 msgid ""
 "`Overte e.V. Articles of association - English translation <https"
 "://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
 msgstr ""
+"`Overte e.V. Articles of association - 英文翻譯版 <https://buyanvr-"
+"organizational-code-draft.readthedocs.io/en/latest/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
 "While the German original takes precedence over the English translation, "
 "we try to make sure that the English translation is as accurate as "
 "possible. If you notice any discrepancies, please get in touch with us."
-msgstr ""
+msgstr "雖然德文版比起英文版優先度更高，但我們盡可能確保英文翻譯準確。如果你發現矛盾"
+"的地方請與我們聯絡。"
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership"
-msgstr ""
+msgstr "會員"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
-msgstr ""
+msgstr "使用 Overte 軟體或幫助開發「不需要」成員組織會員。"
 
 #: ../../source/overte_ev.rst:32
 msgid ""
 "You are very welcome to join the association as a member or supporting "
 "member. As a member you are allowed to vote in association meetings. This"
 " also includes board member elections."
-msgstr ""
+msgstr "我們歡迎任何人加入組織成為會員，或是協助會員。作為成員你可以參與在組織投票中"
+"。包含董事會成員選舉。"
 
 #: ../../source/overte_ev.rst:35
 msgid ""
 "Currently the yearly membership fee is 60 Euro. The fee is pre paid "
 "either yearly or monthly."
-msgstr ""
+msgstr "現在每年的年費是 60 歐元。款項可以年付或是月付。"
 
 #: ../../source/overte_ev.rst:37
 msgid ""
@@ -545,16 +617,19 @@ msgid ""
 "address, and email address, to application@overte.org, or our postal "
 "address."
 msgstr ""
+"如果希望入會的話請先閱讀上面的規章。加入時請在申請表上填寫你的真實姓名、使用"
+"者名稱（可選）、郵件地址、電子信箱，並寄到 application@overte.org "
+"或我們郵政信箱。"
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
-msgstr ""
+msgstr "現任董事會員"
 
 #: ../../source/overte_ev.rst:46
 msgid ""
 "The current board members were elected on the general assembly on the "
 "17th September 2022."
-msgstr ""
+msgstr "現在的董事會成員於 2022 年 9 月 17 日選舉選出。"
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -566,11 +641,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:50
 msgid "Speaks Spanish, English and Russian."
-msgstr ""
+msgstr "說西班牙語、英語、俄語。"
 
 #: ../../source/overte_ev.rst:51
 msgid "Chairman and developer."
-msgstr ""
+msgstr "會長、開發者。"
 
 #: ../../source/overte_ev.rst:59
 msgid "|Julian_Groß| Julian Groß"
@@ -582,11 +657,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:60
 msgid "Speaks German, English and basic Japanese."
-msgstr ""
+msgstr "說德語、英語、和基本的日語。"
 
 #: ../../source/overte_ev.rst:61
 msgid "Treasurer, deputy chairman, and developer."
-msgstr ""
+msgstr "會計、副會長、開發者。"
 
 #: ../../source/overte_ev.rst:69
 msgid "|Kreolis| Kreolis"
@@ -598,11 +673,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:70 ../../source/overte_ev.rst:90
 msgid "Speaks German and English."
-msgstr ""
+msgstr "德語、英語。"
 
 #: ../../source/overte_ev.rst:71
 msgid "Secretary and second deputy chairman."
-msgstr ""
+msgstr "秘書、第二副會長。"
 
 #: ../../source/overte_ev.rst:79
 msgid "|74hc595| 74hc595"
@@ -614,11 +689,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:80
 msgid "Speaks Polish and English."
-msgstr ""
+msgstr "說波蘭語、英語。"
 
 #: ../../source/overte_ev.rst:81
 msgid "Developer"
-msgstr ""
+msgstr "開發者"
 
 #: ../../source/overte_ev.rst:89
 msgid "|Catraxx| Catraxx"
@@ -630,7 +705,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:91
 msgid "Former website developer"
-msgstr ""
+msgstr "前網站開發者"
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -639,12 +714,14 @@ msgid ""
 "information that is collected and recorded by overte.org and how we use "
 "it."
 msgstr ""
+"這是透過 https://overte.org 存取 overte.org 的個資保護政策。這個文件包含了 "
+"overte.org 取得和紀錄的資訊，以及我們如何使用這些資訊。"
 
 #: ../../source/privacy_policy.rst:7
 msgid ""
 "If you have additional questions or require more information about our "
 "Privacy Policy, do not hesitate to contact us."
-msgstr ""
+msgstr "如果你對個資保護政策有疑問或是需要更多資訊，請不吝嗇的聯絡我們。"
 
 #: ../../source/privacy_policy.rst:9
 msgid "We are a Data Controller of your information."
@@ -898,4 +975,3 @@ msgstr ""
 #~ "that are used by third-party "
 #~ "advertisers."
 #~ msgstr ""
-
