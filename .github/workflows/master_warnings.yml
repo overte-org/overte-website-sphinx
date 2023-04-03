@@ -7,11 +7,11 @@ on:
 
 jobs:
   check_warnings:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
 
     name: Check for warnings
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python 3.7
       uses: actions/setup-python@v2
       with:
@@ -20,31 +20,31 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Check source documentation
+    - name: Check source
       shell: bash
       run: |
         make SPHINXOPTS="-W --keep-going" html
-    - name: Check German documentation
+    - name: Check German
       if: ${{ success() || failure() }}
       shell: bash
       run: |
         make BUILDDIR=build-de SPHINXOPTS="-Dlanguage=de -W --keep-going" html
-    - name: Check French documentation
+    - name: Check French
       if: ${{ success() || failure() }}
       shell: bash
       run: |
         make BUILDDIR=build-fr SPHINXOPTS="-Dlanguage=fr -W --keep-going" html
-    - name: Check Japanese documentation
+    - name: Check Japanese
       if: ${{ success() || failure() }}
       shell: bash
       run: |
         make BUILDDIR=build-jp SPHINXOPTS="-Dlanguage=jp -W --keep-going" html
-    - name: Check Spanish documentation
+    - name: Check Spanish
       if: ${{ success() || failure() }}
       shell: bash
       run: |
         make BUILDDIR=build-es SPHINXOPTS="-Dlanguage=es -W --keep-going" html
-    - name: Check Korean documentation
+    - name: Check Korean
       if: ${{ success() || failure() }}
       shell: bash
       run: |
