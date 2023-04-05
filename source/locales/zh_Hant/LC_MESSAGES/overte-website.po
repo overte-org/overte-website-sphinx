@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-01 20:44+0000\n"
-"PO-Revision-Date: 2023-04-03 22:14+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2023-04-06 07:16+0000\n"
+"Last-Translator: Yan-K <a080123900@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.overte.org/projects/"
 "overte/overte-website/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -234,8 +234,8 @@ msgid ""
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 msgstr ""
 "從 GitHub 發行頁面選擇適合你 Linux 發行版本和架構的套件 `GitHub Release page "
-"🔗 <https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_, or "
-"directly from `public.overte.org 🔗 <https://public.overte.org/index.html#"
+"🔗 <https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_，"
+"或是從這裡取得 `public.overte.org 🔗 <https://public.overte.org/index.html#"
 "build/overte/release/2022.12.1/>`_。"
 
 #: ../../source/downloads.rst:41
@@ -464,7 +464,7 @@ msgstr "完全開放原始碼並採用寬容的 Apache 2.0 授權"
 
 #: ../../source/index.rst:19
 msgid "No central authority. You can run your own server from home."
-msgstr "非中心化。在自己家也可以架設伺服器。"
+msgstr "非中心化。在自己家也可以架設伺服器"
 
 #: ../../source/index.rst:20
 msgid "No user account required"
@@ -569,7 +569,7 @@ msgstr "會員"
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
-msgstr "使用 Overte 軟體或幫助開發「不需要」成員組織會員。"
+msgstr "使用 Overte 軟體或幫助開發「不需要」成為組織會員。"
 
 #: ../../source/overte_ev.rst:32
 msgid ""
@@ -617,7 +617,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:50
 msgid "Speaks Spanish, English and Russian."
-msgstr "說西班牙語、英語、俄語。"
+msgstr "西班牙語、英語、俄語。"
 
 #: ../../source/overte_ev.rst:51
 msgid "Chairman and developer."
@@ -633,7 +633,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:60
 msgid "Speaks German, English and basic Japanese."
-msgstr "說德語、英語、和基本的日語。"
+msgstr "德語、英語、和基本的日語。"
 
 #: ../../source/overte_ev.rst:61
 msgid "Treasurer, deputy chairman, and developer."
@@ -665,7 +665,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:80
 msgid "Speaks Polish and English."
-msgstr "說波蘭語、英語。"
+msgstr "波蘭語、英語。"
 
 #: ../../source/overte_ev.rst:81
 msgid "Developer"
