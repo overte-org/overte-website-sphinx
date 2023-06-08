@@ -56,292 +56,327 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:49
+#: ../../source/contact.rst:5 ../../source/index.rst:46
 msgid "Contact"
-msgstr ""
+msgstr "연락처"
 
 #: ../../source/contact.rst:7
 msgid ""
 "There are multiple channels to get in touch with the community and "
 "association."
-msgstr ""
+msgstr "커뮤니티 및 협회와 연락할 수 있는 여러 경로가 있습니다."
 
 #: ../../source/contact.rst:11
 msgid "Overte"
-msgstr ""
+msgstr "오버트"
 
 #: ../../source/contact.rst:13
 msgid ""
-"Our weekly developer meetings are the perfect place for some more in-"
-"depth questions. Check the events calendar to find out when the next "
-"meeting is happening."
+"Our weekly developer meetings are the perfect place for some more in-depth "
+"questions. Check the events calendar to find out when the next meeting is "
+"happening."
 msgstr ""
+"주간 개발자 회의는 좀 더 심도 있는 질문을 할 수 있는 완벽한 장소입니다. 이벤"
+"트 캘린더에서 다음 회의가 언제 열리는지 확인하세요."
 
 #: ../../source/contact.rst:19
 msgid "GitHub"
-msgstr ""
+msgstr "깃허브"
 
 #: ../../source/contact.rst:21
 msgid ""
-"If you would like to report an issue, the most effective way is to open "
-"an issue on the relevant GitHub repository. `Overte GitHub repository 🔗 "
+"If you would like to report an issue, the most effective way is to open an "
+"issue on the relevant GitHub repository. `Overte GitHub repository 🔗 "
 "<https://github.com/overte-org/overte>`_"
 msgstr ""
+"이슈를 보고하려면 관련 깃허브 리포지토리에서 이슈를 여는 것이 가장 효과적인 "
+"방법입니다. `오버트 깃허브 리포지토리 🔗 <https://github.com/overte-org/"
+"overte>`_"
 
 #: ../../source/contact.rst:27
 msgid "Matrix"
-msgstr ""
+msgstr "매트릭스"
 
-#: ../../source/contact.rst:29 ../../source/index.rst:25
+#: ../../source/contact.rst:29
 msgid ""
-"Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
-"<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
-"bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
+"Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 <https://matrix."
+"to/#/#overte:overte.org>`_. Our Matrix Space is also bridged to |"
+"DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
+"매트릭스 스페이스에 참여하려면 |MatrixLink| `overte:overte.org 🔗 <https://"
+"matrix.to/#/#overte:overte.org>`_에 접속하세요. 저희 매트릭스 스페이스는 또"
+"한 |DiscordLink| `디스코드🔗 <https://discord.gg/4YuQvc8K2f>`_에 연결됩니다."
 
 #: ../../source/contact.rst:35
 msgid "Forum"
-msgstr ""
+msgstr "포럼"
 
 #: ../../source/contact.rst:37
 msgid ""
-"There is also a forum located at `forum.overte.org 🔗 "
-"<https://forum.overte.org/>`_."
-msgstr ""
+"There is also a forum located at `forum.overte.org 🔗 <https://forum.overte."
+"org/>`_."
+msgstr "포럼은 'forum.overte.org 🔗 <https://forum.overte.org/>`_'에 있습니다."
 
 #: ../../source/contact.rst:42
 msgid "Mastodon"
-msgstr ""
+msgstr "마스토돈"
 
 #: ../../source/contact.rst:44
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:49
+#: ../../source/donate.rst:3 ../../source/index.rst:46
 msgid "Donate"
-msgstr ""
+msgstr "기부"
 
 #: ../../source/donate.rst:5
 msgid ""
-"Hosting, development, maintainance, and administration are a lot of work "
-"and require us to pay a not unsignificant amount of money. Donations are,"
-" next to membership fees, the only income that we have to pay our bills."
+"Hosting, development, maintainance, and administration are a lot of work and "
+"require us to pay a not unsignificant amount of money. Donations are, next "
+"to membership fees, the only income that we have to pay our bills."
 msgstr ""
+"호스팅, 개발, 유지보수 및 관리에는 많은 작업이 필요하며 적지 않은 비용이 소요"
+"됩니다. 기부금은 맴버쉽 다음으로 저희가 운영비를 충당할 수 있는 유일한 수입원"
+"입니다."
 
 #: ../../source/donate.rst:8
 msgid ""
-"If you would like to support Overte and its development, consider "
-"donating."
-msgstr ""
+"If you would like to support Overte and its development, consider donating."
+msgstr "오버트와 오버트의 개발을 후원하고 싶으시다면 기부를 고려해 보세요."
 
 #: ../../source/donate.rst:10
 msgid "You may donate via the following methods in order of preference:"
-msgstr ""
+msgstr "아래에 선호하는 방법을 통해 기부할 수 있습니다:"
 
 #: ../../source/donate.rst:12
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
 "(prefered), Debitcard, Creditcard"
 msgstr ""
+"'오픈콜렉티브 🔗 <https://opencollective.com/overte>`_ - 은행 송금(선호), 직불"
+"카드, 신용카드"
 
 #: ../../source/donate.rst:13
 msgid ""
 "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any "
 "payment method you can think of"
 msgstr ""
+"'스트라이프 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - 생각할 수 있"
+"는 거의 모든 결제 방법"
 
 #: ../../source/donate.rst:14
 msgid ""
-"`PayPal 🔗 "
-"<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
+"`PayPal 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
+"페이팔 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
 msgid ""
-"As a recognized non-profit, the Overte e.V. can issue receipts that are "
-"tax deductable in Germany. Contact us at accounting@overte.org after "
-"donating, to request such a receipt."
+"As a recognized non-profit, the Overte e.V. can issue receipts that are tax "
+"deductable in Germany. Contact us at accounting@overte.org after donating, "
+"to request such a receipt."
 msgstr ""
+"비영리단체로 인정받은 Overte e.V.는 독일에서 세금 공제가 가능한 영수증을 발행"
+"할 수 있습니다. 영수증 발급을 요청하려면 기부 후 accounting@overte.org 으로 "
+"문의하세요."
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:49
+#: ../../source/downloads.rst:5 ../../source/index.rst:46
 msgid "Downloads"
-msgstr ""
+msgstr "다운로드"
 
 #: ../../source/downloads.rst:7
 msgid ""
-"The current stable release of Overte is version 2022.12.1. Take a look at"
-" the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-"
-"org/overte/blob/master/CHANGELOG.md>`_"
+"The current stable release of Overte is version 2022.12.1. Take a look at "
+"the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/"
+"blob/master/CHANGELOG.md>`_"
 msgstr ""
+"현재 오버트의 안정적인 버전은 2022.12.1입니다. 깃허브에서 변경 로그를 확인하"
+"세요: 변경 로그 🔗 <https://github.com/overte-org/overte/blob/master/"
+"CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:13
 msgid "Linux"
-msgstr ""
+msgstr "리눅스"
 
 #: ../../source/downloads.rst:17
 msgid "Interface"
-msgstr ""
+msgstr "인터페이스"
 
 #: ../../source/downloads.rst:19
 msgid ""
-"Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
-"2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0"
-" 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 "
-"2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 "
-"00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116"
-" 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
-"2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 "
-"1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 "
-"011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
-" 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+"Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" height="
+"\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" viewBox=\"0 0 16 "
+"16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 "
+"0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 "
+"00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 "
+"00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+"0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 "
+"16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 "
+"1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 "
+"00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 "
+"01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
 #: ../../source/downloads.rst:27
 msgid ""
-"You will need to set the AppImage as **executable** using your file "
-"manager, or a command like: :bash:`chmod +x Overte.AppImage`."
+"You will need to set the AppImage as **executable** using your file manager, "
+"or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr ""
+"파일 관리자를 사용하거나 다음과 같은 명령어를 사용하여 앱 이미지를 **실행 가"
+"능**으로 설정해야 합니다: :bash:`chmod +x Overte.AppImage`."
 
 #: ../../source/downloads.rst:33
 msgid "Domain Server"
-msgstr ""
+msgstr "도메인 서버"
 
 #: ../../source/downloads.rst:35
 msgid ""
-"Select the appropriate package for your distribution and architecture "
-"from our `GitHub Release page 🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2022.12.1/>`_, or directly from "
-"`public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
+"Select the appropriate package for your distribution and architecture from "
+"our `GitHub Release page 🔗 <https://github.com/overte-org/overte/releases/"
+"tag/2022.12.1/>`_, or directly from `public.overte.org 🔗 <https://public."
+"overte.org/index.html#build/overte/release/2022.12.1/>`_."
 msgstr ""
 
 #: ../../source/downloads.rst:41
 msgid "Windows"
-msgstr ""
+msgstr "윈도우"
 
 #: ../../source/downloads.rst:43
 msgid ""
-"The Windows installer contains both Interface and the Domain Server. "
-"Select a custom install and tick \"Overte Server\" during the "
-"installation process if you want to run a Domain Server. You can always "
-"rerun the installer later to install the server software afterwards."
+"The Windows installer contains both Interface and the Domain Server. Select "
+"a custom install and tick \"Overte Server\" during the installation process "
+"if you want to run a Domain Server. You can always rerun the installer later "
+"to install the server software afterwards."
 msgstr ""
+"윈도우 인스톨러에는 인터페이스와 도메인 서버가 모두 포함되어 있습니다. 도메"
+"인 서버를 실행하려면 사용자 지정 설치를 선택하고 설치 프로세스 중에 \"오버트 "
+"서버 \"를 선택합니다. 나중에 언제든지 인스톨러를 다시 실행하여 서버 소프트웨"
+"어를 설치할 수 있습니다."
 
 #: ../../source/downloads.rst:47
 msgid ""
-"Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
-"2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0"
-" 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 "
-"2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 "
-"00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116"
-" 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
-"2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 "
-"1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 "
-"011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
-" 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+"Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" height="
+"\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" viewBox=\"0 0 16 "
+"16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 "
+"0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 "
+"00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 "
+"00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+"0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 "
+"16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 "
+"1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 "
+"00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 "
+"01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
 #: ../../source/downloads.rst:55
 msgid ""
-"Windows Defender might display a warning about the Windows installer "
-"being potentially unsafe. To run it anyways click on \"**More info**\" "
-"and then \"**Run anyway**\"."
+"Windows Defender might display a warning about the Windows installer being "
+"potentially unsafe. To run it anyways click on \"**More info**\" and then "
+"\"**Run anyway**\"."
 msgstr ""
+"윈도우 디펜더에서 윈도우 설치 프로그램이 잠재적으로 안전하지 않을 수 있다는 "
+"경고가 표시될 수 있습니다. 무시하고 실행하려면 \"**추가 정보**\"를 클릭한 다"
+"음 \"**어떻게든 실행**\"을 클릭하세요."
 
 #: ../../source/downloads.rst:61
 msgid "Source"
-msgstr ""
+msgstr "Source"
 
 #: ../../source/downloads.rst:63
 msgid ""
-"Our source code is available on GitHub. If you intend to build from "
-"source, we would suggest building the master branch directly instead of a"
-" release, to profit from the latest improvements."
+"Our source code is available on GitHub. If you intend to build from source, "
+"we would suggest building the master branch directly instead of a release, "
+"to profit from the latest improvements."
 msgstr ""
+"소스 코드는 GitHub에서 받을 수 있습니다. 소스에서 빌드하려는 경우 최신 개선 "
+"사항을 활용하려면 릴리스 대신 마스터 브랜치를 직접 빌드하는 것이 좋습니다."
 
 #: ../../source/downloads.rst:66
 msgid ""
-"For Linux there is a helper application available that aims to simplify "
-"the build process for newcomers. Get it from GitHub here: `Overte builder"
-" 🔗 <https://github.com/overte-org/overte-builder/>`_"
+"For Linux there is a helper application available that aims to simplify the "
+"build process for newcomers. Get it from GitHub here: `Overte builder 🔗 "
+"<https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
+"리눅스의 경우 초보자를 위해 빌드 프로세스를 간소화하는 것을 목표로 하는 도우"
+"미 애플리케이션을 사용할 수 있습니다. 여기 GitHub에서 다운로드하세요: '오버"
+"트 빌더 🔗 <https://github.com/overte-org/overte-builder/>`_'"
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:49
+#: ../../source/gallery.rst:3 ../../source/index.rst:46
 msgid "Gallery"
-msgstr ""
+msgstr "갤러리"
 
 #: ../../source/gallery.rst:5
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
 "locations attended with it."
 msgstr ""
+"갤러리에서는 오버트 인터페이스와 이를 사용한 과거 이벤트 및 장소를 소개합니"
+"다."
 
 #: ../../source/gallery.rst:11
 msgid "A normal day in the Overte office"
-msgstr ""
+msgstr "오버트 사무실의 평범한 하루"
 
 #: ../../source/gallery.rst:18
 msgid "New years party with the furry bartender"
-msgstr ""
+msgstr "퍼리 바텐더와 함께하는 신년 파티"
 
 #: ../../source/gallery.rst:25
 msgid "Basinskys ambient occlusion showcase"
-msgstr ""
+msgstr "Basinskys 앰비언트 오클루전 쇼케이스"
 
 #: ../../source/gallery.rst:32
 msgid "Installing new lanterns on the Hub bridge"
-msgstr ""
+msgstr "허브 브리지에 새로운 랜턴 설치하기"
 
 #: ../../source/gallery.rst:39
 msgid "Some time off in the office"
-msgstr ""
+msgstr "사무실에서 잠시 쉬는 시간"
 
 #: ../../source/gallery.rst:46
 msgid "74 working on the \"Kraftwerk\" Domain"
-msgstr ""
+msgstr "74 \"Kraftwerk\" 도메인에서 작업 중"
 
 #: ../../source/gallery.rst:53
 msgid "Hanging out on Maker Monday"
-msgstr ""
+msgstr "메이커 먼데이에 참여하기"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
-msgstr ""
+msgstr "Basinsky가 자신의 사진 세계를 뽐내는 모습"
 
 #: ../../source/gallery.rst:67
 msgid "Maker Monday on Daybreak Island"
-msgstr ""
+msgstr "Daybreak Island의 메이커 먼데이"
 
 #: ../../source/gallery.rst:74
 msgid "Christmas in Overte"
-msgstr ""
+msgstr "오버트에서의 크리스마스"
 
 #: ../../source/gallery.rst:81
 msgid "Development meeting on Daybreak Island"
-msgstr ""
+msgstr "Daybreak Island에서 열린 개발 회의"
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
-msgstr ""
+msgstr "fantasy island을 탐험하는 풀토이"
 
 #: ../../source/gallery.rst:95
 msgid "Development meeting at the Hub"
-msgstr ""
+msgstr "허브에서 개발 회의"
 
 #: ../../source/gallery.rst:102
 msgid "Kreolis playing in Brainstormer's Club"
-msgstr ""
+msgstr "Brainstormer's Club에서 플레이하는 Kreolis"
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:49
+#: ../../source/imprint.rst:3 ../../source/index.rst:46
 msgid "Imprint"
-msgstr ""
+msgstr "각인"
 
 #: ../../source/imprint.rst:5 ../../source/index.rst:49
-#: ../../source/overte_ev.rst:3
+#: ../../source/overte_ev.rst:3 ../../source/index.rst:46
 msgid "Overte e.V."
 msgstr ""
 
@@ -355,206 +390,237 @@ msgstr ""
 
 #: ../../source/imprint.rst:8
 msgid "Germany"
-msgstr ""
+msgstr "독일"
 
 #: ../../source/imprint.rst:10
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:49
+#: ../../source/index.rst:46
 msgid "Home"
-msgstr ""
+msgstr "홈"
 
-#: ../../source/index.rst:49
+#: ../../source/index.rst:46
 msgid "Events 🔗"
-msgstr ""
+msgstr "이벤트 🔗"
 
-#: ../../source/index.rst:49
+#: ../../source/index.rst:46
 msgid "Documentation 🔗"
-msgstr ""
+msgstr "문서 🔗"
 
-#: ../../source/index.rst:49
+#: ../../source/index.rst:46
 msgid "API reference 🔗"
-msgstr ""
+msgstr "API 참조 🔗"
 
-#: ../../source/index.rst:49 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:46 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
-msgstr ""
+msgstr "개인정보 보호정책"
 
 #: ../../source/index.rst:5
 msgid "About"
-msgstr ""
+msgstr "정보"
 
 #: ../../source/index.rst:7
 msgid ""
-"Overte is an open source virtual worlds and social VR software which "
-"enables you to create and share virtual worlds as virtual reality (VR) "
-"and desktop experiences. You can create and host your own virtual world, "
-"explore other worlds, meet and connect with other users, attend or host "
-"live VR events, and much more."
+"Overte is an open source virtual worlds and social VR software which enables "
+"you to create and share virtual worlds as virtual reality (VR) and desktop "
+"experiences. You can create and host your own virtual world, explore other "
+"worlds, meet and connect with other users, attend or host live VR events, "
+"and much more."
 msgstr ""
+"오버트는 가상 세계를 가상현실(VR) 및 데스크톱 경험으로 만들고 공유할 수 있는 "
+"오픈 소스 가상 세계 및 소셜 VR 소프트웨어입니다. 나만의 가상 세계를 만들고 호"
+"스팅하고, 다른 세계를 탐험하고, 다른 사용자를 만나고 연결하고, 라이브 VR 이벤"
+"트에 참석하거나 주최하는 등 다양한 활동을 할 수 있습니다."
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
-msgstr ""
+msgstr "오버트 소프트웨어는 다음과 같은 주요 기능을 제공합니다:"
 
 #: ../../source/index.rst:12
 msgid "Collaborative world creation and editing"
-msgstr ""
+msgstr "협업 월드 제작 및 편집"
 
 #: ../../source/index.rst:13
 msgid "VR support, including body tracking"
-msgstr ""
+msgstr "바디 트래킹을 포함한 VR 지원"
 
 #: ../../source/index.rst:14
 msgid "Scalability for up to 500 users in a single world"
-msgstr ""
+msgstr "단일 월드에서 최대 500명의 사용자를 수용가능한 확장성"
 
 #: ../../source/index.rst:15
 msgid ""
-"Scripting in JavaScript, which allows creation of games, interactables, "
-"UI elements, and custom applications"
+"Scripting in JavaScript, which allows creation of games, interactables, UI "
+"elements, and custom applications"
 msgstr ""
+"게임, 인터랙터블, UI 요소 및 사용자 지정 애플리케이션을 생성할 수 있는 "
+"JavaScript 스크립팅"
 
 #: ../../source/index.rst:16
 msgid "High quality low latency spatial audio"
-msgstr ""
+msgstr "지연 시간이 짧은 고품질 공간 오디오"
 
 #: ../../source/index.rst:17
 msgid "Powerful physics through Bullet physics engine"
-msgstr ""
+msgstr "불릿 물리 엔진을 통한 강력한 물리 효과"
 
 #: ../../source/index.rst:18
 msgid "Fully open-source under the permissive Apache 2.0 license"
-msgstr ""
+msgstr "허용된 Apache 2.0 라이선스에 따라 완전 오픈 소스 제공"
 
 #: ../../source/index.rst:19
 msgid "No central authority. You can run your own server from home."
-msgstr ""
+msgstr "중앙 권한이 없습니다. 집에서 직접 서버를 운영할 수 있습니다."
 
 #: ../../source/index.rst:20
 msgid "No user account required"
-msgstr ""
+msgstr "사용자 계정 필요 없음"
 
 #: ../../source/index.rst:21
 msgid "Supported by a democratic non-profit organization"
-msgstr ""
+msgstr "민주적인 비영리 단체에 의해 지원됨"
 
 #: ../../source/index.rst:23
 msgid ""
-":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
-":doc:`Gallery <gallery>` |GalleryPage|."
+":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:"
+"`Gallery <gallery>` |GalleryPage|."
 msgstr ""
+":doc:`Get Overte <다운로드>` |다운로드페이지| 또는 :doc:`Gallery <갤러리>` |"
+"갤러리페이지|를 참조하세요."
 
-#: ../../source/index.rst:32
+#: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
-msgstr ""
+msgstr "오버트 사무실에서 열린 개발 회의"
 
-#: ../../source/index.rst:37
+#: ../../source/index.rst:34
 msgid "News"
-msgstr ""
+msgstr "뉴스"
 
-#: ../../source/index.rst:41
+#: ../../source/index.rst:38
 msgid "2023-04-01 New website"
-msgstr ""
+msgstr "2023-04-01 새 웹사이트"
 
-#: ../../source/index.rst:43
+#: ../../source/index.rst:40
 msgid ""
 "Since our old 11ty based website was unmaintained and no one knew how to "
 "edit it, we created a brand spanking new website using Sphinx, the same "
 "system that we have been using for our main documentation for years now. "
-"This also allows us, among other things, to finally translate the website"
-" to different languages using Weblate."
+"This also allows us, among other things, to finally translate the website to "
+"different languages using Weblate."
 msgstr ""
+"이전 11ty 기반 웹 사이트는 유지 관리가 되지 않았고 아무도 편집 방법을 몰랐기 "
+"때문에 수년 동안 주요 문서에 사용해 온 것과 동일한 시스템인 Sphinx를 사용하"
+"여 완전히 새로운 웹 사이트를 만들었습니다. 또한 Weblate를 사용하여 웹사이트"
+"를 다양한 언어로 번역할 수 있게 되었습니다."
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:43
 msgid ""
-"If you would like to help translate this website or other parts of "
-"Overte, head over to `weblate.overte.org 🔗 "
-"<https://weblate.overte.org/>`_."
+"If you would like to help translate this website or other parts of Overte, "
+"head over to `weblate.overte.org 🔗 <https://weblate.overte.org/>`_."
 msgstr ""
+"이 웹사이트나 오버트의 다른 부분을 번역하는 데 도움을 주고 싶으시다면 "
+"`weblate.overte.org 🔗 <https://weblate.overte.org/>`_로 이동하세요."
 
 #: ../../source/overte_ev.rst:5
 msgid ""
 "The Overte e.V. is the association behind Overte. It is a non-profit "
 "association registered in Germany."
 msgstr ""
+"Overte e.V.는 오버트의 배후에 있는 협회입니다. 독일에 등록된 비영리 협회입니"
+"다."
 
 #: ../../source/overte_ev.rst:10
 msgid "Articles of association"
-msgstr ""
+msgstr "정관"
 
 #: ../../source/overte_ev.rst:12
 msgid ""
 "The articles of association, called \"Satzung\" in German, are the "
-"associations bylaws. They regulate what the association, its members, and"
-" the board can and cannot do."
+"associations bylaws. They regulate what the association, its members, and "
+"the board can and cannot do."
 msgstr ""
+"독일어로 '사중'이라고 하는 정관은 협회의 내규입니다. 정관에는 협회, 회원, 이"
+"사회가 할 수 있는 일과 할 수 없는 일이 규정되어 있습니다."
 
 #: ../../source/overte_ev.rst:15
 msgid "Take a look at them here:"
-msgstr ""
+msgstr "여기에서 살펴보세요:"
 
 #: ../../source/overte_ev.rst:17
 msgid ""
-"`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
-"code-draft.readthedocs.io/de/latest/>`_"
+"`Overte e.V. Satzung - German original <https://buyanvr-organizational-code-"
+"draft.readthedocs.io/de/latest/>`_"
 msgstr ""
+"`Overte e.V. Satzung - 독일어 원본 <https://buyanvr-organizational-code-"
+"draft.readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
 msgid ""
-"`Overte e.V. Articles of association - English translation <https"
-"://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - English translation <https://buyanvr-"
+"organizational-code-draft.readthedocs.io/en/latest/>`_"
 msgstr ""
+"`Overte e.V. 정관 - 영어 번역 <https://buyanvr-organizational-code-draft."
+"readthedocs.io/en/latest/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
-"While the German original takes precedence over the English translation, "
-"we try to make sure that the English translation is as accurate as "
-"possible. If you notice any discrepancies, please get in touch with us."
+"While the German original takes precedence over the English translation, we "
+"try to make sure that the English translation is as accurate as possible. If "
+"you notice any discrepancies, please get in touch with us."
 msgstr ""
+"독일어 원문이 영어 번역보다 우선하지만, 최대한 정확한 영어 번역을 위해 노력하"
+"고 있습니다. 불일치하는 부분이 발견되면 당사에 문의해 주시기 바랍니다."
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership"
-msgstr ""
+msgstr "멤버십"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
-"To use Overte software or help develop the software it is **NOT** "
-"required to be an association member."
+"To use Overte software or help develop the software it is **NOT** required "
+"to be an association member."
 msgstr ""
+"오버트 소프트웨어를 사용하거나 소프트웨어 개발에 도움을 주기 위해 협회 회원"
+"일 필요는 **없습니다**."
 
 #: ../../source/overte_ev.rst:32
 msgid ""
 "You are very welcome to join the association as a member or supporting "
-"member. As a member you are allowed to vote in association meetings. This"
-" also includes board member elections."
+"member. As a member you are allowed to vote in association meetings. This "
+"also includes board member elections."
 msgstr ""
+"회원 또는 후원 회원으로 협회에 가입하는 것을 환영합니다. 회원은 협회 회의에"
+"서 투표할 수 있습니다. 여기에는 이사회 구성원 선거도 포함됩니다."
 
 #: ../../source/overte_ev.rst:35
 msgid ""
-"Currently the yearly membership fee is 60 Euro. The fee is pre paid "
-"either yearly or monthly."
+"Currently the yearly membership fee is 60 Euro. The fee is pre paid either "
+"yearly or monthly."
 msgstr ""
+"현재 연간 회비는 60유로입니다. 연회비는 연간 또는 매월 선불로 납부할 수 있습"
+"니다."
 
 #: ../../source/overte_ev.rst:37
 msgid ""
 "If you want to join please make yourself familiar with the articles of "
 "association linked above. To join the association please write an "
-"application containing your real name, username (optional), postal "
-"address, and email address, to application@overte.org, or our postal "
-"address."
+"application containing your real name, username (optional), postal address, "
+"and email address, to application@overte.org, or our postal address."
 msgstr ""
+"가입을 원하시면 위에 링크된 정관을 숙지하시기 바랍니다. 협회에 가입하려면 실"
+"명, 사용자 이름(선택 사항), 우편 주소, 이메일 주소가 포함된 신청서를 작성하"
+"여 application@overte.org 또는 우편 주소로 보내주시기 바랍니다."
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
-msgstr ""
+msgstr "현재 보드"
 
 #: ../../source/overte_ev.rst:46
 msgid ""
-"The current board members were elected on the general assembly on the "
-"17th September 2022."
-msgstr ""
+"The current board members were elected on the general assembly on the 17th "
+"September 2022."
+msgstr "현 이사회 멤버는 지난 2022년 9월 17일 총회에서 선출되었습니다."
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -566,11 +632,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:50
 msgid "Speaks Spanish, English and Russian."
-msgstr ""
+msgstr "스페인어, 영어, 러시아어 가능."
 
 #: ../../source/overte_ev.rst:51
 msgid "Chairman and developer."
-msgstr ""
+msgstr "회장, 개발자."
 
 #: ../../source/overte_ev.rst:59
 msgid "|Julian_Groß| Julian Groß"
@@ -582,11 +648,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:60
 msgid "Speaks German, English and basic Japanese."
-msgstr ""
+msgstr "독일어, 영어, 기초 일본어 가능."
 
 #: ../../source/overte_ev.rst:61
 msgid "Treasurer, deputy chairman, and developer."
-msgstr ""
+msgstr "재무, 부의장, 개발자."
 
 #: ../../source/overte_ev.rst:69
 msgid "|Kreolis| Kreolis"
@@ -598,11 +664,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:70 ../../source/overte_ev.rst:90
 msgid "Speaks German and English."
-msgstr ""
+msgstr "독일어와 영어를 구사합니다."
 
 #: ../../source/overte_ev.rst:71
 msgid "Secretary and second deputy chairman."
-msgstr ""
+msgstr "비서실장 겸 제2부회장."
 
 #: ../../source/overte_ev.rst:79
 msgid "|74hc595| 74hc595"
@@ -614,11 +680,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:80
 msgid "Speaks Polish and English."
-msgstr ""
+msgstr "폴란드어와 영어 가능."
 
 #: ../../source/overte_ev.rst:81
 msgid "Developer"
-msgstr ""
+msgstr "개발자"
 
 #: ../../source/overte_ev.rst:89
 msgid "|Catraxx| Catraxx"
@@ -630,281 +696,240 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:91
 msgid "Former website developer"
-msgstr ""
+msgstr "전 웹사이트 개발자"
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
-"This is the privacy policy for overte.org, accessible from "
-"https://overte.org. This Privacy Policy document contains types of "
-"information that is collected and recorded by overte.org and how we use "
-"it."
+"This is the privacy policy for overte.org, accessible from https://overte."
+"org. This Privacy Policy document contains types of information that is "
+"collected and recorded by overte.org and how we use it."
 msgstr ""
+"본 개인정보 처리방침은 https://overte.org 에서 확인할 수 있는 overte.org의 개"
+"인정보 처리방침입니다. 본 개인정보 처리방침 문서에는 overte.org에서 수집 및 "
+"기록하는 정보의 유형과 당사가 이를 사용하는 방법이 포함되어 있습니다."
 
 #: ../../source/privacy_policy.rst:7
 msgid ""
 "If you have additional questions or require more information about our "
 "Privacy Policy, do not hesitate to contact us."
 msgstr ""
+"개인정보 처리방침에 대해 추가 질문이 있거나 자세한 정보가 필요한 경우 언제든"
+"지 문의해 주세요."
 
 #: ../../source/privacy_policy.rst:9
 msgid "We are a Data Controller of your information."
-msgstr ""
+msgstr "당사는 귀하의 정보에 대한 데이터 컨트롤러입니다."
 
 #: ../../source/privacy_policy.rst:11
 msgid ""
-"Overte e.V. legal basis for collecting and using the personal information"
-" described in this Privacy Policy depends on the Personal Information we "
+"Overte e.V. legal basis for collecting and using the personal information "
+"described in this Privacy Policy depends on the Personal Information we "
 "collect and the specific context in which we collect the information:"
 msgstr ""
+"본 개인정보 처리방침에 설명된 개인정보의 수집 및 사용에 대한 법적 근거는 당사"
+"가 수집하는 개인정보 및 당사가 정보를 수집하는 특정 상황에 따라 다릅니다:"
 
 #: ../../source/privacy_policy.rst:13
 msgid "Overte e.V. needs to perform a contract with you"
-msgstr ""
+msgstr "Overte e.V.는 귀하와 계약을 이행해야 합니다"
 
 #: ../../source/privacy_policy.rst:14
 msgid "You have given Overte e.V. permission to do so"
-msgstr ""
+msgstr "귀하는 Overte e.V.에 다음과 같은 권한을 부여했습니다"
 
 #: ../../source/privacy_policy.rst:15
 msgid ""
-"Processing your personal information is in Overte e.V. legitimate "
-"interests"
+"Processing your personal information is in Overte e.V. legitimate interests"
 msgstr ""
+"귀하의 개인 정보를 처리하는 것은 Overte e.V.의 정당한 이익에 부합합니다."
 
 #: ../../source/privacy_policy.rst:16
 msgid "Overte e.V. needs to comply with the law"
-msgstr ""
+msgstr "Overte e.V.는 법률을 준수해야 합니다."
 
 #: ../../source/privacy_policy.rst:18
 msgid ""
 "Overte e.V. will retain your personal information only for as long as is "
-"necessary for the purposes set out in this Privacy Policy. We will retain"
-" and use your information to the extent necessary to comply with our "
-"legal obligations, resolve disputes, and enforce our policies."
+"necessary for the purposes set out in this Privacy Policy. We will retain "
+"and use your information to the extent necessary to comply with our legal "
+"obligations, resolve disputes, and enforce our policies."
 msgstr ""
+"Overte e.V.는 본 개인정보 보호정책에 명시된 목적에 필요한 기간 동안만 귀하의 "
+"개인정보를 보유합니다. 당사는 법적 의무를 준수하고 분쟁을 해결하며 당사의 정"
+"책을 시행하는 데 필요한 범위 내에서만 귀하의 정보를 보유 및 사용합니다."
 
 #: ../../source/privacy_policy.rst:20
 msgid ""
-"If you are a resident of the European Economic Area (EEA), you have "
-"certain data protection rights. If you wish to be informed what Personal "
-"Information we hold about you and if you want it to be removed from our "
-"systems, please contact us."
+"If you are a resident of the European Economic Area (EEA), you have certain "
+"data protection rights. If you wish to be informed what Personal Information "
+"we hold about you and if you want it to be removed from our systems, please "
+"contact us."
 msgstr ""
+"유럽경제지역(EEA) 거주자인 경우 특정 데이터 보호 권리가 있습니다. 당사가 귀하"
+"에 대해 보유하고 있는 개인정보에 대한 정보를 받고 싶거나 당사 시스템에서 해"
+"당 정보를 삭제하고 싶다면 당사에 문의하시기 바랍니다."
 
 #: ../../source/privacy_policy.rst:22
-msgid "In certain circumstances, you have the following data protection rights:"
-msgstr ""
+msgid ""
+"In certain circumstances, you have the following data protection rights:"
+msgstr "특정 상황에서 회원님에게는 다음과 같은 데이터 보호 권리가 있습니다:"
 
 #: ../../source/privacy_policy.rst:24
-msgid "The right to access, update or to delete the information we have on you."
-msgstr ""
+msgid ""
+"The right to access, update or to delete the information we have on you."
+msgstr "당사가 보유한 귀하의 정보에 액세스, 업데이트 또는 삭제할 수 있는 권리."
 
 #: ../../source/privacy_policy.rst:25
 msgid "The right of rectification."
-msgstr ""
+msgstr "수정 권한."
 
 #: ../../source/privacy_policy.rst:26
 msgid "The right to object."
-msgstr ""
+msgstr "이의를 제기할 권리."
 
 #: ../../source/privacy_policy.rst:27
 msgid "The right of restriction."
-msgstr ""
+msgstr "제한 권한."
 
 #: ../../source/privacy_policy.rst:28
 msgid "The right to data portability"
-msgstr ""
+msgstr "데이터 이동성에 대한 권리"
 
 #: ../../source/privacy_policy.rst:29
 msgid "The right to withdraw consent"
-msgstr ""
+msgstr "동의를 철회할 권리"
 
 #: ../../source/privacy_policy.rst:33
 msgid "Log Files"
-msgstr ""
+msgstr "로그 파일"
 
 #: ../../source/privacy_policy.rst:35
 msgid ""
-"overte.org follows a standard procedure of using log files. These files "
-"log visitors when they visit websites. All hosting companies do this and "
-"a part of hosting services' analytics. The information collected by log "
-"files include internet protocol (IP) addresses, browser type, Internet "
-"Service Provider (ISP), date and time stamp, referring/exit pages, and "
-"possibly the number of clicks. These are not linked to any information "
-"that is personally identifiable. The purpose of the information is for "
-"analyzing trends, administering the site."
+"overte.org follows a standard procedure of using log files. These files log "
+"visitors when they visit websites. All hosting companies do this and a part "
+"of hosting services' analytics. The information collected by log files "
+"include internet protocol (IP) addresses, browser type, Internet Service "
+"Provider (ISP), date and time stamp, referring/exit pages, and possibly the "
+"number of clicks. These are not linked to any information that is personally "
+"identifiable. The purpose of the information is for analyzing trends, "
+"administering the site."
 msgstr ""
+"overte.org는 로그 파일 사용의 표준 절차를 따릅니다. 이러한 파일은 방문자가 웹"
+"사이트를 방문할 때 방문자를 기록합니다. 모든 호스팅 회사가 이 작업을 수행하"
+"며 호스팅 서비스 분석의 일부입니다. 로그 파일에서 수집하는 정보에는 인터넷 프"
+"로토콜(IP) 주소, 브라우저 유형, 인터넷 서비스 제공업체(ISP), 날짜 및 타임스탬"
+"프, 참조/종료 페이지, 클릭 횟수 등이 포함됩니다. 이러한 정보는 개인을 식별할 "
+"수 있는 어떠한 정보에도 연결되지 않습니다. 이러한 정보의 목적은 트렌드 분석, "
+"사이트 관리를 위한 것입니다."
 
 #: ../../source/privacy_policy.rst:39
 msgid "Third Party Privacy Policies"
-msgstr ""
+msgstr "타사 개인정보 처리방침"
 
 #: ../../source/privacy_policy.rst:41
 msgid ""
-"overte.org's Privacy Policy does not apply to other websites. Thus, we "
-"are advising you to consult the respective Privacy Policies of these "
-"third-party servers for more detailed information. It may include their "
-"practices and instructions about how to opt-out of certain options."
+"overte.org's Privacy Policy does not apply to other websites. Thus, we are "
+"advising you to consult the respective Privacy Policies of these third-party "
+"servers for more detailed information. It may include their practices and "
+"instructions about how to opt-out of certain options."
 msgstr ""
+"overte.org의 개인정보 처리방침은 다른 웹사이트에는 적용되지 않습니다. 따라서 "
+"더 자세한 정보는 이러한 타사 서버의 각 개인정보 처리방침을 참조하시기 바랍니"
+"다. 여기에는 특정 옵션을 거부하는 방법에 대한 해당 서버의 관행 및 지침이 포함"
+"될 수 있습니다."
 
 #: ../../source/privacy_policy.rst:43
 msgid ""
-"You can choose to disable cookies through your individual browser "
-"options. To know more detailed information about cookie management with "
-"specific web browsers, it can be found at the browsers' respective "
-"websites."
+"You can choose to disable cookies through your individual browser options. "
+"To know more detailed information about cookie management with specific web "
+"browsers, it can be found at the browsers' respective websites."
 msgstr ""
+"개별 브라우저 옵션을 통해 쿠키를 비활성화하도록 선택할 수 있습니다. 특정 웹 "
+"브라우저의 쿠키 관리에 대한 자세한 내용은 해당 브라우저의 웹사이트에서 확인"
+"할 수 있습니다."
 
 #: ../../source/privacy_policy.rst:47
 msgid "Fediverse"
-msgstr ""
+msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:49
 msgid ""
 "On this website we are embedding `fediverse <https://fediverse.party/>`_ "
 "apps and content. Explicitly we are using the social network `mastodon "
-"<https://joinmastodon.org/>`_. This service does not record any additonal"
-" data. But if you are logged in your mastodon server, the `privacy policy"
-" <https://joinmastodon.org/privacy-policy>`_ of that server applies for "
-"all interactions with the content."
+"<https://joinmastodon.org/>`_. This service does not record any additonal "
+"data. But if you are logged in your mastodon server, the `privacy policy "
+"<https://joinmastodon.org/privacy-policy>`_ of that server applies for all "
+"interactions with the content."
 msgstr ""
+"이 웹사이트에는 `fediverse <https://fediverse.party/>`_ 앱과 콘텐츠가 포함되"
+"어 있습니다. 명시적으로 우리는 소셜 네트워크 '마스토돈 <https://joinmastodon."
+"org/>`_을 사용하고 있습니다. 이 서비스는 추가 데이터를 기록하지 않습니다. 그"
+"러나 마스토돈 서버에 로그인한 경우 해당 서버의 `개인정보 보호 정책 <https://"
+"joinmastodon.org/privacy-policy>`_이 콘텐츠와의 모든 상호 작용에 적용됩니다."
 
 #: ../../source/privacy_policy.rst:53
 msgid "Children's Information"
-msgstr ""
+msgstr "어린이 정보"
 
 #: ../../source/privacy_policy.rst:55
 msgid ""
-"Another part of our priority is adding protection for children while "
-"using the internet. We encourage parents and guardians to observe, "
-"participate in, and/or monitor and guide their online activity."
+"Another part of our priority is adding protection for children while using "
+"the internet. We encourage parents and guardians to observe, participate in, "
+"and/or monitor and guide their online activity."
 msgstr ""
+"트위터의 또 다른 우선순위 중 하나는 인터넷을 사용하는 동안 어린이를 보호하는 "
+"것입니다. 부모와 보호자가 자녀의 온라인 활동을 관찰하고, 참여하며, 모니터링하"
+"고 지도할 것을 권장합니다."
 
 #: ../../source/privacy_policy.rst:57
 msgid ""
-"overte.org does not knowingly collect any Personal Identifiable "
-"Information from children under the age of 13. If you think that your "
-"child provided this kind of information on our website, we encourage you "
-"to contact us immediately and we will do our best efforts to promptly "
-"remove such information from our records."
+"overte.org does not knowingly collect any Personal Identifiable Information "
+"from children under the age of 13. If you think that your child provided "
+"this kind of information on our website, we encourage you to contact us "
+"immediately and we will do our best efforts to promptly remove such "
+"information from our records."
 msgstr ""
+"overte.org는 13세 미만의 어린이로부터 고의로 개인 식별 정보를 수집하지 않습니"
+"다. 귀하의 자녀가 당사 웹사이트에서 이러한 종류의 정보를 제공했다고 생각되면 "
+"즉시 당사에 연락해 주시면 당사 기록에서 해당 정보를 신속하게 삭제하기 위해 최"
+"선을 다하겠습니다."
 
 #: ../../source/privacy_policy.rst:61
 msgid "Online Privacy Policy Only"
-msgstr ""
+msgstr "온라인 개인정보 보호정책만 해당"
 
 #: ../../source/privacy_policy.rst:63
 msgid ""
-"Our Privacy Policy applies only to our online activities and is valid for"
-" visitors to our website with regards to the information that they shared"
-" and/or collect in overte.org. This policy is not applicable to any "
-"information collected offline or via channels other than this website."
+"Our Privacy Policy applies only to our online activities and is valid for "
+"visitors to our website with regards to the information that they shared and/"
+"or collect in overte.org. This policy is not applicable to any information "
+"collected offline or via channels other than this website."
 msgstr ""
+"당사의 개인정보 처리방침은 당사의 온라인 활동에만 적용되며, 당사 웹사이트 방"
+"문자가 overte.org에서 공유 및/또는 수집한 정보와 관련하여 당사 웹사이트 방문"
+"자에게 유효합니다. 본 정책은 오프라인 또는 본 웹사이트 이외의 채널을 통해 수"
+"집된 정보에는 적용되지 않습니다."
 
 #: ../../source/privacy_policy.rst:67
 msgid "Consent"
-msgstr ""
+msgstr "동의"
 
 #: ../../source/privacy_policy.rst:69
 msgid ""
-"By using our website, you hereby consent to our Privacy Policy and agree "
-"to its terms."
+"By using our website, you hereby consent to our Privacy Policy and agree to "
+"its terms."
 msgstr ""
+"당사 웹사이트를 이용함으로써 귀하는 당사의 개인정보 취급방침에 동의하고 해당 "
+"약관에 동의하는 것으로 간주됩니다."
 
-#~ msgid "New website"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Since our old 11ty based website "
-#~ "was unmaintained and no one knew "
-#~ "how to edit it, we created a "
-#~ "brand spanking new website using Sphinx,"
-#~ " the same system that we have "
-#~ "been using for our main documentation"
-#~ " for years now."
-#~ msgstr ""
-
-#~ msgid "Discord"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Join our Matrix Space on |Matrix| "
-#~ "`overte:overte.org 🔗 "
-#~ "<https://matrix.to/#/#overte:overte.org>`_ Our Matrix "
-#~ "Space is also bridged to |Discord| "
-#~ "`Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":doc:`Get Overte <downloads>` |DownloadPage| "
-#~ "or take a look at our "
-#~ ":doc:`Gallery <gallery>` |Gallery|."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Join our Matrix Space on |MatrixLink|"
-#~ " `overte:overte.org 🔗 "
-#~ "<https://matrix.to/#/#overte:overte.org>`_ Our Matrix "
-#~ "Space is also bridged to |DiscordLink|"
-#~ " `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_"
-#~ msgstr ""
-
-#~ msgid "You may donate via the following methods in order of preferrence:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "`OpenCollective 🔗 <https://opencollective.com/overte>`_"
-#~ " - Bank transfer (preferred), Debitcard,"
-#~ " Creditcard"
-#~ msgstr ""
-
-#~ msgid "High quality low latency spacial audio"
-#~ msgstr ""
-
-#~ msgid "Powerful physics Bullet physics engine"
-#~ msgstr ""
-
-#~ msgid "Membership and your Contribution"
-#~ msgstr ""
-
-#~ msgid "Privacy Policies"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You may consult this list to find"
-#~ " the Privacy Policy for each of "
-#~ "the advertising partners of overte.org."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Third-party ad servers or ad "
-#~ "networks uses technologies like cookies, "
-#~ "JavaScript, or Web Beacons that are "
-#~ "used in their respective advertisements "
-#~ "and links that appear on overte.org, "
-#~ "which are sent directly to users' "
-#~ "browser. They automatically receive your "
-#~ "IP address when this occurs. These "
-#~ "technologies are used to measure the "
-#~ "effectiveness of their advertising campaigns"
-#~ " and/or to personalize the advertising "
-#~ "content that you see on websites "
-#~ "that you visit."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Note that overte.org has no access "
-#~ "to or control over these cookies "
-#~ "that are used by third-party "
-#~ "advertisers."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Select the appropriate package for you"
-#~ " distribution and architecture from our "
-#~ "`GitHub Release page 🔗 <https://github.com"
-#~ "/overte-org/overte/releases/tag/2022.12.1/>`_, or "
-#~ "directly from `public.overte.org 🔗 "
-#~ "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
-#~ msgstr ""
-
+#: ../../source/downloads.rst:35
+msgid ""
+"Select the appropriate package for you distribution and architecture from "
+"our `GitHub Release page 🔗 <https://github.com/overte-org/overte/releases/"
+"tag/2022.12.1/>`_, or directly from `public.overte.org 🔗 <https://public."
+"overte.org/index.html#build/overte/release/2022.12.1/>`_."
+msgstr ""
+"아키텍처에 적합한 패키지를 'GitHub 릴리스 페이지 🔗 <https://github.com/"
+"overte-org/overte/releases/tag/2022.12.1/>`_에서 선택하거나 'public.overte."
+"org 🔗 <https://public.overte.org/index.html#build/overte/release/2022.12.1/"
+">`_에서 직접 선택하실 수 있습니다."
