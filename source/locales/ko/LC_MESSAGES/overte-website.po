@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 07:52+0000\n"
-"PO-Revision-Date: 2023-06-09 11:29+0000\n"
+"PO-Revision-Date: 2023-06-09 17:02+0000\n"
 "Last-Translator: Seung Ju Lee <leeseungju9000@gmail.com>\n"
 "Language-Team: Korean <https://weblate.overte.org/projects/overte/"
 "overte-website/ko/>\n"
@@ -488,13 +488,11 @@ msgid "Supported by a democratic non-profit organization"
 msgstr "민주적인 비영리 단체에 의해 지원됨"
 
 #: ../../source/index.rst:23
-#, fuzzy
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:"
 "`Gallery <gallery>` |GalleryPage|."
-msgstr ""
-":doc:`Get Overte <downloads>` |DownloadPage| 또는 :doc:`갤러리 <gallery>` "
-"|GalleryPage|를 참조하세요."
+msgstr ":doc:`오버트 받기 <다운로드>` |다운로드페이지| 또는 :doc:`갤러리<갤러리>` "
+"|갤러리페이지|를 참조하세요."
 
 #: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
