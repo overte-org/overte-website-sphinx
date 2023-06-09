@@ -42,6 +42,16 @@ jobs:
        make BUILDDIR="build/zh_Hant" SPHINXOPTS="-Dlanguage=zh_Hant" html
        mv build/zh_Hant/html/ output/zh_Hant/
 
+    - name: Build Czech translation
+      run: |
+       make BUILDDIR="build/cs" SPHINXOPTS="-Dlanguage=cs" html
+       mv build/cs/html/ output/cs/
+
+    - name: Build Korean translation
+      run: |
+       make BUILDDIR="build/ko" SPHINXOPTS="-Dlanguage=ko" html
+       mv build/ko/html/ output/ko/
+
 
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@4.3.0

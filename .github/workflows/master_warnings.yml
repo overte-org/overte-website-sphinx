@@ -55,3 +55,9 @@ jobs:
       shell: bash
       run: |
         make BUILDDIR=build-zh_Hant SPHINXOPTS="-Dlanguage=zh_Hant -W --keep-going" html
+
+    - name: Check Czech
+      if: ${{ success() || failure() }}
+      shell: bash
+      run: |
+        make BUILDDIR=build-cs SPHINXOPTS="-Dlanguage=cs -W --keep-going" html
