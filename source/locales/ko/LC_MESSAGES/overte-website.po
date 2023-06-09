@@ -4,20 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Overte Website \n"
+"Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 07:52+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-06-09 11:29+0000\n"
+"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: Korean <https://weblate.overte.org/projects/overte/"
+"overte-website/ko/>\n"
 "Language: ko\n"
-"Language-Team: ko <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -103,9 +104,10 @@ msgid ""
 "to/#/#overte:overte.org>`_. Our Matrix Space is also bridged to |"
 "DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
-"매트릭스 스페이스에 참여하려면 |MatrixLink| `overte:overte.org 🔗 <https://"
-"matrix.to/#/#overte:overte.org>`_에 접속하세요. 저희 매트릭스 스페이스는 또"
-"한 |DiscordLink| `디스코드🔗 <https://discord.gg/4YuQvc8K2f>`_에 연결됩니다."
+"매트릭스 스페이스에 참여하려면 |MatrixLink| `overte:overte.org 🔗 "
+"<https://matrix.to/#/#overte:overte.org>`_ 에 접속하세요. 저희 매트릭스 "
+"스페이스는 또한 |DiscordLink| `디스코드🔗 <https://discord.gg/4YuQvc8K2f>`_ "
+"에 연결됩니다."
 
 #: ../../source/contact.rst:35
 msgid "Forum"
@@ -223,8 +225,8 @@ msgid ""
 "You will need to set the AppImage as **executable** using your file manager, "
 "or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr ""
-"파일 관리자를 사용하거나 다음과 같은 명령어를 사용하여 앱 이미지를 **실행 가"
-"능**으로 설정해야 합니다: :bash:`chmod +x Overte.AppImage`."
+"파일 관리자를 사용하거나 다음과 같은 명령어를 사용하여 앱 이미지를 **실행 "
+"가능** 으로 설정해야 합니다: :bash:`chmod +x Overte.AppImage`."
 
 #: ../../source/downloads.rst:33
 msgid "Domain Server"
@@ -482,12 +484,13 @@ msgid "Supported by a democratic non-profit organization"
 msgstr "민주적인 비영리 단체에 의해 지원됨"
 
 #: ../../source/index.rst:23
+#, fuzzy
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:"
 "`Gallery <gallery>` |GalleryPage|."
 msgstr ""
-":doc:`Get Overte <다운로드>` |다운로드페이지| 또는 :doc:`Gallery <갤러리>` |"
-"갤러리페이지|를 참조하세요."
+":doc:`Get Overte <downloads>` |DownloadPage| 또는 :doc:`갤러리 <gallery>` "
+"|GalleryPage|를 참조하세요."
 
 #: ../../source/index.rst:29
 msgid "Development meeting in the Overte office"
@@ -519,8 +522,8 @@ msgid ""
 "If you would like to help translate this website or other parts of Overte, "
 "head over to `weblate.overte.org 🔗 <https://weblate.overte.org/>`_."
 msgstr ""
-"이 웹사이트나 오버트의 다른 부분을 번역하는 데 도움을 주고 싶으시다면 "
-"`weblate.overte.org 🔗 <https://weblate.overte.org/>`_로 이동하세요."
+"이 웹사이트나 오버트의 다른 부분을 번역하는 데 도움을 주고 싶으시다면 `"
+"weblate.overte.org 🔗 <https://weblate.overte.org/>`_ 로 이동하세요."
 
 #: ../../source/overte_ev.rst:5
 msgid ""
@@ -861,11 +864,12 @@ msgid ""
 "<https://joinmastodon.org/privacy-policy>`_ of that server applies for all "
 "interactions with the content."
 msgstr ""
-"이 웹사이트에는 `fediverse <https://fediverse.party/>`_ 앱과 콘텐츠가 포함되"
-"어 있습니다. 명시적으로 우리는 소셜 네트워크 '마스토돈 <https://joinmastodon."
-"org/>`_을 사용하고 있습니다. 이 서비스는 추가 데이터를 기록하지 않습니다. 그"
-"러나 마스토돈 서버에 로그인한 경우 해당 서버의 `개인정보 보호 정책 <https://"
-"joinmastodon.org/privacy-policy>`_이 콘텐츠와의 모든 상호 작용에 적용됩니다."
+"이 웹사이트에는 `fediverse <https://fediverse.party/>`_ 앱과 콘텐츠가 "
+"포함되어 있습니다. 명시적으로 우리는 소셜 네트워크 `마스토돈 "
+"<https://joinmastodon.org/>`_ 을 사용하고 있습니다. 이 서비스는 추가 "
+"데이터를 기록하지 않습니다. 그러나 마스토돈 서버에 로그인한 경우 해당 서버의 "
+"`개인정보 보호 정책 <https://joinmastodon.org/privacy-policy>`_ 이 "
+"콘텐츠와의 모든 상호 작용에 적용됩니다."
 
 #: ../../source/privacy_policy.rst:53
 msgid "Children's Information"
