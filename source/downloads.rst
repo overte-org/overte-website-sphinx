@@ -32,7 +32,7 @@ Interface
 Domain Server
 *************
 
-Select the appropriate package for you distribution and architecture from our `GitHub Release page 🔗 <https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_,
+Select the appropriate package for your distribution and architecture from our `GitHub Release page 🔗 <https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_,
 or directly from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_.
 
 
