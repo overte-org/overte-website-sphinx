@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-03 21:43+0000\n"
+"POT-Creation-Date: 2023-06-09 07:52+0000\n"
 "PO-Revision-Date: 2023-04-01 19:33+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
 "Language: ja\n"
@@ -56,7 +56,7 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:46
+#: ../../source/contact.rst:5 ../../source/index.rst:49
 msgid "Contact"
 msgstr "交流する"
 
@@ -94,7 +94,7 @@ msgstr ""
 msgid "Matrix"
 msgstr "Matrix"
 
-#: ../../source/contact.rst:29
+#: ../../source/contact.rst:29 ../../source/index.rst:25
 msgid ""
 "Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
 "<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
@@ -122,7 +122,7 @@ msgstr "Mastodon"
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:46
+#: ../../source/donate.rst:3 ../../source/index.rst:49
 msgid "Donate"
 msgstr "寄付する"
 
@@ -177,7 +177,7 @@ msgstr ""
 "e.V.は、ドイツで税額控除が可能な領収書を発行することができます。領収書の発行をご希望の方は、寄付後、accounting@overte.org"
 " までご連絡ください。"
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:46
+#: ../../source/downloads.rst:5 ../../source/index.rst:49
 msgid "Downloads"
 msgstr "ダウンロード"
 
@@ -227,9 +227,10 @@ msgid "Domain Server"
 msgstr ""
 
 #: ../../source/downloads.rst:35
+#, fuzzy
 msgid ""
-"Select the appropriate package for you distribution and architecture from"
-" our `GitHub Release page 🔗 <https://github.com/overte-"
+"Select the appropriate package for your distribution and architecture "
+"from our `GitHub Release page 🔗 <https://github.com/overte-"
 "org/overte/releases/tag/2022.12.1/>`_, or directly from "
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
@@ -299,7 +300,7 @@ msgstr ""
 "Linuxでは、初心者向けにビルドプロセスを簡素化することを目的としたヘルパーアプリケーションが用意されています。GitHubから入手することができます："
 " `Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_"
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:46
+#: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
 msgstr "ギャラリー"
 
@@ -365,11 +366,11 @@ msgstr "Hubでの開発者ミーティング"
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr "Brainstormer's Clubで演奏するKreolis"
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:46
+#: ../../source/imprint.rst:3 ../../source/index.rst:49
 msgid "Imprint"
 msgstr "インプリント"
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:46
+#: ../../source/imprint.rst:5 ../../source/index.rst:49
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -390,23 +391,23 @@ msgstr "Germany"
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "Home"
 msgstr "トップ"
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "Events 🔗"
 msgstr "イベント🔗"
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "Documentation 🔗"
 msgstr "ドキュメンテーション🔗"
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "API reference 🔗"
 msgstr "APIリファレンス🔗"
 
-#: ../../source/index.rst:46 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:49 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr "個人情報保護方針"
 
@@ -477,19 +478,19 @@ msgstr ""
 ":doc:`Overteを入手する <downloads>` |DownloadPage| 、または :doc:`Gallery "
 "<gallery>` |GalleryPage| をご覧ください。"
 
-#: ../../source/index.rst:29
+#: ../../source/index.rst:32
 msgid "Development meeting in the Overte office"
 msgstr "Overte officeでの開発者ミーティング"
 
-#: ../../source/index.rst:34
+#: ../../source/index.rst:37
 msgid "News"
 msgstr "新着情報"
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:41
 msgid "2023-04-01 New website"
 msgstr "2023-04-01 新サイト"
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:43
 msgid ""
 "Since our old 11ty based website was unmaintained and no one knew how to "
 "edit it, we created a brand spanking new website using Sphinx, the same "
@@ -498,7 +499,7 @@ msgid ""
 " to different languages using Weblate."
 msgstr "私たちの古い11tyベースのウェブサイトはメンテナンスされておらず、誰も編集の仕方を知らなかったので、私たちはSphinxを使って全く新しいウェブサイトを作りました。これにより、Weblateを使用してウェブサイトをさまざまな言語に翻訳することができるようになりました。"
 
-#: ../../source/index.rst:43
+#: ../../source/index.rst:46
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "

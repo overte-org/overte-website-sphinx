@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-01 20:44+0000\n"
+"POT-Creation-Date: 2023-06-09 07:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: cs\n"
@@ -56,7 +56,7 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:46
+#: ../../source/contact.rst:5 ../../source/index.rst:49
 msgid "Contact"
 msgstr ""
 
@@ -92,7 +92,7 @@ msgstr ""
 msgid "Matrix"
 msgstr ""
 
-#: ../../source/contact.rst:29
+#: ../../source/contact.rst:29 ../../source/index.rst:25
 msgid ""
 "Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
 "<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
@@ -117,7 +117,7 @@ msgstr ""
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:46
+#: ../../source/donate.rst:3 ../../source/index.rst:49
 msgid "Donate"
 msgstr ""
 
@@ -163,7 +163,7 @@ msgid ""
 "donating, to request such a receipt."
 msgstr ""
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:46
+#: ../../source/downloads.rst:5 ../../source/index.rst:49
 msgid "Downloads"
 msgstr ""
 
@@ -210,8 +210,8 @@ msgstr ""
 
 #: ../../source/downloads.rst:35
 msgid ""
-"Select the appropriate package for you distribution and architecture from"
-" our `GitHub Release page 🔗 <https://github.com/overte-"
+"Select the appropriate package for your distribution and architecture "
+"from our `GitHub Release page 🔗 <https://github.com/overte-"
 "org/overte/releases/tag/2022.12.1/>`_, or directly from "
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
@@ -270,7 +270,7 @@ msgid ""
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:46
+#: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
 msgstr ""
 
@@ -336,11 +336,11 @@ msgstr ""
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr ""
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:46
+#: ../../source/imprint.rst:3 ../../source/index.rst:49
 msgid "Imprint"
 msgstr ""
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:46
+#: ../../source/imprint.rst:5 ../../source/index.rst:49
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -361,23 +361,23 @@ msgstr ""
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "Home"
 msgstr ""
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "Events 🔗"
 msgstr ""
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "Documentation 🔗"
 msgstr ""
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:49
 msgid "API reference 🔗"
 msgstr ""
 
-#: ../../source/index.rst:46 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:49 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr ""
 
@@ -446,19 +446,19 @@ msgid ""
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
 
-#: ../../source/index.rst:29
+#: ../../source/index.rst:32
 msgid "Development meeting in the Overte office"
 msgstr ""
 
-#: ../../source/index.rst:34
+#: ../../source/index.rst:37
 msgid "News"
 msgstr ""
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:41
 msgid "2023-04-01 New website"
 msgstr ""
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:43
 msgid ""
 "Since our old 11ty based website was unmaintained and no one knew how to "
 "edit it, we created a brand spanking new website using Sphinx, the same "
@@ -467,7 +467,7 @@ msgid ""
 " to different languages using Weblate."
 msgstr ""
 
-#: ../../source/index.rst:43
+#: ../../source/index.rst:46
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "
@@ -897,5 +897,14 @@ msgstr ""
 #~ "to or control over these cookies "
 #~ "that are used by third-party "
 #~ "advertisers."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Select the appropriate package for you"
+#~ " distribution and architecture from our "
+#~ "`GitHub Release page 🔗 <https://github.com"
+#~ "/overte-org/overte/releases/tag/2022.12.1/>`_, or "
+#~ "directly from `public.overte.org 🔗 "
+#~ "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 #~ msgstr ""
 
