@@ -14,8 +14,8 @@ They regulate what the association, its members, and the board can and cannot do
 
 Take a look at them here:
 
-| `Overte e.V. Satzung - German original <https://buyanvr-organizational-code-draft.readthedocs.io/de/latest/>`_
-| `Overte e.V. Articles of association - English translation <https://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_
+| `Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_
+| `Overte e.V. Articles of association - English translation <https://satzung.overte.org/en/>`_
 
 .. note::
     While the German original takes precedence over the English translation, we try to make sure that the English translation is as accurate as possible.
