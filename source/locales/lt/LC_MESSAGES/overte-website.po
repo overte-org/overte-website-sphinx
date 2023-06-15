@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-09 07:52+0000\n"
+"POT-Creation-Date: 2023-06-15 18:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: lt\n"
@@ -497,15 +497,13 @@ msgid "Take a look at them here:"
 msgstr ""
 
 #: ../../source/overte_ev.rst:17
-msgid ""
-"`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
-"code-draft.readthedocs.io/de/latest/>`_"
+msgid "`Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_"
 msgstr ""
 
 #: ../../source/overte_ev.rst:18
 msgid ""
-"`Overte e.V. Articles of association - English translation <https"
-"://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - English translation "
+"<https://satzung.overte.org/en/>`_"
 msgstr ""
 
 #: ../../source/overte_ev.rst:21
@@ -907,5 +905,17 @@ msgstr ""
 #~ "/overte-org/overte/releases/tag/2022.12.1/>`_, or "
 #~ "directly from `public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Overte e.V. Satzung - German original"
+#~ " <https://buyanvr-organizational-code-"
+#~ "draft.readthedocs.io/de/latest/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Overte e.V. Articles of association -"
+#~ " English translation <https://buyanvr-"
+#~ "organizational-code-draft.readthedocs.io/en/latest/>`_"
 #~ msgstr ""
 

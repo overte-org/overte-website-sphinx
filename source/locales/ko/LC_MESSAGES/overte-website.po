@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-11 13:13+0000\n"
+"POT-Creation-Date: 2023-06-15 18:03+0000\n"
 "PO-Revision-Date: 2023-06-09 19:22+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ko\n"
@@ -536,17 +536,17 @@ msgid "Take a look at them here:"
 msgstr "여기에서 살펴보세요:"
 
 #: ../../source/overte_ev.rst:17
-msgid ""
-"`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
-"code-draft.readthedocs.io/de/latest/>`_"
+#, fuzzy
+msgid "`Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_"
 msgstr ""
 "`Overte e.V. Satzung - 독일어 원본 <https://buyanvr-organizational-code-"
 "draft.readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
+#, fuzzy
 msgid ""
-"`Overte e.V. Articles of association - English translation <https"
-"://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - English translation "
+"<https://satzung.overte.org/en/>`_"
 msgstr ""
 "`Overte e.V. 정관 - 영어 번역 <https://buyanvr-organizational-code-"
 "draft.readthedocs.io/en/latest/>`_"

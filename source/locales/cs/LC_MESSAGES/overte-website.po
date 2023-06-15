@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-11 13:13+0000\n"
+"POT-Creation-Date: 2023-06-15 18:03+0000\n"
 "PO-Revision-Date: 2023-06-09 11:29+0000\n"
 "Last-Translator: rampa_3 <rampa_3@users.noreply.weblate.overte.org>\n"
 "Language: cs\n"
@@ -571,17 +571,17 @@ msgid "Take a look at them here:"
 msgstr "Podívejte se na ně zde:"
 
 #: ../../source/overte_ev.rst:17
-msgid ""
-"`Overte e.V. Satzung - German original <https://buyanvr-organizational-"
-"code-draft.readthedocs.io/de/latest/>`_"
+#, fuzzy
+msgid "`Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_"
 msgstr ""
 "`Overte e.V. Satzung - Německý originál <https://buyanvr-organizational-"
 "code-draft.readthedocs.io/de/latest/>`_"
 
 #: ../../source/overte_ev.rst:18
+#, fuzzy
 msgid ""
-"`Overte e.V. Articles of association - English translation <https"
-"://buyanvr-organizational-code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - English translation "
+"<https://satzung.overte.org/en/>`_"
 msgstr ""
 "`Overte e.V. Články asociace - Anglický překlad <https://buyanvr-"
 "organizational-code-draft.readthedocs.io/en/latest/>`_"
