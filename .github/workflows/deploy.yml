@@ -1,3 +1,6 @@
+# Copyright 2023 Overte e.V.
+# SPDX-License-Identifier: Apache-2.0
+
 name: Production CI Build & Deploy
 
 on:
@@ -13,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.7
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4.6.1
       with:
         python-version: 3.7
     - name: Install dependencies
@@ -54,12 +57,13 @@ jobs:
 
 
     - name: Deploy website
-      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.tuxfamily.org
-        username: ${{ secrets.GHA_FTP_USER }}
-        password: ${{ secrets.GHA_FTP_PASS }}
+        server: www531.your-server.de
+        protocol: ftps
+        username: ${{ secrets.GHA_HETZNER_WEBSITE_FTP_USER }}
+        password: ${{ secrets.GHA_HETZNER_WEBSITE_FTP_PASS }}
         local-dir: ./output/
-        server-dir: overte/overte.org-web/htdocs/
+        server-dir: /
         exclude: |
           .htaccess
