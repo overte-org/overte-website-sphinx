@@ -55,6 +55,10 @@ jobs:
        make BUILDDIR="build/ko" SPHINXOPTS="-Dlanguage=ko" html
        mv build/ko/html/ output/ko/
 
+    - name: Build Lithuanian translation
+      run: |
+       make BUILDDIR="build/lt" SPHINXOPTS="-Dlanguage=lt" html
+       mv build/lt/html/ output/lt/
 
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4

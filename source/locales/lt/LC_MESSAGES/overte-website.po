@@ -499,8 +499,8 @@ msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our :doc:"
 "`Gallery <gallery>` |GalleryPage|."
 msgstr ""
-":doc:`Atsiusųskite „Overte“ <downloads>`` |DownloadPage| arba užmeskite akį "
-"į mūsų :doc:`Galeriją <gallery>`` |GalleryPage|."
+":doc:`Atsiusųskite „Overte“ <downloads>` |DownloadPage| arba užmeskite akį "
+"į mūsų :doc:`Galeriją <gallery>` |GalleryPage|."
 
 #: ../../source/index.rst:32
 msgid "Development meeting in the Overte office"

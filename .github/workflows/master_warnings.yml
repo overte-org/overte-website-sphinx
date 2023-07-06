@@ -61,3 +61,9 @@ jobs:
       shell: bash
       run: |
         make BUILDDIR=build-cs SPHINXOPTS="-Dlanguage=cs -W --keep-going" html
+
+    - name: Check Lithuanian
+      if: ${{ success() || failure() }}
+      shell: bash
+      run: |
+        make BUILDDIR=build-lt SPHINXOPTS="-Dlanguage=lt -W --keep-going" html
