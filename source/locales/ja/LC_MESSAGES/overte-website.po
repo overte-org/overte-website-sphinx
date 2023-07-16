@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-15 18:03+0000\n"
+"POT-Creation-Date: 2023-07-16 11:55+0000\n"
 "PO-Revision-Date: 2023-06-09 11:29+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ja\n"
@@ -183,6 +183,15 @@ msgstr "ダウンロード"
 
 #: ../../source/downloads.rst:7
 msgid ""
+"The current release candidate of Overte is version 2023.07-rc1. This "
+"release includes complete replacement of script engine and a lot of other"
+" improvements. When used as a client 2023.07-rc1 is recommended over "
+"stable build 2022.12.1. On server side 2022.12.1 is still recommended but"
+" testing and reporting bugs on 2023.07-rc1 is very welcome."
+msgstr ""
+
+#: ../../source/downloads.rst:12
+msgid ""
 "The current stable release of Overte is version 2022.12.1. Take a look at"
 " the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
@@ -190,31 +199,48 @@ msgstr ""
 "Overteの現在の安定版リリースはバージョン2022.12.1です。GitHubにある変更履歴をご覧ください： `Changelog 🔗 "
 "<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
-#: ../../source/downloads.rst:13
+#: ../../source/downloads.rst:18
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/downloads.rst:17
+#: ../../source/downloads.rst:22
 msgid "Interface"
 msgstr ""
 
-#: ../../source/downloads.rst:19
+#: ../../source/downloads.rst:24
 msgid ""
-"Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
-"2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0"
-" 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 "
-"2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 "
-"00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116"
-" 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
+"Linux AppImage for amd64/x86_64 (release candidate, recommended) <svg "
+"version=\"1.1\" width=\"0.9em\" height=\"0.9em\" class=\"sd-octicon sd-"
+"octicon-desktop-download\" viewBox=\"0 0 16 16\" aria-"
+"hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+"0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 "
+"00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 "
+"00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+"0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 "
+"16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75"
+" 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 "
+"2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+msgstr ""
+
+#: ../../source/downloads.rst:30
+msgid ""
+"Linux AppImage for amd64/x86_64 (stable version) <svg version=\"1.1\" "
+"width=\"0.9em\" height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-"
+"download\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 "
+"5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 "
+"5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path"
+" d=\"M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 "
+"0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 "
+"0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
 "2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 "
 "1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 "
 "011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:27
+#: ../../source/downloads.rst:38
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
@@ -222,11 +248,11 @@ msgstr ""
 "ファイルマネージャや :bash:`chmod +x Overte.AppImage` のようなコマンドを使用して、AppImageを "
 "**実行可能** に設定する必要があります。"
 
-#: ../../source/downloads.rst:33
+#: ../../source/downloads.rst:44
 msgid "Domain Server"
 msgstr ""
 
-#: ../../source/downloads.rst:35
+#: ../../source/downloads.rst:46
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from our `GitHub Release page 🔗 <https://github.com/overte-"
@@ -239,11 +265,11 @@ msgstr ""
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_ "
 "から、あなたのディストリビューションやアーキテクチャに適したパッケージを選んでください。"
 
-#: ../../source/downloads.rst:41
+#: ../../source/downloads.rst:52
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/downloads.rst:43
+#: ../../source/downloads.rst:54
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
 "Select a custom install and tick \"Overte Server\" during the "
@@ -254,23 +280,41 @@ msgstr ""
 "Serverを実行したい場合は、インストールウィザードで「custom install」を選択し、「Overte "
 "Server」にチェックを入れてください。後からインストーラーを再実行すれば、いつでもサーバーソフトをインストールすることができます。"
 
-#: ../../source/downloads.rst:47
+#: ../../source/downloads.rst:58
 msgid ""
-"Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
-"2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0"
-" 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 "
-"2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 "
-"00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116"
-" 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
-"2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 "
-"1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 "
-"011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
-" 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+"Windows Installer for x86_64 (release candidate, recommended for client) "
+"<svg version=\"1.1\" width=\"0.9em\" height=\"0.9em\" class=\"sd-octicon "
+"sd-octicon-desktop-download\" viewBox=\"0 0 16 16\" aria-"
+"hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+"0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 "
+"00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 "
+"00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+"0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 "
+"16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75"
+" 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 "
+"2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:55
+#: ../../source/downloads.rst:64
+msgid ""
+"Windows Installer for x86_64 (stable build, recommended for server) <svg "
+"version=\"1.1\" width=\"0.9em\" height=\"0.9em\" class=\"sd-octicon sd-"
+"octicon-desktop-download\" viewBox=\"0 0 16 16\" aria-"
+"hidden=\"true\"><path d=\"M4.927 5.427l2.896 2.896a.25.25 0 00.354 "
+"0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+"0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 2.573a.25.25 0 "
+"00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 "
+"00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+"0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 "
+"16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75"
+" 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 "
+"2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+msgstr ""
+
+#: ../../source/downloads.rst:72
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyways click on \"**More info**\" "
@@ -279,18 +323,18 @@ msgstr ""
 "Windows "
 "Defenderが、「このアプリを実行すると、PCに問題が起こる可能性があ」るという警告を表示することがあります。とにかく実行するには、「**詳細情報**」をクリックし、「**実行**」をクリックしてください。"
 
-#: ../../source/downloads.rst:61
+#: ../../source/downloads.rst:78
 msgid "Source"
 msgstr "ソース"
 
-#: ../../source/downloads.rst:63
+#: ../../source/downloads.rst:80
 msgid ""
 "Our source code is available on GitHub. If you intend to build from "
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr "私たちのソースコードはGitHubで公開されています。もしソースからビルドするつもりなら、最新の改良を享受するために、リリースではなく、直接masterブランチをビルドすることをお勧めします。"
 
-#: ../../source/downloads.rst:66
+#: ../../source/downloads.rst:83
 msgid ""
 "For Linux there is a helper application available that aims to simplify "
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
@@ -883,5 +927,51 @@ msgstr ""
 #~ "to or control over these cookies "
 #~ "that are used by third-party "
 #~ "advertisers."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Linux AppImage for amd64/x86_64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
+#~ "2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0"
+#~ " 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+#~ "0V5H5.104a.25.25 0 00-.177.427z\"></path><path "
+#~ "d=\"M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 "
+#~ "0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 "
+#~ "0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 "
+#~ "1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+#~ "0114.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0"
+#~ " 01-.565-1.243c.772-.885 1.192-1.716 "
+#~ "1.292-2.757H1.75A1.75 1.75 0 010 "
+#~ "10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 "
+#~ "0 010 1.5h-3a.25.25 0 00-.177.073zM6.982"
+#~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
+#~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows Installer for x86_64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
+#~ "2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0"
+#~ " 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+#~ "0V5H5.104a.25.25 0 00-.177.427z\"></path><path "
+#~ "d=\"M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 "
+#~ "0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 "
+#~ "0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 "
+#~ "1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+#~ "0114.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0"
+#~ " 01-.565-1.243c.772-.885 1.192-1.716 "
+#~ "1.292-2.757H1.75A1.75 1.75 0 010 "
+#~ "10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 "
+#~ "0 010 1.5h-3a.25.25 0 00-.177.073zM6.982"
+#~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
+#~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
 
