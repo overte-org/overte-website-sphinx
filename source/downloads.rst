@@ -52,7 +52,7 @@ Windows
 -------
 
 The Windows installer contains both Interface and the Domain Server.
-Select a custom install and tick "Overte Server" during the installation process if you want to run a Domain Server.
+Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
 You can always rerun the installer later to install the server software afterwards.
 
 .. button-link:: https://public.overte.org/build/overte/release-candidate/2023.07.1-rc2/Overte-2023.07.1-rc2.exe
@@ -70,7 +70,7 @@ You can always rerun the installer later to install the server software afterwar
 .. note::
 
     Windows Defender might display a warning about the Windows installer being potentially unsafe.
-    To run it anyways click on "**More info**" and then "**Run anyway**".
+    To run it anyway click on "**More info**" and then "**Run anyway**".
 
 
 .. _reference_to_downloads_source:

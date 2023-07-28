@@ -46,7 +46,7 @@ You can choose to disable cookies through your individual browser options. To kn
 Fediverse
 ~~~~~~~~~
 
-On this website we are embedding `fediverse <https://fediverse.party/>`_ apps and content. Explicitly we are using the social network `mastodon <https://joinmastodon.org/>`_. This service does not record any additonal data. But if you are logged in your mastodon server, the `privacy policy <https://joinmastodon.org/privacy-policy>`_ of that server applies for all interactions with the content.
+On this website we are embedding `Fediverse <https://fediverse.party/>`_ apps and content. Explicitly we are using the social network `mastodon <https://joinmastodon.org/>`_. This service does not record any additional data. But if you are logged in your mastodon server, the `privacy policy <https://joinmastodon.org/privacy-policy>`_ of that server applies for all interactions with the content.
 
 ----------------------
 Children's Information
@@ -60,7 +60,7 @@ overte.org does not knowingly collect any Personal Identifiable Information from
 Online Privacy Policy Only
 --------------------------
 
-Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in overte.org. This policy is not applicable to any information collected offline or via channels other than this website.
+Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regard to the information that they shared and/or collect in overte.org. This policy is not applicable to any information collected offline or via channels other than this website.
 
 -------
 Consent

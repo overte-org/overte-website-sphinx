@@ -40,10 +40,10 @@ This gallery showcases the Overte Interface and some past events and locations a
 
 
 .. figure:: _images/gallery/Create_UI_2.jpeg
-    :alt: 74 working on the "Kraftwerk" Domain
+    :alt: 74 working on the “Kraftwerk” Domain
     :class: inline
 
-    74 working on the "Kraftwerk" Domain
+    74 working on the “Kraftwerk” Domain
 
 
 .. figure:: _images/gallery/overte-snap-by--on-2022-02-20_19-48-33.jpeg
@@ -57,7 +57,7 @@ This gallery showcases the Overte Interface and some past events and locations a
     :alt: Basinsky showing off his photogrametry worlds
     :class: inline
 
-    Basinsky showing off his photogrametry worlds
+    Basinsky showing off his photogrammetry worlds
 
 
 .. figure:: _images/gallery/overte-snap-by-X74hc595-on-2022-11-19_20-04-45.jpg
@@ -85,7 +85,7 @@ This gallery showcases the Overte Interface and some past events and locations a
     :alt: Pooltoys exploring a fantasy island
     :class: inline
 
-    Pooltoys exploring a fantasy island
+    Pool toys exploring a fantasy island
 
 
 .. figure:: _images/gallery/overte-snap-by-X74hc595-on-2023-02-25_20-34-29.jpg

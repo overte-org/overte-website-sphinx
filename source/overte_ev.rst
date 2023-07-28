@@ -9,13 +9,13 @@ It is a non-profit association registered in Germany.
 Articles of association
 -----------------------
 
-The articles of association, called "Satzung" in German, are the associations bylaws.
+The articles of association, called “Satzung” in German, are the associations bylaws.
 They regulate what the association, its members, and the board can and cannot do.
 
 Take a look at them here:
 
-| `Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_
-| `Overte e.V. Articles of association - English translation <https://satzung.overte.org/en/>`_
+| `Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_
+| `Overte e.V. Articles of association – English translation <https://satzung.overte.org/en/>`_
 
 .. note::
     While the German original takes precedence over the English translation, we try to make sure that the English translation is as accurate as possible.
@@ -32,7 +32,7 @@ Membership
 You are very welcome to join the association as a member or supporting member.
 As a member you are allowed to vote in association meetings. This also includes board member elections.
 
-Currently the yearly membership fee is 60 Euro. The fee is pre paid either yearly or monthly.
+Currently, the yearly membership fee is 60 Euro. The fee is pre-paid either yearly or monthly.
 
 If you want to join please make yourself familiar with the articles of association linked above.
 To join the association please write an application containing your real name, username (optional), postal address, and email address,
