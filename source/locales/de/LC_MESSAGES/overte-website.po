@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-19 21:27+0000\n"
+"POT-Creation-Date: 2023-07-28 07:52+0000\n"
 "PO-Revision-Date: 2023-06-09 11:29+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
@@ -136,9 +136,10 @@ msgid "Donate"
 msgstr "Spenden"
 
 #: ../../source/donate.rst:5
+#, fuzzy
 msgid ""
-"Hosting, development, maintainance, and administration are a lot of work "
-"and require us to pay a not unsignificant amount of money. Donations are,"
+"Hosting, development, maintenance, and administration are a lot of work "
+"and require us to pay a not insignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
 msgstr ""
 "Hosting, Entwicklung, Wartung und Verwaltung sind eine Menge Arbeit und "
@@ -159,16 +160,18 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "Sie können über die folgenden Methoden spenden. Sortiert nach Präferenz:"
 
 #: ../../source/donate.rst:12
+#, fuzzy
 msgid ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
-"(prefered), Debitcard, Creditcard"
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Bank transfer "
+"(preferred), Debit card, Credit card"
 msgstr ""
 "OpenCollective 🔗 <https://opencollective.com/overte>`_ - Banküberweisung "
 "(bevorzugt), Debitkarte, Kreditkarte"
 
 #: ../../source/donate.rst:13
+#, fuzzy
 msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any "
+"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
 "payment method you can think of"
 msgstr ""
 "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Fast jede "
@@ -183,9 +186,10 @@ msgstr ""
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
+#, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
-"tax deductable in Germany. Contact us at accounting@overte.org after "
+"tax-deductible in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
 "Als anerkannter gemeinnütziger Verein kann der Overte e.V. "
@@ -288,11 +292,12 @@ msgid "Windows"
 msgstr "Windows"
 
 #: ../../source/downloads.rst:54
+#, fuzzy
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
-"Select a custom install and tick \"Overte Server\" during the "
-"installation process if you want to run a Domain Server. You can always "
-"rerun the installer later to install the server software afterwards."
+"Select a custom install and tick “Overte Server” during the installation "
+"process if you want to run a Domain Server. You can always rerun the "
+"installer later to install the server software afterwards."
 msgstr ""
 "Das Windows-Installationsprogramm enthält sowohl Interface als auch den "
 "Domain-Server. Wenn Sie einen Domain-Server betreiben möchten, wählen Sie"
@@ -336,23 +341,26 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:72
+#, fuzzy
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
-"being potentially unsafe. To run it anyways click on \"**More info**\" "
-"and then \"**Run anyway**\"."
+"being potentially unsafe. To run it anyway click on \"**More info**\" and"
+" then \"**Run anyway**\"."
 msgstr ""
 "Windows Defender zeigt möglicherweise eine Warnung an, dass das Windows-"
 "Installationsprogramm potenziell unsicher ist. Um es trotzdem "
 "auszuführen, klicken Sie auf „**Weitere Informationen**“ und dann auf "
 "„**Trotzdem ausführen**“."
 
-#: ../../source/downloads.rst:78
+#: ../../source/downloads.rst:80
 msgid "Source"
 msgstr "Quelltext"
 
-#: ../../source/downloads.rst:80
+#: ../../source/downloads.rst:82
+#, fuzzy
 msgid ""
-"Our source code is available on GitHub. If you intend to build from "
+"Our source code is available on `our GitHub repository 🔗 "
+"<https://github.com/overte-org/overte/>`_. If you intend to build from "
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
@@ -361,7 +369,7 @@ msgstr ""
 " anstelle einer Veröffentlichung zu tun, um von den neuesten "
 "Verbesserungen zu profitieren."
 
-#: ../../source/downloads.rst:83
+#: ../../source/downloads.rst:85
 msgid ""
 "For Linux there is a helper application available that aims to simplify "
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
@@ -404,7 +412,8 @@ msgid "Some time off in the office"
 msgstr "Eine Auszeit im Büro"
 
 #: ../../source/gallery.rst:46
-msgid "74 working on the \"Kraftwerk\" Domain"
+#, fuzzy
+msgid "74 working on the “Kraftwerk” Domain"
 msgstr "74 am Arbeiten an der Kraftwerk-Domain"
 
 #: ../../source/gallery.rst:53
@@ -413,6 +422,11 @@ msgstr "Abhängen am „Maker Monday“"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
+msgstr "Basinsky zeigt seine Fotogrammetrie-Welten"
+
+#: ../../source/gallery.rst:60
+#, fuzzy
+msgid "Basinsky showing off his photogrammetry worlds"
 msgstr "Basinsky zeigt seine Fotogrammetrie-Welten"
 
 #: ../../source/gallery.rst:67
@@ -429,6 +443,11 @@ msgstr "Entwicklungstreffen auf „Daybreak Island“"
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
+msgstr "Schwimmtiere erforschen eine Fantasie-Insel"
+
+#: ../../source/gallery.rst:88
+#, fuzzy
+msgid "Pool toys exploring a fantasy island"
 msgstr "Schwimmtiere erforschen eine Fantasie-Insel"
 
 #: ../../source/gallery.rst:95
@@ -489,12 +508,13 @@ msgid "About"
 msgstr "Über"
 
 #: ../../source/index.rst:7
+#, fuzzy
 msgid ""
-"Overte is an open source virtual worlds and social VR software which "
-"enables you to create and share virtual worlds as virtual reality (VR) "
-"and desktop experiences. You can create and host your own virtual world, "
-"explore other worlds, meet and connect with other users, attend or host "
-"live VR events, and much more."
+"Overte is an :ref:`open source<reference_to_downloads_source>` virtual "
+"worlds and social VR software which enables you to create and share "
+"virtual worlds as virtual reality (VR) and desktop experiences. You can "
+"create and host your own virtual world, explore other worlds, meet and "
+"connect with other users, attend or host live VR events, and much more."
 msgstr ""
 "Overte ist eine Open-Source-Software für virtuelle Welten und social-VR, "
 "mit der Sie virtuelle Welten als Virtual-Reality- (VR) und "
@@ -610,8 +630,9 @@ msgid "Articles of association"
 msgstr "Satzung"
 
 #: ../../source/overte_ev.rst:12
+#, fuzzy
 msgid ""
-"The articles of association, called \"Satzung\" in German, are the "
+"The articles of association, called “Satzung” in German, are the "
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
 msgstr ""
@@ -624,7 +645,7 @@ msgstr "Schauen Sie sich die Satzung hier an:"
 
 #: ../../source/overte_ev.rst:17
 #, fuzzy
-msgid "`Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_"
+msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
 msgstr ""
 "`Overte e.V. Satzung - Deutsches Original <https://buyanvr-"
 "organizational-code-draft.readthedocs.io/de/latest/>`_"
@@ -632,7 +653,7 @@ msgstr ""
 #: ../../source/overte_ev.rst:18
 #, fuzzy
 msgid ""
-"`Overte e.V. Articles of association - English translation "
+"`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
 "`Overte e.V. Articles of association - Englische Übersetzung <https"
@@ -673,8 +694,9 @@ msgstr ""
 "Wahlen der Vorstandsmitglieder."
 
 #: ../../source/overte_ev.rst:35
+#, fuzzy
 msgid ""
-"Currently the yearly membership fee is 60 Euro. The fee is pre paid "
+"Currently, the yearly membership fee is 60 Euro. The fee is pre-paid "
 "either yearly or monthly."
 msgstr ""
 "Der derzeitige jährliche Mitgliedsbeitrag beträgt 60 Euro. Der Beitrag "
@@ -951,13 +973,14 @@ msgid "Fediverse"
 msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:49
+#, fuzzy
 msgid ""
-"On this website we are embedding `fediverse <https://fediverse.party/>`_ "
+"On this website we are embedding `Fediverse <https://fediverse.party/>`_ "
 "apps and content. Explicitly we are using the social network `mastodon "
-"<https://joinmastodon.org/>`_. This service does not record any additonal"
-" data. But if you are logged in your mastodon server, the `privacy policy"
-" <https://joinmastodon.org/privacy-policy>`_ of that server applies for "
-"all interactions with the content."
+"<https://joinmastodon.org/>`_. This service does not record any "
+"additional data. But if you are logged in your mastodon server, the "
+"`privacy policy <https://joinmastodon.org/privacy-policy>`_ of that "
+"server applies for all interactions with the content."
 msgstr ""
 "Auf dieser Website betten wir `Fediverse <https://fediverse.party/>`_ "
 "Apps und Inhalte ein. Explizit nutzen wir das soziale Netzwerk `Mastodon "
@@ -999,10 +1022,11 @@ msgid "Online Privacy Policy Only"
 msgstr "Nur Online Datenschutzbestimmungen"
 
 #: ../../source/privacy_policy.rst:63
+#, fuzzy
 msgid ""
 "Our Privacy Policy applies only to our online activities and is valid for"
-" visitors to our website with regards to the information that they shared"
-" and/or collect in overte.org. This policy is not applicable to any "
+" visitors to our website with regard to the information that they shared "
+"and/or collect in overte.org. This policy is not applicable to any "
 "information collected offline or via channels other than this website."
 msgstr ""
 "Unsere Datenschutzbestimmungen gelten nur für unsere Online-Aktivitäten "

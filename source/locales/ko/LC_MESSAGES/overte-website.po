@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-19 21:27+0000\n"
+"POT-Creation-Date: 2023-07-28 07:52+0000\n"
 "PO-Revision-Date: 2023-06-09 19:22+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ko\n"
@@ -127,9 +127,10 @@ msgid "Donate"
 msgstr "기부"
 
 #: ../../source/donate.rst:5
+#, fuzzy
 msgid ""
-"Hosting, development, maintainance, and administration are a lot of work "
-"and require us to pay a not unsignificant amount of money. Donations are,"
+"Hosting, development, maintenance, and administration are a lot of work "
+"and require us to pay a not insignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
 msgstr ""
 "호스팅, 개발, 유지보수 및 관리에는 많은 작업이 필요하며 적지 않은 비용이 소요됩니다. 기부금은 맴버쉽 다음으로 저희가 운영비를 "
@@ -146,14 +147,16 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "아래에 선호하는 방법을 통해 기부할 수 있습니다:"
 
 #: ../../source/donate.rst:12
+#, fuzzy
 msgid ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
-"(prefered), Debitcard, Creditcard"
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Bank transfer "
+"(preferred), Debit card, Credit card"
 msgstr "'오픈콜렉티브 🔗 <https://opencollective.com/overte>`_ - 은행 송금(선호), 직불카드, 신용카드"
 
 #: ../../source/donate.rst:13
+#, fuzzy
 msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any "
+"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
 "payment method you can think of"
 msgstr ""
 "'스트라이프 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - 생각할 수 있는 거의 "
@@ -166,9 +169,10 @@ msgid ""
 msgstr "페이팔 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
+#, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
-"tax deductable in Germany. Contact us at accounting@overte.org after "
+"tax-deductible in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
 "비영리단체로 인정받은 Overte e.V.는 독일에서 세금 공제가 가능한 영수증을 발행할 수 있습니다. 영수증 발급을 요청하려면 "
@@ -267,11 +271,12 @@ msgid "Windows"
 msgstr "윈도우"
 
 #: ../../source/downloads.rst:54
+#, fuzzy
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
-"Select a custom install and tick \"Overte Server\" during the "
-"installation process if you want to run a Domain Server. You can always "
-"rerun the installer later to install the server software afterwards."
+"Select a custom install and tick “Overte Server” during the installation "
+"process if you want to run a Domain Server. You can always rerun the "
+"installer later to install the server software afterwards."
 msgstr ""
 "윈도우 인스톨러에는 인터페이스와 도메인 서버가 모두 포함되어 있습니다. 도메인 서버를 실행하려면 사용자 지정 설치를 선택하고 설치 "
 "프로세스 중에 \"오버트 서버 \"를 선택합니다. 나중에 언제든지 인스톨러를 다시 실행하여 서버 소프트웨어를 설치할 수 있습니다."
@@ -311,28 +316,31 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:72
+#, fuzzy
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
-"being potentially unsafe. To run it anyways click on \"**More info**\" "
-"and then \"**Run anyway**\"."
+"being potentially unsafe. To run it anyway click on \"**More info**\" and"
+" then \"**Run anyway**\"."
 msgstr ""
 "윈도우 디펜더에서 윈도우 설치 프로그램이 잠재적으로 안전하지 않을 수 있다는 경고가 표시될 수 있습니다. 무시하고 실행하려면 "
 "\"**추가 정보**\"를 클릭한 다음 \"**어떻게든 실행**\"을 클릭하세요."
 
-#: ../../source/downloads.rst:78
+#: ../../source/downloads.rst:80
 msgid "Source"
 msgstr "Source"
 
-#: ../../source/downloads.rst:80
+#: ../../source/downloads.rst:82
+#, fuzzy
 msgid ""
-"Our source code is available on GitHub. If you intend to build from "
+"Our source code is available on `our GitHub repository 🔗 "
+"<https://github.com/overte-org/overte/>`_. If you intend to build from "
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
 "소스 코드는 GitHub에서 받을 수 있습니다. 소스에서 빌드하려는 경우 최신 개선 사항을 활용하려면 릴리스 대신 마스터 브랜치를 "
 "직접 빌드하는 것이 좋습니다."
 
-#: ../../source/downloads.rst:83
+#: ../../source/downloads.rst:85
 msgid ""
 "For Linux there is a helper application available that aims to simplify "
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
@@ -373,7 +381,8 @@ msgid "Some time off in the office"
 msgstr "사무실에서 잠시 쉬는 시간"
 
 #: ../../source/gallery.rst:46
-msgid "74 working on the \"Kraftwerk\" Domain"
+#, fuzzy
+msgid "74 working on the “Kraftwerk” Domain"
 msgstr "74 \"Kraftwerk\" 도메인에서 작업 중"
 
 #: ../../source/gallery.rst:53
@@ -382,6 +391,11 @@ msgstr "메이커 먼데이에 참여하기"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
+msgstr "Basinsky가 자신의 사진 세계를 뽐내는 모습"
+
+#: ../../source/gallery.rst:60
+#, fuzzy
+msgid "Basinsky showing off his photogrammetry worlds"
 msgstr "Basinsky가 자신의 사진 세계를 뽐내는 모습"
 
 #: ../../source/gallery.rst:67
@@ -398,6 +412,11 @@ msgstr "Daybreak Island에서 열린 개발 회의"
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
+msgstr "fantasy island을 탐험하는 풀토이"
+
+#: ../../source/gallery.rst:88
+#, fuzzy
+msgid "Pool toys exploring a fantasy island"
 msgstr "fantasy island을 탐험하는 풀토이"
 
 #: ../../source/gallery.rst:95
@@ -458,12 +477,13 @@ msgid "About"
 msgstr "정보"
 
 #: ../../source/index.rst:7
+#, fuzzy
 msgid ""
-"Overte is an open source virtual worlds and social VR software which "
-"enables you to create and share virtual worlds as virtual reality (VR) "
-"and desktop experiences. You can create and host your own virtual world, "
-"explore other worlds, meet and connect with other users, attend or host "
-"live VR events, and much more."
+"Overte is an :ref:`open source<reference_to_downloads_source>` virtual "
+"worlds and social VR software which enables you to create and share "
+"virtual worlds as virtual reality (VR) and desktop experiences. You can "
+"create and host your own virtual world, explore other worlds, meet and "
+"connect with other users, attend or host live VR events, and much more."
 msgstr ""
 "오버트는 가상 세계를 가상현실(VR) 및 데스크톱 경험으로 만들고 공유할 수 있는 오픈 소스 가상 세계 및 소셜 VR "
 "소프트웨어입니다. 나만의 가상 세계를 만들고 호스팅하고, 다른 세계를 탐험하고, 다른 사용자를 만나고 연결하고, 라이브 VR "
@@ -567,8 +587,9 @@ msgid "Articles of association"
 msgstr "정관"
 
 #: ../../source/overte_ev.rst:12
+#, fuzzy
 msgid ""
-"The articles of association, called \"Satzung\" in German, are the "
+"The articles of association, called “Satzung” in German, are the "
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
 msgstr ""
@@ -581,7 +602,7 @@ msgstr "여기에서 살펴보세요:"
 
 #: ../../source/overte_ev.rst:17
 #, fuzzy
-msgid "`Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_"
+msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
 msgstr ""
 "`Overte e.V. Satzung - 독일어 원본 <https://buyanvr-organizational-code-"
 "draft.readthedocs.io/de/latest/>`_"
@@ -589,7 +610,7 @@ msgstr ""
 #: ../../source/overte_ev.rst:18
 #, fuzzy
 msgid ""
-"`Overte e.V. Articles of association - English translation "
+"`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
 "`Overte e.V. 정관 - 영어 번역 <https://buyanvr-organizational-code-"
@@ -624,8 +645,9 @@ msgstr ""
 " 포함됩니다."
 
 #: ../../source/overte_ev.rst:35
+#, fuzzy
 msgid ""
-"Currently the yearly membership fee is 60 Euro. The fee is pre paid "
+"Currently, the yearly membership fee is 60 Euro. The fee is pre-paid "
 "either yearly or monthly."
 msgstr "현재 연간 회비는 60유로입니다. 연회비는 연간 또는 매월 선불로 납부할 수 있습니다."
 
@@ -872,13 +894,14 @@ msgid "Fediverse"
 msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:49
+#, fuzzy
 msgid ""
-"On this website we are embedding `fediverse <https://fediverse.party/>`_ "
+"On this website we are embedding `Fediverse <https://fediverse.party/>`_ "
 "apps and content. Explicitly we are using the social network `mastodon "
-"<https://joinmastodon.org/>`_. This service does not record any additonal"
-" data. But if you are logged in your mastodon server, the `privacy policy"
-" <https://joinmastodon.org/privacy-policy>`_ of that server applies for "
-"all interactions with the content."
+"<https://joinmastodon.org/>`_. This service does not record any "
+"additional data. But if you are logged in your mastodon server, the "
+"`privacy policy <https://joinmastodon.org/privacy-policy>`_ of that "
+"server applies for all interactions with the content."
 msgstr ""
 "이 웹사이트에는 `fediverse <https://fediverse.party/>`_ 앱과 콘텐츠가 포함되어 있습니다. 명시적으로"
 " 우리는 소셜 네트워크 `마스토돈 <https://joinmastodon.org/>`_ 을 사용하고 있습니다. 이 서비스는 추가 "
@@ -915,10 +938,11 @@ msgid "Online Privacy Policy Only"
 msgstr "온라인 개인정보 보호정책만 해당"
 
 #: ../../source/privacy_policy.rst:63
+#, fuzzy
 msgid ""
 "Our Privacy Policy applies only to our online activities and is valid for"
-" visitors to our website with regards to the information that they shared"
-" and/or collect in overte.org. This policy is not applicable to any "
+" visitors to our website with regard to the information that they shared "
+"and/or collect in overte.org. This policy is not applicable to any "
 "information collected offline or via channels other than this website."
 msgstr ""
 "당사의 개인정보 처리방침은 당사의 온라인 활동에만 적용되며, 당사 웹사이트 방문자가 overte.org에서 공유 및/또는 수집한 "

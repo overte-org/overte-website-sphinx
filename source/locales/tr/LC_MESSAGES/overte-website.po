@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-19 21:27+0000\n"
+"POT-Creation-Date: 2023-07-28 07:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: tr\n"
@@ -123,8 +123,8 @@ msgstr ""
 
 #: ../../source/donate.rst:5
 msgid ""
-"Hosting, development, maintainance, and administration are a lot of work "
-"and require us to pay a not unsignificant amount of money. Donations are,"
+"Hosting, development, maintenance, and administration are a lot of work "
+"and require us to pay a not insignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
 msgstr ""
 
@@ -140,13 +140,13 @@ msgstr ""
 
 #: ../../source/donate.rst:12
 msgid ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bank transfer "
-"(prefered), Debitcard, Creditcard"
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Bank transfer "
+"(preferred), Debit card, Credit card"
 msgstr ""
 
 #: ../../source/donate.rst:13
 msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Almost any "
+"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
 "payment method you can think of"
 msgstr ""
 
@@ -159,7 +159,7 @@ msgstr ""
 #: ../../source/donate.rst:17
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
-"tax deductable in Germany. Contact us at accounting@overte.org after "
+"tax-deductible in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
 
@@ -250,9 +250,9 @@ msgstr ""
 #: ../../source/downloads.rst:54
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
-"Select a custom install and tick \"Overte Server\" during the "
-"installation process if you want to run a Domain Server. You can always "
-"rerun the installer later to install the server software afterwards."
+"Select a custom install and tick “Overte Server” during the installation "
+"process if you want to run a Domain Server. You can always rerun the "
+"installer later to install the server software afterwards."
 msgstr ""
 
 #: ../../source/downloads.rst:58
@@ -292,22 +292,23 @@ msgstr ""
 #: ../../source/downloads.rst:72
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
-"being potentially unsafe. To run it anyways click on \"**More info**\" "
-"and then \"**Run anyway**\"."
-msgstr ""
-
-#: ../../source/downloads.rst:78
-msgid "Source"
+"being potentially unsafe. To run it anyway click on \"**More info**\" and"
+" then \"**Run anyway**\"."
 msgstr ""
 
 #: ../../source/downloads.rst:80
+msgid "Source"
+msgstr ""
+
+#: ../../source/downloads.rst:82
 msgid ""
-"Our source code is available on GitHub. If you intend to build from "
+"Our source code is available on `our GitHub repository 🔗 "
+"<https://github.com/overte-org/overte/>`_. If you intend to build from "
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
 
-#: ../../source/downloads.rst:83
+#: ../../source/downloads.rst:85
 msgid ""
 "For Linux there is a helper application available that aims to simplify "
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
@@ -345,7 +346,7 @@ msgid "Some time off in the office"
 msgstr ""
 
 #: ../../source/gallery.rst:46
-msgid "74 working on the \"Kraftwerk\" Domain"
+msgid "74 working on the “Kraftwerk” Domain"
 msgstr ""
 
 #: ../../source/gallery.rst:53
@@ -354,6 +355,10 @@ msgstr ""
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
+msgstr ""
+
+#: ../../source/gallery.rst:60
+msgid "Basinsky showing off his photogrammetry worlds"
 msgstr ""
 
 #: ../../source/gallery.rst:67
@@ -370,6 +375,10 @@ msgstr ""
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
+msgstr ""
+
+#: ../../source/gallery.rst:88
+msgid "Pool toys exploring a fantasy island"
 msgstr ""
 
 #: ../../source/gallery.rst:95
@@ -431,11 +440,11 @@ msgstr ""
 
 #: ../../source/index.rst:7
 msgid ""
-"Overte is an open source virtual worlds and social VR software which "
-"enables you to create and share virtual worlds as virtual reality (VR) "
-"and desktop experiences. You can create and host your own virtual world, "
-"explore other worlds, meet and connect with other users, attend or host "
-"live VR events, and much more."
+"Overte is an :ref:`open source<reference_to_downloads_source>` virtual "
+"worlds and social VR software which enables you to create and share "
+"virtual worlds as virtual reality (VR) and desktop experiences. You can "
+"create and host your own virtual world, explore other worlds, meet and "
+"connect with other users, attend or host live VR events, and much more."
 msgstr ""
 
 #: ../../source/index.rst:10
@@ -530,7 +539,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:12
 msgid ""
-"The articles of association, called \"Satzung\" in German, are the "
+"The articles of association, called “Satzung” in German, are the "
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
 msgstr ""
@@ -540,12 +549,12 @@ msgid "Take a look at them here:"
 msgstr ""
 
 #: ../../source/overte_ev.rst:17
-msgid "`Overte e.V. Satzung - German original <https://satzung.overte.org/de/>`_"
+msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
 msgstr ""
 
 #: ../../source/overte_ev.rst:18
 msgid ""
-"`Overte e.V. Articles of association - English translation "
+"`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
 
@@ -575,7 +584,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:35
 msgid ""
-"Currently the yearly membership fee is 60 Euro. The fee is pre paid "
+"Currently, the yearly membership fee is 60 Euro. The fee is pre-paid "
 "either yearly or monthly."
 msgstr ""
 
@@ -803,12 +812,12 @@ msgstr ""
 
 #: ../../source/privacy_policy.rst:49
 msgid ""
-"On this website we are embedding `fediverse <https://fediverse.party/>`_ "
+"On this website we are embedding `Fediverse <https://fediverse.party/>`_ "
 "apps and content. Explicitly we are using the social network `mastodon "
-"<https://joinmastodon.org/>`_. This service does not record any additonal"
-" data. But if you are logged in your mastodon server, the `privacy policy"
-" <https://joinmastodon.org/privacy-policy>`_ of that server applies for "
-"all interactions with the content."
+"<https://joinmastodon.org/>`_. This service does not record any "
+"additional data. But if you are logged in your mastodon server, the "
+"`privacy policy <https://joinmastodon.org/privacy-policy>`_ of that "
+"server applies for all interactions with the content."
 msgstr ""
 
 #: ../../source/privacy_policy.rst:53
@@ -838,8 +847,8 @@ msgstr ""
 #: ../../source/privacy_policy.rst:63
 msgid ""
 "Our Privacy Policy applies only to our online activities and is valid for"
-" visitors to our website with regards to the information that they shared"
-" and/or collect in overte.org. This policy is not applicable to any "
+" visitors to our website with regard to the information that they shared "
+"and/or collect in overte.org. This policy is not applicable to any "
 "information collected offline or via channels other than this website."
 msgstr ""
 
@@ -1019,5 +1028,128 @@ msgstr ""
 #~ "2022.12.1 is still recommended but "
 #~ "testing and reporting bugs on "
 #~ "2023.07-rc1 is very welcome."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Hosting, development, maintainance, and "
+#~ "administration are a lot of work "
+#~ "and require us to pay a not "
+#~ "unsignificant amount of money. Donations "
+#~ "are, next to membership fees, the "
+#~ "only income that we have to pay"
+#~ " our bills."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`OpenCollective 🔗 <https://opencollective.com/overte>`_"
+#~ " - Bank transfer (prefered), Debitcard, "
+#~ "Creditcard"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " - Almost any payment method you "
+#~ "can think of"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "As a recognized non-profit, the "
+#~ "Overte e.V. can issue receipts that "
+#~ "are tax deductable in Germany. Contact"
+#~ " us at accounting@overte.org after "
+#~ "donating, to request such a receipt."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Windows installer contains both "
+#~ "Interface and the Domain Server. Select"
+#~ " a custom install and tick \"Overte"
+#~ " Server\" during the installation process"
+#~ " if you want to run a Domain"
+#~ " Server. You can always rerun the "
+#~ "installer later to install the server"
+#~ " software afterwards."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows Defender might display a warning"
+#~ " about the Windows installer being "
+#~ "potentially unsafe. To run it anyways"
+#~ " click on \"**More info**\" and then"
+#~ " \"**Run anyway**\"."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Our source code is available on "
+#~ "GitHub. If you intend to build "
+#~ "from source, we would suggest building"
+#~ " the master branch directly instead "
+#~ "of a release, to profit from the"
+#~ " latest improvements."
+#~ msgstr ""
+
+#~ msgid "74 working on the \"Kraftwerk\" Domain"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Overte is an open source virtual "
+#~ "worlds and social VR software which "
+#~ "enables you to create and share "
+#~ "virtual worlds as virtual reality (VR)"
+#~ " and desktop experiences. You can "
+#~ "create and host your own virtual "
+#~ "world, explore other worlds, meet and"
+#~ " connect with other users, attend or"
+#~ " host live VR events, and much "
+#~ "more."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The articles of association, called "
+#~ "\"Satzung\" in German, are the "
+#~ "associations bylaws. They regulate what "
+#~ "the association, its members, and the"
+#~ " board can and cannot do."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Overte e.V. Satzung - German original"
+#~ " <https://satzung.overte.org/de/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Overte e.V. Articles of association -"
+#~ " English translation <https://satzung.overte.org/en/>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Currently the yearly membership fee is"
+#~ " 60 Euro. The fee is pre paid"
+#~ " either yearly or monthly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On this website we are embedding "
+#~ "`fediverse <https://fediverse.party/>`_ apps and "
+#~ "content. Explicitly we are using the "
+#~ "social network `mastodon "
+#~ "<https://joinmastodon.org/>`_. This service does "
+#~ "not record any additonal data. But "
+#~ "if you are logged in your mastodon"
+#~ " server, the `privacy policy "
+#~ "<https://joinmastodon.org/privacy-policy>`_ of that"
+#~ " server applies for all interactions "
+#~ "with the content."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Our Privacy Policy applies only to "
+#~ "our online activities and is valid "
+#~ "for visitors to our website with "
+#~ "regards to the information that they "
+#~ "shared and/or collect in overte.org. "
+#~ "This policy is not applicable to "
+#~ "any information collected offline or via"
+#~ " channels other than this website."
 #~ msgstr ""
 
