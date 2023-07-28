@@ -73,11 +73,13 @@ You can always rerun the installer later to install the server software afterwar
     To run it anyways click on "**More info**" and then "**Run anyway**".
 
 
+.. _reference_to_downloads_source:
+
 ------
 Source
 ------
 
-Our source code is available on GitHub.
+Our source code is available on `our GitHub repository 🔗 <https://github.com/overte-org/overte/>`_.
 If you intend to build from source, we would suggest building the master branch directly instead of a release, to profit from the latest improvements.
 
 For Linux there is a helper application available that aims to simplify the build process for newcomers. Get it from GitHub here: `Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_
