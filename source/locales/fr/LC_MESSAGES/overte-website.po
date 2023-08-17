@@ -4,20 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Overte Website \n"
+"Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-03 13:15+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2023-08-19 06:41+0000\n"
+"Last-Translator: Melany Fonseca <andropeminer@gmail.com>\n"
+"Language-Team: French <https://weblate.overte.org/projects/overte/"
+"overte-website/fr/>\n"
 "Language: fr\n"
-"Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../../source/shared.rst
@@ -58,17 +59,17 @@ msgstr ""
 
 #: ../../source/contact.rst:5 ../../source/index.rst:49
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: ../../source/contact.rst:7
 msgid ""
 "There are multiple channels to get in touch with the community and "
 "association."
-msgstr ""
+msgstr "Il y a plusieurs manières de contacter la communauté et l'association."
 
 #: ../../source/contact.rst:11
 msgid "Overte"
-msgstr ""
+msgstr "Overte"
 
 #: ../../source/contact.rst:13
 msgid ""
@@ -76,10 +77,13 @@ msgid ""
 "depth questions. Check the events calendar to find out when the next "
 "meeting is happening."
 msgstr ""
+"Nos réunions hebdomadaires avec les développeurs sont l'endroit idéal pour "
+"poser des questions plus approfondies. Consultez le calendrier des "
+"événements pour connaître la date de la prochaine réunion."
 
 #: ../../source/contact.rst:19
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: ../../source/contact.rst:21
 msgid ""
@@ -87,10 +91,13 @@ msgid ""
 "an issue on the relevant GitHub repository. `Overte GitHub repository 🔗 "
 "<https://github.com/overte-org/overte>`_"
 msgstr ""
+"Si vous souhaitez signaler un problème, le moyen le plus efficace est de "
+"créer une \"issue\" sur le dépôt GitHub concerné. `Dépôt GitHub Overte 🔗 "
+"<https://github.com/overte-org/overte>`_"
 
 #: ../../source/contact.rst:27
 msgid "Matrix"
-msgstr ""
+msgstr "Matrix"
 
 #: ../../source/contact.rst:29 ../../source/index.rst:25
 msgid ""
@@ -98,20 +105,26 @@ msgid ""
 "<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
 "bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
+"Rejoignez notre Espace Matrix sur |MatrixLink| `overte:overte.org 🔗 "
+"<https://matrix.to/#/#overte:overte.org>`_. Notre Espace Matrix est "
+"également relié à |DiscordLink| `Discord 🔗 <https://discord.gg/"
+"4YuQvc8K2f>`_."
 
 #: ../../source/contact.rst:35
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ../../source/contact.rst:37
 msgid ""
 "There is also a forum located at `forum.overte.org 🔗 "
 "<https://forum.overte.org/>`_."
 msgstr ""
+"Il existe également un forum situé à l'adresse `forum.overte.org 🔗 "
+"<https://forum.overte.org/>`_."
 
 #: ../../source/contact.rst:42
 msgid "Mastodon"
-msgstr ""
+msgstr "Mastodon"
 
 #: ../../source/contact.rst:44
 msgid "https://fosstodon.org/@overte"
@@ -119,7 +132,7 @@ msgstr ""
 
 #: ../../source/donate.rst:3 ../../source/index.rst:49
 msgid "Donate"
-msgstr ""
+msgstr "Faire un don"
 
 #: ../../source/donate.rst:5
 msgid ""
@@ -127,34 +140,47 @@ msgid ""
 "and require us to pay a not insignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
 msgstr ""
+"L'hébergement, le développement, la maintenance et l'administration "
+"représentent beaucoup de travail et nous demandent de payer une somme "
+"d'argent non négligeable. Les dons sont, avec les cotisations des membres, "
+"les seuls revenus dont nous disposons pour payer nos factures."
 
 #: ../../source/donate.rst:8
 msgid ""
 "If you would like to support Overte and its development, consider "
 "donating."
 msgstr ""
+"Si vous souhaitez soutenir Overte et son développement, pensez à faire un "
+"don."
 
 #: ../../source/donate.rst:10
 msgid "You may donate via the following methods in order of preference:"
 msgstr ""
+"Vous pouvez faire un don en utilisant les méthodes suivantes, par ordre de "
+"préférence :"
 
 #: ../../source/donate.rst:12
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Bank transfer "
 "(preferred), Debit card, Credit card"
 msgstr ""
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Virement bancaire "
+"(de préférence), carte de débit, carte de crédit"
 
 #: ../../source/donate.rst:13
 msgid ""
 "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
 "payment method you can think of"
 msgstr ""
+"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - À peu près "
+"toutes les méthodes de paiement imaginables"
 
 #: ../../source/donate.rst:14
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
+"`PayPal 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:17
 msgid ""
@@ -162,10 +188,13 @@ msgid ""
 "tax-deductible in Germany. Contact us at accounting@overte.org after "
 "donating, to request such a receipt."
 msgstr ""
+"En tant qu'association à but non lucratif, l'Overte e.V. peut délivrer des "
+"reçus déductibles des impôts en Allemagne. Contactez-nous à l'adresse "
+"accounting@overte.org après avoir fait un don pour demander un tel reçu."
 
 #: ../../source/downloads.rst:5 ../../source/index.rst:49
 msgid "Downloads"
-msgstr ""
+msgstr "Téléchargements"
 
 #: ../../source/downloads.rst:7
 msgid ""
@@ -175,6 +204,13 @@ msgid ""
 "stable build 2022.12.1. On server side 2022.12.1 is still recommended but"
 " testing and reporting bugs on 2023.07.1-rc3 is very welcome."
 msgstr ""
+"La version admissible actuelle d'Overte est la version 2023.07.1-rc3. Cette "
+"version comprend le remplacement complet du moteur de script et de "
+"nombreuses autres améliorations. Pour une utilisation en tant que client, la "
+"version 2023.07.1-rc3 est recommandée par rapport à la version stable "
+"2022.12.1. Côté serveur, la version 2022.12.1 est toujours recommandée, mais "
+"les tests et les rapports de bugs sur la version 2023.07.1-rc3 sont les "
+"bienvenus."
 
 #: ../../source/downloads.rst:12
 msgid ""
@@ -182,14 +218,17 @@ msgid ""
 " the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
+"La version stable actuelle d'Overte est la version 2022.12.1. Jetez un coup "
+"d'œil aux modifications sur GitHub : `Changelog 🔗 <https://github.com/"
+"overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:18
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../source/downloads.rst:22
 msgid "Interface"
-msgstr ""
+msgstr "Interface"
 
 #: ../../source/downloads.rst:24
 msgid ""
@@ -229,10 +268,13 @@ msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr ""
+"Vous devrez définir l'AppImage comme **exécutable** en utilisant votre "
+"gestionnaire de fichiers ou une commande comme : :bash:`chmod +x Overte."
+"AppImage`."
 
 #: ../../source/downloads.rst:44
 msgid "Domain Server"
-msgstr ""
+msgstr "Serveur de domaine"
 
 #: ../../source/downloads.rst:46
 msgid ""
@@ -242,10 +284,15 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 msgstr ""
+"Sélectionnez le paquet approprié pour votre distribution et votre "
+"architecture à partir de notre `page Releases sur GitHub 🔗 <https://github."
+"com/overte-org/overte/releases/tag/2022.12.1/>`_, ou directement à partir de "
+"`public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2022.12.1/>`_."
 
 #: ../../source/downloads.rst:52
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../source/downloads.rst:54
 msgid ""
@@ -254,6 +301,11 @@ msgid ""
 "process if you want to run a Domain Server. You can always rerun the "
 "installer later to install the server software afterwards."
 msgstr ""
+"Le programme d'installation Windows contient à la fois l'interface et le "
+"serveur de domaine. Sélectionnez une installation personnalisée et cochez "
+"\"Overte Server\" au cours de la procédure d'installation si vous souhaitez "
+"utiliser un serveur de domaine. Vous pouvez toujours réexécuter le programme "
+"d'installation ultérieurement pour installer le logiciel du serveur."
 
 #: ../../source/downloads.rst:58
 msgid ""
@@ -295,10 +347,14 @@ msgid ""
 "being potentially unsafe. To run it anyway click on \"**More info**\" and"
 " then \"**Run anyway**\"."
 msgstr ""
+"Windows Defender peut afficher un avertissement indiquant que le programme "
+"d'installation de Windows est potentiellement dangereux. Pour l'exécuter "
+"quand même, cliquez sur \"**Informations complémentaires**\" et ensuite sur "
+"\"**Exécuter quand même**\"."
 
 #: ../../source/downloads.rst:80
 msgid "Source"
-msgstr ""
+msgstr "Source"
 
 #: ../../source/downloads.rst:82
 msgid ""
@@ -307,6 +363,10 @@ msgid ""
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
+"Notre code source est disponible sur `notre dépôt GitHub 🔗 <https://github."
+"com/overte-org/overte/>`_. Si vous avez l'intention de compiler à partir des "
+"sources, nous vous suggérons d'utiliser directement la branche master au "
+"lieu d'une release, afin de bénéficier des dernières améliorations."
 
 #: ../../source/downloads.rst:85
 msgid ""
@@ -314,84 +374,90 @@ msgid ""
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
+"Pour Linux, il existe une application d'aide qui vise à simplifier le "
+"processus de compilation pour les nouveaux venus. Elle est disponible sur "
+"GitHub ici : `Overte builder 🔗 (en anglais) <https://github.com/overte-org/"
+"overte-builder/>`_"
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
-msgstr ""
+msgstr "Galerie"
 
 #: ../../source/gallery.rst:5
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
 "locations attended with it."
 msgstr ""
+"Cette galerie présente l'interface Overte à travers quelques événements et "
+"lieux virtuels de la plateforme."
 
 #: ../../source/gallery.rst:11
 msgid "A normal day in the Overte office"
-msgstr ""
+msgstr "Une journée normale au bureau d'Overte"
 
 #: ../../source/gallery.rst:18
 msgid "New years party with the furry bartender"
-msgstr ""
+msgstr "Fête du Nouvel An, avec le barman furry"
 
 #: ../../source/gallery.rst:25
 msgid "Basinskys ambient occlusion showcase"
-msgstr ""
+msgstr "Démonstration de l'occlusion ambiante de Basinsky"
 
 #: ../../source/gallery.rst:32
 msgid "Installing new lanterns on the Hub bridge"
-msgstr ""
+msgstr "Installation de nouvelles lanternes sur le pont du Hub"
 
 #: ../../source/gallery.rst:39
 msgid "Some time off in the office"
-msgstr ""
+msgstr "Un peu de repos au bureau"
 
 #: ../../source/gallery.rst:46
 msgid "74 working on the “Kraftwerk” Domain"
-msgstr ""
+msgstr "74 qui bosse sur le domaine \"Kraftwerk\""
 
 #: ../../source/gallery.rst:53
 msgid "Hanging out on Maker Monday"
-msgstr ""
+msgstr "Rendez-vous au Maker Monday"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrametry worlds"
-msgstr ""
+msgstr "Basinsky présente ses mondes photogramétriques"
 
 #: ../../source/gallery.rst:60
 msgid "Basinsky showing off his photogrammetry worlds"
-msgstr ""
+msgstr "Basinsky présente ses mondes photogramétriques"
 
 #: ../../source/gallery.rst:67
 msgid "Maker Monday on Daybreak Island"
-msgstr ""
+msgstr "Maker Monday sur Daybreak Island"
 
 #: ../../source/gallery.rst:74
 msgid "Christmas in Overte"
-msgstr ""
+msgstr "Noël dans Overte"
 
 #: ../../source/gallery.rst:81
 msgid "Development meeting on Daybreak Island"
-msgstr ""
+msgstr "Réunion de développement sur Daybreak Island"
 
 #: ../../source/gallery.rst:88
 msgid "Pooltoys exploring a fantasy island"
-msgstr ""
+msgstr "Des *Pooltoys* à la découverte d'une île fantasy"
 
 #: ../../source/gallery.rst:88
 msgid "Pool toys exploring a fantasy island"
-msgstr ""
+msgstr "Des *pool toys* à la découverte d'une île fantasy"
 
 #: ../../source/gallery.rst:95
 msgid "Development meeting at the Hub"
-msgstr ""
+msgstr "Réunion de développement au Hub"
 
 #: ../../source/gallery.rst:102
 msgid "Kreolis playing in Brainstormer's Club"
-msgstr ""
+msgstr "Kreolis qui s'amuse dans Brainstormer's Club"
 
 #: ../../source/imprint.rst:3 ../../source/index.rst:49
 msgid "Imprint"
-msgstr ""
+msgstr "Mentions légales"
 
 #: ../../source/imprint.rst:5 ../../source/index.rst:49
 #: ../../source/overte_ev.rst:3
@@ -408,7 +474,7 @@ msgstr ""
 
 #: ../../source/imprint.rst:8
 msgid "Germany"
-msgstr ""
+msgstr "Allemagne"
 
 #: ../../source/imprint.rst:10
 msgid "contact@overte.org"
@@ -416,27 +482,27 @@ msgstr ""
 
 #: ../../source/index.rst:49
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: ../../source/index.rst:49
 msgid "Events 🔗"
-msgstr ""
+msgstr "Événements 🔗"
 
 #: ../../source/index.rst:49
 msgid "Documentation 🔗"
-msgstr ""
+msgstr "Documentation 🔗"
 
 #: ../../source/index.rst:49
 msgid "API reference 🔗"
-msgstr ""
+msgstr "Référence API 🔗"
 
 #: ../../source/index.rst:49 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
-msgstr ""
+msgstr "Politique de confidentialité"
 
 #: ../../source/index.rst:5
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 #: ../../source/index.rst:7
 msgid ""
@@ -446,70 +512,84 @@ msgid ""
 "create and host your own virtual world, explore other worlds, meet and "
 "connect with other users, attend or host live VR events, and much more."
 msgstr ""
+"Overte est un :ref:`open source<reference_to_downloads_source>` logiciel de "
+"mondes virtuels et de Réalité Virtuelle sociale qui vous permet de créer et "
+"de partager des mondes virtuels en tant qu'expériences de réalité virtuelle "
+"et de bureau. Vous pouvez créer et héberger votre propre monde virtuel, "
+"explorer d'autres mondes, rencontrer et vous connecter avec d'autres "
+"utilisateurs, assister ou héberger des événements VR en direct, et bien plus "
+"encore."
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
-msgstr ""
+msgstr "Le logiciel Overte possède les fonctionnalités principales suivantes :"
 
 #: ../../source/index.rst:12
 msgid "Collaborative world creation and editing"
-msgstr ""
+msgstr "Création et édition collaborative de mondes"
 
 #: ../../source/index.rst:13
 msgid "VR support, including body tracking"
-msgstr ""
+msgstr "Support VR, y compris le tracking du corps"
 
 #: ../../source/index.rst:14
 msgid "Scalability for up to 500 users in a single world"
-msgstr ""
+msgstr "Scalabilité pour jusqu'à 500 utilisateurs dans un seul monde"
 
 #: ../../source/index.rst:15
 msgid ""
 "Scripting in JavaScript, which allows creation of games, interactables, "
 "UI elements, and custom applications"
 msgstr ""
+"Scripting en JavaScript, qui permet de créer des jeux, des objets "
+"interactifs, des éléments d'interface utilisateur et des applications "
+"personnalisées"
 
 #: ../../source/index.rst:16
 msgid "High quality low latency spatial audio"
-msgstr ""
+msgstr "Son spatial de haute qualité à faible latence"
 
 #: ../../source/index.rst:17
 msgid "Powerful physics through Bullet physics engine"
-msgstr ""
+msgstr "Physiques fournies par le puissant moteur Bullet"
 
 #: ../../source/index.rst:18
 msgid "Fully open-source under the permissive Apache 2.0 license"
-msgstr ""
+msgstr "Entièrement open-source sous la licence permissive Apache 2.0"
 
 #: ../../source/index.rst:19
 msgid "No central authority. You can run your own server from home."
 msgstr ""
+"Pas d'autorité centrale. Vous pouvez lancer votre propre serveur depuis chez "
+"vous."
 
 #: ../../source/index.rst:20
 msgid "No user account required"
-msgstr ""
+msgstr "Pas de compte utilisateur requis"
 
 #: ../../source/index.rst:21
 msgid "Supported by a democratic non-profit organization"
-msgstr ""
+msgstr "Soutenu par une organisation démocratique à but non lucratif"
 
 #: ../../source/index.rst:23
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
+":doc:`Téléchargez Overte <downloads>` |DownloadPage| ou jetez un coup d'œil "
+"à notre :doc:`Galerie <gallery>` |GalleryPage|."
 
 #: ../../source/index.rst:32
 msgid "Development meeting in the Overte office"
-msgstr ""
+msgstr "Réunion de développement dans le bureau d'Overte"
 
 #: ../../source/index.rst:37
 msgid "News"
-msgstr ""
+msgstr "Actualités"
 
 #: ../../source/index.rst:41
 msgid "2023-04-01 New website"
-msgstr ""
+msgstr "2023-04-01 Nouveau site web"
 
 #: ../../source/index.rst:43
 msgid ""
@@ -519,6 +599,12 @@ msgid ""
 "This also allows us, among other things, to finally translate the website"
 " to different languages using Weblate."
 msgstr ""
+"Comme notre ancien site web basé sur 11ty n'était pas maintenu et que "
+"personne ne savait comment l'éditer, nous avons créé un site web tout "
+"nouveau en utilisant Sphinx, le même système que nous utilisons pour notre "
+"documentation principale depuis des années. Cela nous permet également, "
+"entre autres, d'enfin traduire le site web dans différentes langues à l'aide "
+"de Weblate."
 
 #: ../../source/index.rst:46
 msgid ""
@@ -526,16 +612,21 @@ msgid ""
 "Overte, head over to `weblate.overte.org 🔗 "
 "<https://weblate.overte.org/>`_."
 msgstr ""
+"Si vous souhaitez contribuer à la traduction de ce site web ou d'autres "
+"parties d'Overte, rendez-vous sur `weblate.overte.org 🔗 <https://weblate."
+"overte.org/>`_."
 
 #: ../../source/overte_ev.rst:5
 msgid ""
 "The Overte e.V. is the association behind Overte. It is a non-profit "
 "association registered in Germany."
 msgstr ""
+"L'Overte e.V. est l'association qui se cache derrière Overte. Il s'agit "
+"d'une association à but non lucratif enregistrée en Allemagne."
 
 #: ../../source/overte_ev.rst:10
 msgid "Articles of association"
-msgstr ""
+msgstr "Statuts de l'association"
 
 #: ../../source/overte_ev.rst:12
 msgid ""
@@ -543,20 +634,25 @@ msgid ""
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
 msgstr ""
+"Les statuts de l'association, appelés \"Satzung\" en allemand, sont les "
+"règlements de l'association. Ils régissent ce que l'association, ses membres "
+"et le conseil d'administration peuvent et ne peuvent pas faire."
 
 #: ../../source/overte_ev.rst:15
 msgid "Take a look at them here:"
-msgstr ""
+msgstr "Jetez-y un coup d'œil :"
 
 #: ../../source/overte_ev.rst:17
 msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
 msgstr ""
+"`Overte e.V. Satzung - Original allemand <https://satzung.overte.org/de/>`_"
 
 #: ../../source/overte_ev.rst:18
 msgid ""
 "`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
+"`Overte e.V. Statuts - Traduction anglaise <https://satzung.overte.org/en/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
@@ -564,16 +660,21 @@ msgid ""
 "we try to make sure that the English translation is as accurate as "
 "possible. If you notice any discrepancies, please get in touch with us."
 msgstr ""
+"Bien que l'original allemand prime sur la traduction anglaise, nous nous "
+"efforçons de veiller à ce que la traduction anglaise soit aussi précise que "
+"possible. Si vous constatez des divergences, n'hésitez pas à nous contacter."
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership"
-msgstr ""
+msgstr "Adhésion"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
 msgstr ""
+"Pour utiliser le logiciel Overte ou contribuer à son développement, il n'est "
+"**PAS** nécessaire d'être membre de l'association."
 
 #: ../../source/overte_ev.rst:32
 msgid ""
@@ -581,12 +682,18 @@ msgid ""
 "member. As a member you are allowed to vote in association meetings. This"
 " also includes board member elections."
 msgstr ""
+"Vous pouvez adhérer à l'association en tant que membre ou membre de soutien. "
+"En tant que membre, vous avez le droit de voter lors des réunions de "
+"l'association. Cela comprend également l'élection des membres du conseil "
+"d'administration."
 
 #: ../../source/overte_ev.rst:35
 msgid ""
 "Currently, the yearly membership fee is 60 Euro. The fee is pre-paid "
 "either yearly or monthly."
 msgstr ""
+"Actuellement, la cotisation annuelle est de 60 euros. Elle est payée à "
+"l'avance soit annuellement, soit mensuellement."
 
 #: ../../source/overte_ev.rst:37
 msgid ""
@@ -596,16 +703,23 @@ msgid ""
 "address, and email address, to application@overte.org, or our postal "
 "address."
 msgstr ""
+"Si vous souhaitez adhérer à l'association, veuillez vous familiariser avec "
+"les statuts de l'association dont le lien figure au-dessus. Pour adhérer à "
+"l'association, veuillez écrire une demande contenant votre nom réel, votre "
+"nom d'utilisateur (facultatif), votre adresse postale, et votre adresse "
+"électronique à application@overte.org ou à notre adresse postale."
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
-msgstr ""
+msgstr "Conseil d'administration actuel"
 
 #: ../../source/overte_ev.rst:46
 msgid ""
 "The current board members were elected on the general assembly on the "
 "17th September 2022."
 msgstr ""
+"Les membres actuels du conseil d'administration ont été élus lors de "
+"l'assemblée générale du 17 septembre 2022."
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -617,11 +731,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:50
 msgid "Speaks Spanish, English and Russian."
-msgstr ""
+msgstr "Parle espagnol, anglais et russe."
 
 #: ../../source/overte_ev.rst:51
 msgid "Chairman and developer."
-msgstr ""
+msgstr "Président et développeur."
 
 #: ../../source/overte_ev.rst:59
 msgid "|Julian_Groß| Julian Groß"
@@ -633,11 +747,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:60
 msgid "Speaks German, English and basic Japanese."
-msgstr ""
+msgstr "Parle allemand, anglais et a des notions de japonais."
 
 #: ../../source/overte_ev.rst:61
 msgid "Treasurer, deputy chairman, and developer."
-msgstr ""
+msgstr "Trésorier, vice-président, et développeur."
 
 #: ../../source/overte_ev.rst:69
 msgid "|Kreolis| Kreolis"
@@ -649,11 +763,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:70 ../../source/overte_ev.rst:90
 msgid "Speaks German and English."
-msgstr ""
+msgstr "Parle allemand et anglais."
 
 #: ../../source/overte_ev.rst:71
 msgid "Secretary and second deputy chairman."
-msgstr ""
+msgstr "Secrétaire et second vice-président."
 
 #: ../../source/overte_ev.rst:79
 msgid "|74hc595| 74hc595"
@@ -665,11 +779,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:80
 msgid "Speaks Polish and English."
-msgstr ""
+msgstr "Parle polonais et anglais."
 
 #: ../../source/overte_ev.rst:81
 msgid "Developer"
-msgstr ""
+msgstr "Développeur"
 
 #: ../../source/overte_ev.rst:89
 msgid "|Catraxx| Catraxx"
@@ -681,7 +795,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:91
 msgid "Former website developer"
-msgstr ""
+msgstr "Ancien développeur du site web"
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -690,16 +804,23 @@ msgid ""
 "information that is collected and recorded by overte.org and how we use "
 "it."
 msgstr ""
+"Ci-dessous se trouve la politique de confidentialité de overte.org, "
+"accessible à partir de https://overte.org. Ce document de Politique de "
+"Confidentialité contient les types d'informations collectées et enregistrées "
+"par overte.org et la manière dont nous les utilisons."
 
 #: ../../source/privacy_policy.rst:7
 msgid ""
 "If you have additional questions or require more information about our "
 "Privacy Policy, do not hesitate to contact us."
 msgstr ""
+"Si vous avez des questions supplémentaires ou si vous souhaitez obtenir plus "
+"d'informations sur notre Politique de confidentialité, n'hésitez pas à nous "
+"contacter."
 
 #: ../../source/privacy_policy.rst:9
 msgid "We are a Data Controller of your information."
-msgstr ""
+msgstr "Nous sommes un Contrôleur de données de vos informations."
 
 #: ../../source/privacy_policy.rst:11
 msgid ""
@@ -707,24 +828,30 @@ msgid ""
 " described in this Privacy Policy depends on the Personal Information we "
 "collect and the specific context in which we collect the information:"
 msgstr ""
+"La base juridique d'Overte e.V. pour la collecte et l'utilisation des "
+"informations personnelles décrites dans la présente Politique de "
+"confidentialité dépend des informations personnelles que nous recueillons et "
+"du contexte spécifique dans lequel nous recueillons ces informations :"
 
 #: ../../source/privacy_policy.rst:13
 msgid "Overte e.V. needs to perform a contract with you"
-msgstr ""
+msgstr "Overte e.V. a besoin d'exécuter un contrat avec vous"
 
 #: ../../source/privacy_policy.rst:14
 msgid "You have given Overte e.V. permission to do so"
-msgstr ""
+msgstr "Vous avez donné à Overte e.V. l'autorisation de le faire"
 
 #: ../../source/privacy_policy.rst:15
 msgid ""
 "Processing your personal information is in Overte e.V. legitimate "
 "interests"
 msgstr ""
+"Le traitement de vos informations personnelles est dans l'intérêt légitime "
+"d'Overte e.V."
 
 #: ../../source/privacy_policy.rst:16
 msgid "Overte e.V. needs to comply with the law"
-msgstr ""
+msgstr "Overte e.V. doit se conformer à la loi"
 
 #: ../../source/privacy_policy.rst:18
 msgid ""
@@ -733,6 +860,11 @@ msgid ""
 " and use your information to the extent necessary to comply with our "
 "legal obligations, resolve disputes, and enforce our policies."
 msgstr ""
+"Overte e.V. ne conservera vos informations personnelles que pendant la durée "
+"nécessaire aux fins énoncées dans la présente Politique de confidentialité. "
+"Nous conserverons et utiliserons vos informations dans la mesure nécessaire "
+"au respect de nos obligations légales, à la résolution des litiges, et à "
+"l'application de nos politiques."
 
 #: ../../source/privacy_policy.rst:20
 msgid ""
@@ -741,38 +873,47 @@ msgid ""
 "Information we hold about you and if you want it to be removed from our "
 "systems, please contact us."
 msgstr ""
+"Si vous résidez dans l'Espace économique européen (EEE), vous disposez de "
+"certains droits en matière de protection des données. Si vous souhaitez être "
+"informé·e des informations personnelles que nous détenons à votre sujet et "
+"si vous souhaitez qu'elles soient supprimées de nos systèmes, veuillez nous "
+"contacter."
 
 #: ../../source/privacy_policy.rst:22
 msgid "In certain circumstances, you have the following data protection rights:"
 msgstr ""
+"Dans certaines circonstances, vous disposez des droits suivants en matière "
+"de protection des données :"
 
 #: ../../source/privacy_policy.rst:24
 msgid "The right to access, update or to delete the information we have on you."
 msgstr ""
+"Le droit d'accéder, de mettre à jour ou de supprimer les informations dont "
+"nous disposons à votre sujet."
 
 #: ../../source/privacy_policy.rst:25
 msgid "The right of rectification."
-msgstr ""
+msgstr "Le droit de rectification."
 
 #: ../../source/privacy_policy.rst:26
 msgid "The right to object."
-msgstr ""
+msgstr "Le droit d'opposition."
 
 #: ../../source/privacy_policy.rst:27
 msgid "The right of restriction."
-msgstr ""
+msgstr "Le droit de restriction."
 
 #: ../../source/privacy_policy.rst:28
 msgid "The right to data portability"
-msgstr ""
+msgstr "Le droit à la portabilité des données"
 
 #: ../../source/privacy_policy.rst:29
 msgid "The right to withdraw consent"
-msgstr ""
+msgstr "Le droit de retirer son consentement"
 
 #: ../../source/privacy_policy.rst:33
 msgid "Log Files"
-msgstr ""
+msgstr "Fichiers journaux"
 
 #: ../../source/privacy_policy.rst:35
 msgid ""
@@ -785,10 +926,20 @@ msgid ""
 "that is personally identifiable. The purpose of the information is for "
 "analyzing trends, administering the site."
 msgstr ""
+"overte.org suit une procédure standard d'utilisation de fichiers journaux. "
+"Ces fichiers enregistrent les visiteurs lorsqu'ils visitent des sites web. "
+"Toutes les sociétés d'hébergement le font et cela fait partie de l'analyse "
+"des services d'hébergement. Les informations collectées par les fichiers "
+"journaux comprennent les adresses IP (Internet Protocol), le type de "
+"navigateur, le fournisseur d'accès à Internet (FAI), la date et l'heure, les "
+"pages de renvoi et de sortie, et éventuellement le nombre de clics. Ces "
+"données ne sont pas liées à des informations personnellement identifiables. "
+"L'objectif de ces informations est d'analyser les tendances et d'administrer "
+"le site."
 
 #: ../../source/privacy_policy.rst:39
 msgid "Third Party Privacy Policies"
-msgstr ""
+msgstr "Politiques de confidentialité des tiers"
 
 #: ../../source/privacy_policy.rst:41
 msgid ""
@@ -797,6 +948,11 @@ msgid ""
 "third-party servers for more detailed information. It may include their "
 "practices and instructions about how to opt-out of certain options."
 msgstr ""
+"La Politique de confidentialité d'overte.org ne s'applique pas aux autres "
+"sites web. Nous vous conseillons donc de consulter les Politiques de "
+"confidentialité respectives de ces serveurs tiers pour obtenir des "
+"informations plus détaillées. Elles peuvent inclure leurs pratiques et des "
+"instructions sur la manière de refuser certaines options."
 
 #: ../../source/privacy_policy.rst:43
 msgid ""
@@ -805,10 +961,14 @@ msgid ""
 "specific web browsers, it can be found at the browsers' respective "
 "websites."
 msgstr ""
+"Vous pouvez choisir de désactiver les cookies par le biais des options de "
+"votre navigateur. Pour obtenir des informations plus détaillées sur la "
+"gestion des cookies avec des navigateurs web spécifiques, vous pouvez "
+"consulter les sites web respectifs de ces navigateurs."
 
 #: ../../source/privacy_policy.rst:47
 msgid "Fediverse"
-msgstr ""
+msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:49
 msgid ""
@@ -819,10 +979,16 @@ msgid ""
 "`privacy policy <https://joinmastodon.org/privacy-policy>`_ of that "
 "server applies for all interactions with the content."
 msgstr ""
+"Sur ce site web, nous intégrons des applications et du contenu du `Fediverse "
+"<https://fediverse.party/>`_. Nous utilisons explicitement le réseau social `"
+"mastodon <https://joinmastodon.org/>`_. Ce service n'enregistre aucune "
+"donnée supplémentaire. Mais si vous êtes connecté à votre serveur mastodon, "
+"la politique de confidentialité ` <https://joinmastodon.org/privacy-policy>`"
+"_ de ce serveur s'applique à toutes les interactions avec le contenu."
 
 #: ../../source/privacy_policy.rst:53
 msgid "Children's Information"
-msgstr ""
+msgstr "Données des enfants"
 
 #: ../../source/privacy_policy.rst:55
 msgid ""
@@ -830,6 +996,10 @@ msgid ""
 "using the internet. We encourage parents and guardians to observe, "
 "participate in, and/or monitor and guide their online activity."
 msgstr ""
+"Une autre de nos priorités est de renforcer la protection des enfants "
+"lorsqu'ils utilisent l'internet. Nous encourageons les parents et les "
+"tuteurs à observer leurs activités en ligne, à y participer et/ou à les "
+"surveiller et à les guider."
 
 #: ../../source/privacy_policy.rst:57
 msgid ""
@@ -839,10 +1009,15 @@ msgid ""
 "to contact us immediately and we will do our best efforts to promptly "
 "remove such information from our records."
 msgstr ""
+"overte.org ne collecte pas sciemment d'Informations personnellement "
+"identifiables d'enfants de moins de 13 ans. Si vous pensez que votre enfant "
+"a fourni ce type d'informations sur notre site web, nous vous encourageons à "
+"nous contacter immédiatement et nous ferons tout notre possible pour "
+"supprimer rapidement ces informations de nos dossiers."
 
 #: ../../source/privacy_policy.rst:61
 msgid "Online Privacy Policy Only"
-msgstr ""
+msgstr "Politique de confidentialité en ligne uniquement"
 
 #: ../../source/privacy_policy.rst:63
 msgid ""
@@ -851,16 +1026,23 @@ msgid ""
 "and/or collect in overte.org. This policy is not applicable to any "
 "information collected offline or via channels other than this website."
 msgstr ""
+"Notre politique de confidentialité s'applique uniquement à nos activités en "
+"ligne et est valable pour les visiteurs de notre site web en ce qui concerne "
+"les informations qu'ils partagent et/ou collectent sur overte.org. Cette "
+"politique ne s'applique pas aux informations collectées hors ligne ou via "
+"d'autres canaux que ce site web."
 
 #: ../../source/privacy_policy.rst:67
 msgid "Consent"
-msgstr ""
+msgstr "Consentement"
 
 #: ../../source/privacy_policy.rst:69
 msgid ""
 "By using our website, you hereby consent to our Privacy Policy and agree "
 "to its terms."
 msgstr ""
+"En utilisant notre site web, vous consentez par la présente à notre "
+"Politique de confidentialité et en acceptez les termes."
 
 #~ msgid "New website"
 #~ msgstr ""
@@ -1165,4 +1347,3 @@ msgstr ""
 #~ "testing and reporting bugs on "
 #~ "2023.07.1-rc2 is very welcome."
 #~ msgstr ""
-
