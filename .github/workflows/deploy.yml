@@ -60,6 +60,11 @@ jobs:
        make BUILDDIR="build/lt" SPHINXOPTS="-Dlanguage=lt" html
        mv build/lt/html/ output/lt/
 
+    - name: Build French translation
+      run: |
+       make BUILDDIR="build/fr" SPHINXOPTS="-Dlanguage=fr" html
+       mv build/fr/html/ output/fr/
+
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
