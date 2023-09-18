@@ -14,4 +14,3 @@ sphinx:
 python:
    install:
    - requirements: requirements.txt
-   system_packages: true # Allow use of system packages
