@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-17 18:56+0000\n"
+"POT-Creation-Date: 2023-09-18 18:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: lt\n"
@@ -676,9 +676,10 @@ msgid "Current Board"
 msgstr "Dabartinė valdyba"
 
 #: ../../source/overte_ev.rst:46
+#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
-"17th September 2022."
+"16th September 2023."
 msgstr ""
 "Dabartiniai valdybos nariai buvo išrinkti 2022 m. rugsėjo 17 d. "
 "visuotiniame susirinkime."
@@ -723,7 +724,7 @@ msgstr ""
 msgid "Kreolis"
 msgstr ""
 
-#: ../../source/overte_ev.rst:70 ../../source/overte_ev.rst:90
+#: ../../source/overte_ev.rst:70
 msgid "Speaks German and English."
 msgstr "Kalba vokiškai ir angliškai."
 
@@ -732,11 +733,11 @@ msgid "Secretary and second deputy chairman."
 msgstr "Sekretorius ir antrasis pirmininko pavaduotojas."
 
 #: ../../source/overte_ev.rst:79
-msgid "|74hc595| 74hc595"
+msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:83
-msgid "74hc595"
+msgid "Karol_Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:80
@@ -744,20 +745,38 @@ msgid "Speaks Polish and English."
 msgstr "Kalba lenkų ir anglų kalbomis."
 
 #: ../../source/overte_ev.rst:81
-msgid "Developer"
-msgstr "Programuotojas"
+#, fuzzy
+msgid "Graphics specialist and developer"
+msgstr "Pirmininkas ir programuotojas."
 
 #: ../../source/overte_ev.rst:89
-msgid "|Catraxx| Catraxx"
+msgid "|Zetaphor| Zetaphor"
 msgstr ""
 
 #: ../../source/overte_ev.rst:93
-msgid "Catraxx"
+msgid "Zetaphor"
 msgstr ""
 
+#: ../../source/overte_ev.rst:90 ../../source/overte_ev.rst:100
+#, fuzzy
+msgid "Speaks English."
+msgstr "Kalba lenkų ir anglų kalbomis."
+
 #: ../../source/overte_ev.rst:91
-msgid "Former website developer"
-msgstr "Buvęs svetainės kūrėjas"
+msgid "Developer"
+msgstr "Programuotojas"
+
+#: ../../source/overte_ev.rst:99
+msgid "|Sam_Gondelman| Sam Gondelman"
+msgstr ""
+
+#: ../../source/overte_ev.rst:103
+msgid "Sam_Gondelman"
+msgstr ""
+
+#: ../../source/overte_ev.rst:101
+msgid "Core Engine & graphics specialist"
+msgstr ""
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -1186,4 +1205,19 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
+
+#~ msgid "|74hc595| 74hc595"
+#~ msgstr ""
+
+#~ msgid "74hc595"
+#~ msgstr ""
+
+#~ msgid "|Catraxx| Catraxx"
+#~ msgstr ""
+
+#~ msgid "Catraxx"
+#~ msgstr ""
+
+#~ msgid "Former website developer"
+#~ msgstr "Buvęs svetainės kūrėjas"
 

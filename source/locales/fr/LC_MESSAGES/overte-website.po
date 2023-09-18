@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-17 18:56+0000\n"
+"POT-Creation-Date: 2023-09-18 18:33+0000\n"
 "PO-Revision-Date: 2023-08-19 12:22+0000\n"
 "Last-Translator: Melany Fonseca <andropeminer@gmail.com>\n"
 "Language: fr\n"
@@ -686,9 +686,10 @@ msgid "Current Board"
 msgstr "Conseil d'administration actuel"
 
 #: ../../source/overte_ev.rst:46
+#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
-"17th September 2022."
+"16th September 2023."
 msgstr ""
 "Les membres actuels du conseil d'administration ont été élus lors de "
 "l'assemblée générale du 17 septembre 2022."
@@ -733,7 +734,7 @@ msgstr ""
 msgid "Kreolis"
 msgstr ""
 
-#: ../../source/overte_ev.rst:70 ../../source/overte_ev.rst:90
+#: ../../source/overte_ev.rst:70
 msgid "Speaks German and English."
 msgstr "Parle allemand et anglais."
 
@@ -742,11 +743,11 @@ msgid "Secretary and second deputy chairman."
 msgstr "Secrétaire et second vice-président."
 
 #: ../../source/overte_ev.rst:79
-msgid "|74hc595| 74hc595"
+msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:83
-msgid "74hc595"
+msgid "Karol_Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:80
@@ -754,20 +755,38 @@ msgid "Speaks Polish and English."
 msgstr "Parle polonais et anglais."
 
 #: ../../source/overte_ev.rst:81
-msgid "Developer"
-msgstr "Développeur"
+#, fuzzy
+msgid "Graphics specialist and developer"
+msgstr "Président et développeur."
 
 #: ../../source/overte_ev.rst:89
-msgid "|Catraxx| Catraxx"
+msgid "|Zetaphor| Zetaphor"
 msgstr ""
 
 #: ../../source/overte_ev.rst:93
-msgid "Catraxx"
+msgid "Zetaphor"
 msgstr ""
 
+#: ../../source/overte_ev.rst:90 ../../source/overte_ev.rst:100
+#, fuzzy
+msgid "Speaks English."
+msgstr "Parle polonais et anglais."
+
 #: ../../source/overte_ev.rst:91
-msgid "Former website developer"
-msgstr "Ancien développeur du site web"
+msgid "Developer"
+msgstr "Développeur"
+
+#: ../../source/overte_ev.rst:99
+msgid "|Sam_Gondelman| Sam Gondelman"
+msgstr ""
+
+#: ../../source/overte_ev.rst:103
+msgid "Sam_Gondelman"
+msgstr ""
+
+#: ../../source/overte_ev.rst:101
+msgid "Core Engine & graphics specialist"
+msgstr ""
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -1393,4 +1412,19 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
+
+#~ msgid "|74hc595| 74hc595"
+#~ msgstr ""
+
+#~ msgid "74hc595"
+#~ msgstr ""
+
+#~ msgid "|Catraxx| Catraxx"
+#~ msgstr ""
+
+#~ msgid "Catraxx"
+#~ msgstr ""
+
+#~ msgid "Former website developer"
+#~ msgstr "Ancien développeur du site web"
 
