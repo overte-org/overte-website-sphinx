@@ -43,7 +43,7 @@ to application@overte.org, or our postal address.
 Current Board
 -------------
 
-The current board members were elected on the general assembly on the 17th September 2022.
+The current board members were elected on the general assembly on the 16th September 2023.
 
 |Dale_Glass| Dale Glass
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,21 +75,31 @@ The current board members were elected on the general assembly on the 17th Septe
     :width: 96
 
 
-|74hc595| 74hc595
-~~~~~~~~~~~~~~~~~
+|Karol_Suprynowicz| Dr. Karol Suprynowicz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Speaks Polish and English.
-| Developer
+| Graphics specialist and developer
 
-.. |74hc595| image:: _images/board/74hc595.png
+.. |Karol_Suprynowicz| image:: _images/board/Karol_Suprynowicz.png
     :class: inline2
     :width: 96
 
 
-|Catraxx| Catraxx
-~~~~~~~~~~~~~~~~~
-| Speaks German and English.
-| Former website developer
+|Zetaphor| Zetaphor
+~~~~~~~~~~~~~~~~~~~
+| Speaks English.
+| Developer
 
-.. |Catraxx| image:: _images/board/Catraxx.png
+.. |Zetaphor| image:: _images/board/Zetaphor.png
+    :class: inline2
+    :width: 96
+
+
+|Sam_Gondelman| Sam Gondelman
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| Speaks English.
+| Core Engine & graphics specialist
+
+.. |Sam_Gondelman| image:: _images/board/Sam_Gondelman.png
     :class: inline2
     :width: 96
