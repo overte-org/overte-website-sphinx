@@ -20,7 +20,7 @@ Linux
 Interface
 *********
 
-.. button-link:: https://public.overte.org/build/overte/release-candidate/2023.08.1-rc4.2/Overte-2023.08.1-rc4.2-nodebug-x86_64.AppImage
+.. button-link:: https://public.overte.org/build/overte/release-candidate/2023.09.1-rc4.3/Overte-2023.09.1-rc4.3-nodebug-x86_64.AppImage
     :shadow:
     :color: primary
 
@@ -48,7 +48,7 @@ The Windows installer contains both Interface and the Domain Server.
 Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
 You can always rerun the installer later to install the server software afterwards.
 
-.. button-link:: https://public.overte.org/build/overte/release-candidate/2023.08.1-rc4.2/Overte-2023.08.1-rc4.2.exe
+.. button-link:: https://public.overte.org/build/overte/release-candidate/2023.09.1-rc4.3/Overte-2023.09.1-rc4.3.exe
     :shadow:
     :color: primary
 
