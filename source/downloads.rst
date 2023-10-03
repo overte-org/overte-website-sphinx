@@ -4,9 +4,9 @@
 Downloads
 #########
 
-The current release candidate of Overte is version 2023.08.1-rc4.2.
+The current release candidate of Overte is version 2023.09.1-rc4.3.
 This release includes complete replacement of script engine and a lot of other improvements. 
-On server side stable build 2022.12.1 is still recommended but testing and reporting bugs on 2023.08.1-rc4.2 is very welcome.
+On server side stable build 2022.12.1 is still recommended but testing and reporting bugs on 2023.09.1-rc4.3 is very welcome.
 
 The current stable release of Overte is version 2022.12.1.
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
