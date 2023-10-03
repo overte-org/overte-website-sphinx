@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-18 18:33+0000\n"
+"POT-Creation-Date: 2023-10-03 17:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: el\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.13.0\n"
 
 #: ../../source/shared.rst
 msgid "DownloadPage"
@@ -169,10 +169,10 @@ msgstr ""
 
 #: ../../source/downloads.rst:7
 msgid ""
-"The current release candidate of Overte is version 2023.08.1-rc4.2. This "
+"The current release candidate of Overte is version 2023.09.1-rc4.3. This "
 "release includes complete replacement of script engine and a lot of other"
 " improvements. On server side stable build 2022.12.1 is still recommended"
-" but testing and reporting bugs on 2023.08.1-rc4.2 is very welcome."
+" but testing and reporting bugs on 2023.09.1-rc4.3 is very welcome."
 msgstr ""
 
 #: ../../source/downloads.rst:11
@@ -1264,5 +1264,16 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Former website developer"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The current release candidate of Overte"
+#~ " is version 2023.08.1-rc4.2. This release"
+#~ " includes complete replacement of script"
+#~ " engine and a lot of other "
+#~ "improvements. On server side stable "
+#~ "build 2022.12.1 is still recommended but"
+#~ " testing and reporting bugs on "
+#~ "2023.08.1-rc4.2 is very welcome."
 #~ msgstr ""
 
