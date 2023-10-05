@@ -51,7 +51,7 @@ If you would like to help translate this website or other parts of Overte, head 
     :hidden:
 
     Home <self>
-    Events 🔗 <https://calendar.overte.org>
+    Calendar <calendar>
     Downloads <downloads>
     Gallery <gallery>
     Contact <contact>
