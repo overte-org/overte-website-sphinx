@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-03 17:01+0000\n"
+"POT-Creation-Date: 2023-10-05 14:52+0000\n"
 "PO-Revision-Date: 2023-06-09 19:22+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ko\n"
@@ -19,6 +19,44 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.13.0\n"
+
+#: ../../source/calendar.rst:3 ../../source/index.rst:49
+msgid "Calendar"
+msgstr ""
+
+#: ../../source/calendar.rst:5
+msgid ""
+"There is a multitude of regular and irregular events that happen in "
+"Overte. This calendar aims to give you an overview of such events. Please"
+" note that all times listed here are UTC. To convert to your local "
+"timezone, please ask your preferred search engine something along the "
+"lines of: \"What is Saturday 19:00 UTC in my time?\""
+msgstr ""
+
+#: ../../source/calendar.rst:11
+msgid "Monday"
+msgstr ""
+
+#: ../../source/calendar.rst:13
+#, fuzzy
+msgid "20:00 UTC  Maker Monday"
+msgstr "메이커 먼데이에 참여하기"
+
+#: ../../source/calendar.rst:17
+msgid "Wednesday"
+msgstr ""
+
+#: ../../source/calendar.rst:19
+msgid "20:15 UTC  Wednesday game night"
+msgstr ""
+
+#: ../../source/calendar.rst:23
+msgid "Saturday"
+msgstr ""
+
+#: ../../source/calendar.rst:25
+msgid "19:00 UTC  Development meetup"
+msgstr ""
 
 #: ../../source/shared.rst
 msgid "DownloadPage"
@@ -420,10 +458,6 @@ msgstr ""
 #: ../../source/index.rst:49
 msgid "Home"
 msgstr "홈"
-
-#: ../../source/index.rst:49
-msgid "Events 🔗"
-msgstr "이벤트 🔗"
 
 #: ../../source/index.rst:49
 msgid "Documentation 🔗"
@@ -1261,4 +1295,7 @@ msgstr "당사 웹사이트를 이용함으로써 귀하는 당사의 개인정�
 #~ " testing and reporting bugs on "
 #~ "2023.08.1-rc4.2 is very welcome."
 #~ msgstr ""
+
+#~ msgid "Events 🔗"
+#~ msgstr "이벤트 🔗"
 
