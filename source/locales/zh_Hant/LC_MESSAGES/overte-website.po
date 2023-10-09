@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-05 14:52+0000\n"
+"POT-Creation-Date: 2023-10-09 07:16+0000\n"
 "PO-Revision-Date: 2023-06-09 11:29+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: zh_Hant\n"
@@ -185,8 +185,8 @@ msgstr "可以透過以下幾種方式贊助："
 #: ../../source/donate.rst:12
 #, fuzzy
 msgid ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Bank transfer "
-"(preferred), Debit card, Credit card"
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
+"Credit card"
 msgstr ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - 銀行轉帳 (優先), 金融卡,"
 " 信用卡"
@@ -200,13 +200,19 @@ msgstr "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - 幾乎�
 
 #: ../../source/donate.rst:14
 msgid ""
+"Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
+"00, BIC: GENODEM1GLS, Account number 1303331100"
+msgstr ""
+
+#: ../../source/donate.rst:15
+msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
-#: ../../source/donate.rst:17
+#: ../../source/donate.rst:18
 #, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
