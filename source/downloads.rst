@@ -5,7 +5,7 @@ Downloads
 #########
 
 The current release of Overte is version 2023.11.1.
-This release includes complete replacement of script engine and a lot of other improvements. 
+This release includes a complete replacement of script engine and a lot of other improvements. 
 
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
 
