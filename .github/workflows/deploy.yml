@@ -1,4 +1,4 @@
-# Copyright 2023 Overte e.V.
+# Copyright 2023-2024 Overte e.V.
 # SPDX-License-Identifier: Apache-2.0
 
 name: Production CI Build & Deploy
@@ -64,6 +64,11 @@ jobs:
       run: |
        make BUILDDIR="build/fr" SPHINXOPTS="-Dlanguage=fr" html
        mv build/fr/html/ output/fr/
+
+    - name: Build Portuguese translation
+      run: |
+       make BUILDDIR="build/pt" SPHINXOPTS="-Dlanguage=pt" html
+       mv build/pt/html/ output/pt/
 
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
