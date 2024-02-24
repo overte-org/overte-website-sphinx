@@ -152,7 +152,7 @@ msgid ""
 msgstr ""
 "Junte-se ao nosso Espaço Matriz em |MatrixLink| `overte:overte.org 🔗 "
 "<https://matrix.to/#/#overte:overte.org>`_. Nosso Espaço Matriz também "
-"está conectado ao |DiscordLink| ` Discord 🔗 <https:// discord "
+"está conectado ao |DiscordLink| `Discord 🔗 <https:// discord "
 ".gg/4YuQvc8K2f>`_."
 
 #: ../../source/contact.rst:35
@@ -576,8 +576,8 @@ msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
-":doc:`Obtenha o Overte em nossa <downloads>` |Página de Download| ou dê "
-"uma olhada em nossa :doc:`Galeria <gallery>` |Galeria|."
+":doc:`Obtenha o Overte em nossa <downloads>` |DownloadPage| ou dê "
+"uma olhada em nossa :doc:`Galeria <gallery>` |GalleryPage|."
 
 #: ../../source/index.rst:32
 msgid "Development meeting in the Overte office"
