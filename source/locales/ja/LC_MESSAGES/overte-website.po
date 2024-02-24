@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2023-06-09 11:29+0000\n"
+"PO-Revision-Date: 2024-02-24 19:36+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
+"overte-website/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
-"/overte-website/ja/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.3.1\n"
 "Generated-By: Babel 2.13.1\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
@@ -182,13 +183,12 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "ご寄付は、ご希望される順に以下の方法でお願いします："
 
 #: ../../source/donate.rst:12
-#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card"
 msgstr ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - "
-"銀行振込（優先）、デビットカード、クレジットカード"
+"デビットカード、クレジットカード"
 
 #: ../../source/donate.rst:13
 msgid ""
@@ -233,13 +233,12 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:10
-#, fuzzy
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"Overteの現在の安定版リリースはバージョン2022.12.1です。GitHubにある変更履歴をご覧ください： `Changelog 🔗 "
-"<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
+"GitHubにある変更履歴をご覧ください： `Changelog 🔗 <https://github.com/"
+"overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:15
 msgid "Linux"
@@ -278,7 +277,6 @@ msgid "Domain Server"
 msgstr ""
 
 #: ../../source/downloads.rst:37
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from our `GitHub Release page 🔗 <https://github.com/overte-"
@@ -286,10 +284,10 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 msgstr ""
-"`GitHubのリリースページ🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2022.12.1/>`_ から、または `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_ "
-"から、あなたのディストリビューションやアーキテクチャに適したパッケージを選んでください。"
+"`GitHubのリリースページ🔗 <https://github.com/overte-org/overte/releases/tag/"
+"2023.11.1/>`_ から、または `public.overte.org 🔗 <https://public.overte.org/"
+"index.html#build/overte/release/2023.11.1/>`_ から、あなたのディストリビュー"
+"ションやアーキテクチャに適したパッケージを選んでください。"
 
 #: ../../source/downloads.rst:43
 msgid "Windows"
@@ -593,20 +591,16 @@ msgid "Take a look at them here:"
 msgstr "ここで見てみてください："
 
 #: ../../source/overte_ev.rst:17
-#, fuzzy
 msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
-msgstr ""
-"`Overte e.V. Satzung - ドイツ語原文 <https://buyanvr-organizational-code-"
-"draft.readthedocs.io/de/latest/>`_"
+msgstr "`Overte e.V. Satzung - ドイツ語原文 <https://satzung.overte.org/de/>`_"
 
 #: ../../source/overte_ev.rst:18
-#, fuzzy
 msgid ""
 "`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
-"`Overte e.V. Articles of association - 英語訳 <https://buyanvr-"
-"organizational-code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - 英語訳 <https://satzung.overte.org/en/"
+">`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
@@ -633,7 +627,6 @@ msgid ""
 msgstr "会員または賛助会員として協会に参加することは大歓迎です。会員になると、協会の会合で投票することができます。これには、役員選挙も含まれます。"
 
 #: ../../source/overte_ev.rst:35
-#, fuzzy
 msgid ""
 "Currently, the yearly membership fee is 60 Euro. The fee is pre-paid "
 "either yearly or monthly."
@@ -653,11 +646,10 @@ msgid "Current Board"
 msgstr "現理事会員"
 
 #: ../../source/overte_ev.rst:46
-#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
 "16th September 2023."
-msgstr "2022年9月17日の総会で、現在の理事会員が選出されました。"
+msgstr "2023年9月16日の総会で、現在の理事会員が選出されました。"
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -1354,4 +1346,3 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
-
