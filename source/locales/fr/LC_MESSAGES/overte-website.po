@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2023-08-19 12:22+0000\n"
-"Last-Translator: Melany Fonseca <andropeminer@gmail.com>\n"
+"PO-Revision-Date: 2024-02-24 19:36+0000\n"
+"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: French <https://weblate.overte.org/projects/overte/"
+"overte-website/fr/>\n"
 "Language: fr\n"
-"Language-Team: French <https://weblate.overte.org/projects/overte/overte-"
-"website/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.3.1\n"
 "Generated-By: Babel 2.13.1\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
@@ -197,13 +198,12 @@ msgstr ""
 "de préférence :"
 
 #: ../../source/donate.rst:12
-#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card"
 msgstr ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Virement "
-"bancaire (de préférence), carte de débit, carte de crédit"
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Carte de débit, "
+"carte de crédit"
 
 #: ../../source/donate.rst:13
 msgid ""
@@ -242,27 +242,20 @@ msgid "Downloads"
 msgstr "Téléchargements"
 
 #: ../../source/downloads.rst:7
-#, fuzzy
 msgid ""
 "The current release of Overte is version 2023.11.1. This release includes"
 " a complete replacement of script engine and a lot of other improvements."
 msgstr ""
-"La version admissible actuelle d'Overte est la version 2023.07.1-rc3. "
-"Cette version comprend le remplacement complet du moteur de script et de "
-"nombreuses autres améliorations. Pour une utilisation en tant que client,"
-" la version 2023.07.1-rc3 est recommandée par rapport à la version stable"
-" 2022.12.1. Côté serveur, la version 2022.12.1 est toujours recommandée, "
-"mais les tests et les rapports de bugs sur la version 2023.07.1-rc3 sont "
-"les bienvenus."
+"La version actuelle d'Overte est la version 2023.11.1. Cette version "
+"comprend le remplacement complet du moteur de script et de nombreuses autres "
+"améliorations."
 
 #: ../../source/downloads.rst:10
-#, fuzzy
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"La version stable actuelle d'Overte est la version 2022.12.1. Jetez un "
-"coup d'œil aux modifications sur GitHub : `Changelog 🔗 "
+"Jetez un coup d'œil aux modifications sur GitHub : `Changelog 🔗 "
 "<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:15
@@ -303,7 +296,6 @@ msgid "Domain Server"
 msgstr "Serveur de domaine"
 
 #: ../../source/downloads.rst:37
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from our `GitHub Release page 🔗 <https://github.com/overte-"
@@ -312,10 +304,10 @@ msgid ""
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 msgstr ""
 "Sélectionnez le paquet approprié pour votre distribution et votre "
-"architecture à partir de notre `page Releases sur GitHub 🔗 "
-"<https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_, ou "
-"directement à partir de `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
+"architecture à partir de notre `page Releases sur GitHub 🔗 <https://github."
+"com/overte-org/overte/releases/tag/2023.11.1/>`_, ou directement à partir de "
+"`public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2023.11.1/>`_."
 
 #: ../../source/downloads.rst:43
 msgid "Windows"
@@ -725,13 +717,12 @@ msgid "Current Board"
 msgstr "Conseil d'administration actuel"
 
 #: ../../source/overte_ev.rst:46
-#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
 "16th September 2023."
 msgstr ""
 "Les membres actuels du conseil d'administration ont été élus lors de "
-"l'assemblée générale du 17 septembre 2022."
+"l'assemblée générale du 16 septembre 2023."
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -1517,4 +1508,3 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
-
