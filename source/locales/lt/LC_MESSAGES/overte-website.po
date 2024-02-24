@@ -9,17 +9,18 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2023-10-09 05:50+0000\n"
+"PO-Revision-Date: 2024-02-24 19:36+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: Lithuanian <https://weblate.overte.org/projects/overte/"
+"overte-website/lt/>\n"
 "Language: lt\n"
-"Language-Team: Lithuanian <https://weblate.overte.org/projects/overte"
-"/overte-website/lt/>\n"
-"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100"
-" > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > "
-"19)) ? 1 : 2);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
+"19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
+"1 : 2);\n"
+"X-Generator: Weblate 5.3.1\n"
 "Generated-By: Babel 2.13.1\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
@@ -248,14 +249,12 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:10
-#, fuzzy
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"Dabartinė stabili „Overte“ versija yra 2022.12.1. Peržiūrėkite pakeitimų "
-"sąrašą \"GitHub\": `Pakeitimų sąrašas 🔗 <https://github.com/overte-"
-"org/overte/blob/master/CHANGELOG.md>`_"
+"Peržiūrėkite pakeitimų sąrašą \"GitHub\": `Pakeitimų sąrašas 🔗 "
+"<https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:15
 msgid "Linux"
@@ -294,7 +293,6 @@ msgid "Domain Server"
 msgstr "Domeno serveris"
 
 #: ../../source/downloads.rst:37
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from our `GitHub Release page 🔗 <https://github.com/overte-"
@@ -302,11 +300,10 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 msgstr ""
-"Pasirinkite savo distribucijai ir architektūrai tinkamą paketą iš mūsų "
-"`\"GitHub\" leidinių puslapio 🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2022.12.1/>`_, arba tiesiogiai iš "
-"`public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
+"Pasirinkite savo distribucijai ir architektūrai tinkamą paketą iš mūsų `"
+"\"GitHub\" leidinių puslapio 🔗 <https://github.com/overte-org/overte/"
+"releases/tag/2023.11.1/>`_, arba tiesiogiai iš `public.overte.org 🔗 "
+"<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 
 #: ../../source/downloads.rst:43
 msgid "Windows"
@@ -702,13 +699,12 @@ msgid "Current Board"
 msgstr "Dabartinė valdyba"
 
 #: ../../source/overte_ev.rst:46
-#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
 "16th September 2023."
 msgstr ""
-"Dabartiniai valdybos nariai buvo išrinkti 2022 m. rugsėjo 17 d. "
-"visuotiniame susirinkime."
+"Dabartiniai valdybos nariai buvo išrinkti 2023 m. rugsėjo 16 d. visuotiniame "
+"susirinkime."
 
 #: ../../source/overte_ev.rst:49
 msgid "|Dale_Glass| Dale Glass"
@@ -1270,4 +1266,3 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
-
