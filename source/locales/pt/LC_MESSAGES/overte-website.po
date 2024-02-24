@@ -8,19 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-24 18:59+0000\n"
-"PO-Revision-Date: 2024-01-24 05:18+0000\n"
-"Last-Translator: DEIVITI COSTA SILVA <deiviti.eng@gmail.com>\n"
+"POT-Creation-Date: 2023-10-09 07:16+0000\n"
+"PO-Revision-Date: 2024-02-24 19:36+0000\n"
+"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: Portuguese <https://weblate.overte.org/projects/overte/"
+"overte-website/pt/>\n"
 "Language: pt\n"
-"Language-Team: Portuguese <https://weblate.overte.org/projects/overte"
-"/overte-website/pt/>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.3.1\n"
+"Generated-By: Babel 2.13.1\n"
 
-#: ../../source/calendar.rst:3 ../../source/index.rst:120
+#: ../../source/calendar.rst:3 ../../source/index.rst:49
 msgid "Calendar"
 msgstr "Calendário"
 
@@ -99,7 +100,7 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:120
+#: ../../source/contact.rst:5 ../../source/index.rst:49
 msgid "Contact"
 msgstr "Contato"
 
@@ -174,7 +175,7 @@ msgstr "Mastodonte"
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:120
+#: ../../source/donate.rst:3 ../../source/index.rst:49
 msgid "Donate"
 msgstr "Doar"
 
@@ -243,31 +244,25 @@ msgstr ""
 "emitir recibos que são dedutíveis de impostos na Alemanha. Contate-nos em"
 " account@overte.org após a doação, para solicitar tal recibo."
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:120
+#: ../../source/downloads.rst:5 ../../source/index.rst:49
 msgid "Downloads"
 msgstr "Downloads"
 
 #: ../../source/downloads.rst:7
-#, fuzzy
 msgid ""
 "The current release of Overte is version 2023.11.1. This release includes"
 " a complete replacement of script engine and a lot of other improvements."
 msgstr ""
-"O candidato a lançamento atual do Overte é a versão 2023.09.1-rc4.3. Esta"
-" versão inclui a substituição completa do mecanismo de script e muitas "
-"outras melhorias. No lado do servidor, a compilação estável 2022.12.1 "
-"ainda é recomendada, mas testar e relatar bugs em 2023.09.1-rc4.3 é muito"
-" bem-vindo."
+"O lançamento atual do Overte é a versão 2023.11.1. Esta versão inclui a "
+"substituição completa do mecanismo de script e muitas outras melhorias."
 
 #: ../../source/downloads.rst:10
-#, fuzzy
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"A versão estável atual do Overte é a versão 2022.12.1. Dê uma olhada no "
-"changelog no GitHub: `Changelog 🔗 <https://github.com/overte-"
-"org/overte/blob/master/CHANGELOG.md>`_"
+"Dê uma olhada no changelog no GitHub: `Changelog 🔗 <https://github.com/"
+"overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:15
 msgid "Linux"
@@ -307,7 +302,6 @@ msgid "Domain Server"
 msgstr "Servidor de Domínio"
 
 #: ../../source/downloads.rst:37
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from our `GitHub Release page 🔗 <https://github.com/overte-"
@@ -315,11 +309,10 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 msgstr ""
-"Selecione o pacote apropriado para sua distribuição e arquitetura em "
-"nossa `página de lançamento do GitHub 🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2022.12.1/>`_ ou diretamente em `public.overte "
-".org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
+"Selecione o pacote apropriado para sua distribuição e arquitetura em nossa `"
+"página de lançamento do GitHub 🔗 <https://github.com/overte-org/overte/"
+"releases/tag/2023.11.1/>`_ ou diretamente em `public.overte .org 🔗 "
+"<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 
 #: ../../source/downloads.rst:43
 msgid "Windows"
@@ -390,7 +383,7 @@ msgstr ""
 "o processo de construção para iniciantes. Obtenha-o no GitHub aqui: "
 "`Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_"
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:120
+#: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
 msgstr "Galeria"
 
@@ -466,11 +459,11 @@ msgstr "Reunião de desenvolvimento no Hub"
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr "Kreolis jogando no Clube Brainstormer"
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:120
+#: ../../source/imprint.rst:3 ../../source/index.rst:49
 msgid "Imprint"
 msgstr "Estampar"
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:120
+#: ../../source/imprint.rst:5 ../../source/index.rst:49
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -491,19 +484,19 @@ msgstr "Alemanha"
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:49
 msgid "Home"
 msgstr "Início"
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:49
 msgid "Documentation 🔗"
 msgstr "Documentação 🔗"
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:49
 msgid "API reference 🔗"
 msgstr "Documentação da API 🔗"
 
-#: ../../source/index.rst:120 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:49 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr "Política de privacidade"
 
@@ -791,7 +784,7 @@ msgstr ""
 "anos. Isso nos permite, entre outras coisas, finalmente traduzir o site "
 "para diferentes idiomas usando o Weblate."
 
-#: ../../source/index.rst:117
+#: ../../source/index.rst:46
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "
@@ -1730,4 +1723,3 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
-

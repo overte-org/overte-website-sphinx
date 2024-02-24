@@ -8,19 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-24 18:59+0000\n"
-"PO-Revision-Date: 2023-06-09 11:29+0000\n"
+"POT-Creation-Date: 2023-11-24 21:14+0000\n"
+"PO-Revision-Date: 2024-02-24 19:36+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: Chinese (Traditional) <https://weblate.overte.org/projects/"
+"overte/overte-website/zh_Hant/>\n"
 "Language: zh_Hant\n"
-"Language-Team: Chinese (Traditional) "
-"<https://weblate.overte.org/projects/overte/overte-website/zh_Hant/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.3.1\n"
+"Generated-By: Babel 2.13.1\n"
 
-#: ../../source/calendar.rst:3 ../../source/index.rst:120
+#: ../../source/calendar.rst:3 ../../source/index.rst:49
 msgid "Calendar"
 msgstr ""
 
@@ -94,7 +95,7 @@ msgstr ""
 msgid "ko_trans"
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:120
+#: ../../source/contact.rst:5 ../../source/index.rst:49
 msgid "Contact"
 msgstr "聯絡"
 
@@ -160,7 +161,7 @@ msgstr "Mastodon"
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:120
+#: ../../source/donate.rst:3 ../../source/index.rst:49
 msgid "Donate"
 msgstr "贊助"
 
@@ -183,13 +184,10 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "可以透過以下幾種方式贊助："
 
 #: ../../source/donate.rst:12
-#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card"
-msgstr ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ - 銀行轉帳 (優先), 金融卡,"
-" 信用卡"
+msgstr "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - 金融卡, 信用卡"
 
 #: ../../source/donate.rst:13
 #, fuzzy
@@ -222,7 +220,7 @@ msgstr ""
 "作為一個德國政府認證的非營利團體，Overte e.V. 可以開立在德國可扣稅的收據。如果需要收據的話請在贊助後聯絡 "
 "accounting@overte.org。"
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:120
+#: ../../source/downloads.rst:5 ../../source/index.rst:49
 msgid "Downloads"
 msgstr "下載"
 
@@ -238,8 +236,8 @@ msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"Overte 現在的穩定版是 2022.12.1。更新履歷請查看 Github：`Changelog 🔗 <https://github.com"
-"/overte-org/overte/blob/master/CHANGELOG.md>`_"
+"更新履歷請查看 Github：`Changelog 🔗 <https://github.com/overte-org/overte/"
+"blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:15
 msgid "Linux"
@@ -284,10 +282,10 @@ msgid ""
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 msgstr ""
-"從 GitHub 發行頁面選擇適合你 Linux 發行版本和架構的套件 `GitHub Release page 🔗 "
-"<https://github.com/overte-org/overte/releases/tag/2022.12.1/>`_，或是從這裡取得 "
-"`public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_。"
+"從 GitHub 發行頁面選擇適合你 Linux 發行版本和架構的套件 `GitHub Release page "
+"🔗 <https://github.com/overte-org/overte/releases/tag/2023.11.1/>`_，"
+"或是從這裡取得 `public.overte.org 🔗 <https://public.overte.org/index.html#"
+"build/overte/release/2023.11.1/>`_。"
 
 #: ../../source/downloads.rst:43
 msgid "Windows"
@@ -352,7 +350,7 @@ msgstr ""
 "對 Linux 用戶我們有一個輔助程式，目標是更簡化新手的編譯流程。從這個 Github 頁面取得：`Overte builder 🔗 "
 "<https://github.com/overte-org/overte-builder/>`_"
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:120
+#: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
 msgstr "相簿"
 
@@ -429,11 +427,11 @@ msgstr "Hub 上的開發者聚會"
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr "在 Brainstormer's Club 演奏的 Kreolis"
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:120
+#: ../../source/imprint.rst:3 ../../source/index.rst:49
 msgid "Imprint"
 msgstr "出品"
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:120
+#: ../../source/imprint.rst:5 ../../source/index.rst:49
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -454,19 +452,19 @@ msgstr "Germany"
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:49
 msgid "Home"
 msgstr "首頁"
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:49
 msgid "Documentation 🔗"
 msgstr "說明文件 🔗"
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:49
 msgid "API reference 🔗"
 msgstr "API 參考 🔗"
 
-#: ../../source/index.rst:120 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:49 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr "個資保護政策"
 
@@ -742,7 +740,7 @@ msgstr ""
 "由於我們基於 11ty 的舊網站已無法維護且沒人知道該如何編輯，我們使用 Sphinx "
 "建立了一個全新的網站，和我們使用多年的說明文件使用同個系統。這個系統可以幫助我們更好的維護網站，例如用 Weblate 系統翻譯成多國語言。"
 
-#: ../../source/index.rst:117
+#: ../../source/index.rst:46
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "
@@ -776,9 +774,7 @@ msgstr "請看這裡："
 #: ../../source/overte_ev.rst:17
 #, fuzzy
 msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
-msgstr ""
-"`Overte e.V. Satzung - 德文版原文 <https://buyanvr-organizational-code-"
-"draft.readthedocs.io/de/latest/>`_"
+msgstr "`Overte e.V. Satzung - 德文版原文 <https://satzung.overte.org/de/>`_"
 
 #: ../../source/overte_ev.rst:18
 #, fuzzy
@@ -786,8 +782,8 @@ msgid ""
 "`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
-"`Overte e.V. Articles of association - 英文翻譯版 <https://buyanvr-"
-"organizational-code-draft.readthedocs.io/en/latest/>`_"
+"`Overte e.V. Articles of association - 英文翻譯版 <https://satzung.overte."
+"org/en/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
@@ -1485,4 +1481,3 @@ msgstr ""
 #~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
 #~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
-
