@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2024-02-24 19:36+0000\n"
+"PO-Revision-Date: 2024-02-25 22:20+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language-Team: German <https://weblate.overte.org/projects/overte/"
 "overte-website/de/>\n"
@@ -592,7 +592,7 @@ msgstr "Neuigkeiten"
 
 #: ../../source/index.rst:41
 msgid "2024-02-24 We've obtained an NLnet grant!"
-msgstr ""
+msgstr "2024-02-24 Overte erhält Förderung von NLnet!"
 
 #: ../../source/index.rst:43
 msgid ""
@@ -600,6 +600,9 @@ msgid ""
 "Source projects, and we're elated to announce that we've also made the "
 "list!"
 msgstr ""
+"Die NLnet Foundation ist eine Organisation, die viele großartige Open-Source-"
+"Projekte unterstützt. Wir freuen uns sehr, dass auch wir es auf die Liste "
+"geschafft haben!"
 
 #: ../../source/index.rst:45
 msgid ""
@@ -609,10 +612,16 @@ msgid ""
 "meetings, and use tags, projects and other functionality on Github to "
 "make it easy for anyone interested to follow the progress."
 msgstr ""
+"Als Teil der Vereinbarung verpflichten wir uns, Nutzer und Entwickler "
+"mindestens alle zwei Monate über die Fortschritte der entsprechenden Punkte "
+"auf dem Laufenden zu halten. Dazu werden wir während unserer üblichen "
+"Entwicklungstreffen jeden Samstag den Fortschritt verfolgen und Tags, "
+"Projekte und andere Funktionen auf Github nutzen, um es allen Interessierten "
+"eine Übersicht hierüber zu geben."
 
 #: ../../source/index.rst:49
 msgid "Project plan"
-msgstr ""
+msgstr "Projektplan"
 
 #: ../../source/index.rst:51
 msgid ""
@@ -620,76 +629,95 @@ msgid ""
 "listed below. There exists the possibility of more work being agreed "
 "between us and NLnet."
 msgstr ""
+"Die Mittel werden für die Bezahlung von Entwicklern verwendet, die an den "
+"unten aufgeführten Bereichen arbeiten werden. Es besteht die Möglichkeit, "
+"dass zwischen uns und NLnet weitere Förderung vereinbart wird."
 
 #: ../../source/index.rst:53
 msgid "The agreed on deadline for completion is February 17, 2025."
-msgstr ""
+msgstr "Die vereinbarte Frist für die Fertigstellung ist der 17. Februar 2025."
 
 #: ../../source/index.rst:55
 msgid ""
 "Some of the work has already started and can be seen on GitHub: "
 "https://github.com/overte-org/overte"
 msgstr ""
+"Ein Teil der Arbeit hat bereits begonnen und kann auf GitHub eingesehen "
+"werden: https://github.com/orgs/overte-org/projects/5"
 
 #: ../../source/index.rst:58
 msgid "Audio Overhaul"
-msgstr ""
+msgstr "Audio-Überholung"
 
 #: ../../source/index.rst:61
 msgid ""
 "Move audio zones to zone properties (https://github.com/overte-"
 "org/overte/issues/69)"
 msgstr ""
+"Verschieben von Audiozonen in Zoneneigenschaften (https://github.com/"
+"overte-org/overte/issues/69)"
 
 #: ../../source/index.rst:62
 msgid "Add audio entities (https://github.com/overte-org/overte/issues/69)"
 msgstr ""
+"Hinzufügen von Audio-Entitäten (https://github.com/overte-org/overte/issues/"
+"69)"
 
 #: ../../source/index.rst:65
 msgid "Miscelaneous Improvements"
-msgstr ""
+msgstr "Diverse Verbesserungen"
 
 #: ../../source/index.rst:67
 msgid ""
 "Add a wantsKeyboardFocus property for web entities (https://github.com"
 "/overte-org/overte/issues/6)"
 msgstr ""
+"Hinzufügen einer wantsKeyboardFocus-Eigenschaft für Webentitäten "
+"(https://github.com/overte-org/overte/issues/6)"
 
 #: ../../source/index.rst:68
 msgid ""
 "Add interpolation on model animations (https://github.com/overte-"
 "org/overte/issues/317)"
 msgstr ""
+"Hinzufügen von Interpolation bei Modellanimationen (https://github.com/"
+"overte-org/overte/issues/317)"
 
 #: ../../source/index.rst:71
 msgid "Graphics Improvements"
-msgstr ""
+msgstr "Grafikverbesserungen"
 
 #: ../../source/index.rst:73
 msgid ""
 "Fix shadow culling on back-faces (https://github.com/overte-"
 "org/overte/issues/547)"
 msgstr ""
+"Beheben von Fehlern beim Rendern von Schatten von Rückseiten (https://github."
+"com/overte-org/overte/issues/547)"
 
 #: ../../source/index.rst:74
 msgid ""
 "Allow opaque particles (https://github.com/overte-"
 "org/overte/issues/776#issuecomment-1868203856)"
 msgstr ""
+"Zulassen von undurchsichtigen Partikeln (https://github.com/overte-org/"
+"overte/issues/776#issuecomment-1868203856)"
 
 #: ../../source/index.rst:75
 msgid ""
 "Finish overhaulting TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
+"Fertigstellung der Überholung von TAA mit Geschwindigkeitspuffer "
+"(https://github.com/overte-org/overte/pull/501)"
 
 #: ../../source/index.rst:76
 msgid "Add support for GPU particles"
-msgstr ""
+msgstr "Hinzufügen von Unterstützung für GPU-Partikel"
 
 #: ../../source/index.rst:79
 msgid "Vulkan"
-msgstr ""
+msgstr "Vulkan"
 
 #: ../../source/index.rst:81
 msgid ""
@@ -698,36 +726,43 @@ msgid ""
 "even deprecating it completely. AMD pays very little attention to it, and"
 " driver bugs are a frequent annoyance."
 msgstr ""
+"Wir verwenden derzeit OpenGL für das 3D-Rendering, welches leider in den "
+"letzten Jahren immer mehr an Unterstützung verloren hat. Einige Plattformen "
+"wie MacOS haben es sogar komplett verworfen. AMD kümmert sich nur wenig um "
+"OpenGL, und Treiberfehler sind ein häufiges Ärgernis."
 
 #: ../../source/index.rst:83
 msgid ""
 "Vulkan will provide a much more modern, performant and supported "
 "renderer, and should fix our Mac support woes."
 msgstr ""
+"Vulkan wird einen viel moderneren, leistungsfähigeren und besser "
+"unterstützten Renderer bieten und sollte uns erlauben MacOS in der Zukunft "
+"wieder zu unterstützen."
 
 #: ../../source/index.rst:85
 msgid "Wireframe rendering"
-msgstr ""
+msgstr "Drahtgitter-Rendering"
 
 #: ../../source/index.rst:86
 msgid "Forward renderer (for low end hardware)"
-msgstr ""
+msgstr "Vorwärts-Renderer (für Low-End-Hardware)"
 
 #: ../../source/index.rst:87
 msgid "Deferred renderer (fully featured)"
-msgstr ""
+msgstr "\"Aufgeschobener\"-Renderer (voll funktionsfähig)"
 
 #: ../../source/index.rst:88
 msgid "Optimization"
-msgstr ""
+msgstr "Optimierung"
 
 #: ../../source/index.rst:89
 msgid "Frame transfer to VR plugin"
-msgstr ""
+msgstr "Frame-Übertragung zum VR-Plugin"
 
 #: ../../source/index.rst:92
 msgid "Build system improvements"
-msgstr ""
+msgstr "Verbesserungen des Bausystems"
 
 #: ../../source/index.rst:93
 msgid ""
@@ -735,39 +770,43 @@ msgid ""
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
 msgstr ""
+"Dies wird die Arbeit an Overte angenehmer machen und die Entwicklung "
+"erleichtern. Es ist wichtig, um die Wartung zu vereinfachen und künftigen "
+"Mitwirkenden das Leben nicht unnötig schwierig zu machen."
 
 #: ../../source/index.rst:95
 msgid "Switching to Conan"
-msgstr ""
+msgstr "Umstellen auf Conan"
 
 #: ../../source/index.rst:96
-#, fuzzy
 msgid "Updating documentation"
-msgstr "Dokumentation 🔗"
+msgstr "Aktualisierung der Dokumentation"
 
 #: ../../source/index.rst:97
 msgid "Improving build process"
-msgstr ""
+msgstr "Verbesserung des Bauprozesses"
 
 #: ../../source/index.rst:100
 msgid "Thanks"
-msgstr ""
+msgstr "Danke an"
 
 #: ../../source/index.rst:102
 msgid "NLnet, for giving us this great opportunity."
-msgstr ""
+msgstr "NLnet, dass sie uns diese großartige Gelegenheit geben."
 
 #: ../../source/index.rst:103
 msgid "Julian Groß, for negotiating this agreement."
-msgstr ""
+msgstr "Julian Groß, für die Aushandlung dieser Vereinbarung."
 
 #: ../../source/index.rst:104
 msgid "Sam Gondelman, Karol Suprynowicz and AnotherFoxGuy for taking on the work."
 msgstr ""
+"Sam Gondelman, Karol Suprynowicz und AnotherFoxGuy für die Übernahme der "
+"Arbeit."
 
 #: ../../source/index.rst:105
 msgid "The Overte community, for making this possible."
-msgstr ""
+msgstr "Die Overte Gemeinschaft, die dies möglich macht."
 
 #: ../../source/index.rst:112
 msgid "2023-04-01 New website"
