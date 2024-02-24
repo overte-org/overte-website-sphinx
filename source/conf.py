@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Overte'
-copyright = '2022-2023, Overte e.V.'
+copyright = '2022-2024, Overte e.V.'
 author = 'Julian Groß'
 
 # The short X.Y version
@@ -39,7 +39,7 @@ needs_sphinx = '3.5.4'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'myst_parser', 'sphinx_design'
+    'sphinx_design'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
