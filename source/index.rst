@@ -88,8 +88,8 @@ Vulkan will provide a much more modern, performant and supported renderer, and s
 * Optimization
 * Frame transfer to VR plugin
 
-### Build system improvements
-
+Build system improvements
+"""""""""""""""""""""""""
 This will make work on Overte more pleasant and make it easier to build. This is important for making maintenance easier and making life easier for future contributors.
 
 * Switching to Conan
