@@ -13,12 +13,6 @@ To convert to your local timezone, please ask your preferred search engine somet
 | 20:00 UTC  Maker Monday  |
 +--------------------------+
 
-+---------------------------------+
-| Wednesday                       |
-+=================================+
-| 20:15 UTC  Wednesday game night |
-+---------------------------------+
-
 +-------------------------------+
 | Saturday                      |
 +===============================+
