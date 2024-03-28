@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-28 09:59+0000\n"
+"POT-Creation-Date: 2024-03-28 10:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -826,46 +826,30 @@ msgid "Secretary and second deputy chairman."
 msgstr ""
 
 #: ../../source/overte_ev.rst:79
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:83
-msgid "Karol_Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:80
-msgid "Speaks Polish and English."
-msgstr ""
-
-#: ../../source/overte_ev.rst:81
-msgid "Graphics specialist and developer"
-msgstr ""
-
-#: ../../source/overte_ev.rst:89
 msgid "|Zetaphor| Zetaphor"
 msgstr ""
 
-#: ../../source/overte_ev.rst:93
+#: ../../source/overte_ev.rst:83
 msgid "Zetaphor"
 msgstr ""
 
-#: ../../source/overte_ev.rst:90 ../../source/overte_ev.rst:100
+#: ../../source/overte_ev.rst:80 ../../source/overte_ev.rst:90
 msgid "Speaks English."
 msgstr ""
 
-#: ../../source/overte_ev.rst:91
+#: ../../source/overte_ev.rst:81
 msgid "Developer"
 msgstr ""
 
-#: ../../source/overte_ev.rst:99
+#: ../../source/overte_ev.rst:89
 msgid "|Sam_Gondelman| Sam Gondelman"
 msgstr ""
 
-#: ../../source/overte_ev.rst:103
+#: ../../source/overte_ev.rst:93
 msgid "Sam_Gondelman"
 msgstr ""
 
-#: ../../source/overte_ev.rst:101
+#: ../../source/overte_ev.rst:91
 msgid "Core Engine & graphics specialist"
 msgstr ""
 
@@ -1604,5 +1588,17 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "20:15 UTC  Wednesday game night"
+#~ msgstr ""
+
+#~ msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+#~ msgstr ""
+
+#~ msgid "Karol_Suprynowicz"
+#~ msgstr ""
+
+#~ msgid "Speaks Polish and English."
+#~ msgstr ""
+
+#~ msgid "Graphics specialist and developer"
 #~ msgstr ""
 
