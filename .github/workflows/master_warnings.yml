@@ -73,3 +73,9 @@ jobs:
       shell: bash
       run: |
         make BUILDDIR=build-pt SPHINXOPTS="-Dlanguage=pt -W --keep-going" html
+
+    - name: Check Russian
+      if: ${{ success() || failure() }}
+      shell: bash
+      run: |
+        make BUILDDIR=build-ru SPHINXOPTS="-Dlanguage=ru -W --keep-going" html

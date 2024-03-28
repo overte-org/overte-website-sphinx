@@ -70,6 +70,11 @@ jobs:
        make BUILDDIR="build/pt" SPHINXOPTS="-Dlanguage=pt" html
        mv build/pt/html/ output/pt/
 
+    - name: Build Russian translation
+      run: |
+       make BUILDDIR="build/ru" SPHINXOPTS="-Dlanguage=ru" html
+       mv build/ru/html/ output/ru/
+
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
