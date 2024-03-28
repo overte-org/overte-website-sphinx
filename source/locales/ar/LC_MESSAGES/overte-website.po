@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-24 18:59+0000\n"
+"POT-Creation-Date: 2024-03-28 09:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ar\n"
@@ -43,18 +43,10 @@ msgid "20:00 UTC  Maker Monday"
 msgstr ""
 
 #: ../../source/calendar.rst:17
-msgid "Wednesday"
-msgstr ""
-
-#: ../../source/calendar.rst:19
-msgid "20:15 UTC  Wednesday game night"
-msgstr ""
-
-#: ../../source/calendar.rst:23
 msgid "Saturday"
 msgstr ""
 
-#: ../../source/calendar.rst:25
+#: ../../source/calendar.rst:19
 msgid "19:00 UTC  Development meetup"
 msgstr ""
 
@@ -1607,5 +1599,11 @@ msgstr ""
 #~ "/overte-org/overte/releases/tag/2022.12.1/>`_, or "
 #~ "directly from `public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
+#~ msgstr ""
+
+#~ msgid "Wednesday"
+#~ msgstr ""
+
+#~ msgid "20:15 UTC  Wednesday game night"
 #~ msgstr ""
 
