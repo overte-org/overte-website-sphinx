@@ -75,16 +75,6 @@ The current board members were elected on the general assembly on the 16th Septe
     :width: 96
 
 
-|Karol_Suprynowicz| Dr. Karol Suprynowicz
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-| Speaks Polish and English.
-| Graphics specialist and developer
-
-.. |Karol_Suprynowicz| image:: _images/board/Karol_Suprynowicz.png
-    :class: inline2
-    :width: 96
-
-
 |Zetaphor| Zetaphor
 ~~~~~~~~~~~~~~~~~~~
 | Speaks English.
