@@ -23,7 +23,7 @@ Expectations
 
 - Politeness is expected at all times. Be kind and courteous.
 - Always assume positive intent from others. Be aware that differences in culture and English proficiency make written communication more difficult than face-to-face communication and that your interpretation of messages may not be the one the author intended. Conversely, if someone asks you to rephrase something you said, be ready to do so without feeling judged.
-- Feedback is always welcome but keep your criticism constructive. We encourage you to open discussions, proposals, issues, and bug reports. Use the community platforms to discuss improvements, not to vent out frustration. Similarly, when other users offer you feedback please accept it gracefully.
+- Feedback is always welcome but keep your criticism constructive and specific. We encourage you to open discussions, proposals, issues, and bug reports. Use the community platforms to discuss improvements, not to vent out frustration. Similarly, when other users offer you feedback please accept it gracefully.
 
 
 Restricted conduct
