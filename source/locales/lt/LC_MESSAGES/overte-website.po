@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2024-02-24 19:36+0000\n"
+"PO-Revision-Date: 2024-03-30 15:20+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language-Team: Lithuanian <https://weblate.overte.org/projects/overte/"
 "overte-website/lt/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
 "19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
 "1 : 2);\n"
-"X-Generator: Weblate 5.3.1\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.13.1\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
@@ -946,9 +946,8 @@ msgid "Speaks Polish and English."
 msgstr "Kalba lenkų ir anglų kalbomis."
 
 #: ../../source/overte_ev.rst:81
-#, fuzzy
 msgid "Graphics specialist and developer"
-msgstr "Pirmininkas ir programuotojas."
+msgstr ""
 
 #: ../../source/overte_ev.rst:89
 msgid "|Zetaphor| Zetaphor"
