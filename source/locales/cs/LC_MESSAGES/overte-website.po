@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2024-02-24 19:36+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2024-03-30 15:20+0000\n"
+"Last-Translator: rampa_3 <rampa_3@users.noreply.weblate.overte.org>\n"
 "Language-Team: Czech <https://weblate.overte.org/projects/overte/"
 "overte-website/cs/>\n"
 "Language: cs\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.3.1\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.13.1\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:120
 msgid "Calendar"
-msgstr ""
+msgstr "Kalendář"
 
 #: ../../source/calendar.rst:5
 msgid ""
@@ -33,31 +33,35 @@ msgid ""
 "timezone, please ask your preferred search engine something along the "
 "lines of: \"What is Saturday 19:00 UTC in my time?\""
 msgstr ""
+"Existuje mnoho běžných i vyjímečných eventů konajících se v Overte. Tento "
+"kalendář existuje za účelem poskytnutí přehledu událostí. Všimněte si "
+"prosím. že zde uvedené Časy jsou v UTC. Pro konverzi do vaší časové zóny se "
+"zeptejte vašeho oblíbeného vyhledávače na něco jako například: \"What is "
+"Saturday 19:00 UTC in my time?\""
 
 #: ../../source/calendar.rst:11
 msgid "Monday"
-msgstr ""
+msgstr "Pondělí"
 
 #: ../../source/calendar.rst:13
-#, fuzzy
 msgid "20:00 UTC  Maker Monday"
-msgstr "Sraz na Maker Monday"
+msgstr "20:00 UTC  Maker Monday"
 
 #: ../../source/calendar.rst:17
 msgid "Wednesday"
-msgstr ""
+msgstr "Středa"
 
 #: ../../source/calendar.rst:19
 msgid "20:15 UTC  Wednesday game night"
-msgstr ""
+msgstr "20:15 UTC  Středeční game night"
 
 #: ../../source/calendar.rst:23
 msgid "Saturday"
-msgstr ""
+msgstr "Sobota"
 
 #: ../../source/calendar.rst:25
 msgid "19:00 UTC  Development meetup"
-msgstr ""
+msgstr "19:00 UTC  Vývojářské setkání"
 
 #: ../../source/shared.rst
 msgid "DownloadPage"
@@ -174,15 +178,14 @@ msgid "Donate"
 msgstr "Přispět"
 
 #: ../../source/donate.rst:5
-#, fuzzy
 msgid ""
 "Hosting, development, maintenance, and administration are a lot of work "
 "and require us to pay a not insignificant amount of money. Donations are,"
 " next to membership fees, the only income that we have to pay our bills."
 msgstr ""
-"Hostování, vývoj, správa a administrace jsou spousta práce, a vyžadují od"
-" nás nemalé peněžní výdaje. Přispěvky jsou mimo členských poplatků "
-"jediným zdrojem příjmů, který máme k dispozici pro placení našich výdajů."
+"Hostování, vývoj, správa a administrace jsou spousta práce, a vyžadují od "
+"nás nemalé peněžní výdaje. Přispěvky jsou mimo členských poplatků jediným "
+"zdrojem příjmů, který máme k dispozici pro placení našich výdajů."
 
 #: ../../source/donate.rst:8
 msgid ""
@@ -207,7 +210,6 @@ msgstr ""
 "kreditní kartou"
 
 #: ../../source/donate.rst:13
-#, fuzzy
 msgid ""
 "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
 "payment method you can think of"
@@ -220,6 +222,8 @@ msgid ""
 "Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Account number 1303331100"
 msgstr ""
+"Bankovním převodem – Příjemce: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
+"00, BIC: GENODEM1GLS, Číslo účtu 1303331100"
 
 #: ../../source/donate.rst:15
 msgid ""
@@ -230,7 +234,6 @@ msgstr ""
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
 #: ../../source/donate.rst:18
-#, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
 "tax-deductible in Germany. Contact us at accounting@overte.org after "
@@ -249,6 +252,8 @@ msgid ""
 "The current release of Overte is version 2023.11.1. This release includes"
 " a complete replacement of script engine and a lot of other improvements."
 msgstr ""
+"Aktuální vydání Overte je 2023.11.1. Toto vydání obsahuje kompletní náhradu "
+"původního skriptovacího enginu a spoustu dalších vylepšení."
 
 #: ../../source/downloads.rst:10
 msgid ""
@@ -312,17 +317,16 @@ msgid "Windows"
 msgstr "Windows"
 
 #: ../../source/downloads.rst:45
-#, fuzzy
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
 "Select a custom install and tick “Overte Server” during the installation "
 "process if you want to run a Domain Server. You can always rerun the "
 "installer later to install the server software afterwards."
 msgstr ""
-"Instalátor pro Windows obsahuje jak rozhraní, tak doménový server. Zvolte"
-" vlastní instalaci a zaškrtněte \"Overte Server\" během procesu "
-"instalace, pokud chcete provozovat doménový server. Instalátor můžete "
-"kdykoliv spustit znovu pro doinstalaci serverového softwaru později."
+"Instalátor pro Windows obsahuje jak rozhraní, tak doménový server. Zvolte "
+"vlastní instalaci a zaškrtněte \"Overte Server\" během procesu instalace, "
+"pokud chcete provozovat doménový server. Instalátor můžete kdykoliv spustit "
+"znovu pro doinstalaci serverového softwaru později."
 
 #: ../../source/downloads.rst:49
 msgid ""
@@ -341,31 +345,30 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:57
-#, fuzzy
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyway click on \"**More info**\" and"
 " then \"**Run anyway**\"."
 msgstr ""
 "Windows Defender může zobrazovat varování, že instalátor může být "
-"potenciálně nebezpečný. Pro spuštění klikněte na \"**Více informací**\" a"
-" pak \"**Přesto spustit**\"."
+"potenciálně nebezpečný. Pro spuštění klikněte na \"**Více informací**\" a "
+"pak \"**Přesto spustit**\"."
 
 #: ../../source/downloads.rst:65
 msgid "Source"
 msgstr "Zdrojový kód"
 
 #: ../../source/downloads.rst:67
-#, fuzzy
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
 "<https://github.com/overte-org/overte/>`_. If you intend to build from "
 "source, we would suggest building the master branch directly instead of a"
 " release, to profit from the latest improvements."
 msgstr ""
-"Náš zdrojový kód je k dispozici na GitHubu. Pokud máte v úmyslu "
-"kompilovat ze zdrojového kódu, doporučujeme přímo kompilovat větev master"
-" namísto release pro získání všech posledních vylepšení."
+"Náš zdrojový kód je k dispozici na `GitHubu 🔗 <https://github.com/"
+"overte-org/overte/>`_. Pokud máte v úmyslu kompilovat ze zdrojového kódu, "
+"doporučujeme přímo kompilovat větev master namísto release pro získání všech "
+"posledních vylepšení."
 
 #: ../../source/downloads.rst:70
 msgid ""
@@ -410,7 +413,6 @@ msgid "Some time off in the office"
 msgstr "Pauza v kanceláři"
 
 #: ../../source/gallery.rst:46
-#, fuzzy
 msgid "74 working on the “Kraftwerk” Domain"
 msgstr "74 pracujíc na doméně \"Kraftwerk\""
 
@@ -423,7 +425,6 @@ msgid "Basinsky showing off his photogrametry worlds"
 msgstr "Basinsky představuje své fotogrametrické světy"
 
 #: ../../source/gallery.rst:60
-#, fuzzy
 msgid "Basinsky showing off his photogrammetry worlds"
 msgstr "Basinsky představuje své fotogrametrické světy"
 
@@ -444,7 +445,6 @@ msgid "Pooltoys exploring a fantasy island"
 msgstr "Pooltoys objevují fantasy island"
 
 #: ../../source/gallery.rst:88
-#, fuzzy
 msgid "Pool toys exploring a fantasy island"
 msgstr "Pooltoys objevují fantasy island"
 
@@ -502,7 +502,6 @@ msgid "About"
 msgstr "O nás"
 
 #: ../../source/index.rst:7
-#, fuzzy
 msgid ""
 "Overte is an :ref:`open source<reference_to_downloads_source>` virtual "
 "worlds and social VR software which enables you to create and share "
@@ -510,12 +509,12 @@ msgid ""
 "create and host your own virtual world, explore other worlds, meet and "
 "connect with other users, attend or host live VR events, and much more."
 msgstr ""
-"Overte je open source software pro virtuální světy a sociální VR, který "
-"Vám umožňuje vytvářet a sdílet virtuální světy jako prostředí virtuální "
-"reality (VR) nebo desktopová prostředí . Můžete vytvořit a hostovat svůj "
-"vlastní virtuální svět, objevovat další světy, scházet se a spojovat s "
-"ostatními uživateli, účastnit se živých událostí nebo je hostovat, a "
-"mnohem více."
+"Overte je :ref:`open source<reference_to_downloads_source>` software pro "
+"virtuální světy a sociální VR, který Vám umožňuje vytvářet a sdílet "
+"virtuální světy jako prostředí virtuální reality (VR) nebo desktopová "
+"prostředí . Můžete vytvořit a hostovat svůj vlastní virtuální svět, "
+"objevovat další světy, scházet se a spojovat s ostatními uživateli, účastnit "
+"se živých událostí nebo je hostovat, a mnohem více."
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
@@ -583,7 +582,7 @@ msgstr "Novinky"
 
 #: ../../source/index.rst:41
 msgid "2024-02-24 We've obtained an NLnet grant!"
-msgstr ""
+msgstr "2024-02-24 Získali jsme NLnet grant!"
 
 #: ../../source/index.rst:43
 msgid ""
@@ -591,6 +590,8 @@ msgid ""
 "Source projects, and we're elated to announce that we've also made the "
 "list!"
 msgstr ""
+"NLnet Foundation je organizace, podporující mnoho úžasných open source "
+"projektů, a jsme potěšeni ohlásit že jsme se také dostali na jejich seznam!"
 
 #: ../../source/index.rst:45
 msgid ""
@@ -600,10 +601,16 @@ msgid ""
 "meetings, and use tags, projects and other functionality on Github to "
 "make it easy for anyone interested to follow the progress."
 msgstr ""
+"Jako součást naší dohody se zavazujeme k informování uživatelů a vývojářů o "
+"aktuálním postupu, který jsme učinili na těchto položkách, a to alespoň "
+"každé dva měsíce. Obychom toto splnili, budeme jej sledovat běham našich "
+"sobotních vývojářských setkání, a využívat tagy, projekty a jiné "
+"funkcionality na GitHubu abyvhom usnadnili všem kteří se o postup vývoje "
+"zajímají, jej sledovat."
 
 #: ../../source/index.rst:49
 msgid "Project plan"
-msgstr ""
+msgstr "Projektový plán"
 
 #: ../../source/index.rst:51
 msgid ""
@@ -611,76 +618,93 @@ msgid ""
 "listed below. There exists the possibility of more work being agreed "
 "between us and NLnet."
 msgstr ""
+"Finanční prostředky budou využity k vyplacení odměn vývojářům, kteří budou "
+"pracovat na oblastech vypsaných níže. Je možné, že se s NLnetem dohodneme na "
+"více pracech."
 
 #: ../../source/index.rst:53
 msgid "The agreed on deadline for completion is February 17, 2025."
-msgstr ""
+msgstr "Domluvený deadline pro dokončení je 17. únor 2025."
 
 #: ../../source/index.rst:55
 msgid ""
 "Some of the work has already started and can be seen on GitHub: "
 "https://github.com/overte-org/overte"
 msgstr ""
+"Některé prace byjy již zahájeny a jsou k vidění na GitHubu: https://github."
+"com/overte-org/overte"
 
 #: ../../source/index.rst:58
 msgid "Audio Overhaul"
-msgstr ""
+msgstr "Přepracování audia"
 
 #: ../../source/index.rst:61
 msgid ""
 "Move audio zones to zone properties (https://github.com/overte-"
 "org/overte/issues/69)"
 msgstr ""
+"Přesun audio zón do vlastností zóny (https://github.com/overte-org/overte/"
+"issues/69)"
 
 #: ../../source/index.rst:62
 msgid "Add audio entities (https://github.com/overte-org/overte/issues/69)"
-msgstr ""
+msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
 
 #: ../../source/index.rst:65
 msgid "Miscelaneous Improvements"
-msgstr ""
+msgstr "Vedlejší vylepšení"
 
 #: ../../source/index.rst:67
 msgid ""
 "Add a wantsKeyboardFocus property for web entities (https://github.com"
 "/overte-org/overte/issues/6)"
 msgstr ""
+"Přidání vlastnosti wantsKeyboardFocus pro webové entity (https://github.com/"
+"overte-org/overte/issues/6)"
 
 #: ../../source/index.rst:68
 msgid ""
 "Add interpolation on model animations (https://github.com/overte-"
 "org/overte/issues/317)"
 msgstr ""
+"Přidání interpolace u animací modelů (https://github.com/overte-org/overte/"
+"issues/317)"
 
 #: ../../source/index.rst:71
 msgid "Graphics Improvements"
-msgstr ""
+msgstr "Grafická vylepšení"
 
 #: ../../source/index.rst:73
 msgid ""
 "Fix shadow culling on back-faces (https://github.com/overte-"
 "org/overte/issues/547)"
 msgstr ""
+"Oprava cullingu stínů na back-facech (https://github.com/overte-org/overte/"
+"issues/547)"
 
 #: ../../source/index.rst:74
 msgid ""
 "Allow opaque particles (https://github.com/overte-"
 "org/overte/issues/776#issuecomment-1868203856)"
 msgstr ""
+"Povolení neprůhledných particlů (https://github.com/overte-org/overte/issues/"
+"776#issuecomment-1868203856)"
 
 #: ../../source/index.rst:75
 msgid ""
 "Finish overhaulting TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
+"Dokončení přepracování TAA se setrvačnostním bufferem (https://github.com/"
+"overte-org/overte/pull/501)"
 
 #: ../../source/index.rst:76
 msgid "Add support for GPU particles"
-msgstr ""
+msgstr "Přidání podpory pro GPU particly"
 
 #: ../../source/index.rst:79
 msgid "Vulkan"
-msgstr ""
+msgstr "Vulkan"
 
 #: ../../source/index.rst:81
 msgid ""
@@ -689,36 +713,42 @@ msgid ""
 "even deprecating it completely. AMD pays very little attention to it, and"
 " driver bugs are a frequent annoyance."
 msgstr ""
+"Aktuálně pro 3D rendering využíváme OpenGL. Bohužel ale v posledních pár "
+"letech upadlo v nemilost, a některé platformy jako například Mac jeho "
+"podporu úplně vypouštějí. AMD mu věnuje minimální pozornost, a bugy v "
+"driverech jsou častým zdrojem nepříjemností."
 
 #: ../../source/index.rst:83
 msgid ""
 "Vulkan will provide a much more modern, performant and supported "
 "renderer, and should fix our Mac support woes."
 msgstr ""
+"Vulkan poskytne mnohem modernější, optimalizovanější a podporovanější "
+"render, a měl by napravit naše potíže s Macem."
 
 #: ../../source/index.rst:85
 msgid "Wireframe rendering"
-msgstr ""
+msgstr "Wireframe rendering"
 
 #: ../../source/index.rst:86
 msgid "Forward renderer (for low end hardware)"
-msgstr ""
+msgstr "Forward renderer (pro slabší hardware)"
 
 #: ../../source/index.rst:87
 msgid "Deferred renderer (fully featured)"
-msgstr ""
+msgstr "Deferred renderer (se všemi funkcemi)"
 
 #: ../../source/index.rst:88
 msgid "Optimization"
-msgstr ""
+msgstr "Optimalizace"
 
 #: ../../source/index.rst:89
 msgid "Frame transfer to VR plugin"
-msgstr ""
+msgstr "Přenos snímků do VR pluginu"
 
 #: ../../source/index.rst:92
 msgid "Build system improvements"
-msgstr ""
+msgstr "Vylepšení build systému"
 
 #: ../../source/index.rst:93
 msgid ""
@@ -726,39 +756,42 @@ msgid ""
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
 msgstr ""
+"Toto učiní práci na Overte příjemnější a usnadní buildování. Dojde tak ke "
+"zjednodušení údržby a zpříjemnění života budoucím přispěvatelům."
 
 #: ../../source/index.rst:95
 msgid "Switching to Conan"
-msgstr ""
+msgstr "Přesun na Conan"
 
 #: ../../source/index.rst:96
-#, fuzzy
 msgid "Updating documentation"
-msgstr "Dokumentace 🔗"
+msgstr "Aktualizace dokumentace"
 
 #: ../../source/index.rst:97
 msgid "Improving build process"
-msgstr ""
+msgstr "Vylepšení build procesu"
 
 #: ../../source/index.rst:100
 msgid "Thanks"
-msgstr ""
+msgstr "Poděkování"
 
 #: ../../source/index.rst:102
 msgid "NLnet, for giving us this great opportunity."
-msgstr ""
+msgstr "NLnetu, za poskytnutí této příležitosti."
 
 #: ../../source/index.rst:103
 msgid "Julian Groß, for negotiating this agreement."
-msgstr ""
+msgstr "Julianu Großovi, za vyjednání této dohody."
 
 #: ../../source/index.rst:104
 msgid "Sam Gondelman, Karol Suprynowicz and AnotherFoxGuy for taking on the work."
 msgstr ""
+"Samu Gondelmanovi, Karolu Suprynowiczovi and AnotherFoxGuyovi za jejich "
+"práci."
 
 #: ../../source/index.rst:105
 msgid "The Overte community, for making this possible."
-msgstr ""
+msgstr "Komunitě Overte, že nám toto umožňila."
 
 #: ../../source/index.rst:112
 msgid "2023-04-01 New website"
@@ -801,7 +834,6 @@ msgid "Articles of association"
 msgstr "Články asociace"
 
 #: ../../source/overte_ev.rst:12
-#, fuzzy
 msgid ""
 "The articles of association, called “Satzung” in German, are the "
 "associations bylaws. They regulate what the association, its members, and"
@@ -860,7 +892,6 @@ msgstr ""
 "zahrnuje také volbu členů představenstva."
 
 #: ../../source/overte_ev.rst:35
-#, fuzzy
 msgid ""
 "Currently, the yearly membership fee is 60 Euro. The fee is pre-paid "
 "either yearly or monthly."
@@ -943,7 +974,7 @@ msgstr "Tajemník a druhý zmocněnec předsedy představenstva."
 
 #: ../../source/overte_ev.rst:79
 msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr ""
+msgstr "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 
 #: ../../source/overte_ev.rst:83
 msgid "Karol_Suprynowicz"
@@ -954,22 +985,20 @@ msgid "Speaks Polish and English."
 msgstr "Hovoří polsky a anglicky."
 
 #: ../../source/overte_ev.rst:81
-#, fuzzy
 msgid "Graphics specialist and developer"
-msgstr "Předseda představenstva a vývojář."
+msgstr "Předseda představenstva a vývojář"
 
 #: ../../source/overte_ev.rst:89
 msgid "|Zetaphor| Zetaphor"
-msgstr ""
+msgstr "|Zetaphor| Zetaphor"
 
 #: ../../source/overte_ev.rst:93
 msgid "Zetaphor"
 msgstr ""
 
 #: ../../source/overte_ev.rst:90 ../../source/overte_ev.rst:100
-#, fuzzy
 msgid "Speaks English."
-msgstr "Hovoří polsky a anglicky."
+msgstr "Hovoří anglicky."
 
 #: ../../source/overte_ev.rst:91
 msgid "Developer"
@@ -977,7 +1006,7 @@ msgstr "Vývojář"
 
 #: ../../source/overte_ev.rst:99
 msgid "|Sam_Gondelman| Sam Gondelman"
-msgstr ""
+msgstr "|Sam_Gondelman| Sam Gondelman"
 
 #: ../../source/overte_ev.rst:103
 msgid "Sam_Gondelman"
@@ -985,7 +1014,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:101
 msgid "Core Engine & graphics specialist"
-msgstr ""
+msgstr "Specialista na základní engine a grafiku"
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -1152,7 +1181,6 @@ msgid "Fediverse"
 msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:49
-#, fuzzy
 msgid ""
 "On this website we are embedding `Fediverse <https://fediverse.party/>`_ "
 "apps and content. Explicitly we are using the social network `mastodon "
@@ -1161,12 +1189,12 @@ msgid ""
 "`privacy policy <https://joinmastodon.org/privacy-policy>`_ of that "
 "server applies for all interactions with the content."
 msgstr ""
-"Na této stránce vkládáme obsah a aplikace ze stránek `fediverse "
-"<https://fediverse.party/>`_ . Explicitně využívím sociální sítě "
-"`mastodon <https://joinmastodon.org/>`_. Tato služba nezaznamenává "
-"jakákoliv další data, ale pokud jste přihlášeni k Mastodon serveru, "
-"`zásady ochrany osobních údajů <https://joinmastodon.org/privacy-"
-"policy>`_ daného serveru jsou aplikovány na veškeré interakce s obsahem."
+"Na této stránce vkládáme obsah a aplikace ze stránek `Fediverse "
+"<https://fediverse.party/>`_ . Explicitně využíváme sociální sítě `mastodon "
+"<https://joinmastodon.org/>`_. Tato služba nezaznamenává jakákoliv další "
+"data, ale pokud jste přihlášeni k Mastodon serveru, `zásady ochrany osobních "
+"údajů <https://joinmastodon.org/privacy-policy>`_ daného serveru jsou "
+"aplikovány na veškeré interakce s obsahem."
 
 #: ../../source/privacy_policy.rst:53
 msgid "Children's Information"
@@ -1201,18 +1229,17 @@ msgid "Online Privacy Policy Only"
 msgstr "Online zásady ochrany osobních údajů"
 
 #: ../../source/privacy_policy.rst:63
-#, fuzzy
 msgid ""
 "Our Privacy Policy applies only to our online activities and is valid for"
 " visitors to our website with regard to the information that they shared "
 "and/or collect in overte.org. This policy is not applicable to any "
 "information collected offline or via channels other than this website."
 msgstr ""
-"Naše zásady ochrany osobních údajů se týkají pouze našich online aktivit,"
-" a jsou platné po dobu návštěvy našich stránek vzhledem k informacím, "
-"které jsou sdíleny a/nebo sbírány na overte.org. Tyto zásady jsou "
-"neaplikovatelné na jakékoliv informace získané offline nebo jinými "
-"kanály, než jsou tyto stránky."
+"Naše zásady ochrany osobních údajů se týkají pouze našich online aktivit, a "
+"jsou platné po dobu návštěvy našich stránek vzhledem k informacím, které "
+"jsou sdíleny a/nebo sbírány na overte.org. Tyto zásady jsou neaplikovatelné "
+"na jakékoliv informace získané offline nebo jinými kanály, než jsou tyto "
+"stránky."
 
 #: ../../source/privacy_policy.rst:67
 msgid "Consent"
