@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2024-02-24 19:36+0000\n"
+"PO-Revision-Date: 2024-03-30 15:20+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language-Team: French <https://weblate.overte.org/projects/overte/"
 "overte-website/fr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.3.1\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.13.1\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
@@ -964,9 +964,8 @@ msgid "Speaks Polish and English."
 msgstr "Parle polonais et anglais."
 
 #: ../../source/overte_ev.rst:81
-#, fuzzy
 msgid "Graphics specialist and developer"
-msgstr "Président et développeur."
+msgstr ""
 
 #: ../../source/overte_ev.rst:89
 msgid "|Zetaphor| Zetaphor"
