@@ -4,20 +4,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Overte Website \n"
+"Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-24 18:59+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2024-03-30 15:20+0000\n"
+"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
+"overte-website/es/>\n"
 "Language: es\n"
-"Language-Team: es <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:120
@@ -224,7 +225,7 @@ msgstr ""
 
 #: ../../source/downloads.rst:15
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../source/downloads.rst:19
 msgid "Interface"
@@ -267,7 +268,7 @@ msgstr ""
 
 #: ../../source/downloads.rst:43
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../source/downloads.rst:45
 msgid ""
@@ -1607,4 +1608,3 @@ msgstr ""
 #~ "directly from `public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release/2022.12.1/>`_."
 #~ msgstr ""
-
