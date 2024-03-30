@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-24 18:59+0000\n"
-"PO-Revision-Date: 2024-03-30 15:20+0000\n"
+"PO-Revision-Date: 2024-03-31 04:20+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
 "overte-website/es/>\n"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../../source/downloads.rst:35
 msgid "Domain Server"
-msgstr ""
+msgstr "Servidor de Dominio"
 
 #: ../../source/downloads.rst:37
 msgid ""
@@ -314,7 +314,7 @@ msgstr ""
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:120
 msgid "Gallery"
-msgstr ""
+msgstr "Galería"
 
 #: ../../source/gallery.rst:5
 msgid ""
@@ -413,7 +413,7 @@ msgstr ""
 
 #: ../../source/index.rst:120
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: ../../source/index.rst:120
 msgid "Documentation 🔗"
@@ -840,7 +840,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:81
 msgid "Developer"
-msgstr ""
+msgstr "Desarrollador"
 
 #: ../../source/overte_ev.rst:89
 msgid "|Sam_Gondelman| Sam Gondelman"
