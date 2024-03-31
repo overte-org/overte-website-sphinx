@@ -9,14 +9,11 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-24 21:14+0000\n"
-"PO-Revision-Date: 2024-03-30 15:20+0000\n"
+"PO-Revision-Date: 2024-04-01 05:20+0000\n"
 "Last-Translator: 川音リオ <rio@kwn.ac>\n"
 "Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
 "overte-website/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
-"/overte-website/ja/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -657,14 +654,16 @@ msgid ""
 "Finish overhaulting TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
+"ベロシティバッファつき TAA アンチエイジング の見直し (https://github.com/"
+"overte-org/overte/pull/501)"
 
 #: ../../source/index.rst:76
 msgid "Add support for GPU particles"
-msgstr ""
+msgstr "GPU パーティカルのサポート"
 
 #: ../../source/index.rst:79
 msgid "Vulkan"
-msgstr ""
+msgstr "Vulkan"
 
 #: ../../source/index.rst:81
 msgid ""
@@ -1545,4 +1544,3 @@ msgstr ""
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "会長・開発者"
-
