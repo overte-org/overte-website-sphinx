@@ -17,6 +17,8 @@ Application
 
 This Code of Conduct applies to all users and contributors who engage with the Overte project and its community platforms, both online and at Overte-related events.
 
+It applies to all the environments (domains) used for official Overte project purposes, hosted on Overte infrastructure, or listed on the official Overte directory server. Environments that are hosted by third parties and don't interact with the Overte project's infrastructure are not bound by the agreement.
+
 
 Expectations
 ------------
@@ -39,6 +41,9 @@ Participating in restricted conduct will lead to a warning from community modera
 - Likewise, any spamming, trolling, flaming, baiting, or other attention-stealing behavior is not welcome and will result in exclusion from the community.
 - Any form of retaliation against a participant who contacts the Code of Conduct team is completely unacceptable, regardless of the outcome of the complaint. Any such behavior will result in exclusion from the community.
 - For certainty, any conduct which could reasonably be considered inappropriate in a professional setting is not acceptable.
+- Additional restrictions may apply if required by German law.
+
+Third party environments (domains) may have additional rules, so long they don't conflict with the above. For instance, they may have a stricter code of conduct, require roleplay, or exclude people so long it's not for discriminatory reasons. Non-compliance will result in the removal of the listing from the directory server.
 
 
 Reporting a breach
@@ -48,6 +53,7 @@ If you witness or are involved in an interaction with another community member t
 
 The prefered people to talk to are Dale Glass and Julian Groß.
 
+The board may also appoint additional moderators as needed.
 
 Disputes
 --------
