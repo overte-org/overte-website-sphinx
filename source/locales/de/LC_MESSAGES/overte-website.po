@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 12:04+0000\n"
-"PO-Revision-Date: 2024-03-30 15:20+0000\n"
+"PO-Revision-Date: 2024-04-03 12:43+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: German <https://weblate.overte.org/projects/overte/"
+"overte-website/de/>\n"
 "Language: de\n"
-"Language-Team: German <https://weblate.overte.org/projects/overte/overte-"
-"website/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:213
@@ -584,17 +585,18 @@ msgstr "Neuigkeiten"
 
 #: ../../source/index.rst:42
 msgid "2024-04-02 NLnet grant extended!"
-msgstr ""
+msgstr "2024-04-02 NLnet-Förderung erweitert!"
 
 #: ../../source/index.rst:44
 msgid ""
 "We've obtained an extension to the NLnet grant, with the following "
 "additional items:"
 msgstr ""
+"Unsere NLnet-Förderung wurde um die folgenden zusätzlichen Punkte erweitert:"
 
 #: ../../source/index.rst:48
 msgid "Linux FHS Support"
-msgstr ""
+msgstr "Linux FHS-Unterstützung"
 
 #: ../../source/index.rst:50
 msgid ""
@@ -602,59 +604,62 @@ msgid ""
 "for an application. This work would involve adopting it, and adding some "
 "nice improvements as well."
 msgstr ""
+"Der Linux Filesystem Hierarchy Standard definiert das richtige Dateilayout "
+"einer Anwendung. Diese Arbeit beinhaltet diesen Standard zu übernehmen und "
+"erlaubt einige nette Verbesserungen hinzuzufügen."
 
 #: ../../source/index.rst:52
 msgid "This will:"
-msgstr ""
+msgstr "Dies wird:"
 
 #: ../../source/index.rst:54
 msgid "Make packaging easier and allow inclusion in distributions."
 msgstr ""
+"Paketierung vereinfachen und erlaubt die Aufnahme von Overte in Linux-"
+"Distributionen."
 
 #: ../../source/index.rst:55
 msgid "Make SELinux easier."
-msgstr ""
+msgstr "SELinux Unterstützung vereinfachen."
 
 #: ../../source/index.rst:56
 msgid "Allow easy instancing out of the box."
-msgstr ""
+msgstr "einfache Erstellung mehrerer Instanzen."
 
 #: ../../source/index.rst:57
 msgid "Make Mac packaging easier."
-msgstr ""
+msgstr "macOS-Paketierung vereinfachen."
 
 #: ../../source/index.rst:59 ../../source/index.rst:72
 #: ../../source/index.rst:85 ../../source/index.rst:101
 #: ../../source/index.rst:124
-#, fuzzy
 msgid "Tasks:"
-msgstr "Danke an"
+msgstr "Meilensteine:"
 
 #: ../../source/index.rst:61
-#, fuzzy
 msgid ""
 "Domain server/assignment client implementation (https://github.com"
 "/overte-org/overte/issues/903)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Domain-Server und Assignment-Client Implementierung (https://github.com/"
+"overte-org/overte/issues/903)"
 
 #: ../../source/index.rst:62
-#, fuzzy
 msgid "Interface implementation (https://github.com/overte-org/overte/issues/904)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Interface Implementierung (https://github.com/overte-org/overte/issues/904)"
 
 #: ../../source/index.rst:66
 msgid "LDAP Support"
-msgstr ""
+msgstr "LDAP-Unterstützung"
 
 #: ../../source/index.rst:68
 msgid ""
 "LDAP is a common authentication mechanism, widely supported in "
 "organizations. Active Directory is compatible as well."
 msgstr ""
+"LDAP ist ein gängiger Authentifizierungsmechanismus, der von vielen "
+"Unternehmen unterstützt wird. Active Directory ist mit LDAP kompatibel."
 
 #: ../../source/index.rst:70
 msgid ""
@@ -663,21 +668,29 @@ msgid ""
 "authentication. We'd save the need to write that code ourselves, which is"
 " of little interest and has been done better by other projects."
 msgstr ""
+"Dies wird Overte helfen, sich viel besser in die Unternehmens- und "
+"Universitätsinfrastruktur zu integrieren. Diese können dann ihr eigenes "
+"internes System zur Kontrolle der Authentifizierung verwenden. Wir ersparen "
+"uns hiermit, diesen Code selbst zu entwickeln, was wenig interessant ist und "
+"von anderen Projekten bereits besser gelöst wurde."
 
 #: ../../source/index.rst:74
-#, fuzzy
 msgid ""
 "Basic support in domain web UI to allow multiple users to authenticate. "
 "(https://github.com/overte-org/overte/issues/905)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Grundlegende Unterstützung in der Domain Weboberfläche, um mehreren "
+"Benutzern die Authentifizierung zu ermöglichen. (https://github.com/"
+"overte-org/overte/issues/905)"
 
 #: ../../source/index.rst:75
 msgid ""
 "Basic support as an alternative to directory server: user accounts, "
 "domain directory. (https://github.com/overte-org/overte/issues/906)"
 msgstr ""
+"Grundlegende Unterstützung als Alternative zum Directory-Server: "
+"Benutzerkonten, Domain-Verzeichnis. (https://github.com/overte-org/overte/"
+"issues/906)"
 
 #: ../../source/index.rst:76
 msgid ""
@@ -685,10 +698,13 @@ msgid ""
 "storage, profile metadata. (https://github.com/overte-"
 "org/overte/issues/907)"
 msgstr ""
+"Vollständige Alternative zum Directory-Server. Unterstützung für "
+"Benutzerbeziehungen, Datenspeicherung und Profil-Metadaten. (https://github."
+"com/overte-org/overte/issues/907)"
 
 #: ../../source/index.rst:80
 msgid "IPv6 Support"
-msgstr ""
+msgstr "IPv6-Unterstützung"
 
 #: ../../source/index.rst:82
 msgid ""
@@ -698,44 +714,48 @@ msgid ""
 "already are charging extra for IPv4 addresses, so supporting IPv6 helps "
 "making hosting domains cheaper."
 msgstr ""
+"Die Verbreitung von IPv6 hat in letzter Zeit ein recht hohes Niveau erreicht "
+"und ist besonders in Umgebungen wichtig, in denen IPv4-Adressen knapp sind, "
+"wie z. B. in Unternehmen, Universitäten, in der Cloud und bei großen "
+"Installationen. Einige Provider verlangen bereits zusätzliche Gebühren für "
+"IPv4-Adressen, sodass die Unterstützung von IPv6 dazu beiträgt Hosting von "
+"Domains günstiger zu machen."
 
 #: ../../source/index.rst:87
-#, fuzzy
 msgid ""
 "Basic support in domain web UI. (https://github.com/overte-"
 "org/overte/issues/908)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Grundlegende Unterstützung in der Domain-Server Weboberfläche. "
+"(https://github.com/overte-org/overte/issues/908)"
 
 #: ../../source/index.rst:88
-#, fuzzy
 msgid ""
 "Support for fetching assets over IPv6 in interface. (https://github.com"
 "/overte-org/overte/issues/909)"
 msgstr ""
-"Beheben von Fehlern beim Rendern von Schatten von Rückseiten "
-"(https://github.com/overte-org/overte/issues/547)"
+"Unterstützung für das Abrufen von Assets über IPv6. (https://github.com/"
+"overte-org/overte/issues/909)"
 
 #: ../../source/index.rst:89
-#, fuzzy
 msgid ""
 "Support for domains running on IPv6. (https://github.com/overte-"
 "org/overte/issues/910)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Unterstützung für Domain-Server die auf IPv6 laufen. (https://github.com/"
+"overte-org/overte/issues/910)"
 
 #: ../../source/index.rst:94
-#, fuzzy
 msgid "SELinux"
-msgstr "Linux"
+msgstr "SELinux"
 
 #: ../../source/index.rst:96
 msgid ""
 "SELinux is a security system that allows sandboxing applications and "
 "daemons."
 msgstr ""
+"SELinux ist ein Sicherheitssystem, welches es ermöglicht Anwendungen und "
+"Dienste voneinander zu isolieren."
 
 #: ../../source/index.rst:99
 msgid ""
@@ -744,22 +764,24 @@ msgid ""
 "instance, a domain exploit could still break the domain, but couldn't use"
 " the server to attack other computers or expose the user's private data."
 msgstr ""
+"SELinux wird den Domain-Server und optional Interface isolieren, um "
+"sicherzustellen, dass Exploits nicht den Rest des Systems beeinträchtigen "
+"können. So könnte ein Exploit zwar den Domain-Server knacken, aber den "
+"Server nicht dazu verwenden, andere Computer anzugreifen oder die privaten "
+"Daten des Benutzers preiszugeben."
 
 #: ../../source/index.rst:103
-#, fuzzy
 msgid "Confine domain-server. (https://github.com/overte-org/overte/issues/911)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Domain-Server isolieren. (https://github.com/overte-org/overte/issues/911)"
 
 #: ../../source/index.rst:104
-#, fuzzy
 msgid ""
 "Confine assignment clients. (https://github.com/overte-"
 "org/overte/issues/912)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Assignment-Clients isolieren. (https://github.com/overte-org/overte/issues/"
+"912)"
 
 #: ../../source/index.rst:105
 #, fuzzy
@@ -767,73 +789,72 @@ msgid ""
 "Attempt supporting multiple instances with isolation. (https://github.com"
 "/overte-org/overte/issues/913)"
 msgstr ""
-"Verschieben von Audiozonen in Zoneneigenschaften (https://github.com"
-"/overte-org/overte/issues/69)"
+"Attempt supporting multiple instances with isolation. (https://github.com/"
+"overte-org/overte/issues/913)"
 
 #: ../../source/index.rst:106
-#, fuzzy
 msgid ""
 "Isolate multiple Overte servers on the same machine from each other. "
 "(https://github.com/overte-org/overte/issues/914)"
 msgstr ""
-"Verschieben von Audiozonen in Zoneneigenschaften (https://github.com"
-"/overte-org/overte/issues/69)"
+"Isolieren mehrerer Overte-Server voneinander auf demselben Rechner. "
+"(https://github.com/overte-org/overte/issues/914)"
 
 #: ../../source/index.rst:107
-#, fuzzy
 msgid "Confine interface. (https://github.com/overte-org/overte/issues/915)"
-msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+msgstr "Interface isolieren. (https://github.com/overte-org/overte/issues/915)"
 
 #: ../../source/index.rst:111
 msgid "Canvas texture"
-msgstr ""
+msgstr "Leinwand-Textur"
 
 #: ../../source/index.rst:113
 msgid ""
 "This would implement a new concept of a software defined canvas texture. "
 "Scripts can draw on it, and clients receive updates."
 msgstr ""
+"Damit wird ein neues Konzept einer softwaredefinierten Leinwand-Textur "
+"eingeführt. Skripte können darauf zeichnen, und Clients erhalten Updates."
 
 #: ../../source/index.rst:115
 msgid "This has a huge potential range of useful functionality:"
-msgstr ""
+msgstr "Dies birgt ein enormes Potenzial an nützlichen Funktionen:"
 
 #: ../../source/index.rst:117
 msgid "Software defined textures"
-msgstr ""
+msgstr "Software-definierte Texturen"
 
 #: ../../source/index.rst:118
 msgid "Script-generated nametags, banners, status displays, etc."
-msgstr ""
+msgstr "Skript-generierte Namensschilder, Banner, Statusanzeigen, etc."
 
 #: ../../source/index.rst:119
 msgid "Screen sharing without any external dependencies"
-msgstr ""
+msgstr "Bildschirmfreigaben ohne externe Abhängigkeiten"
 
 #: ../../source/index.rst:120
 msgid "Whiteboard"
-msgstr ""
+msgstr "Whiteboard"
 
 #: ../../source/index.rst:121
 msgid "Synchronized web entity"
-msgstr ""
+msgstr "Synchronisierte Weboberflächen"
 
 #: ../../source/index.rst:122
 msgid ""
 "Server-side rendered web entity. This would help with the Quest "
 "implementation."
 msgstr ""
+"Server-seitig gerenderte Weboberflächen. Dies würde bei der Quest-"
+"Implementierung helfen."
 
 #: ../../source/index.rst:126
-#, fuzzy
 msgid ""
 "Basic implementation. Texture object, simple operations like painting "
 "pixels and blocks. (https://github.com/overte-org/overte/issues/916)"
 msgstr ""
-"Hinzufügen von Interpolation bei Modellanimationen (https://github.com"
-"/overte-org/overte/issues/317)"
+"Grundlegende Implementierung. Texturobjekt, simple Operationen wie das Malen "
+"von Pixeln und Blöcken. (https://github.com/overte-org/overte/issues/916)"
 
 #: ../../source/index.rst:127
 msgid ""
@@ -841,22 +862,20 @@ msgid ""
 "rectangles, circles, curves, etc. (https://github.com/overte-"
 "org/overte/issues/917)"
 msgstr ""
+"Canvas-API. Unterstützung für Schriftarten, Formen wie Rechtecke, Kreise, "
+"Kurven, usw. (https://github.com/overte-org/overte/issues/917)"
 
 #: ../../source/index.rst:128
-#, fuzzy
 msgid "Screen sharing (https://github.com/overte-org/overte/issues/918)"
-msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+msgstr "Bildschirmfreigabe (https://github.com/overte-org/overte/issues/918)"
 
 #: ../../source/index.rst:129
-#, fuzzy
 msgid ""
 "Synchronized web surface. (https://github.com/overte-"
 "org/overte/issues/919)"
 msgstr ""
-"Hinzufügen von Audio-Entitäten (https://github.com/overte-"
-"org/overte/issues/69)"
+"Synchronisierte Weboberfläche. (https://github.com/overte-org/overte/issues/"
+"919)"
 
 #: ../../source/index.rst:134
 msgid "2024-02-24 We've obtained an NLnet grant!"
@@ -1929,4 +1948,3 @@ msgstr ""
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "Grafikspezialist und Entwickler"
-
