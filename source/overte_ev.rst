@@ -42,6 +42,7 @@ to application@overte.org, or our postal address.
 -------------
 Current Board
 -------------
+.. _current-board:
 
 The current board members were elected on the general assembly on the 16th September 2023.
 
@@ -49,6 +50,7 @@ The current board members were elected on the general assembly on the 16th Septe
 ~~~~~~~~~~~~~~~~~~~~~~~
 | Speaks Spanish, English and Russian.
 | Chairman and developer.
+| Matrix: `@dale_glass:matrix.org <https://matrix.to/#/@dale_glass:matrix.org>`_, Discord: daleglass, E-Mail: vadim.troshchinskiy@overte.org.
 
 .. |Dale_Glass| image:: _images/board/Dale_Glass.png
     :class: inline2
@@ -59,6 +61,7 @@ The current board members were elected on the general assembly on the 16th Septe
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 | Speaks German, English and basic Japanese.
 | Treasurer, deputy chairman, and developer.
+| Matrix: `@juliangro:overte.org <https://matrix.to/#/@juliangro:overte.org>`_, E-Mail: julian.gro@overte.org.
 
 .. |Julian_Groß| image:: _images/board/Julian_Groß.png
     :class: inline2

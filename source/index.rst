@@ -223,5 +223,6 @@ If you would like to help translate this website or other parts of Overte, head 
     API reference 🔗 <https://apidocs.overte.org>
     Donate <donate>
     Overte e.V. <overte_ev>
+    Code of Conduct <code_of_conduct>
     Imprint <imprint>
     Privacy policy <privacy_policy>
