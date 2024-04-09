@@ -9,16 +9,17 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 17:10+0000\n"
-"PO-Revision-Date: 2024-03-31 04:20+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2024-04-09 23:20+0000\n"
+"Last-Translator: GREAT DNG <greatdng@gmail.com>\n"
+"Language-Team: Russian <https://weblate.overte.org/projects/overte/"
+"overte-website/ru/>\n"
 "Language: ru\n"
-"Language-Team: Russian <https://weblate.overte.org/projects/overte"
-"/overte-website/ru/>\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:213
@@ -57,7 +58,7 @@ msgstr "19:00 UTC    Встреча разработчиков"
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:213
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Кодекс поведения"
 
 #: ../../source/code_of_conduct.rst:5
 msgid ""
@@ -67,10 +68,15 @@ msgid ""
 "and accepted regardless of their personal background and affiliation to "
 "the Overte project."
 msgstr ""
+"Проект Overte - это международное сообщество, открытое для всех без "
+"дискриминации. Мы хотим, чтобы это сообщество было безопасным и "
+"гостеприимным местом как для новичков, так и для нынешних участников. Каждый "
+"должен чувствовать себя комфортно и быть принятым, независимо от его личного "
+"происхождения и принадлежности к проекту Overte."
 
 #: ../../source/code_of_conduct.rst:8
 msgid "Philosophy"
-msgstr ""
+msgstr "Философия"
 
 #: ../../source/code_of_conduct.rst:10
 msgid ""
@@ -95,9 +101,8 @@ msgid ""
 msgstr ""
 
 #: ../../source/code_of_conduct.rst:16
-#, fuzzy
 msgid "Application"
-msgstr "Оптимизация"
+msgstr "Приложение"
 
 #: ../../source/code_of_conduct.rst:18
 msgid ""
@@ -117,11 +122,11 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:24
 msgid "Expectations"
-msgstr ""
+msgstr "Ожидания"
 
 #: ../../source/code_of_conduct.rst:26
 msgid "Politeness is expected at all times. Be kind and courteous."
-msgstr ""
+msgstr "Вежливость ожидается всегда. Будьте добры и вежливы."
 
 #: ../../source/code_of_conduct.rst:27
 msgid ""
@@ -1394,7 +1399,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:51
 msgid "Speaks Spanish, English and Russian."
-msgstr "Говорят на испанском, английском и русском языках."
+msgstr "Говорит на испанском, английском и русском языках."
 
 #: ../../source/overte_ev.rst:52
 msgid "Chairman and developer."
@@ -1417,7 +1422,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:62
 msgid "Speaks German, English and basic Japanese."
-msgstr "Говорят на немецком, английском и базовом японском языках."
+msgstr "Говорит на немецком, английском и базовом японском языках."
 
 #: ../../source/overte_ev.rst:63
 msgid "Treasurer, deputy chairman, and developer."
@@ -1440,7 +1445,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:73
 msgid "Speaks German and English."
-msgstr "Говорят на немецком и английском языках."
+msgstr "Говорит на немецком и английском языках."
 
 #: ../../source/overte_ev.rst:74
 msgid "Secretary and second deputy chairman."
@@ -1448,7 +1453,7 @@ msgstr "Секретарь и второй заместитель председ
 
 #: ../../source/overte_ev.rst:82
 msgid "|Zetaphor| Zetaphor"
-msgstr "|Zetaphor| Зетафор"
+msgstr "|Zetaphor| Zetaphor"
 
 #: ../../source/overte_ev.rst:86
 msgid "Zetaphor"
@@ -1464,7 +1469,7 @@ msgstr "Разработчик"
 
 #: ../../source/overte_ev.rst:92
 msgid "|Sam_Gondelman| Sam Gondelman"
-msgstr "|Sam_Gondelman| Сэм Гондельман"
+msgstr "|Sam_Gondelman| Sam Gondelman"
 
 #: ../../source/overte_ev.rst:96
 msgid "Sam_Gondelman"
@@ -2282,4 +2287,3 @@ msgstr ""
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "Специалист по графике и разработчик"
-
