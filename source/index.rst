@@ -44,7 +44,7 @@ News
 We've obtained another extension to the NLnet grant, with the following additional items:
 
 
-Maintenence
+Maintenance
 ^^^^^^^^^^^
 
 * Fix warnings and allow turning on warnings-as-errors (https://github.com/overte-org/overte/issues/930)
@@ -75,7 +75,7 @@ Miscellaneous improvements II
 
 * Add VR laser smoothing which will especially help people with shaky hands (https://github.com/overte-org/overte/issues/883)
 * Increase loading priority of avatar entities (https://github.com/overte-org/overte/issues/834)
-* Add option to not have an avatar show until it's entities are loaded (https://github.com/overte-org/overte/issues/834)
+* Add option to not have an avatar show until its entities are loaded (https://github.com/overte-org/overte/issues/834)
 * Improve current loading priority system (https://github.com/overte-org/overte/issues/834)
 * Add a property to influence load priority of entities (https://github.com/overte-org/overte/issues/834)
 
