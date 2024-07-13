@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-12 18:23+0000\n"
+"POT-Creation-Date: 2024-07-13 21:51+0000\n"
 "PO-Revision-Date: 2024-04-09 23:20+0000\n"
 "Last-Translator: GREAT DNG <greatdng@gmail.com>\n"
 "Language: ru\n"
@@ -452,7 +452,7 @@ msgid "Downloads"
 msgstr "Загрузки"
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2024.06.1."
+msgid "The current release of Overte is version 2024.07.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -503,10 +503,8 @@ msgstr "Доменный сервер"
 #, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
-"from our `GitHub Release page 🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2024.06.1/>`_, or directly from "
-"`public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2024.06.1/>`_."
+"from `public.overte.org 🔗 "
+"<https://public.overte.org/index.html#build/overte/release/2024.07.1/>`_."
 msgstr ""
 "Выберите пакет, соответствующий вашему дистрибутиву и архитектуре, на "
 "нашей `странице релизов GitHub 🔗 <https://github.com/overte-"
@@ -514,11 +512,19 @@ msgstr ""
 "`public.overte .org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 
-#: ../../source/downloads.rst:42
+#: ../../source/downloads.rst:38
+msgid ""
+"There are also Docker images available on `hub.docker.com 🔗 "
+"<https://hub.docker.com/repository/docker/overte/overte-server/>`_. These"
+" images are still new, so please report any issues you run into on our "
+"`GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
+msgstr ""
+
+#: ../../source/downloads.rst:43
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/downloads.rst:44
+#: ../../source/downloads.rst:45
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
 "Select a custom install and tick “Overte Server” during the installation "
@@ -531,7 +537,7 @@ msgstr ""
 "повторно запустить программу установки позже, чтобы доустановить "
 "серверное ПО."
 
-#: ../../source/downloads.rst:48
+#: ../../source/downloads.rst:49
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -547,7 +553,7 @@ msgid ""
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:56
+#: ../../source/downloads.rst:57
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyway click on \"**More info**\" and"
@@ -557,11 +563,11 @@ msgstr ""
 "потенциально небезопасен. Чтобы все равно запустить его, нажмите "
 "«**Подробнее**», а затем «**Все равно запустить**»."
 
-#: ../../source/downloads.rst:64
+#: ../../source/downloads.rst:65
 msgid "Source"
 msgstr "Исходники"
 
-#: ../../source/downloads.rst:66
+#: ../../source/downloads.rst:67
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
 "<https://github.com/overte-org/overte/>`_. If you intend to build from "
@@ -573,7 +579,7 @@ msgstr ""
 "сборку из исходного кода, мы предлагаем собрать основную ветку напрямую, "
 "а не выпуск, чтобы воспользоваться последними улучшениями."
 
-#: ../../source/downloads.rst:69
+#: ../../source/downloads.rst:70
 msgid ""
 "For Linux there is a helper application available that aims to simplify "
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
@@ -2457,4 +2463,7 @@ msgstr ""
 #~ "2023.11.1. Этот релиз включает в себя"
 #~ " полную замену скриптового движка и "
 #~ "множество других улучшений."
+
+#~ msgid "The current release of Overte is version 2024.06.1."
+#~ msgstr ""
 
