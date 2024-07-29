@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 21:51+0000\n"
-"PO-Revision-Date: 2024-04-03 12:43+0000\n"
+"PO-Revision-Date: 2024-07-30 08:21+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: German <https://weblate.overte.org/projects/overte/"
+"overte-website/de/>\n"
 "Language: de\n"
-"Language-Team: German <https://weblate.overte.org/projects/overte/overte-"
-"website/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:256
@@ -486,7 +487,7 @@ msgstr "Downloads"
 
 #: ../../source/downloads.rst:7
 msgid "The current release of Overte is version 2024.07.1."
-msgstr ""
+msgstr "Die aktuelle Veröffentlichung von Overte ist die Version 2024.07.1."
 
 #: ../../source/downloads.rst:9
 msgid ""
@@ -533,16 +534,14 @@ msgid "Domain Server"
 msgstr "Domain Server"
 
 #: ../../source/downloads.rst:36
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture from "
 "`public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
 "release/2024.07.1/>`_."
 msgstr ""
-"Wählen Sie das passende Paket für Ihre Distribution und Architektur von "
-"unserer `GitHub Release-Seite 🔗 <https://github.com/overte-org/overte/"
-"releases/tag/2023.11.1/>`_, oder direkt von `public.overte.org 🔗 <https://"
-"public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
+"Wählen Sie das passende Paket für Ihre Distribution und Architektur von `"
+"public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2024.07.1/>`_."
 
 #: ../../source/downloads.rst:38
 msgid ""
