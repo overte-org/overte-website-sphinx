@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 21:51+0000\n"
-"PO-Revision-Date: 2024-07-30 08:21+0000\n"
+"PO-Revision-Date: 2024-07-30 23:21+0000\n"
 "Last-Translator: rampa_3 <rampa_3@users.noreply.weblate.overte.org>\n"
 "Language-Team: Czech <https://weblate.overte.org/projects/overte/"
 "overte-website/cs/>\n"
@@ -67,10 +67,14 @@ msgid ""
 "accepted regardless of their personal background and affiliation to the "
 "Overte project."
 msgstr ""
+"Projekt Overte je mezinárodní komunita, která je otevřena každému bez "
+"jakékoliv diskriminace. Checeme aby tato komunita byla bezpečným a vítajícím "
+"místem pro nováčky i aktuální členy. Všichni by se měli cítit pohodlně a "
+"přijati nehledě na jejich osobním pozadí a spojení s projektem Overte."
 
 #: ../../source/code_of_conduct.rst:8
 msgid "Philosophy"
-msgstr ""
+msgstr "Filozofie"
 
 #: ../../source/code_of_conduct.rst:10
 msgid ""
@@ -81,6 +85,11 @@ msgid ""
 "Cooperation in such an environment requires common guidelines to ensure a "
 "positive and inspiring atmosphere in the community."
 msgstr ""
+"V komunitě Overte, se schází účastníci z celého světa, a vytváří společně "
+"volnou open-source sociální VR platformu. Toto je umožněno podporou, tvrdou "
+"prací a nadšením mnoha lidí spolupracujících na společném cíli vytvořit "
+"opravdu unikátní VR zážitek. Kooperace v takovém prostředí vyžaduje společná "
+"pravidla pro zajištění pozitivní a inspirující atmosféry v komunitě."
 
 #: ../../source/code_of_conduct.rst:12
 msgid ""
@@ -92,11 +101,17 @@ msgid ""
 "is no need to hypothesize on how these rules would affect normal "
 "interactions. Be reasonable, the Overte e.V. surely will be as well."
 msgstr ""
+"To je důvodem proč máme tyto zásady chování: vysvětlují typ komunity, který "
+"chceme mít. Pravidla níže nejsou aplikována na veškeré mezilidské interakce "
+"jednoduchým porovnávacím algoritmem. Mezilidské interakce mají kontext a "
+"jsou složité. Zjištěná porušení jsou vyhodnocována reálnými lidmi, kteří se "
+"snaží interpretovat interakce a pravidla s vlídností. Proto není třeba "
+"hypotéz, jak tato pravidla ovlivní normální interakce. Buďte soudní, Overte "
+"e.V. bude nepochybně také."
 
 #: ../../source/code_of_conduct.rst:16
-#, fuzzy
 msgid "Application"
-msgstr "Optimalizace"
+msgstr "Aplikace"
 
 #: ../../source/code_of_conduct.rst:18
 msgid ""
@@ -104,6 +119,9 @@ msgid ""
 "the Overte project and its community platforms, both online and at Overte-"
 "related events."
 msgstr ""
+"Tyto zásady chování se aplikují na všechny uživatele a přispěvatele, kteří "
+"se angažují s projektem Overte a jeho komunitními platformami, online i na "
+"eventech souvisejících s Overte."
 
 #: ../../source/code_of_conduct.rst:20
 msgid ""
@@ -113,14 +131,18 @@ msgid ""
 "don't interact with the Overte project's infrastructure are not bound by the "
 "agreement."
 msgstr ""
+"Aplikují se na veškerá prostředí (domény), využívané pro oficiální účely "
+"projektu Overte, hostované na infrastruktuře Overte, nebo jsou vedena na "
+"officiálním directory serveru Overte. Prostředí hostovaná třetí stranou a "
+"neinteragující s infrastrukturou projektu Overte nejsou vázána touto úmluvou."
 
 #: ../../source/code_of_conduct.rst:24
 msgid "Expectations"
-msgstr ""
+msgstr "Očekávání"
 
 #: ../../source/code_of_conduct.rst:26
 msgid "Politeness is expected at all times. Be kind and courteous."
-msgstr ""
+msgstr "Slušnost je očekávána za všech situací. Buďte vlídní a zdvořilí."
 
 #: ../../source/code_of_conduct.rst:27
 msgid ""
@@ -130,6 +152,12 @@ msgid ""
 "not be the one the author intended. Conversely, if someone asks you to "
 "rephrase something you said, be ready to do so without feeling judged."
 msgstr ""
+"Vždy očekávejte pozitivní úmysl od ostatních. Mějte na paměti, že rozdíly v "
+"kultuře a zdatnosti v Angličtině činí psanou komunikaci obtížnější než "
+"osobní komunikaci, a tudíž Vaše interpretace zpráv nemusí být co autor "
+"původně zamýšlel. Naopak, pokud Vás někdo požádá abyste přeformulovali něco "
+"co jste řekli, buďte připraveni tak učinit aniž byste se cítili být "
+"odsuzováni."
 
 #: ../../source/code_of_conduct.rst:28
 msgid ""
@@ -139,10 +167,15 @@ msgid ""
 "out frustration. Similarly, when other users offer you feedback please "
 "accept it gracefully."
 msgstr ""
+"Zbětná vazba je vždy vítána, ale zachovejte svoji kritiku konstruktivní a "
+"specifickou. Vyzíváme Vás k otevírání diskusí, návrhů, připomínek a bug "
+"reportů. Využívejte komunitní platformy k diskusi vylepšení, ne k "
+"ventilování frustrace. Podobně, pokud Vám ostatní uživatelé nabídnou zpětnou "
+"vazbu, s klidem ji přijměte."
 
 #: ../../source/code_of_conduct.rst:32
 msgid "Restricted conduct"
-msgstr ""
+msgstr "Zakázaná chování"
 
 #: ../../source/code_of_conduct.rst:34
 msgid ""
@@ -150,6 +183,9 @@ msgid ""
 "moderators and/or the Overte e.V. board and may lead to exclusion from the "
 "community in the form of a ban from one or all platforms."
 msgstr ""
+"Angažováním se v zakázaném chování povede k varování od komunitních "
+"moderátorů a/nebo předsednictva Overte e.V., a může vést k exkluzi z "
+"komunity formou banu z jedné nebo všech našich komunit."
 
 #: ../../source/code_of_conduct.rst:36
 msgid ""
@@ -160,6 +196,12 @@ msgid ""
 "nationality, religion, or other similar characteristics. We do not tolerate "
 "harassment or discrimination of participants in any form."
 msgstr ""
+"Projekt Overte se zavazuje k poskytování přátelského a bezpečného prostředí "
+"pro všechny, nehledě na úroveň znalostí, gendrovou identitu a vyjádření, "
+"sexuální orientaci, hendikep, fyzický vzhled, vzrůst, rasu, etnicitu, "
+"jazykovou zdatnost, věk, politickou orientaci, národnost, víru, nebo podobné "
+"charakteristiky. Netolerujeme obtěžování a diskriminaci účastníků v "
+"jakékoliv formě."
 
 #: ../../source/code_of_conduct.rst:37
 msgid ""
@@ -167,6 +209,9 @@ msgid ""
 "ensure that they can take a more active role in the community and the "
 "project. Targeted harassment of minorities is unacceptable."
 msgstr ""
+"Zejména se snažíme být vítající ke všem průmyslovým menšinám, a zajistit že "
+"mohou zaujmout více aktivní roli v komunitě a projektu. Cílené obtěžování "
+"menšin není přijatelné."
 
 #: ../../source/code_of_conduct.rst:38
 msgid ""
@@ -176,10 +221,16 @@ msgid ""
 "others into supporting your point; Rather bring any disputes towards the "
 "Overte e.V. via the appropriate channels (see the `disputes`_ section below)."
 msgstr ""
+"Jako komunitně vyvýjený projekt, je naší snahou dosáhnout shody mezi "
+"přispěvateli před posunem vpřed s navrhovanou změnou. Pokud není Váš nápad "
+"dostatečně podpořen, prosíme nenaléhejte dále, nebo se nepokoušejte ostatní "
+"přinutit k podpoření Vašeho názoru; namísto toho vzneste jakékoliv rozepře "
+"vůči Overte e.V. skrze správné komunikační kanály (viz sekce `rozepře`_ "
+"níže)."
 
 #: ../../source/code_of_conduct.rst:39
 msgid "Aggressive or offensive behavior is not acceptable."
-msgstr ""
+msgstr "Agresivní nebo pobuřující chování je nepřijatelné."
 
 #: ../../source/code_of_conduct.rst:40
 msgid ""
@@ -187,6 +238,9 @@ msgid ""
 "demean, harass, intentionally make others uncomfortable by any means, or "
 "participate in any other hateful conduct, either publicly or privately."
 msgstr ""
+"Budete vyloučeni z komunity, pokud se dopustíte urážení, ponižování, "
+"obtěžování, úmyslného znepříjemňování jakýmkoliv způsobem, nebo jakéhokoliv "
+"jiného nenávistného chování, ať už na veřejnosti nebo v soukromí."
 
 #: ../../source/code_of_conduct.rst:41
 msgid ""
@@ -194,6 +248,8 @@ msgid ""
 "stealing behavior is not welcome and will result in exclusion from the "
 "community."
 msgstr ""
+"Obdobně, jakékoliv spamování, trolení, flamování, nachytávání nebo jiné "
+"vynucování pozornosti není vítáno, a povede k vyloučení z komunity."
 
 #: ../../source/code_of_conduct.rst:42
 msgid ""
@@ -201,16 +257,23 @@ msgid ""
 "Conduct team is completely unacceptable, regardless of the outcome of the "
 "complaint. Any such behavior will result in exclusion from the community."
 msgstr ""
+"Jakákoliv forma pomsty vůči účastníkovi, který kontaktoval tým zásad chování "
+"je kompletně nepřijatelná, nehledě na výsledek vyhodnocení stížnosti. "
+"Jakékoliv takovéto chování povede k vyloučení z komunity."
 
 #: ../../source/code_of_conduct.rst:43
 msgid ""
 "For certainty, any conduct which could reasonably be considered "
 "inappropriate in a professional setting is not acceptable."
 msgstr ""
+"Pro jistotu, jakékoliv chování považované za nevhodné v pracovním prostředí "
+"je nepřijatelné."
 
 #: ../../source/code_of_conduct.rst:44
 msgid "Additional restrictions may apply if required by German law."
 msgstr ""
+"Dodatečná omezení mohou být uplatňována, pokud budou vyžadována německým "
+"zákonem."
 
 #: ../../source/code_of_conduct.rst:46
 msgid ""
@@ -220,10 +283,14 @@ msgid ""
 "discriminatory reasons. Non-compliance will result in the removal of the "
 "listing from the directory server."
 msgstr ""
+"Prostředí (domény) třetích stran mohou mít vlastní dodatečná pravidla, pokud "
+"nekolidují s pravidly uvedenými výše. Například mohou mít přísnější zásady "
+"chování, vyžadovat roleplay, nebo vylučovat některé uživatele, pokud nejde o "
+"diskriminaci. Nedodržení povede k odstranění záznamu na directory serveru."
 
 #: ../../source/code_of_conduct.rst:50
 msgid "Reporting a breach"
-msgstr ""
+msgstr "Nahlašování porušení"
 
 #: ../../source/code_of_conduct.rst:52
 msgid ""
@@ -233,18 +300,23 @@ msgid ""
 "they are present, or via email. You may view a :ref:`list of the current "
 "board members here <current-board>`."
 msgstr ""
+"Pokud jste svědkem nebo součástí interakce s jiným členem komunity, o které "
+"si myslíte že mohla porušit tyto zásady chování, kontaktujte prosím člena "
+"předsednictva Overte e.V. skrze přímou zprávu na komunitní platformě, kde se "
+"nachází, nebo skrze e-mail. Seznam aktuálních členů předsednictva si můžete "
+"prohlédnout :ref:`zde <current-board>`."
 
 #: ../../source/code_of_conduct.rst:54
 msgid "The prefered people to talk to are Dale Glass and Julian Groß."
-msgstr ""
+msgstr "Preferované osoby, s nimiž se spojit jsou Dale Glass a Julian Groß."
 
 #: ../../source/code_of_conduct.rst:56
 msgid "The board may also appoint additional moderators as needed."
-msgstr ""
+msgstr "Předsednictvo může také zvolit dodatečné moderátory dle potřeby."
 
 #: ../../source/code_of_conduct.rst:59
 msgid "Disputes"
-msgstr ""
+msgstr "Rozepře"
 
 #: ../../source/code_of_conduct.rst:61
 msgid ""
@@ -257,6 +329,14 @@ msgid ""
 "will bring suggestions to an Overte e.V. assembly, where the present members "
 "will discuss and vote on the issue."
 msgstr ""
+"Jeden z hlavních důvodů pro existenci formální organizace je, že má poslední "
+"slovo při rozepřích. Pokud máte neshodu s jiným členem komunity, "
+"přispěvatelem nebo dokonce členem předsednictva, a nedaří se dojít k "
+"uspokojivému řešení skrze konvenční metody, kontaktujte prosím jednoho ze "
+"členů předsednictva (viz sekce `nahlašování porušení` výše). Pokud nemůže "
+"být problém vyřešen, nebo to je v zájmu většiny, člen předsednictva přednese "
+"návrhy valné hromadě Overte e.V., kde přítomní členové je prodiskutují a "
+"budou o nich hlasovat."
 
 #: ../../source/shared.rst
 msgid "DownloadPage"
@@ -439,7 +519,7 @@ msgstr "Ke stažení"
 
 #: ../../source/downloads.rst:7
 msgid "The current release of Overte is version 2024.07.1."
-msgstr ""
+msgstr "Aktuální vydání Overte je verze 2024.07.1."
 
 #: ../../source/downloads.rst:9
 msgid ""
@@ -486,16 +566,13 @@ msgid "Domain Server"
 msgstr "Doménový server"
 
 #: ../../source/downloads.rst:36
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture from "
 "`public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
 "release/2024.07.1/>`_."
 msgstr ""
-"Zvolte odpovídající balík pro Vaši distribuci z naší `Stránky vydání na "
-"GitHubu 🔗 <https://github.com/overte-org/overte/releases/tag/2023.11.1/>`_, "
-"nebo přímo z `public.overte.org 🔗 <https://public.overte.org/index."
-"html#build/overte/release/2023.11.1/>`_."
+"Zvolte odpovídající balík pro Vaši distribuci z `public.overte.org 🔗 "
+"<https://public.overte.org/index.html#build/overte/release/2024.07.1/>`_."
 
 #: ../../source/downloads.rst:38
 msgid ""
@@ -504,6 +581,10 @@ msgid ""
 "still new, so please report any issues you run into on our `GitHub issue "
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
+"Také jsou k dispozici Docker image na `hub.docker.com 🔗 <https://hub.docker."
+"com/repository/docker/overte/overte-server/>`_. Tyto image jsou stále ještě "
+"nové, takže prosíme nahlašujte jakékoliv problémy na které narazíte na našem "
+"`GitHub issue trackeru 🔗 <https://github.com/overte-org/overte/issues>`_."
 
 #: ../../source/downloads.rst:43 ../../source/downloads.rst:42
 msgid "Windows"
@@ -775,54 +856,53 @@ msgstr "Novinky"
 
 #: ../../source/index.rst:42
 msgid "2024-04-16 NLnet grant extended again!"
-msgstr ""
+msgstr "2024-04-16 NLnet grant znovu prodloužen!"
 
 #: ../../source/index.rst:44
 msgid ""
 "We've obtained another extension to the NLnet grant, with the following "
 "additional items:"
-msgstr ""
+msgstr "Získali jsme další prodloužení NLnet grantu, s následujícími položkami:"
 
 #: ../../source/index.rst:48
-#, fuzzy
 msgid "Maintenance"
-msgstr "Rozhraní"
+msgstr "Údržba"
 
 #: ../../source/index.rst:50
-#, fuzzy
 msgid ""
 "Fix warnings and allow turning on warnings-as-errors (https://github.com/"
 "overte-org/overte/issues/930)"
 msgstr ""
-"Oprava cullingu stínů na back-facech (https://github.com/overte-org/overte/"
-"issues/547)"
+"Oprava varování a povolení nastavení varování jako chyb (https://github.com/"
+"overte-org/overte/issues/930)"
 
 #: ../../source/index.rst:51
-#, fuzzy
 msgid ""
 "Clean up Application.cpp so it's not 10,000 lines (https://github.com/overte-"
 "org/overte/issues/931)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Vyčištění Application.cpp, aby neměl 10,000 řádků (https://github.com/"
+"overte-org/overte/issues/931)"
 
 #: ../../source/index.rst:52
-#, fuzzy
 msgid ""
 "fix setting joint data by name (https://github.com/overte-org/overte/"
 "issues/613)"
 msgstr ""
-"Oprava cullingu stínů na back-facech (https://github.com/overte-org/overte/"
-"issues/547)"
+"Oprava nastavení dat kloubů dle jména (https://github.com/overte-org/overte/"
+"issues/613)"
 
 #: ../../source/index.rst:53
-#, fuzzy
 msgid ""
 "Replace the old wearables system with avatar entities to deduplicate code. "
 "(https://github.com/overte-org/overte/issues/932)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Nahrazení starého systému nositelných objektů avatar entitami pro "
+"deduplikaci kódu (https://github.com/overte-org/overte/issues/932)"
 
 #: ../../source/index.rst:56
 msgid "Text entities"
-msgstr ""
+msgstr "Textové entity"
 
 #: ../../source/index.rst:58
 msgid ""
@@ -831,43 +911,50 @@ msgid ""
 "add new fonts, which is especially bad because the current fonts only "
 "support ASCII character."
 msgstr ""
+"Naše textové entity potřebují trochu lásky, Jsou neohrabané a hlavně "
+"využívají vlastní formát, který není nikde zdokumentován. To znamená, že "
+"nemůžeme přidávat nová písma, což je extra problém, jelikož aktuální písma "
+"podporují pouze ASCII znaky."
 
 #: ../../source/index.rst:60
-#, fuzzy
 msgid ""
 "clip to edges instead of completely disappearing (https://github.com/overte-"
 "org/overte/issues/583)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Clipovat k hranám namísto kompletního zmizení (https://github.com/overte-org/"
+"overte/issues/583)"
 
 #: ../../source/index.rst:61
-#, fuzzy
 msgid ""
 "Switch to a standard font format (https://github.com/overte-org/overte/"
 "issues/126)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Změnit na standardní formát písma (https://github.com/overte-org/overte/"
+"issues/126)"
 
 #: ../../source/index.rst:64
-#, fuzzy
 msgid "Graphics improvements II"
-msgstr "Grafická vylepšení"
+msgstr "Grafická vylepšení II"
 
 #: ../../source/index.rst:66
-#, fuzzy
 msgid "Add ambient light color (https://github.com/overte-org/overte/issues/6)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Přidat barvu ambientního osvětlení (https://github.com/overte-org/overte/"
+"issues/6)"
 
 #: ../../source/index.rst:67
-#, fuzzy
 msgid ""
 "Loading MToon materials directly from glTF (https://github.com/overte-org/"
 "overte/issues/933)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Načítání MToon materiálů přímo z glTF (https://github.com/overte-org/overte/"
+"issues/933)"
 
 #: ../../source/index.rst:68
-#, fuzzy
 msgid ""
 "Optional camera clipping (https://github.com/overte-org/overte/issues/618)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Volitelné clipování kamery (https://github.com/overte-org/overte/issues/618)"
 
 #: ../../source/index.rst:69
 msgid ""
@@ -875,6 +962,9 @@ msgid ""
 "One fallback for if a shader fails to load/compile and one for if a user has "
 "procedural shaders disabled"
 msgstr ""
+"Fallback pro vlastní shadery (https://github.com/overte-org/overte/issues/"
+"640): Jeden fallback pokud dojde k chybě načítání/kompilace shaderu, druhý "
+"pro případy kdy má uživatel zakázány procedurální hadery"
 
 #: ../../source/index.rst:70
 msgid ""
