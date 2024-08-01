@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-13 21:51+0000\n"
-"PO-Revision-Date: 2024-07-30 23:21+0000\n"
+"PO-Revision-Date: 2024-08-02 00:21+0000\n"
 "Last-Translator: rampa_3 <rampa_3@users.noreply.weblate.overte.org>\n"
 "Language-Team: Czech <https://weblate.overte.org/projects/overte/"
 "overte-website/cs/>\n"
@@ -856,13 +856,14 @@ msgstr "Novinky"
 
 #: ../../source/index.rst:42
 msgid "2024-04-16 NLnet grant extended again!"
-msgstr "2024-04-16 NLnet grant znovu prodloužen!"
+msgstr "2024-04-16 NLnet grant znovu rozšířen!"
 
 #: ../../source/index.rst:44
 msgid ""
 "We've obtained another extension to the NLnet grant, with the following "
 "additional items:"
-msgstr "Získali jsme další prodloužení NLnet grantu, s následujícími položkami:"
+msgstr ""
+"Získali jsme další rozšíření NLnet grantu, s následujícími položkami navíc:"
 
 #: ../../source/index.rst:48
 msgid "Maintenance"
@@ -972,73 +973,76 @@ msgid ""
 "AO) (https://github.com/overte-org/overte/issues/740, https://github.com/"
 "overte-org/overte/issues/741, https://github.com/overte-org/overte/issues/14)"
 msgstr ""
+"Zpřístupnění více grafických nastavení (tone-mapping, bloom, procedurální "
+"shadery, AO) (https://github.com/overte-org/overte/issues/740, https://github"
+".com/overte-org/overte/issues/741, https://github.com/overte-org/overte/"
+"issues/14)"
 
 #: ../../source/index.rst:71
-#, fuzzy
 msgid ""
 "add tone-mapping and Ambient Occlusion properties to Zone entities (https://"
 "github.com/overte-org/overte/issues/934)"
 msgstr ""
-"Přidání vlastnosti wantsKeyboardFocus pro webové entity (https://github.com/"
-"overte-org/overte/issues/6)"
+"Přidání tone-mappingu a ambientní okluze do zónových entit (https://github."
+"com/overte-org/overte/issues/934)"
 
 #: ../../source/index.rst:74
-#, fuzzy
 msgid "Miscellaneous improvements II"
-msgstr "Vedlejší vylepšení"
+msgstr "Vedlejší vylepšení II"
 
 #: ../../source/index.rst:76
-#, fuzzy
 msgid ""
 "Add VR laser smoothing which will especially help people with shaky hands "
 "(https://github.com/overte-org/overte/issues/883)"
 msgstr ""
-"Přesun audio zón do vlastností zóny (https://github.com/overte-org/overte/"
-"issues/69)"
+"Přidání vyhlazování VR laseru, což pomůže hlavně lidem s třesem v rukou "
+"(https://github.com/overte-org/overte/issues/883)"
 
 #: ../../source/index.rst:77
-#, fuzzy
 msgid ""
 "Increase loading priority of avatar entities (https://github.com/overte-org/"
 "overte/issues/834)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Zvýšení priority načítání avatar entit (https://github.com/overte-org/overte/"
+"issues/834)"
 
 #: ../../source/index.rst:78
-#, fuzzy
 msgid ""
 "Add option to not have an avatar show until its entities are loaded (https://"
 "github.com/overte-org/overte/issues/834)"
 msgstr ""
-"Přidání interpolace u animací modelů (https://github.com/overte-org/overte/"
-"issues/317)"
+"Přidání možnosti skrytí avatarů dokud se nenačtou jejich entity "
+"(https://github.com/overte-org/overte/issues/834)"
 
 #: ../../source/index.rst:79
-#, fuzzy
 msgid ""
 "Improve current loading priority system (https://github.com/overte-org/"
 "overte/issues/834)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Vylepšení aktuálního systému priority načítání (https://github.com/"
+"overte-org/overte/issues/834)"
 
 #: ../../source/index.rst:80
-#, fuzzy
 msgid ""
 "Add a property to influence load priority of entities (https://github.com/"
 "overte-org/overte/issues/834)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Přidání vlastnosti pro úpravu priority načítání entit (https://github.com/"
+"overte-org/overte/issues/834)"
 
 #: ../../source/index.rst:85
 msgid "2024-04-02 NLnet grant extended!"
-msgstr ""
+msgstr "2024-04-02 NLnet grant rozšířen!"
 
 #: ../../source/index.rst:87
 msgid ""
 "We've obtained an extension to the NLnet grant, with the following "
 "additional items:"
-msgstr ""
+msgstr "Získali jsme rozšíření NLnet grantu, s následujícími položkami navíc:"
 
 #: ../../source/index.rst:91
 msgid "Linux FHS Support"
-msgstr ""
+msgstr "Podpora Linux FHS"
 
 #: ../../source/index.rst:93
 msgid ""
@@ -1046,26 +1050,31 @@ msgid ""
 "an application. This work would involve adopting it, and adding some nice "
 "improvements as well."
 msgstr ""
+"Standard Linux Filesystem Hierarchy definuje správné umístění souborů pro "
+"aplikace. Tato práce by se zabývala jeho implementací, a přidáním pár "
+"hezkých vylepšení na vrch."
 
 #: ../../source/index.rst:95
 msgid "This will:"
-msgstr ""
+msgstr "To způsobí:"
 
 #: ../../source/index.rst:97
 msgid "Make packaging easier and allow inclusion in distributions."
 msgstr ""
+"Tvorba balíčků bude snadnější a bude možné je zahrnout do repozitářů "
+"distribucí."
 
 #: ../../source/index.rst:98
 msgid "Make SELinux easier."
-msgstr ""
+msgstr "Implementace SELinuxu bude snažší."
 
 #: ../../source/index.rst:99
 msgid "Allow easy instancing out of the box."
-msgstr ""
+msgstr "Umožní jednoduché instancování."
 
 #: ../../source/index.rst:100
 msgid "Make Mac packaging easier."
-msgstr ""
+msgstr "Zjednoduší tvorbu balíčku pro Mac."
 
 #: ../../source/index.rst:102 ../../source/index.rst:115
 #: ../../source/index.rst:128 ../../source/index.rst:144
@@ -1074,27 +1083,30 @@ msgid "Tasks:"
 msgstr "Úkoly:"
 
 #: ../../source/index.rst:104
-#, fuzzy
 msgid ""
 "Domain server/assignment client implementation (https://github.com/overte-"
 "org/overte/issues/903)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Implementace v doménovém serveru/assignment klientu (https://github.com/"
+"overte-org/overte/issues/903)"
 
 #: ../../source/index.rst:105
-#, fuzzy
 msgid ""
 "Interface implementation (https://github.com/overte-org/overte/issues/904)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Implementace v rozhraní (https://github.com/overte-org/overte/issues/904)"
 
 #: ../../source/index.rst:109
 msgid "LDAP Support"
-msgstr ""
+msgstr "Podpora LDAP"
 
 #: ../../source/index.rst:111
 msgid ""
 "LDAP is a common authentication mechanism, widely supported in "
 "organizations. Active Directory is compatible as well."
 msgstr ""
+"LDAP je běžný authentifikační mechanismus, velmi rozšířený v organizacích. "
+"Active Directory je také kompatibilní."
 
 #: ../../source/index.rst:113
 msgid ""
@@ -1103,29 +1115,38 @@ msgid ""
 "authentication. We'd save the need to write that code ourselves, which is of "
 "little interest and has been done better by other projects."
 msgstr ""
+"Toto pomůže Overte lépe se integrovat do korporátních a univerzitních "
+"struktur. Mohou pak využívat svých interních systémů pro kontrolu nad "
+"authentifikací. Tím bysme ušetřili nutnost napsat tento kód sami, o což "
+"nemáme příliš zájem a byl lépe implementován ostatními projekty."
 
 #: ../../source/index.rst:117
-#, fuzzy
 msgid ""
 "Basic support in domain web UI to allow multiple users to authenticate. "
 "(https://github.com/overte-org/overte/issues/905)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Základní podpora v doménovém web UI pro umožnění authentifikace více "
+"uživatelů (https://github.com/overte-org/overte/issues/905)"
 
 #: ../../source/index.rst:118
 msgid ""
 "Basic support as an alternative to directory server: user accounts, domain "
 "directory. (https://github.com/overte-org/overte/issues/906)"
 msgstr ""
+"Základní podpora pro LDAP jako alternativu directory serveru: uživatelské "
+"účty, domain directory (https://github.com/overte-org/overte/issues/906)"
 
 #: ../../source/index.rst:119
 msgid ""
 "Full alternative to directory server. Support user relationships, data "
 "storage, profile metadata. (https://github.com/overte-org/overte/issues/907)"
 msgstr ""
+"Úplná náhrada directory serveru LDAP - podpora vztahů mezi uživateli, datové "
+"uložiště, profilu, metadat (https://github.com/overte-org/overte/issues/907)"
 
 #: ../../source/index.rst:123
 msgid "IPv6 Support"
-msgstr ""
+msgstr "Podpora IPv6"
 
 #: ../../source/index.rst:125
 msgid ""
@@ -1135,29 +1156,35 @@ msgid ""
 "are charging extra for IPv4 addresses, so supporting IPv6 helps making "
 "hosting domains cheaper."
 msgstr ""
+"Adopce IPv6 dosahuje poslední dobou celkem vysokých úrovní, a je obzvláště "
+"důležitá v prostředích, jež mají problémy s počty dostupných IPv4 adres, "
+"jako jsou korporace, univerzity, cloud a vysoko objemová nasazení. Někteří "
+"provideři již vybírají poplatky za IPv4 adresy, tudíž IPv6 pomáhá učinit "
+"hostování domén levnějším."
 
 #: ../../source/index.rst:130
-#, fuzzy
 msgid ""
 "Basic support in domain web UI. (https://github.com/overte-org/overte/"
 "issues/908)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Základní podpora v doménovém web UI (https://github.com/overte-org/overte/"
+"issues/908)"
 
 #: ../../source/index.rst:131
-#, fuzzy
 msgid ""
 "Support for fetching assets over IPv6 in interface. (https://github.com/"
 "overte-org/overte/issues/909)"
 msgstr ""
-"Oprava cullingu stínů na back-facech (https://github.com/overte-org/overte/"
-"issues/547)"
+"Podpora pro stahování assetů skrze IPv6 interface (https://github.com/"
+"overte-org/overte/issues/909)"
 
 #: ../../source/index.rst:132
-#, fuzzy
 msgid ""
 "Support for domains running on IPv6. (https://github.com/overte-org/overte/"
 "issues/910)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Podpora pro domény běžící na IPv6 (https://github.com/overte-org/overte/"
+"issues/910)"
 
 #: ../../source/index.rst:137
 msgid "SELinux"
@@ -1167,6 +1194,7 @@ msgstr "SELinux"
 msgid ""
 "SELinux is a security system that allows sandboxing applications and daemons."
 msgstr ""
+"SELinux je bezpečnostní systém, umožňující sandboxování aplikací a daemonů."
 
 #: ../../source/index.rst:142
 msgid ""
@@ -1175,107 +1203,117 @@ msgid ""
 "a domain exploit could still break the domain, but couldn't use the server "
 "to attack other computers or expose the user's private data."
 msgstr ""
+"SELinux by umožnil sandboxovat doménový server a případně interface, pro "
+"zajištění aby jakékoliv exploity nemohly ovlivnit zbytek systému. Například "
+"doménový exploit by mohl stále poškodit doménu, ale nemohl by využít "
+"hostující server pro útočení na ostatní počítače nebo umožnit přístup k "
+"privátním datům uživatele."
 
 #: ../../source/index.rst:146
-#, fuzzy
 msgid ""
 "Confine domain-server. (https://github.com/overte-org/overte/issues/911)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Sandboxování doménového serveru (https://github.com/overte-org/overte/issues/"
+"911)"
 
 #: ../../source/index.rst:147
-#, fuzzy
 msgid ""
 "Confine assignment clients. (https://github.com/overte-org/overte/issues/912)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Sandboxování assignment klientů (https://github.com/overte-org/overte/issues/"
+"912)"
 
 #: ../../source/index.rst:148
-#, fuzzy
 msgid ""
 "Attempt supporting multiple instances with isolation. (https://github.com/"
 "overte-org/overte/issues/913)"
 msgstr ""
-"Přesun audio zón do vlastností zóny (https://github.com/overte-org/overte/"
-"issues/69)"
+"Pokus o podporu více instancí s izolací (https://github.com/overte-org/"
+"overte/issues/913)"
 
 #: ../../source/index.rst:149
-#, fuzzy
 msgid ""
 "Isolate multiple Overte servers on the same machine from each other. "
 "(https://github.com/overte-org/overte/issues/914)"
 msgstr ""
-"Přesun audio zón do vlastností zóny (https://github.com/overte-org/overte/"
-"issues/69)"
+"Izolace více instancí Overte serverů od sebe na stejném počítači "
+"(https://github.com/overte-org/overte/issues/914)"
 
 #: ../../source/index.rst:150
-#, fuzzy
 msgid "Confine interface. (https://github.com/overte-org/overte/issues/915)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Sandboxování interface (https://github.com/overte-org/overte/issues/915)"
 
 #: ../../source/index.rst:154
 msgid "Canvas texture"
-msgstr ""
+msgstr "Textura canvas"
 
 #: ../../source/index.rst:156
 msgid ""
 "This would implement a new concept of a software defined canvas texture. "
 "Scripts can draw on it, and clients receive updates."
 msgstr ""
+"Toto by znamenalo implementaci nového konceptu softwarově definované canvas "
+"textury. Skripty by mohly na ni kreslit a klienti by dostávali aktualizace."
 
 #: ../../source/index.rst:158
 msgid "This has a huge potential range of useful functionality:"
-msgstr ""
+msgstr "Tento koncept má velký potenciál přínosu užitečných funkcí:"
 
 #: ../../source/index.rst:160
 msgid "Software defined textures"
-msgstr ""
+msgstr "Softwarově definované textury"
 
 #: ../../source/index.rst:161
 msgid "Script-generated nametags, banners, status displays, etc."
-msgstr ""
+msgstr "Skriptem generované jmenovky, bannery, stavové ukazatele, atd."
 
 #: ../../source/index.rst:162
 msgid "Screen sharing without any external dependencies"
-msgstr ""
+msgstr "Sdílení obrazovky bez externích dependencí"
 
 #: ../../source/index.rst:163
 msgid "Whiteboard"
-msgstr ""
+msgstr "Tabule"
 
 #: ../../source/index.rst:164
 msgid "Synchronized web entity"
-msgstr ""
+msgstr "Synchronizované webové entity"
 
 #: ../../source/index.rst:165
 msgid ""
 "Server-side rendered web entity. This would help with the Quest "
 "implementation."
 msgstr ""
+"Na serveru renderované webové entity. Toto by pomohlo s implementací pro "
+"Quest."
 
 #: ../../source/index.rst:169
-#, fuzzy
 msgid ""
 "Basic implementation. Texture object, simple operations like painting pixels "
 "and blocks. (https://github.com/overte-org/overte/issues/916)"
 msgstr ""
-"Přidání interpolace u animací modelů (https://github.com/overte-org/overte/"
-"issues/317)"
+"Základní implementace. Texturový objekt, jednoduché operace jako kreslení "
+"pixelů a bloků. (https://github.com/overte-org/overte/issues/916)"
 
 #: ../../source/index.rst:170
 msgid ""
 "Proper canvas API. Support for fonts, graphics primitives like rectangles, "
 "circles, curves, etc. (https://github.com/overte-org/overte/issues/917)"
 msgstr ""
+"Úplné canvas API. Podpora pro fonty, grafická primitiva jako obdélníky, "
+"kruhy, křivky, atd. (https://github.com/overte-org/overte/issues/917)"
 
 #: ../../source/index.rst:171
-#, fuzzy
 msgid "Screen sharing (https://github.com/overte-org/overte/issues/918)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr "Sdílení obrazovky (https://github.com/overte-org/overte/issues/918)"
 
 #: ../../source/index.rst:172
-#, fuzzy
 msgid ""
 "Synchronized web surface. (https://github.com/overte-org/overte/issues/919)"
-msgstr "Přidání audio entit (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Synchronizované webové povrchy (https://github.com/overte-org/overte/issues/"
+"919)"
 
 #: ../../source/index.rst:177
 msgid "2024-02-24 We've obtained an NLnet grant!"
@@ -1640,6 +1678,8 @@ msgid ""
 "Matrix: `@dale_glass:matrix.org <https://matrix.to/#/@dale_glass:matrix."
 "org>`_, Discord: daleglass, E-Mail: vadim.troshchinskiy@overte.org."
 msgstr ""
+"Matrix: `@dale_glass:matrix.org <https://matrix.to/#/@dale_glass:matrix.org>`"
+"_, Discord: daleglass, E-Mail: vadim.troshchinskiy@overte.org."
 
 #: ../../source/overte_ev.rst:61
 msgid "|Julian_Groß| Julian Groß"
@@ -1662,6 +1702,8 @@ msgid ""
 "Matrix: `@juliangro:overte.org <https://matrix.to/#/@juliangro:overte."
 "org>`_, E-Mail: julian.gro@overte.org."
 msgstr ""
+"Matrix: `@juliangro:overte.org <https://matrix.to/#/@juliangro:overte.org>`"
+"_, E-Mail: julian.gro@overte.org."
 
 #: ../../source/overte_ev.rst:72
 msgid "|Kreolis| Kreolis"
@@ -1943,20 +1985,19 @@ msgstr ""
 
 #: ../../source/downloads.rst:7
 msgid "The current release of Overte is version 2024.06.1."
-msgstr ""
+msgstr "Aktuální vydání Overte je verze 2024.06.1."
 
 #: ../../source/downloads.rst:36
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture from "
 "our `GitHub Release page 🔗 <https://github.com/overte-org/overte/releases/"
 "tag/2024.06.1/>`_, or directly from `public.overte.org 🔗 <https://public."
 "overte.org/index.html#build/overte/release/2024.06.1/>`_."
 msgstr ""
-"Zvolte odpovídající balík pro Vaši distribuci z naší `Stránky vydání na "
-"GitHubu 🔗 <https://github.com/overte-org/overte/releases/tag/2023.11.1/>`_, "
-"nebo přímo z `public.overte.org 🔗 <https://public.overte.org/index."
-"html#build/overte/release/2023.11.1/>`_."
+"Zvolte odpovídající balík pro Vaši distribuc a architekturu z naší `Stránky "
+"vydání na GitHubu 🔗 <https://github.com/overte-org/overte/releases/tag/2024."
+"06.1/>`_, nebo přímo z `public.overte.org 🔗 <https://public.overte.org/index"
+".html#build/overte/release/2024.06.1/>`_."
 
 #~ msgid ""
 #~ "Select the appropriate package for you distribution and architecture from "
