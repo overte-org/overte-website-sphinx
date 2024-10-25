@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-23 20:39+0000\n"
+"POT-Creation-Date: 2024-10-25 20:21+0000\n"
 "PO-Revision-Date: 2024-06-08 15:43+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: pt\n"
@@ -539,7 +539,7 @@ msgid "Downloads"
 msgstr "Downloads"
 
 #: ../../source/downloads.rst:7
-msgid "The current release candidate of Overte is version 2024.10.2-rc1."
+msgid "The current release candidate of Overte is version 2024.10.2-rc2."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -593,7 +593,7 @@ msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release-"
-"candidate/2024.10.2-rc1/>`_."
+"candidate/2024.10.2-rc2/>`_."
 msgstr ""
 "Selecione o pacote apropriado para sua distribuição e arquitetura em "
 "nossa `página de lançamento do GitHub 🔗 <https://github.com/overte-"
@@ -2566,5 +2566,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The current release of Overte is version 2024.07.1."
+#~ msgstr ""
+
+#~ msgid "The current release candidate of Overte is version 2024.10.2-rc1."
 #~ msgstr ""
 
