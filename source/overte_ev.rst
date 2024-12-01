@@ -88,16 +88,6 @@ The current board members were elected on the general assembly on the 30th Novem
     :width: 96
 
 
-|Zetaphor| Zetaphor
-~~~~~~~~~~~~~~~~~~~
-| Speaks English.
-| Developer
-
-.. |Zetaphor| image:: _images/board/Zetaphor.png
-    :class: inline2
-    :width: 96
-
-
 |HifiExperiments| HifiExperiments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Speaks English.
