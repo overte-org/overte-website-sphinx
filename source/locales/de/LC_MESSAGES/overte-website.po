@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-23 21:28+0000\n"
+"POT-Creation-Date: 2024-12-01 14:06+0000\n"
 "PO-Revision-Date: 2024-11-13 09:21+0000\n"
 "Last-Translator: Noah <nolefr@posteo.de>\n"
 "Language: de\n"
@@ -1722,9 +1722,10 @@ msgid "Current Board"
 msgstr "Aktueller Vorstand"
 
 #: ../../source/overte_ev.rst:47
+#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
-"16th September 2023."
+"30th November 2024."
 msgstr ""
 "Der derzeitige Vorstand wurden auf der Mitgliederversammlung am 16. "
 "September 2023 gewählt."
@@ -1798,28 +1799,34 @@ msgid "Secretary and second deputy chairman."
 msgstr "Sekretär und zweiter stellvertretender Vorstandsvorsitzender."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Zetaphor| Zetaphor"
-msgstr "|Zetaphor| Zetaphor"
+msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Zetaphor"
+msgid "Karol_Suprynowicz"
 msgstr ""
 
-#: ../../source/overte_ev.rst:83 ../../source/overte_ev.rst:93
-msgid "Speaks English."
-msgstr "Spricht Englisch."
+#: ../../source/overte_ev.rst:83
+#, fuzzy
+msgid "Speaks Polish and English."
+msgstr "Spricht Deutsch und Englisch."
 
 #: ../../source/overte_ev.rst:84
-msgid "Developer"
-msgstr "Entwickler"
+#, fuzzy
+msgid "Graphics specialist and developer"
+msgstr "Vorstandsvorsitzender und Entwickler."
 
 #: ../../source/overte_ev.rst:92
-msgid "|Sam_Gondelman| Sam Gondelman"
-msgstr "|Sam_Gondelman| Sam Gondelman"
+msgid "|HifiExperiments| HifiExperiments"
+msgstr ""
 
 #: ../../source/overte_ev.rst:96
-msgid "Sam_Gondelman"
+msgid "HifiExperiments"
 msgstr ""
+
+#: ../../source/overte_ev.rst:93
+msgid "Speaks English."
+msgstr "Spricht Englisch."
 
 #: ../../source/overte_ev.rst:94
 msgid "Core Engine & graphics specialist"
@@ -2365,4 +2372,19 @@ msgstr ""
 #~ "org/overte/releases/tag/2024.06.1/>`_, oder direkt "
 #~ "von `public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release/2024.06.1/>`_."
+
+#~ msgid "|Zetaphor| Zetaphor"
+#~ msgstr "|Zetaphor| Zetaphor"
+
+#~ msgid "Zetaphor"
+#~ msgstr ""
+
+#~ msgid "Developer"
+#~ msgstr "Entwickler"
+
+#~ msgid "|Sam_Gondelman| Sam Gondelman"
+#~ msgstr "|Sam_Gondelman| Sam Gondelman"
+
+#~ msgid "Sam_Gondelman"
+#~ msgstr ""
 

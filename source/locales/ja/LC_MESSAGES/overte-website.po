@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-23 21:28+0000\n"
+"POT-Creation-Date: 2024-12-01 14:06+0000\n"
 "PO-Revision-Date: 2024-04-01 05:20+0000\n"
 "Last-Translator: 川音リオ <rio@kwn.ac>\n"
 "Language: ja\n"
@@ -1447,9 +1447,10 @@ msgid "Current Board"
 msgstr "現理事会員"
 
 #: ../../source/overte_ev.rst:47
+#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
-"16th September 2023."
+"30th November 2024."
 msgstr "2023年9月16日の総会で、現在の理事会員が選出されました。"
 
 #: ../../source/overte_ev.rst:50
@@ -1515,29 +1516,35 @@ msgid "Secretary and second deputy chairman."
 msgstr "秘書・第二副会長"
 
 #: ../../source/overte_ev.rst:82
-msgid "|Zetaphor| Zetaphor"
+msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Zetaphor"
+msgid "Karol_Suprynowicz"
 msgstr ""
 
-#: ../../source/overte_ev.rst:83 ../../source/overte_ev.rst:93
+#: ../../source/overte_ev.rst:83
 #, fuzzy
-msgid "Speaks English."
-msgstr "ポーランド語・英語"
+msgid "Speaks Polish and English."
+msgstr "ドイツ語・英語"
 
 #: ../../source/overte_ev.rst:84
-msgid "Developer"
-msgstr "開発者向け情報"
+#, fuzzy
+msgid "Graphics specialist and developer"
+msgstr "会長・開発者"
 
 #: ../../source/overte_ev.rst:92
-msgid "|Sam_Gondelman| Sam Gondelman"
+msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:96
-msgid "Sam_Gondelman"
+msgid "HifiExperiments"
 msgstr ""
+
+#: ../../source/overte_ev.rst:93
+#, fuzzy
+msgid "Speaks English."
+msgstr "ポーランド語・英語"
 
 #: ../../source/overte_ev.rst:94
 msgid "Core Engine & graphics specialist"
@@ -2182,5 +2189,20 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The current release candidate of Overte is version 2024.10.2-rc2."
+#~ msgstr ""
+
+#~ msgid "|Zetaphor| Zetaphor"
+#~ msgstr ""
+
+#~ msgid "Zetaphor"
+#~ msgstr ""
+
+#~ msgid "Developer"
+#~ msgstr "開発者向け情報"
+
+#~ msgid "|Sam_Gondelman| Sam Gondelman"
+#~ msgstr ""
+
+#~ msgid "Sam_Gondelman"
 #~ msgstr ""
 

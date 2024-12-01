@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-23 21:28+0000\n"
+"POT-Creation-Date: 2024-12-01 14:06+0000\n"
 "PO-Revision-Date: 2024-04-09 23:20+0000\n"
 "Last-Translator: GREAT DNG <greatdng@gmail.com>\n"
 "Language: ru\n"
@@ -1547,9 +1547,10 @@ msgid "Current Board"
 msgstr "Текущий совет"
 
 #: ../../source/overte_ev.rst:47
+#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
-"16th September 2023."
+"30th November 2024."
 msgstr ""
 "Действующие члены правления были избраны на общем собрании 16 сентября "
 "2023 года."
@@ -1617,28 +1618,34 @@ msgid "Secretary and second deputy chairman."
 msgstr "Секретарь и второй заместитель председателя."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Zetaphor| Zetaphor"
-msgstr "|Zetaphor| Zetaphor"
+msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Zetaphor"
+msgid "Karol_Suprynowicz"
 msgstr ""
 
-#: ../../source/overte_ev.rst:83 ../../source/overte_ev.rst:93
-msgid "Speaks English."
-msgstr "Говорит на английском."
+#: ../../source/overte_ev.rst:83
+#, fuzzy
+msgid "Speaks Polish and English."
+msgstr "Говорит на немецком и английском языках."
 
 #: ../../source/overte_ev.rst:84
-msgid "Developer"
-msgstr "Разработчик"
+#, fuzzy
+msgid "Graphics specialist and developer"
+msgstr "Председатель и разработчик."
 
 #: ../../source/overte_ev.rst:92
-msgid "|Sam_Gondelman| Sam Gondelman"
-msgstr "|Sam_Gondelman| Sam Gondelman"
+msgid "|HifiExperiments| HifiExperiments"
+msgstr ""
 
 #: ../../source/overte_ev.rst:96
-msgid "Sam_Gondelman"
+msgid "HifiExperiments"
 msgstr ""
+
+#: ../../source/overte_ev.rst:93
+msgid "Speaks English."
+msgstr "Говорит на английском."
 
 #: ../../source/overte_ev.rst:94
 msgid "Core Engine & graphics specialist"
@@ -2474,5 +2481,20 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The current release candidate of Overte is version 2024.10.2-rc2."
+#~ msgstr ""
+
+#~ msgid "|Zetaphor| Zetaphor"
+#~ msgstr "|Zetaphor| Zetaphor"
+
+#~ msgid "Zetaphor"
+#~ msgstr ""
+
+#~ msgid "Developer"
+#~ msgstr "Разработчик"
+
+#~ msgid "|Sam_Gondelman| Sam Gondelman"
+#~ msgstr "|Sam_Gondelman| Sam Gondelman"
+
+#~ msgid "Sam_Gondelman"
 #~ msgstr ""
 

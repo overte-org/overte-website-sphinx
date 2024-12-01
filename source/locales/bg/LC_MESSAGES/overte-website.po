@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-23 21:28+0000\n"
+"POT-Creation-Date: 2024-12-01 14:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: bg\n"
@@ -1351,7 +1351,7 @@ msgstr ""
 #: ../../source/overte_ev.rst:47
 msgid ""
 "The current board members were elected on the general assembly on the "
-"16th September 2023."
+"30th November 2024."
 msgstr ""
 
 #: ../../source/overte_ev.rst:50
@@ -1417,27 +1417,31 @@ msgid "Secretary and second deputy chairman."
 msgstr ""
 
 #: ../../source/overte_ev.rst:82
-msgid "|Zetaphor| Zetaphor"
+msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Zetaphor"
+msgid "Karol_Suprynowicz"
 msgstr ""
 
-#: ../../source/overte_ev.rst:83 ../../source/overte_ev.rst:93
-msgid "Speaks English."
+#: ../../source/overte_ev.rst:83
+msgid "Speaks Polish and English."
 msgstr ""
 
 #: ../../source/overte_ev.rst:84
-msgid "Developer"
+msgid "Graphics specialist and developer"
 msgstr ""
 
 #: ../../source/overte_ev.rst:92
-msgid "|Sam_Gondelman| Sam Gondelman"
+msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:96
-msgid "Sam_Gondelman"
+msgid "HifiExperiments"
+msgstr ""
+
+#: ../../source/overte_ev.rst:93
+msgid "Speaks English."
 msgstr ""
 
 #: ../../source/overte_ev.rst:94
@@ -2251,5 +2255,26 @@ msgstr ""
 #~ "`public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release-"
 #~ "candidate/2024.10.2-rc2/>`_."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The current board members were elected"
+#~ " on the general assembly on the "
+#~ "16th September 2023."
+#~ msgstr ""
+
+#~ msgid "|Zetaphor| Zetaphor"
+#~ msgstr ""
+
+#~ msgid "Zetaphor"
+#~ msgstr ""
+
+#~ msgid "Developer"
+#~ msgstr ""
+
+#~ msgid "|Sam_Gondelman| Sam Gondelman"
+#~ msgstr ""
+
+#~ msgid "Sam_Gondelman"
 #~ msgstr ""
 
