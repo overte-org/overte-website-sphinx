@@ -44,7 +44,7 @@ Current Board
 -------------
 .. _current-board:
 
-The current board members were elected on the general assembly on the 16th September 2023.
+The current board members were elected on the general assembly on the 30th November 2024.
 
 |Dale_Glass| Dale Glass
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,21 +78,21 @@ The current board members were elected on the general assembly on the 16th Septe
     :width: 96
 
 
-|Zetaphor| Zetaphor
-~~~~~~~~~~~~~~~~~~~
-| Speaks English.
-| Developer
+|Karol_Suprynowicz| Dr. Karol Suprynowicz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| Speaks Polish and English.
+| Graphics specialist and developer
 
-.. |Zetaphor| image:: _images/board/Zetaphor.png
+.. |Karol_Suprynowicz| image:: _images/board/Karol_Suprynowicz.png
     :class: inline2
     :width: 96
 
 
-|Sam_Gondelman| Sam Gondelman
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|HifiExperiments| HifiExperiments
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | Speaks English.
 | Core Engine & graphics specialist
 
-.. |Sam_Gondelman| image:: _images/board/Sam_Gondelman.png
+.. |HifiExperiments| image:: _images/board/HifiExperiments.png
     :class: inline2
     :width: 96
