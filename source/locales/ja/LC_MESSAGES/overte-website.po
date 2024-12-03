@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-01 14:06+0000\n"
-"PO-Revision-Date: 2024-04-01 05:20+0000\n"
-"Last-Translator: 川音リオ <rio@kwn.ac>\n"
+"PO-Revision-Date: 2024-12-04 00:21+0000\n"
+"Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
+"overte-website/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
-"/overte-website/ja/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:256
@@ -754,7 +755,7 @@ msgstr "新着情報"
 
 #: ../../source/index.rst:42
 msgid "2024-04-16 NLnet grant extended again!"
-msgstr ""
+msgstr "2024年4月16日 NLnetの助成金が再延長されました！"
 
 #: ../../source/index.rst:44
 msgid ""
@@ -911,7 +912,7 @@ msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/
 
 #: ../../source/index.rst:85
 msgid "2024-04-02 NLnet grant extended!"
-msgstr ""
+msgstr "2024年4月2日 NLnetの助成金が延長されました！"
 
 #: ../../source/index.rst:87
 msgid ""
@@ -1041,9 +1042,8 @@ msgid ""
 msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
 
 #: ../../source/index.rst:137
-#, fuzzy
 msgid "SELinux"
-msgstr "Linux"
+msgstr "SELinux"
 
 #: ../../source/index.rst:139
 msgid ""
@@ -1276,12 +1276,17 @@ msgid ""
 "even deprecating it completely. AMD pays very little attention to it, and"
 " driver bugs are a frequent annoyance."
 msgstr ""
+"私たちは現在、3DレンダリングにOpenGLを使っています。 しかし残念なことに、ここ"
+"数年で人気がなくなり、Macのようないくつかのプラットフォームでは完全に非推奨と"
+"なっています。 AMDはOpenGLにほとんど注意を払っておらず、ドライバのバグが頻繁"
+"に悩みの種になっています。"
 
 #: ../../source/index.rst:219
 msgid ""
 "Vulkan will provide a much more modern, performant and supported "
 "renderer, and should fix our Mac support woes."
-msgstr ""
+msgstr "Vulkanは、より現代的でパフォーマンスが高く、サポートされているレンダラーを提"
+"供し、Macサポートの問題を解決するでしょう。"
 
 #: ../../source/index.rst:221
 msgid "Wireframe rendering"
@@ -1305,14 +1310,15 @@ msgstr ""
 
 #: ../../source/index.rst:228
 msgid "Build system improvements"
-msgstr ""
+msgstr "ビルドシステムの改善"
 
 #: ../../source/index.rst:229
 msgid ""
 "This will make work on Overte more pleasant and make it easier to build. "
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
-msgstr ""
+msgstr "Overteでの作業がより快適になり、ビルドが容易になります。これは、メンテナンス"
+"を容易にし、将来の貢献者の作業を容易にするために重要です。"
 
 #: ../../source/index.rst:231
 msgid "Switching to Conan"
@@ -1329,7 +1335,7 @@ msgstr ""
 
 #: ../../source/index.rst:236
 msgid "Thanks"
-msgstr ""
+msgstr "謝辞"
 
 #: ../../source/index.rst:238
 msgid "NLnet, for giving us this great opportunity."
@@ -1349,7 +1355,7 @@ msgstr ""
 
 #: ../../source/index.rst:248
 msgid "2023-04-01 New website"
-msgstr "2023-04-01 新サイト"
+msgstr "2023年4月1日 新サイト"
 
 #: ../../source/index.rst:250
 msgid ""
@@ -2205,4 +2211,3 @@ msgstr ""
 
 #~ msgid "Sam_Gondelman"
 #~ msgstr ""
-
