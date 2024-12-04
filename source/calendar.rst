@@ -19,3 +19,8 @@ To convert to your local timezone, please ask your preferred search engine somet
 | 19:00 UTC  Development meetup |
 +-------------------------------+
 
++-----------------------------+
+| Monday-Saturday             |
++=============================+
+| 18:00 UTC  Mindfulness Club |
++-----------------------------+
