@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-01 14:06+0000\n"
+"POT-Creation-Date: 2024-12-04 13:15+0000\n"
 "PO-Revision-Date: 2024-12-04 00:21+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
-"overte-website/ja/>\n"
 "Language: ja\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
+"/overte-website/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:256
@@ -54,6 +53,15 @@ msgstr "土曜日"
 #: ../../source/calendar.rst:19
 msgid "19:00 UTC  Development meetup"
 msgstr "19:00 UTC  デベロッパーミートアップ"
+
+#: ../../source/calendar.rst:23
+#, fuzzy
+msgid "Monday-Saturday"
+msgstr "土曜日"
+
+#: ../../source/calendar.rst:25
+msgid "18:00 UTC  Mindfulness Club"
+msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:256
 msgid "Code of Conduct"
@@ -1276,17 +1284,15 @@ msgid ""
 "even deprecating it completely. AMD pays very little attention to it, and"
 " driver bugs are a frequent annoyance."
 msgstr ""
-"私たちは現在、3DレンダリングにOpenGLを使っています。 しかし残念なことに、ここ"
-"数年で人気がなくなり、Macのようないくつかのプラットフォームでは完全に非推奨と"
-"なっています。 AMDはOpenGLにほとんど注意を払っておらず、ドライバのバグが頻繁"
-"に悩みの種になっています。"
+"私たちは現在、3DレンダリングにOpenGLを使っています。 "
+"しかし残念なことに、ここ数年で人気がなくなり、Macのようないくつかのプラットフォームでは完全に非推奨となっています。 "
+"AMDはOpenGLにほとんど注意を払っておらず、ドライバのバグが頻繁に悩みの種になっています。"
 
 #: ../../source/index.rst:219
 msgid ""
 "Vulkan will provide a much more modern, performant and supported "
 "renderer, and should fix our Mac support woes."
-msgstr "Vulkanは、より現代的でパフォーマンスが高く、サポートされているレンダラーを提"
-"供し、Macサポートの問題を解決するでしょう。"
+msgstr "Vulkanは、より現代的でパフォーマンスが高く、サポートされているレンダラーを提供し、Macサポートの問題を解決するでしょう。"
 
 #: ../../source/index.rst:221
 msgid "Wireframe rendering"
@@ -1317,8 +1323,7 @@ msgid ""
 "This will make work on Overte more pleasant and make it easier to build. "
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
-msgstr "Overteでの作業がより快適になり、ビルドが容易になります。これは、メンテナンス"
-"を容易にし、将来の貢献者の作業を容易にするために重要です。"
+msgstr "Overteでの作業がより快適になり、ビルドが容易になります。これは、メンテナンスを容易にし、将来の貢献者の作業を容易にするために重要です。"
 
 #: ../../source/index.rst:231
 msgid "Switching to Conan"
@@ -2211,3 +2216,4 @@ msgstr ""
 
 #~ msgid "Sam_Gondelman"
 #~ msgstr ""
+
