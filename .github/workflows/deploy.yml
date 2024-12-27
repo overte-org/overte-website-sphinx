@@ -76,7 +76,7 @@ jobs:
        mv build/ru/html/ output/ru/
 
     - name: Deploy website
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: www531.your-server.de
         protocol: ftps
