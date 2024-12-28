@@ -14,9 +14,9 @@ jobs:
 
     name: Build and deploy website
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Set up Python 3.7
-      uses: actions/setup-python@v4.6.1
+      uses: actions/setup-python@v5
       with:
         python-version: 3.7
     - name: Install dependencies
@@ -76,7 +76,7 @@ jobs:
        mv build/ru/html/ output/ru/
 
     - name: Deploy website
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: www531.your-server.de
         protocol: ftps
