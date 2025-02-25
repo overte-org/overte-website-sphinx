@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Overte'
-copyright = '2022-2024, Overte e.V.'
+copyright = '2022-2025, Overte e.V.'
 author = 'Julian Groß'
 
 # The short X.Y version
@@ -93,7 +93,6 @@ html_css_files = ['css/custom.css']
 
 html_theme_options = {
     'logo_only': True,
-    'display_version': False,
     'prev_next_buttons_location': None,
     'collapse_navigation': False
 }
