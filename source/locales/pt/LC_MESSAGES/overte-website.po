@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-04 13:15+0000\n"
+"POT-Creation-Date: 2025-03-01 23:00+0000\n"
 "PO-Revision-Date: 2025-03-01 22:34+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://weblate.overte.org/projects/overte/"
-"overte-website/pt/>\n"
 "Language: pt\n"
+"Language-Team: Portuguese <https://weblate.overte.org/projects/overte"
+"/overte-website/pt/>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:256
@@ -1380,11 +1379,12 @@ msgstr ""
 "da lista!"
 
 #: ../../source/index.rst:181
+#, fuzzy
 msgid ""
 "As part of the agreement, we commit to keeping users and developers up to"
 " date with the progress made on these items at least every two months. "
 "For that, we'll keep track of it during our usual Saturday development "
-"meetings, and use tags, projects and other functionality on Github to "
+"meetings, and use tags, projects and other functionality on GitHub to "
 "make it easy for anyone interested to follow the progress."
 msgstr ""
 "Como parte do acordo, nos comprometemos a manter os usuários e "
@@ -1479,8 +1479,9 @@ msgstr ""
 "org/overte/issues/776#issuecomment-1868203856)"
 
 #: ../../source/index.rst:211
+#, fuzzy
 msgid ""
-"Finish overhaulting TAA with velocity buffer (https://github.com/overte-"
+"Finish overhauling TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
 "Conclua a revisão do TAA com buffer de velocidade (https://github.com"
@@ -1835,8 +1836,8 @@ msgid ""
 "If you have additional questions or require more information about our "
 "Privacy Policy, do not hesitate to contact us."
 msgstr ""
-"Se você tiver dúvidas adicionais ou precisar de mais informações sobre nossa "
-"Potilica de Privacidade, não hesite em nos contatar."
+"Se você tiver dúvidas adicionais ou precisar de mais informações sobre "
+"nossa Potilica de Privacidade, não hesite em nos contatar."
 
 #: ../../source/privacy_policy.rst:9
 msgid "We are a Data Controller of your information."
@@ -1850,8 +1851,8 @@ msgid ""
 "collect and the specific context in which we collect the information:"
 msgstr ""
 "A base legal da Overte eV para coletar e usar as informações pessoais "
-"descritas nesta Potilica de Privacidade depende das Informações Pessoais que "
-"coletamos e do contexto específico em que coletamos as informações:"
+"descritas nesta Potilica de Privacidade depende das Informações Pessoais "
+"que coletamos e do contexto específico em que coletamos as informações:"
 
 #: ../../source/privacy_policy.rst:13
 msgid "Overte e.V. needs to perform a contract with you"
@@ -2606,3 +2607,4 @@ msgstr ""
 
 #~ msgid "Sam_Gondelman"
 #~ msgstr ""
+
