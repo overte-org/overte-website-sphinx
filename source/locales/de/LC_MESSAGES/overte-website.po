@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-25 20:27+0000\n"
-"PO-Revision-Date: 2025-03-01 22:51+0000\n"
+"POT-Creation-Date: 2024-12-04 13:15+0000\n"
+"PO-Revision-Date: 2025-03-01 23:01+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
 "Language-Team: German <https://weblate.overte.org/projects/overte/overte-"
@@ -56,9 +56,8 @@ msgid "19:00 UTC  Development meetup"
 msgstr "19:00 UTC  Development Meetup"
 
 #: ../../source/calendar.rst:23
-#, fuzzy
 msgid "Monday-Saturday"
-msgstr "Samstag"
+msgstr "Montag bis Samstag"
 
 #: ../../source/calendar.rst:25
 msgid "18:00 UTC  Mindfulness Club"
@@ -618,9 +617,9 @@ msgid ""
 "from `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2025.03.3/>`_."
 msgstr ""
-"Wählen Sie das passende Paket für Ihre Distribution und Architektur von "
-"`public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2024.10.2-rc2/>`_."
+"Wählen Sie das passende Paket für Ihre Distribution und Architektur von `"
+"public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2024.11.1/>`_."
 
 #: ../../source/downloads.rst:39
 #, fuzzy
@@ -1735,13 +1734,12 @@ msgid "Current Board"
 msgstr "Aktueller Vorstand"
 
 #: ../../source/overte_ev.rst:47
-#, fuzzy
 msgid ""
 "The current board members were elected on the general assembly on the "
 "30th November 2024."
 msgstr ""
-"Der derzeitige Vorstand wurden auf der Mitgliederversammlung am 16. "
-"September 2023 gewählt."
+"Der derzeitige Vorstand wurden auf der Mitgliederversammlung am 30. November "
+"2024 gewählt."
 
 #: ../../source/overte_ev.rst:50
 msgid "|Dale_Glass| Dale Glass"
@@ -1813,25 +1811,23 @@ msgstr "Sekretär und zweiter stellvertretender Vorstandsvorsitzender."
 
 #: ../../source/overte_ev.rst:82
 msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr ""
+msgstr "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 
 #: ../../source/overte_ev.rst:86
 msgid "Karol_Suprynowicz"
-msgstr ""
+msgstr "Karol_Suprynowicz"
 
 #: ../../source/overte_ev.rst:83
-#, fuzzy
 msgid "Speaks Polish and English."
-msgstr "Spricht Deutsch und Englisch."
+msgstr "Spricht Polnisch und Englisch."
 
 #: ../../source/overte_ev.rst:84
-#, fuzzy
 msgid "Graphics specialist and developer"
-msgstr "Vorstandsvorsitzender und Entwickler."
+msgstr "Grafikspezialist und Entwickler"
 
 #: ../../source/overte_ev.rst:92
 msgid "|HifiExperiments| HifiExperiments"
-msgstr ""
+msgstr "|HifiExperiments| HifiExperiments"
 
 #: ../../source/overte_ev.rst:96
 msgid "HifiExperiments"
