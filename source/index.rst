@@ -178,7 +178,7 @@ Tasks:
 
 The NLnet Foundation is an organization that supports many amazing Open Source projects, and we're elated to announce that we've also made the list!
 
-As part of the agreement, we commit to keeping users and developers up to date with the progress made on these items at least every two months. For that, we'll keep track of it during our usual Saturday development meetings, and use tags, projects and other functionality on Github to make it easy for anyone interested to follow the progress.
+As part of the agreement, we commit to keeping users and developers up to date with the progress made on these items at least every two months. For that, we'll keep track of it during our usual Saturday development meetings, and use tags, projects and other functionality on GitHub to make it easy for anyone interested to follow the progress.
 
 
 Project plan
@@ -208,7 +208,7 @@ Graphics Improvements
 
 * Fix shadow culling on back-faces (https://github.com/overte-org/overte/issues/547)
 * Allow opaque particles (https://github.com/overte-org/overte/issues/776#issuecomment-1868203856)
-* Finish overhaulting TAA with velocity buffer (https://github.com/overte-org/overte/pull/501)
+* Finish overhauling TAA with velocity buffer (https://github.com/overte-org/overte/pull/501)
 * Add support for GPU particles
 
 Vulkan
