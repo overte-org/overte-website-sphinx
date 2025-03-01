@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-04 13:15+0000\n"
-"PO-Revision-Date: 2024-02-24 19:36+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2025-03-01 22:34+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.overte.org/projects/overte/"
+"overte-website/ko/>\n"
 "Language: ko\n"
-"Language-Team: Korean <https://weblate.overte.org/projects/overte/overte-"
-"website/ko/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:256
@@ -311,6 +312,7 @@ msgid ""
 msgstr "커뮤니티 및 협회와 연락할 수 있는 여러 경로가 있습니다."
 
 #: ../../source/contact.rst:11
+#, fuzzy
 msgid "Overte"
 msgstr "오버트"
 
@@ -339,20 +341,23 @@ msgid "Matrix"
 msgstr "매트릭스"
 
 #: ../../source/contact.rst:29 ../../source/index.rst:25
+#, fuzzy
 msgid ""
 "Join our Matrix Space on |MatrixLink| `overte:overte.org 🔗 "
 "<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
 "bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
-"매트릭스 스페이스에 참여하려면 |MatrixLink| `overte:overte.org 🔗 "
-"<https://matrix.to/#/#overte:overte.org>`_ 에 접속하세요. 저희 매트릭스 스페이스는 또한 "
-"|DiscordLink| `디스코드🔗 <https://discord.gg/4YuQvc8K2f>`_ 에 연결됩니다."
+"매트릭스 스페이스에 참여하려면 |MatrixLink| `overte:overte.org 🔗 <https://"
+"matrix.to/#/#overte:overte.org>`_ 에 접속하세요. 저희 매트릭스 스페이스는 "
+"또한 |DiscordLink| `디스코드🔗 <https://discord.gg/4YuQvc8K2f>`_ 에 "
+"연결됩니다."
 
 #: ../../source/contact.rst:35
 msgid "Forum"
 msgstr "포럼"
 
 #: ../../source/contact.rst:37
+#, fuzzy
 msgid ""
 "There is also a forum located at `forum.overte.org 🔗 "
 "<https://forum.overte.org/>`_."
@@ -381,6 +386,7 @@ msgstr ""
 "충당할 수 있는 유일한 수입원입니다."
 
 #: ../../source/donate.rst:8
+#, fuzzy
 msgid ""
 "If you would like to support Overte and its development, consider "
 "donating."
@@ -391,6 +397,7 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "아래에 선호하는 방법을 통해 기부할 수 있습니다:"
 
 #: ../../source/donate.rst:12
+#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card"
@@ -436,12 +443,13 @@ msgid "The current release of Overte is version 2024.11.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
+#, fuzzy
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"깃허브에서 변경 로그를 확인하세요: 변경 로그 🔗 <https://github.com/overte-"
-"org/overte/blob/master/CHANGELOG.md>`_"
+"깃허브에서 변경 로그를 확인하세요: 변경 로그 🔗 <https://github.com/"
+"overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:14
 msgid "Linux"
@@ -468,12 +476,13 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:28
+#, fuzzy
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr ""
-"파일 관리자를 사용하거나 다음과 같은 명령어를 사용하여 앱 이미지를 **실행 가능** 으로 설정해야 합니다: :bash:`chmod"
-" +x Overte.AppImage`."
+"파일 관리자를 사용하거나 다음과 같은 명령어를 사용하여 앱 이미지를 **실행 "
+"가능** 으로 설정해야 합니다: :bash:`chmod +x Overte.AppImage`."
 
 #: ../../source/downloads.rst:34
 msgid "Domain Server"
@@ -570,12 +579,15 @@ msgid "Gallery"
 msgstr "갤러리"
 
 #: ../../source/gallery.rst:5
+#, fuzzy
 msgid ""
 "This gallery showcases the Overte Interface and some past events and "
 "locations attended with it."
-msgstr "갤러리에서는 오버트 인터페이스와 이를 사용한 과거 이벤트 및 장소를 소개합니다."
+msgstr "갤러리에서는 오버트 인터페이스와 이를 사용한 과거 이벤트 및 장소를 "
+"소개합니다."
 
 #: ../../source/gallery.rst:11
+#, fuzzy
 msgid "A normal day in the Overte office"
 msgstr "오버트 사무실의 평범한 하루"
 
@@ -618,6 +630,7 @@ msgid "Maker Monday on Daybreak Island"
 msgstr "Daybreak Island의 메이커 먼데이"
 
 #: ../../source/gallery.rst:74
+#, fuzzy
 msgid "Christmas in Overte"
 msgstr "오버트에서의 크리스마스"
 
@@ -701,6 +714,7 @@ msgstr ""
 "이벤트에 참석하거나 주최하는 등 다양한 활동을 할 수 있습니다."
 
 #: ../../source/index.rst:10
+#, fuzzy
 msgid "The Overte software provides the following key features:"
 msgstr "오버트 소프트웨어는 다음과 같은 주요 기능을 제공합니다:"
 
@@ -717,10 +731,12 @@ msgid "Scalability for up to 500 users in a single world"
 msgstr "단일 월드에서 최대 500명의 사용자를 수용가능한 확장성"
 
 #: ../../source/index.rst:15
+#, fuzzy
 msgid ""
 "Scripting in JavaScript, which allows creation of games, interactables, "
 "UI elements, and custom applications"
-msgstr "게임, 인터랙터블, UI 요소 및 사용자 지정 애플리케이션을 생성할 수 있는 JavaScript 스크립팅"
+msgstr "게임, 인터랙터블, UI 요소 및 사용자 지정 애플리케이션을 생성할 수 있는 "
+"JavaScript 스크립팅"
 
 #: ../../source/index.rst:16
 msgid "High quality low latency spatial audio"
@@ -747,6 +763,7 @@ msgid "Supported by a democratic non-profit organization"
 msgstr "민주적인 비영리 단체에 의해 지원됨"
 
 #: ../../source/index.rst:23
+#, fuzzy
 msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
@@ -755,6 +772,7 @@ msgstr ""
 "|GalleryPage| 를 참조하세요."
 
 #: ../../source/index.rst:32
+#, fuzzy
 msgid "Development meeting in the Overte office"
 msgstr "오버트 사무실에서 열린 개발 회의"
 
@@ -1360,10 +1378,12 @@ msgid "Take a look at them here:"
 msgstr "여기에서 살펴보세요:"
 
 #: ../../source/overte_ev.rst:17
+#, fuzzy
 msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
 msgstr "`Overte e.V. Satzung - 독일어 원본 <https://satzung.overte.org/de/>`_"
 
 #: ../../source/overte_ev.rst:18
+#, fuzzy
 msgid ""
 "`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
@@ -1383,10 +1403,12 @@ msgid "Membership"
 msgstr "멤버십"
 
 #: ../../source/overte_ev.rst:30
+#, fuzzy
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
-msgstr "오버트 소프트웨어를 사용하거나 소프트웨어 개발에 도움을 주기 위해 협회 회원일 필요는 **없습니다**."
+msgstr "오버트 소프트웨어를 사용하거나 소프트웨어 개발에 도움을 주기 위해 협회 "
+"회원일 필요는 **없습니다**."
 
 #: ../../source/overte_ev.rst:32
 msgid ""
@@ -1405,6 +1427,7 @@ msgid ""
 msgstr "현재 연간 회비는 60유로입니다. 연회비는 연간 또는 매월 선불로 납부할 수 있습니다."
 
 #: ../../source/overte_ev.rst:37
+#, fuzzy
 msgid ""
 "If you want to join please make yourself familiar with the articles of "
 "association linked above. To join the association please write an "
@@ -1412,8 +1435,9 @@ msgid ""
 "address, and email address, to application@overte.org, or our postal "
 "address."
 msgstr ""
-"가입을 원하시면 위에 링크된 정관을 숙지하시기 바랍니다. 협회에 가입하려면 실명, 사용자 이름(선택 사항), 우편 주소, 이메일 "
-"주소가 포함된 신청서를 작성하여 application@overte.org 또는 우편 주소로 보내주시기 바랍니다."
+"가입을 원하시면 위에 링크된 정관을 숙지하시기 바랍니다. 협회에 가입하려면 "
+"실명, 사용자 이름(선택 사항), 우편 주소, 이메일 주소가 포함된 신청서를 "
+"작성하여 application@overte.org 또는 우편 주소로 보내주시기 바랍니다."
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
@@ -1524,14 +1548,16 @@ msgid "Core Engine & graphics specialist"
 msgstr ""
 
 #: ../../source/privacy_policy.rst:5
+#, fuzzy
 msgid ""
 "This is the privacy policy for overte.org, accessible from "
 "https://overte.org. This Privacy Policy document contains types of "
 "information that is collected and recorded by overte.org and how we use "
 "it."
 msgstr ""
-"본 개인정보 처리방침은 https://overte.org 에서 확인할 수 있는 overte.org의 개인정보 처리방침입니다. 본 "
-"개인정보 처리방침 문서에는 overte.org에서 수집 및 기록하는 정보의 유형과 당사가 이를 사용하는 방법이 포함되어 있습니다."
+"본 개인정보 처리방침은 https://overte.org 에서 확인할 수 있는 overte.org의 "
+"개인정보 처리방침입니다. 본 개인정보 처리방침 문서에는 overte.org에서 수집 "
+"및 기록하는 정보의 유형과 당사가 이를 사용하는 방법이 포함되어 있습니다."
 
 #: ../../source/privacy_policy.rst:7
 msgid ""
@@ -1544,41 +1570,48 @@ msgid "We are a Data Controller of your information."
 msgstr "당사는 귀하의 정보에 대한 데이터 컨트롤러입니다."
 
 #: ../../source/privacy_policy.rst:11
+#, fuzzy
 msgid ""
 "Overte e.V. legal basis for collecting and using the personal information"
 " described in this Privacy Policy depends on the Personal Information we "
 "collect and the specific context in which we collect the information:"
 msgstr ""
-"본 개인정보 처리방침에 설명된 개인정보의 수집 및 사용에 대한 법적 근거는 당사가 수집하는 개인정보 및 당사가 정보를 수집하는 특정"
-" 상황에 따라 다릅니다:"
+"본 개인정보 처리방침에 설명된 개인정보의 수집 및 사용에 대한 법적 근거는 "
+"당사가 수집하는 개인정보 및 당사가 정보를 수집하는 특정 상황에 따라 다릅니다:"
 
 #: ../../source/privacy_policy.rst:13
+#, fuzzy
 msgid "Overte e.V. needs to perform a contract with you"
 msgstr "Overte e.V.는 귀하와 계약을 이행해야 합니다"
 
 #: ../../source/privacy_policy.rst:14
+#, fuzzy
 msgid "You have given Overte e.V. permission to do so"
 msgstr "귀하는 Overte e.V.에 다음과 같은 권한을 부여했습니다"
 
 #: ../../source/privacy_policy.rst:15
+#, fuzzy
 msgid ""
 "Processing your personal information is in Overte e.V. legitimate "
 "interests"
 msgstr "귀하의 개인 정보를 처리하는 것은 Overte e.V.의 정당한 이익에 부합합니다."
 
 #: ../../source/privacy_policy.rst:16
+#, fuzzy
 msgid "Overte e.V. needs to comply with the law"
 msgstr "Overte e.V.는 법률을 준수해야 합니다."
 
 #: ../../source/privacy_policy.rst:18
+#, fuzzy
 msgid ""
 "Overte e.V. will retain your personal information only for as long as is "
 "necessary for the purposes set out in this Privacy Policy. We will retain"
 " and use your information to the extent necessary to comply with our "
 "legal obligations, resolve disputes, and enforce our policies."
 msgstr ""
-"Overte e.V.는 본 개인정보 보호정책에 명시된 목적에 필요한 기간 동안만 귀하의 개인정보를 보유합니다. 당사는 법적 의무를 "
-"준수하고 분쟁을 해결하며 당사의 정책을 시행하는 데 필요한 범위 내에서만 귀하의 정보를 보유 및 사용합니다."
+"Overte e.V.는 본 개인정보 보호정책에 명시된 목적에 필요한 기간 동안만 귀하의 "
+"개인정보를 보유합니다. 당사는 법적 의무를 준수하고 분쟁을 해결하며 당사의 "
+"정책을 시행하는 데 필요한 범위 내에서만 귀하의 정보를 보유 및 사용합니다."
 
 #: ../../source/privacy_policy.rst:20
 msgid ""
@@ -1623,6 +1656,7 @@ msgid "Log Files"
 msgstr "로그 파일"
 
 #: ../../source/privacy_policy.rst:35
+#, fuzzy
 msgid ""
 "overte.org follows a standard procedure of using log files. These files "
 "log visitors when they visit websites. All hosting companies do this and "
@@ -1633,26 +1667,30 @@ msgid ""
 "that is personally identifiable. The purpose of the information is for "
 "analyzing trends, administering the site."
 msgstr ""
-"overte.org는 로그 파일 사용의 표준 절차를 따릅니다. 이러한 파일은 방문자가 웹사이트를 방문할 때 방문자를 기록합니다. "
-"모든 호스팅 회사가 이 작업을 수행하며 호스팅 서비스 분석의 일부입니다. 로그 파일에서 수집하는 정보에는 인터넷 프로토콜(IP) "
-"주소, 브라우저 유형, 인터넷 서비스 제공업체(ISP), 날짜 및 타임스탬프, 참조/종료 페이지, 클릭 횟수 등이 포함됩니다. "
-"이러한 정보는 개인을 식별할 수 있는 어떠한 정보에도 연결되지 않습니다. 이러한 정보의 목적은 트렌드 분석, 사이트 관리를 위한 "
-"것입니다."
+"overte.org는 로그 파일 사용의 표준 절차를 따릅니다. 이러한 파일은 방문자가 "
+"웹사이트를 방문할 때 방문자를 기록합니다. 모든 호스팅 회사가 이 작업을 "
+"수행하며 호스팅 서비스 분석의 일부입니다. 로그 파일에서 수집하는 정보에는 "
+"인터넷 프로토콜(IP) 주소, 브라우저 유형, 인터넷 서비스 제공업체(ISP), 날짜 "
+"및 타임스탬프, 참조/종료 페이지, 클릭 횟수 등이 포함됩니다. 이러한 정보는 "
+"개인을 식별할 수 있는 어떠한 정보에도 연결되지 않습니다. 이러한 정보의 "
+"목적은 트렌드 분석, 사이트 관리를 위한 것입니다."
 
 #: ../../source/privacy_policy.rst:39
 msgid "Third Party Privacy Policies"
 msgstr "타사 개인정보 처리방침"
 
 #: ../../source/privacy_policy.rst:41
+#, fuzzy
 msgid ""
 "overte.org's Privacy Policy does not apply to other websites. Thus, we "
 "are advising you to consult the respective Privacy Policies of these "
 "third-party servers for more detailed information. It may include their "
 "practices and instructions about how to opt-out of certain options."
 msgstr ""
-"overte.org의 개인정보 처리방침은 다른 웹사이트에는 적용되지 않습니다. 따라서 더 자세한 정보는 이러한 타사 서버의 각 "
-"개인정보 처리방침을 참조하시기 바랍니다. 여기에는 특정 옵션을 거부하는 방법에 대한 해당 서버의 관행 및 지침이 포함될 수 "
-"있습니다."
+"overte.org의 개인정보 처리방침은 다른 웹사이트에는 적용되지 않습니다. 따라서 "
+"더 자세한 정보는 이러한 타사 서버의 각 개인정보 처리방침을 참조하시기 "
+"바랍니다. 여기에는 특정 옵션을 거부하는 방법에 대한 해당 서버의 관행 및 "
+"지침이 포함될 수 있습니다."
 
 #: ../../source/privacy_policy.rst:43
 msgid ""
@@ -1697,6 +1735,7 @@ msgstr ""
 "관찰하고, 참여하며, 모니터링하고 지도할 것을 권장합니다."
 
 #: ../../source/privacy_policy.rst:57
+#, fuzzy
 msgid ""
 "overte.org does not knowingly collect any Personal Identifiable "
 "Information from children under the age of 13. If you think that your "
@@ -1704,9 +1743,10 @@ msgid ""
 "to contact us immediately and we will do our best efforts to promptly "
 "remove such information from our records."
 msgstr ""
-"overte.org는 13세 미만의 어린이로부터 고의로 개인 식별 정보를 수집하지 않습니다. 귀하의 자녀가 당사 웹사이트에서 이러한"
-" 종류의 정보를 제공했다고 생각되면 즉시 당사에 연락해 주시면 당사 기록에서 해당 정보를 신속하게 삭제하기 위해 최선을 "
-"다하겠습니다."
+"overte.org는 13세 미만의 어린이로부터 고의로 개인 식별 정보를 수집하지 "
+"않습니다. 귀하의 자녀가 당사 웹사이트에서 이러한 종류의 정보를 제공했다고 "
+"생각되면 즉시 당사에 연락해 주시면 당사 기록에서 해당 정보를 신속하게 "
+"삭제하기 위해 최선을 다하겠습니다."
 
 #: ../../source/privacy_policy.rst:61
 msgid "Online Privacy Policy Only"
@@ -2199,4 +2239,3 @@ msgstr "당사 웹사이트를 이용함으로써 귀하는 당사의 개인정�
 
 #~ msgid "Sam_Gondelman"
 #~ msgstr ""
-
