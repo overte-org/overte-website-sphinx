@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-04 13:15+0000\n"
-"PO-Revision-Date: 2025-03-01 22:34+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-03-01 22:51+0000\n"
+"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language-Team: Korean <https://weblate.overte.org/projects/overte/"
 "overte-website/ko/>\n"
 "Language: ko\n"
@@ -361,7 +361,7 @@ msgstr "포럼"
 msgid ""
 "There is also a forum located at `forum.overte.org 🔗 "
 "<https://forum.overte.org/>`_."
-msgstr "포럼은 'forum.overte.org 🔗 <https://forum.overte.org/>`_'에 있습니다."
+msgstr "포럼은 `forum.overte.org 🔗 <https://forum.overte.org/>`_ 에 있습니다."
 
 #: ../../source/contact.rst:42
 msgid "Mastodon"
@@ -401,7 +401,7 @@ msgstr "아래에 선호하는 방법을 통해 기부할 수 있습니다:"
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card"
-msgstr "'오픈콜렉티브 🔗 <https://opencollective.com/overte>`_ - 직불카드, 신용카드"
+msgstr "`오픈콜렉티브 🔗 <https://opencollective.com/overte>`_ - 직불카드, 신용카드"
 
 #: ../../source/donate.rst:13
 #, fuzzy
@@ -448,7 +448,7 @@ msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 msgstr ""
-"깃허브에서 변경 로그를 확인하세요: 변경 로그 🔗 <https://github.com/"
+"깃허브에서 변경 로그를 확인하세요: `변경 로그 🔗 <https://github.com/"
 "overte-org/overte/blob/master/CHANGELOG.md>`_"
 
 #: ../../source/downloads.rst:14
