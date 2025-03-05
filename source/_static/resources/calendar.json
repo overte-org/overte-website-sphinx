@@ -1,0 +1,16 @@
+{
+  "css": ":root {--dhx-scheduler-base-colors-primary: #6667AB !important;}",
+  "event_url_location": "hifi://{location}",
+  "language": "en",
+  "prefer_browser_language": true,
+  "tab": "agenda",
+  "tabs": [
+    "month",
+    "week",
+    "day",
+    "agenda"
+  ],
+  "title": "Overte Events",
+  "loader": "",
+  "url": "https://calendar.google.com/calendar/ical/52h389513vt7afg01m56bq9l28%40group.calendar.google.com/public/basic.ics"
+}
