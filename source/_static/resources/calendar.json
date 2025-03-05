@@ -1,4 +1,5 @@
 {
+  "css": ":root {--dhx-scheduler-base-colors-primary: #6667AB !important;}",
   "event_url_location": "hifi://{location}",
   "language": "en",
   "prefer_browser_language": true,
