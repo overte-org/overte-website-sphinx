@@ -35,7 +35,7 @@ Domain Server
 
 Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2024.11.1/>`_.
 
-There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/repository/docker/overte/overte-server/>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
+There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/r/overte/overte-server/tags>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
 
 
 -------
