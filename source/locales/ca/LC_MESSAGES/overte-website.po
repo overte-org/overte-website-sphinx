@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-05 12:47+0000\n"
+"POT-Creation-Date: 2025-03-09 08:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ca\n"
@@ -417,7 +417,7 @@ msgid "Downloads"
 msgstr ""
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2024.11.1."
+msgid "The current release of Overte is version 2025.03.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -464,7 +464,7 @@ msgstr ""
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2024.11.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.03.1/>`_."
 msgstr ""
 
 #: ../../source/downloads.rst:38
@@ -2314,5 +2314,15 @@ msgstr ""
 #~ "run into on our `GitHub issue "
 #~ "tracker 🔗 <https://github.com/overte-"
 #~ "org/overte/issues>`_."
+#~ msgstr ""
+
+#~ msgid "The current release of Overte is version 2024.11.1."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Select the appropriate package for your"
+#~ " distribution and architecture from "
+#~ "`public.overte.org 🔗 "
+#~ "<https://public.overte.org/index.html#build/overte/release/2024.11.1/>`_."
 #~ msgstr ""
 

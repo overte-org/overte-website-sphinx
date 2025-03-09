@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-05 12:47+0000\n"
+"POT-Creation-Date: 2025-03-09 08:56+0000\n"
 "PO-Revision-Date: 2024-11-16 01:21+0000\n"
 "Last-Translator: Noah <nolefr@posteo.de>\n"
 "Language: cs\n"
@@ -541,7 +541,7 @@ msgstr "Ke stažení"
 
 #: ../../source/downloads.rst:7
 #, fuzzy
-msgid "The current release of Overte is version 2024.11.1."
+msgid "The current release of Overte is version 2025.03.1."
 msgstr "Aktuální vydání Overte je verze 2024.10.2-rc2."
 
 #: ../../source/downloads.rst:9
@@ -593,7 +593,7 @@ msgstr "Doménový server"
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2024.11.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.03.1/>`_."
 msgstr ""
 "Zvolte odpovídající balík pro Vaši distribuci z `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2024.10.2-rc2/>`_."
