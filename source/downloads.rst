@@ -4,7 +4,9 @@
 Downloads
 #########
 
-The current release of Overte is version 2025.03.1.
+The current release of Overte is version 2025.03.2.
+This is a small bug fix release, fixing long startup times and issues with transparencies when using TAA.
+These changes do not affect the server software.
 
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
 
@@ -17,7 +19,7 @@ Linux
 Interface
 *********
 
-.. button-link:: https://public.overte.org/build/overte/release/2025.03.1/Overte-2025.03.1-x86_64.AppImage
+.. button-link:: https://public.overte.org/build/overte/release/2025.03.2/Overte-2025.03.2-x86_64.AppImage
     :shadow:
     :color: primary
 
@@ -46,7 +48,7 @@ The Windows installer contains both Interface and the Domain Server.
 Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
 You can always rerun the installer later to install the server software afterwards.
 
-.. button-link:: https://public.overte.org/build/overte/release/2025.03.1/Overte-2025.03.1.exe
+.. button-link:: https://public.overte.org/build/overte/release/2025.03.2/Overte-2025.03.2.exe
     :shadow:
     :color: primary
 
