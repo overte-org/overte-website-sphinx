@@ -1,4 +1,4 @@
-# Copyright 2023-2024 Overte e.V.
+# Copyright 2023-2025 Overte e.V.
 # SPDX-License-Identifier: Apache-2.0
 
 name: Production CI Build & Deploy
@@ -10,15 +10,15 @@ on:
 
 jobs:
   build_website:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
 
     name: Build and deploy website
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python 3.7
+    - name: Set up Python 3.13
       uses: actions/setup-python@v5
       with:
-        python-version: 3.7
+        python-version: 3.13
     - name: Install dependencies
       run: |
         python3 -m pip install --upgrade pip
