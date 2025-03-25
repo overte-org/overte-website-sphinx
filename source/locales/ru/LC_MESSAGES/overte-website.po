@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 19:26+0000\n"
+"POT-Creation-Date: 2025-03-25 20:27+0000\n"
 "PO-Revision-Date: 2024-04-09 23:20+0000\n"
 "Last-Translator: GREAT DNG <greatdng@gmail.com>\n"
 "Language: ru\n"
@@ -462,12 +462,11 @@ msgstr "Загрузки"
 
 #: ../../source/downloads.rst:7
 msgid ""
-"The current release of Overte is version 2025.03.2. This is a small bug "
-"fix release, fixing long startup times and issues with transparencies "
-"when using TAA. These changes do not affect the server software."
+"The current release of Overte is version 2025.03.3. This is a small bug "
+"fix release, mainly fixing VR startup issues in Windows."
 msgstr ""
 
-#: ../../source/downloads.rst:11
+#: ../../source/downloads.rst:10
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
@@ -475,15 +474,15 @@ msgstr ""
 "Взгляните на список изменений на GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
 
-#: ../../source/downloads.rst:16
+#: ../../source/downloads.rst:15
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/downloads.rst:20
+#: ../../source/downloads.rst:19
 msgid "Interface"
 msgstr "Интерфейс"
 
-#: ../../source/downloads.rst:22
+#: ../../source/downloads.rst:21
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -499,7 +498,7 @@ msgid ""
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:30
+#: ../../source/downloads.rst:29
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
@@ -507,16 +506,16 @@ msgstr ""
 "Вам нужно будет сделать AppImage как **исполняемым** с помощью файлового "
 "менеджера или следующей команды: :bash:`chmod +x Overte.AppImage`."
 
-#: ../../source/downloads.rst:36
+#: ../../source/downloads.rst:35
 msgid "Domain Server"
 msgstr "Доменный сервер"
 
-#: ../../source/downloads.rst:38
+#: ../../source/downloads.rst:37
 #, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.03.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.03.3/>`_."
 msgstr ""
 "Выберите пакет, соответствующий вашему дистрибутиву и архитектуре, на "
 "нашей `странице релизов GitHub 🔗 <https://github.com/overte-"
@@ -524,7 +523,7 @@ msgstr ""
 "`public.overte .org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
 
-#: ../../source/downloads.rst:40
+#: ../../source/downloads.rst:39
 msgid ""
 "There are also Docker images available on `hub.docker.com 🔗 "
 "<https://hub.docker.com/r/overte/overte-server/tags>`_. These images are "
@@ -532,11 +531,11 @@ msgid ""
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
 
-#: ../../source/downloads.rst:45
+#: ../../source/downloads.rst:44
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/downloads.rst:47
+#: ../../source/downloads.rst:46
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
 "Select a custom install and tick “Overte Server” during the installation "
@@ -549,7 +548,7 @@ msgstr ""
 "повторно запустить программу установки позже, чтобы доустановить "
 "серверное ПО."
 
-#: ../../source/downloads.rst:51
+#: ../../source/downloads.rst:50
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -565,7 +564,7 @@ msgid ""
 " 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:59
+#: ../../source/downloads.rst:58
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyway click on \"**More info**\" and"
@@ -575,11 +574,11 @@ msgstr ""
 "потенциально небезопасен. Чтобы все равно запустить его, нажмите "
 "«**Подробнее**», а затем «**Все равно запустить**»."
 
-#: ../../source/downloads.rst:67
+#: ../../source/downloads.rst:66
 msgid "Source"
 msgstr "Исходники"
 
-#: ../../source/downloads.rst:69
+#: ../../source/downloads.rst:68
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
 "<https://github.com/overte-org/overte/>`_. If you intend to build from "
@@ -591,7 +590,7 @@ msgstr ""
 "сборку из исходного кода, мы предлагаем собрать основную ветку напрямую, "
 "а не выпуск, чтобы воспользоваться последними улучшениями."
 
-#: ../../source/downloads.rst:72
+#: ../../source/downloads.rst:71
 msgid ""
 "For Linux there is a helper application available that aims to simplify "
 "the build process for newcomers. Get it from GitHub here: `Overte builder"
@@ -2527,5 +2526,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The current release of Overte is version 2025.03.1."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The current release of Overte is "
+#~ "version 2025.03.2. This is a small "
+#~ "bug fix release, fixing long startup "
+#~ "times and issues with transparencies "
+#~ "when using TAA. These changes do "
+#~ "not affect the server software."
 #~ msgstr ""
 
