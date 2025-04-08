@@ -50,7 +50,7 @@ As with the previous grant, we commit to keeping users and developers up to date
 Project plan
 ^^^^^^^^^^^^
 
-The funding will be used to pay developers toa work on the areas listed below, with the possibility of extensions and additional work.
+The funding will be used to pay developers to work on the areas listed below, with the possibility of extensions and additional work.
 
 The agreed upon deadline for completion is December 1st, 2025.
 
@@ -86,7 +86,7 @@ QML Localization
 """"""""""""""""
 
 As Overte is used by people from all over the world, we want to add localization support. This task
-aims to allow translating all internal UI creating using QML. (Most, but not all, of our UI uses QML.)
+aims to allow translating all internal UI created using QML. (Most, but not all, of our UI uses QML.)
 
 * Mark strings as translatable
 * Generate translation files automatically
