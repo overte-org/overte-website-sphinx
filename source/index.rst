@@ -129,7 +129,7 @@ Bug Fixes
 UI Rework
 """""""""
 
-Our current UI is a mix of different themes, design philosophies, and programming languages (https://github.com/orgs/overte-org/projects/8). Specifcally our Create app could use some
+Our current UI is a mix of different themes, design philosophies, and programming languages (https://github.com/orgs/overte-org/projects/8). Specifically our Create app could use some
 improvement (https://github.com/overte-org/overte/issues/1145).
 
 * Framework for default QML applications
