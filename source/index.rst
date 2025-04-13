@@ -105,7 +105,7 @@ breaking changes.
 * Update Overte for CMake 4.0 compatibility
 * Fix building dependencies on CMake 4.0
 * Update libnode to the next LTS version
-* Improve build instructions for building with KDevelop and Clion
+* Improve build instructions for building with KDevelop and CLion
 * Add automatic Docker release builds
 * Finish getting Overte into Flathub
 * Update to Qt 6 (https://github.com/overte-org/overte/issues/1243)
