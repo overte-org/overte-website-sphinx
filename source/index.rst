@@ -123,7 +123,7 @@ Bug Fixes
 * Fix server Console trying to connect to highfidelity.com (https://github.com/overte-org/overte/issues/578)
 * Fix QML warning message spam on Windows (https://github.com/overte-org/overte/issues/593)
 * Fix problems with HifiControlsUit.SpinBox (https://github.com/overte-org/overte/issues/921)
-* Fix uninstalling Overte not removing cache from AppDataLocal (https://github.com/overteorg/overte/issues/952)
+* Fix uninstalling Overte not removing cache from AppData\Local (https://github.com/overte-org/overte/issues/952)
 * Fix avatar bookmarks silently failing on broken syntax (https://github.com/overte-org/overte/issues/192)
 
 UI Rework
