@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-14 06:05+0000\n"
+"POT-Creation-Date: 2025-04-14 12:55+0000\n"
 "PO-Revision-Date: 2025-04-10 15:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: lt\n"
@@ -20,7 +20,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:391
 msgid "Calendar"
@@ -266,42 +266,6 @@ msgid ""
 "present members will discuss and vote on the issue."
 msgstr ""
 
-#: ../../source/shared.rst
-msgid "DownloadPage"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "GalleryPage"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "DiscordLink"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "MatrixLink"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "de_trans"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "es_trans"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "fr_trans"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "jp_trans"
-msgstr ""
-
-#: ../../source/shared.rst
-msgid "ko_trans"
-msgstr ""
-
 #: ../../source/contact.rst:5 ../../source/index.rst:391
 msgid "Contact"
 msgstr "Susisiekti"
@@ -354,6 +318,14 @@ msgstr ""
 " <https://matrix.to/#/#overte:overte.org>`_. Mūsų „Matrix“ erdvė taip pat"
 " yra sujungta su |DiscordLink| `Discord 🔗 "
 "<https://discord.gg/4YuQvc8K2f>`_."
+
+#: ../../source/shared.rst:19
+msgid "MatrixLink"
+msgstr ""
+
+#: ../../source/shared.rst:13
+msgid "DiscordLink"
+msgstr ""
 
 #: ../../source/contact.rst:35
 msgid "Forum"
@@ -473,16 +445,17 @@ msgstr "Sąsaja"
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
-"2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0"
-" 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 "
-"2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 "
-"00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116"
-" 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
-"2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 "
-"1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 "
-"011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
-" 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
+"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
+"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
+"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
+"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
+"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
+"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
+"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
+"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
+"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
 #: ../../source/downloads.rst:29
@@ -538,16 +511,17 @@ msgstr ""
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
-"2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0"
-" 10-1.5 0V5H5.104a.25.25 0 00-.177.427z\"></path><path d=\"M1.573 "
-"2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 "
-"00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116"
-" 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 "
-"2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 "
-"1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 "
-"011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0"
-" 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
+"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
+"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
+"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
+"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
+"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
+"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
+"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
+"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
+"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
 #: ../../source/downloads.rst:58
@@ -598,35 +572,35 @@ msgstr ""
 "Šioje galerijoje pristatoma \"Overte\" sąsaja ir kai kurie praeities "
 "renginiai bei vietos, kuriose jos pagalba buvo lankomasi."
 
-#: ../../source/gallery.rst:11
+#: ../../source/gallery.rst:7 ../../source/gallery.rst:11
 msgid "A normal day in the Overte office"
 msgstr "Įprasta diena „Overte“ biure"
 
-#: ../../source/gallery.rst:18
+#: ../../source/gallery.rst:14 ../../source/gallery.rst:18
 msgid "New years party with the furry bartender"
 msgstr "Naujųjų metų vakarėlis su furry barmenu"
 
-#: ../../source/gallery.rst:25
+#: ../../source/gallery.rst:21 ../../source/gallery.rst:25
 msgid "Basinskys ambient occlusion showcase"
 msgstr "Basinsky'io \"ambient occlusion\" pristatymas"
 
-#: ../../source/gallery.rst:32
+#: ../../source/gallery.rst:28 ../../source/gallery.rst:32
 msgid "Installing new lanterns on the Hub bridge"
 msgstr "Naujų žibintų įrengimas ant „Hub“ tilto"
 
-#: ../../source/gallery.rst:39
+#: ../../source/gallery.rst:35 ../../source/gallery.rst:39
 msgid "Some time off in the office"
 msgstr "Laisvas laikas biure"
 
-#: ../../source/gallery.rst:46
+#: ../../source/gallery.rst:42 ../../source/gallery.rst:46
 msgid "74 working on the “Kraftwerk” Domain"
 msgstr "74 dirba prie „Kraftwerk“ pasaulio"
 
-#: ../../source/gallery.rst:53
+#: ../../source/gallery.rst:49 ../../source/gallery.rst:53
 msgid "Hanging out on Maker Monday"
 msgstr "Susitikimas per „Maker Monday“"
 
-#: ../../source/gallery.rst:60
+#: ../../source/gallery.rst:56
 msgid "Basinsky showing off his photogrametry worlds"
 msgstr "Basinsky demonstruoja savo fotogrametrijos pasaulius"
 
@@ -634,19 +608,19 @@ msgstr "Basinsky demonstruoja savo fotogrametrijos pasaulius"
 msgid "Basinsky showing off his photogrammetry worlds"
 msgstr "Basinsky demonstruoja savo fotogrametrijos pasaulius"
 
-#: ../../source/gallery.rst:67
+#: ../../source/gallery.rst:63 ../../source/gallery.rst:67
 msgid "Maker Monday on Daybreak Island"
 msgstr "„Maker Monday “ „Daybreak“ saloje"
 
-#: ../../source/gallery.rst:74
+#: ../../source/gallery.rst:70 ../../source/gallery.rst:74
 msgid "Christmas in Overte"
 msgstr "„Overte“ kalėdos"
 
-#: ../../source/gallery.rst:81
+#: ../../source/gallery.rst:77 ../../source/gallery.rst:81
 msgid "Development meeting on Daybreak Island"
 msgstr "Programuotojų susitikimas „Daybreak“ saloje"
 
-#: ../../source/gallery.rst:88
+#: ../../source/gallery.rst:84
 msgid "Pooltoys exploring a fantasy island"
 msgstr "Pripučiami žaislai tyrinėja fantastinę salą"
 
@@ -654,11 +628,11 @@ msgstr "Pripučiami žaislai tyrinėja fantastinę salą"
 msgid "Pool toys exploring a fantasy island"
 msgstr "Pripučiami žaislai tyrinėja fantastinę salą"
 
-#: ../../source/gallery.rst:95
+#: ../../source/gallery.rst:91 ../../source/gallery.rst:95
 msgid "Development meeting at the Hub"
 msgstr "Programuotojų susitikimas „Hub“ centre"
 
-#: ../../source/gallery.rst:102
+#: ../../source/gallery.rst:98 ../../source/gallery.rst:102
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr "Kreolis žaidžia „Brainstormer's“ klube"
 
@@ -779,7 +753,15 @@ msgstr ""
 ":doc:`Atsiusųskite „Overte“ <downloads>` |DownloadPage| arba užmeskite "
 "akį į mūsų :doc:`Galeriją <gallery>` |GalleryPage|."
 
-#: ../../source/index.rst:32
+#: ../../source/shared.rst:1
+msgid "DownloadPage"
+msgstr ""
+
+#: ../../source/shared.rst:7
+msgid "GalleryPage"
+msgstr ""
+
+#: ../../source/index.rst:28 ../../source/index.rst:32
 msgid "Development meeting in the Overte office"
 msgstr "Plėtros susitikimas „Overte“ biure"
 
@@ -2522,5 +2504,66 @@ msgstr ""
 #~ "times and issues with transparencies "
 #~ "when using TAA. These changes do "
 #~ "not affect the server software."
+#~ msgstr ""
+
+#~ msgid "de_trans"
+#~ msgstr ""
+
+#~ msgid "es_trans"
+#~ msgstr ""
+
+#~ msgid "fr_trans"
+#~ msgstr ""
+
+#~ msgid "jp_trans"
+#~ msgstr ""
+
+#~ msgid "ko_trans"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Linux AppImage for amd64/x86_64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
+#~ "2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0"
+#~ " 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+#~ "0V5H5.104a.25.25 0 00-.177.427z\"></path><path "
+#~ "d=\"M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 "
+#~ "0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 "
+#~ "0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 "
+#~ "1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+#~ "0114.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0"
+#~ " 01-.565-1.243c.772-.885 1.192-1.716 "
+#~ "1.292-2.757H1.75A1.75 1.75 0 010 "
+#~ "10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 "
+#~ "0 010 1.5h-3a.25.25 0 00-.177.073zM6.982"
+#~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
+#~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows Installer for x86_64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"M4.927 5.427l2.896 "
+#~ "2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0"
+#~ " 0010.896 5H8.75V.75a.75.75 0 10-1.5 "
+#~ "0V5H5.104a.25.25 0 00-.177.427z\"></path><path "
+#~ "d=\"M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 "
+#~ "0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 "
+#~ "0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 "
+#~ "1.75 0 0116 2.75v7.5A1.75 1.75 0 "
+#~ "0114.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0"
+#~ " 01-.565-1.243c.772-.885 1.192-1.716 "
+#~ "1.292-2.757H1.75A1.75 1.75 0 010 "
+#~ "10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 "
+#~ "0 010 1.5h-3a.25.25 0 00-.177.073zM6.982"
+#~ " 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 "
+#~ "5.72 0 01-.765-2.5H6.982z\"></path></svg>"
 #~ msgstr ""
 
