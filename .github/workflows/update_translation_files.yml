@@ -35,5 +35,5 @@ jobs:
         name: AnimatedMannequin
         email: AnimatedMannequin@overte.org
         message: Automatically updated locales
-        files: source/locales/**
+        files: gettext/*.pot
         token: ${{ secrets.ANIMATED_MANNEQUIN_COMMIT_TOKEN }}
