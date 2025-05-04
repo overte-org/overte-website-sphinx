@@ -4,7 +4,7 @@
 Downloads
 #########
 
-The current release of Overte is version 2025.03.3.
+The current release of Overte is version 666.66.6.
 This is a small bug fix release, mainly fixing VR startup issues in Windows.
 
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
