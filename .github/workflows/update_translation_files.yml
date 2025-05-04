@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - codeberg_translate_test
     # Only run if something other than locales are updated.
     # This is to prevent this workflow from running when Weblate commits new translations.
     paths-ignore:
@@ -27,8 +28,7 @@ jobs:
     - name: Regenerate translation files
       shell: bash
       run: |
-        make gettext
-        sphinx-intl update
+        make gettext BUILDDIR=.
     - name: Commit changes
       uses: actions-x/commit@v6
       with:
