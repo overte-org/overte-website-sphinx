@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-04 13:20+0200\n"
+"POT-Creation-Date: 2025-05-04 11:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -271,7 +271,7 @@ msgid "Downloads"
 msgstr ""
 
 #: ../source/downloads.rst:7
-msgid "The current release of Overte is version 2025.03.3. This is a small bug fix release, mainly fixing VR startup issues in Windows."
+msgid "The current release of Overte is version 666.66.6. This is a small bug fix release, mainly fixing VR startup issues in Windows."
 msgstr ""
 
 #: ../source/downloads.rst:10
