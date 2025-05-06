@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-14 12:55+0000\n"
+"POT-Creation-Date: 2025-05-06 16:08+0000\n"
 "PO-Revision-Date: 2024-02-24 19:36+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: zh_Hant\n"
@@ -361,9 +361,10 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "可以透過以下幾種方式贊助："
 
 #: ../../source/donate.rst:12
+#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
-"Credit card"
+"Credit card, SEPA Direct Debit"
 msgstr "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - 金融卡, 信用卡"
 
 #: ../../source/donate.rst:13
@@ -381,13 +382,21 @@ msgstr ""
 
 #: ../../source/donate.rst:15
 msgid ""
+"SEPA Direct Debit – Send a filled out `mandate "
+"<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
+" to accounting@overte.org or our postal adress together with how much you"
+" would like to contribute."
+msgstr ""
+
+#: ../../source/donate.rst:16
+msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
-#: ../../source/donate.rst:18
+#: ../../source/donate.rst:19
 #, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
