@@ -25,6 +25,11 @@ Interface
 
 .. note::
 
+    This release includes experimental OpenXR support, which already works better than OpenVR on most Linux VR stacks.
+    You can enable OpenXR support using the :bash:`--useExperimentalXR` command line argument.
+
+.. note::
+
     You will need to set the AppImage as **executable** using your file manager,
     or a command like: :bash:`chmod +x Overte.AppImage`.
 
