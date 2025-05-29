@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 19:02+0000\n"
+"POT-Creation-Date: 2025-05-29 20:55+0000\n"
 "PO-Revision-Date: 2025-04-11 04:01+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ru\n"
@@ -56,12 +56,11 @@ msgid "19:00 UTC  Development meetup"
 msgstr "19:00 UTC    Встреча разработчиков"
 
 #: ../../source/calendar.rst:23
-#, fuzzy
-msgid "Monday-Saturday"
-msgstr "Суббота"
+msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
+msgstr ""
 
 #: ../../source/calendar.rst:25
-msgid "18:00 UTC  Mindfulness Club"
+msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
 msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:391
@@ -2997,5 +2996,11 @@ msgstr ""
 #~ "version 2025.03.3. This is a small "
 #~ "bug fix release, mainly fixing VR "
 #~ "startup issues in Windows."
+#~ msgstr ""
+
+#~ msgid "Monday-Saturday"
+#~ msgstr "Суббота"
+
+#~ msgid "18:00 UTC  Mindfulness Club"
 #~ msgstr ""
 

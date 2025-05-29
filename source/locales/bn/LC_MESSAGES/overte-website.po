@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 19:02+0000\n"
+"POT-Creation-Date: 2025-05-29 20:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: bn\n"
@@ -50,11 +50,11 @@ msgid "19:00 UTC  Development meetup"
 msgstr ""
 
 #: ../../source/calendar.rst:23
-msgid "Monday-Saturday"
+msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
 msgstr ""
 
 #: ../../source/calendar.rst:25
-msgid "18:00 UTC  Mindfulness Club"
+msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
 msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:391
@@ -2767,5 +2767,11 @@ msgstr ""
 #~ " distribution and architecture from "
 #~ "`public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release/2025.03.3/>`_."
+#~ msgstr ""
+
+#~ msgid "Monday-Saturday"
+#~ msgstr ""
+
+#~ msgid "18:00 UTC  Mindfulness Club"
 #~ msgstr ""
 
