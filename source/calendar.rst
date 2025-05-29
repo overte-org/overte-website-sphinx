@@ -20,7 +20,8 @@ To convert to your local timezone, please ask your preferred search engine somet
 +-------------------------------+
 
 +-----------------------------+
-| Monday-Saturday             |
+| Wednesday, Friday, Saturday |
+| (sometimes Sundays, too)    |
 +=============================+
 | 18:00 UTC  Mindfulness Club |
 +-----------------------------+
