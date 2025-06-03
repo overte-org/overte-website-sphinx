@@ -9,20 +9,21 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-29 20:55+0000\n"
-"PO-Revision-Date: 2024-03-31 04:20+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2025-06-03 07:30+0000\n"
+"Last-Translator: Angel <avalanche_starlit951@8shield.net>\n"
+"Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
+"overte-website/es/>\n"
 "Language: es\n"
-"Language-Team: Spanish <https://weblate.overte.org/projects/overte"
-"/overte-website/es/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:391
 msgid "Calendar"
-msgstr ""
+msgstr "Calendario"
 
 #: ../../source/calendar.rst:5
 msgid ""
@@ -35,7 +36,7 @@ msgstr ""
 
 #: ../../source/calendar.rst:11
 msgid "Monday"
-msgstr ""
+msgstr "Lunes"
 
 #: ../../source/calendar.rst:13
 msgid "20:00 UTC  Maker Monday"
@@ -43,7 +44,7 @@ msgstr ""
 
 #: ../../source/calendar.rst:17
 msgid "Saturday"
-msgstr ""
+msgstr "Sábado"
 
 #: ../../source/calendar.rst:19
 msgid "19:00 UTC  Development meetup"
@@ -51,7 +52,7 @@ msgstr ""
 
 #: ../../source/calendar.rst:23
 msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
-msgstr ""
+msgstr "Miércoles, viernes, sábado (a veces domingo)"
 
 #: ../../source/calendar.rst:25
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
@@ -59,7 +60,7 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:391
 msgid "Code of Conduct"
-msgstr ""
+msgstr "Código de conducta"
 
 #: ../../source/code_of_conduct.rst:5
 msgid ""
@@ -72,7 +73,7 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:8
 msgid "Philosophy"
-msgstr ""
+msgstr "Filosofía"
 
 #: ../../source/code_of_conduct.rst:10
 msgid ""
@@ -98,7 +99,7 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:16
 msgid "Application"
-msgstr ""
+msgstr "Aplicación"
 
 #: ../../source/code_of_conduct.rst:18
 msgid ""
@@ -118,7 +119,7 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:24
 msgid "Expectations"
-msgstr ""
+msgstr "Expectativas"
 
 #: ../../source/code_of_conduct.rst:26
 msgid "Politeness is expected at all times. Be kind and courteous."
@@ -275,7 +276,7 @@ msgstr ""
 
 #: ../../source/contact.rst:11
 msgid "Overte"
-msgstr ""
+msgstr "Overte"
 
 #: ../../source/contact.rst:13
 msgid ""
@@ -285,8 +286,9 @@ msgid ""
 msgstr ""
 
 #: ../../source/contact.rst:19
+#, fuzzy
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: ../../source/contact.rst:21
 msgid ""
@@ -334,7 +336,7 @@ msgstr ""
 
 #: ../../source/donate.rst:3 ../../source/index.rst:391
 msgid "Donate"
-msgstr ""
+msgstr "Donar"
 
 #: ../../source/donate.rst:5
 msgid ""
@@ -348,10 +350,13 @@ msgid ""
 "If you would like to support Overte and its development, consider "
 "donating."
 msgstr ""
+"Si te gustaría apoyar a Overte y el desarrollo, considera la posibilidad de "
+"donar."
 
 #: ../../source/donate.rst:10
 msgid "You may donate via the following methods in order of preference:"
 msgstr ""
+"Puedes donar a través de los siguientes métodos por orden de preferencia:"
 
 #: ../../source/donate.rst:12
 msgid ""
@@ -394,7 +399,7 @@ msgstr ""
 
 #: ../../source/downloads.rst:5 ../../source/index.rst:391
 msgid "Downloads"
-msgstr ""
+msgstr "Descargas"
 
 #: ../../source/downloads.rst:7
 msgid "The current release of Overte is version 2025.05.1."
@@ -411,8 +416,9 @@ msgid "Linux"
 msgstr "Linux"
 
 #: ../../source/downloads.rst:18
+#, fuzzy
 msgid "Interface"
-msgstr ""
+msgstr "Interface"
 
 #: ../../source/downloads.rst:20
 msgid ""
@@ -501,7 +507,7 @@ msgstr ""
 
 #: ../../source/downloads.rst:70
 msgid "Source"
-msgstr ""
+msgstr "Código Fuente"
 
 #: ../../source/downloads.rst:72
 msgid ""
@@ -623,7 +629,7 @@ msgstr "Inicio"
 
 #: ../../source/index.rst:391
 msgid "Documentation 🔗"
-msgstr ""
+msgstr "Documentación 🔗"
 
 #: ../../source/index.rst:391
 msgid "API reference 🔗"
@@ -712,7 +718,7 @@ msgstr ""
 
 #: ../../source/index.rst:37
 msgid "News"
-msgstr ""
+msgstr "Noticias"
 
 #: ../../source/index.rst:41
 msgid "2025-04-04 We've obtained another NLnet grant!"
@@ -798,7 +804,7 @@ msgstr ""
 
 #: ../../source/index.rst:72
 msgid "Graphics"
-msgstr ""
+msgstr "Gráficos"
 
 #: ../../source/index.rst:74
 msgid ""
@@ -1384,9 +1390,8 @@ msgid ""
 msgstr ""
 
 #: ../../source/index.rst:272
-#, fuzzy
 msgid "SELinux"
-msgstr "Linux"
+msgstr "SELinux"
 
 #: ../../source/index.rst:274
 msgid ""
@@ -2757,4 +2762,3 @@ msgstr ""
 
 #~ msgid "18:00 UTC  Mindfulness Club"
 #~ msgstr ""
-
