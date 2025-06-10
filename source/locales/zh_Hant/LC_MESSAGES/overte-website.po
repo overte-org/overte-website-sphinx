@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 19:51+0000\n"
+"POT-Creation-Date: 2025-06-10 19:51+0000\n"
 "PO-Revision-Date: 2024-02-24 19:36+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: zh_Hant\n"
@@ -23,8 +23,8 @@ msgstr ""
 #: ../../<rst_prolog>:9
 msgid ""
 "Help us hire a team member! :doc:`Donate ♥︎ <donate>` or `Learn more "
-"<index.html#help-us-hire-a-team-member>`_. |br| So far we have raised 0€ "
-"of 3000€."
+"<index.html#help-us-hire-a-team-member>`_. |br| So far we have raised "
+"47,88€ of 3000€."
 msgstr ""
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:410
@@ -2665,5 +2665,13 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "18:00 UTC  Mindfulness Club"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Help us hire a team member! "
+#~ ":doc:`Donate ♥︎ <donate>` or `Learn more"
+#~ " <index.html#help-us-hire-a-team-member>`_. "
+#~ "|br| So far we have raised 0€ "
+#~ "of 3000€."
 #~ msgstr ""
 
