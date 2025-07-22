@@ -9,23 +9,28 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-15 16:35+0000\n"
-"PO-Revision-Date: 2025-06-03 07:30+0000\n"
-"Last-Translator: Angel <avalanche_starlit951@8shield.net>\n"
+"PO-Revision-Date: 2025-07-22 10:58+0000\n"
+"Last-Translator: Paulo César Coronado <paulocoronado@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
+"overte-website/es/>\n"
 "Language: es\n"
-"Language-Team: Spanish <https://weblate.overte.org/projects/overte"
-"/overte-website/es/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../<rst_prolog>:9
+#, fuzzy
 msgid ""
 "Help us hire a team member! :doc:`Donate ♥︎ <donate>` or `Learn more "
 "<index.html#help-us-hire-a-team-member>`_. |br| So far we have raised "
 "464,62€ of 3000€."
 msgstr ""
+"¡Ayúdanos a contratar a un miembro del equipo! :doc:`Dona ♥︎ <donate>` o `Más "
+"información <index.html#help-us-hire-a-team-member>`_. |br| Hasta ahora "
+"hemos recaudado 464,62€ de 3000€."
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:410
 msgid "Calendar"
@@ -39,6 +44,11 @@ msgid ""
 "timezone, please ask your preferred search engine something along the "
 "lines of: \"What is Saturday 19:00 UTC in my time?\""
 msgstr ""
+"En Overte se celebran multitud de actividades. Este calendario pretende "
+"ofrecerle una visión general de dichos eventos. Tenga en cuenta que todas "
+"las horas aquí indicadas son UTC. Para convertir a su zona horaria local, "
+"por favor pregunte a su motor de búsqueda preferido algo parecido a: «¿Qué "
+"hora es el sábado a las 19:00 UTC en mi zona horaria?»"
 
 #: ../../source/calendar.rst:11
 msgid "Monday"
@@ -46,7 +56,7 @@ msgstr "Lunes"
 
 #: ../../source/calendar.rst:13
 msgid "20:00 UTC  Maker Monday"
-msgstr ""
+msgstr "20:00 UTC Lunes Maker"
 
 #: ../../source/calendar.rst:17
 msgid "Saturday"
@@ -54,15 +64,16 @@ msgstr "Sábado"
 
 #: ../../source/calendar.rst:19
 msgid "19:00 UTC  Development meetup"
-msgstr ""
+msgstr "19:00 UTC Reunión de desarrollo"
 
 #: ../../source/calendar.rst:23
 msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
 msgstr "Miércoles, viernes, sábado (a veces domingo)"
 
 #: ../../source/calendar.rst:25
+#, fuzzy
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
-msgstr ""
+msgstr "18:00 UTC OMM — Overte Mindfulness Meditation"
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:410
 msgid "Code of Conduct"
@@ -76,6 +87,11 @@ msgid ""
 "and accepted regardless of their personal background and affiliation to "
 "the Overte project."
 msgstr ""
+"El proyecto Overte es una comunidad internacional abierta a todos sin "
+"discriminación. Queremos que esta comunidad sea un lugar seguro y acogedor "
+"tanto para los recién llegados como para los miembros actuales. Todo el "
+"mundo debe sentirse cómodo y aceptado, independiente de sus antecedentes "
+"personales y de su afiliación al proyecto Overte."
 
 #: ../../source/code_of_conduct.rst:8
 msgid "Philosophy"
@@ -90,6 +106,12 @@ msgid ""
 "experience. Cooperation in such an environment requires common guidelines"
 " to ensure a positive and inspiring atmosphere in the community."
 msgstr ""
+"En la comunidad Overte, participantes de todo el mundo se reúnen para crear "
+"una plataforma de RV social libre y de código abierto. Esto es posible "
+"gracias al apoyo, el trabajo duro y el entusiasmo de muchas personas que "
+"colaboran con el objetivo común de crear una experiencia de RV realmente "
+"única. La cooperación en un entorno así requiere unas directrices comunes "
+"que garanticen un ambiente positivo e inspirador en la comunidad."
 
 #: ../../source/code_of_conduct.rst:12
 msgid ""
@@ -102,6 +124,14 @@ msgid ""
 " would affect normal interactions. Be reasonable, the Overte e.V. surely "
 "will be as well."
 msgstr ""
+"Por eso tenemos este Código de Conducta: explica el tipo de comunidad que "
+"queremos tener. Las normas que figuran a continuación no se aplican a todas "
+"las interacciones con un simple algoritmo de concordancia. Las interacciones "
+"humanas se producen en un contexto y son complejas. Las infracciones "
+"percibidas son evaluadas por humanos reales que intentarán interpretar las "
+"interacciones y las normas con amabilidad. En consecuencia, no es necesario "
+"plantear hipótesis sobre cómo afectarían estas normas a las interacciones "
+"normales. Sé razonable, seguro que Overte e.V. también lo será."
 
 #: ../../source/code_of_conduct.rst:16
 msgid "Application"
@@ -2834,4 +2864,3 @@ msgstr ""
 #~ "|br| So far we have raised 64,62€"
 #~ " of 3000€."
 #~ msgstr ""
-
