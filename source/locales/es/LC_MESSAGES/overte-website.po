@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-15 16:35+0000\n"
-"PO-Revision-Date: 2025-07-26 13:22+0000\n"
+"PO-Revision-Date: 2025-07-26 13:47+0000\n"
 "Last-Translator: Paulo César Coronado <paulocoronado@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
 "overte-website/es/>\n"
@@ -1435,7 +1435,7 @@ msgstr ""
 
 #: ../../source/index.rst:190
 msgid "All of the developers who have agreed to take on this work."
-msgstr ""
+msgstr "Todos los desarrolladores que han aceptado asumir este trabajo."
 
 #: ../../source/index.rst:191 ../../source/index.rst:395
 msgid "The Overte community, for making this possible."
@@ -1476,6 +1476,8 @@ msgid ""
 "Replace the old wearables system with avatar entities to deduplicate "
 "code. (https://github.com/overte-org/overte/issues/932)"
 msgstr ""
+"Reemplazar el antiguo sistema de wearables con entidades de avatar. (https://"
+"github.com/overte-org/overte/issues/932)"
 
 #: ../../source/index.rst:210
 msgid "Text entities"
@@ -1533,6 +1535,10 @@ msgid ""
 "/overte-org/overte/issues/741, https://github.com/overte-"
 "org/overte/issues/14)"
 msgstr ""
+"Exponer más ajustes gráficos (mapeo de tonos, bloom, sombreadores "
+"procedimentales, AO) (https://github.com/overte-org/overte/issues/740, "
+"https://github.com/overte-org/overte/issues/741, https://github.com/"
+"overte-org/overte/issues/14)"
 
 #: ../../source/index.rst:225
 msgid ""
@@ -1725,6 +1731,8 @@ msgid ""
 "SELinux is a security system that allows sandboxing applications and "
 "daemons."
 msgstr ""
+"SELinux es un sistema de seguridad que permite ejecutar aplicaciones y "
+"demonios en entornos aislados (sandbox)."
 
 #: ../../source/index.rst:296
 msgid ""
@@ -1801,12 +1809,16 @@ msgid ""
 "Server-side rendered web entity. This would help with the Quest "
 "implementation."
 msgstr ""
+"Entidad web renderizada del lado del servidor. Esto facilitaría la "
+"implementación de Quest."
 
 #: ../../source/index.rst:323
 msgid ""
 "Basic implementation. Texture object, simple operations like painting "
 "pixels and blocks. (https://github.com/overte-org/overte/issues/916)"
 msgstr ""
+"Implementación básica. Objeto de textura, operaciones sencillas como pintar "
+"píxeles y bloques. (https://github.com/overte-org/overte/issues/916)"
 
 #: ../../source/index.rst:324
 msgid ""
@@ -1838,6 +1850,9 @@ msgid ""
 "Source projects, and we're elated to announce that we've also made the "
 "list!"
 msgstr ""
+"La Fundación NLnet es una organización que apoya muchos proyectos "
+"sorprendentes de código abierto, ¡y estamos encantados de anunciar que "
+"también hemos sido incluidos en la lista!"
 
 #: ../../source/index.rst:335
 msgid ""
@@ -1847,6 +1862,12 @@ msgid ""
 "meetings, and use tags, projects and other functionality on GitHub to "
 "make it easy for anyone interested to follow the progress."
 msgstr ""
+"Como parte del acuerdo, nos comprometemos a mantener a los usuarios y "
+"desarrolladores al día sobre los avances realizados en estos aspectos al "
+"menos cada dos meses. Para ello, realizaremos un seguimiento durante "
+"nuestras reuniones habituales de desarrollo de los sábados y utilizaremos "
+"etiquetas, proyectos y otras funciones de GitHub para que cualquier persona "
+"interesada pueda seguir fácilmente los avances."
 
 #: ../../source/index.rst:341
 msgid ""
@@ -1858,6 +1879,7 @@ msgstr ""
 #: ../../source/index.rst:343
 msgid "The agreed on deadline for completion is February 17, 2025."
 msgstr ""
+"La fecha límite acordada para la finalización es el 17 de febrero de 2025."
 
 #: ../../source/index.rst:345
 msgid ""
@@ -1994,6 +2016,7 @@ msgstr ""
 #: ../../source/index.rst:394
 msgid "Sam Gondelman, Karol Suprynowicz and AnotherFoxGuy for taking on the work."
 msgstr ""
+"Sam Gondelman, Karol Suprynowicz y AnotherFoxGuy por apersonarse del trabajo."
 
 #: ../../source/index.rst:402
 msgid "2023-04-01 New website"
@@ -2237,6 +2260,8 @@ msgid ""
 "Processing your personal information is in Overte e.V. legitimate "
 "interests"
 msgstr ""
+"El tratamiento de sus datos personales es de interés legítimo para Overte "
+"e.V."
 
 #: ../../source/privacy_policy.rst:16
 msgid "Overte e.V. needs to comply with the law"
@@ -2261,6 +2286,8 @@ msgstr ""
 #: ../../source/privacy_policy.rst:22
 msgid "In certain circumstances, you have the following data protection rights:"
 msgstr ""
+"En ciertas circunstancias, tienes los siguientes derechos de protección de "
+"datos:"
 
 #: ../../source/privacy_policy.rst:24
 msgid "The right to access, update or to delete the information we have on you."
