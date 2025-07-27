@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-15 16:35+0000\n"
-"PO-Revision-Date: 2025-07-26 13:47+0000\n"
+"PO-Revision-Date: 2025-07-27 15:50+0000\n"
 "Last-Translator: Paulo César Coronado <paulocoronado@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.overte.org/projects/overte/"
 "overte-website/es/>\n"
@@ -22,15 +22,14 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../<rst_prolog>:9
-#, fuzzy
 msgid ""
 "Help us hire a team member! :doc:`Donate ♥︎ <donate>` or `Learn more "
 "<index.html#help-us-hire-a-team-member>`_. |br| So far we have raised "
 "464,62€ of 3000€."
 msgstr ""
 "¡Ayúdanos a contratar a un miembro del equipo! :doc:`Dona ♥︎ <donate>` o `Más "
-"información <index.html#help-us-hire-a-team-member>`_. |br| Hasta ahora "
-"hemos recaudado 464,62€ de 3000€."
+"información <index.html#help-us-hire-a-team-member>`_. Hasta ahora hemos "
+"recaudado 464,62€ de 3000€."
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:410
 msgid "Calendar"
@@ -71,7 +70,6 @@ msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
 msgstr "Miércoles, viernes, sábado (a veces domingo)"
 
 #: ../../source/calendar.rst:25
-#, fuzzy
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
 msgstr "18:00 UTC OMM — Overte Mindfulness Meditation"
 
@@ -244,7 +242,6 @@ msgstr ""
 "inaceptable."
 
 #: ../../source/code_of_conduct.rst:38
-#, fuzzy
 msgid ""
 "As a community developed project, we strive for consensus among "
 "contributors before moving forward with a proposed feature. If there is "
@@ -258,7 +255,7 @@ msgstr ""
 "característica propuesta. Si tus ideas no cuentan con el apoyo suficiente, "
 "no insistas ni intentes forzar a los demás a que apoyen tu punto de vista; "
 "en su lugar, lleva cualquier disputa a Overte e.V. a través de los canales "
-"adecuados (consulta la sección «disputas» más abajo)."
+"adecuados (consulta la sección `disputas`_ más abajo)."
 
 #: ../../source/code_of_conduct.rst:39
 msgid "Aggressive or offensive behavior is not acceptable."
@@ -405,7 +402,6 @@ msgstr ""
 "saber cuándo se celebrará la próxima reunión."
 
 #: ../../source/contact.rst:19
-#, fuzzy
 msgid "GitHub"
 msgstr "GitHub"
 
@@ -420,7 +416,6 @@ msgstr ""
 "<https://github.com/overte-org/overte>`_"
 
 #: ../../source/contact.rst:27
-#, fuzzy
 msgid "Matrix"
 msgstr "Matrix"
 
@@ -430,10 +425,9 @@ msgid ""
 "<https://matrix.to/#/#overte:overte.org>`_. Our Matrix Space is also "
 "bridged to |DiscordLink| `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 msgstr ""
-"Únete a nuestro espacio de Matrix en |MatrixLink| `overte:overte.org 🔗 "
-"<https://matrix.to/#/#overte:overte.org>`_. Nuestro espacio de Matrix "
-"también está conectado a |DiscordLink| `Discord 🔗 <https://discord.gg/"
-"4YuQvc8K2f>`_."
+"Únete a nuestro espacio de Matrix en `overte:overte.org 🔗 <https://"
+"matrix.to/#/#overte:overte.org>`_. Nuestro espacio de Matrix también está "
+"conectado a `Discord 🔗 <https://discord.gg/4YuQvc8K2f>`_."
 
 #: ../../source/shared.rst:19
 msgid "MatrixLink"
@@ -455,7 +449,6 @@ msgstr ""
 "También existe un foro en `forum.overte.org 🔗 <https://forum.overte.org/>`_."
 
 #: ../../source/contact.rst:42
-#, fuzzy
 msgid "Mastodon"
 msgstr "Mastodon"
 
@@ -522,11 +515,10 @@ msgid ""
 " would like to contribute."
 msgstr ""
 "Débito directo SEPA: envíe una `orden <https://overte.org/_static/resources/"
-"SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_  a accounting@overte.org o "
-"a nuestra dirección postal, junto con la cantidad que desea aportar."
+"SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_ a accounting@overte.org o a "
+"nuestra dirección postal, junto con la cantidad que desea aportar."
 
 #: ../../source/donate.rst:16
-#, fuzzy
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
@@ -564,7 +556,6 @@ msgid "Linux"
 msgstr "Linux"
 
 #: ../../source/downloads.rst:18
-#, fuzzy
 msgid "Interface"
 msgstr "Interface"
 
@@ -891,8 +882,8 @@ msgid ""
 ":doc:`Get Overte <downloads>` |DownloadPage| or take a look at our "
 ":doc:`Gallery <gallery>` |GalleryPage|."
 msgstr ""
-":doc:`Obtenga Overte <downloads>` |DownloadPage| o hecha un vistazo a "
-"nuestra :doc:`Galería <gallery>` |GalleryPage|."
+":doc:`Obtenga Overte <downloads>` o hecha un vistazo a nuestra :doc:`Galería "
+"<gallery>`."
 
 #: ../../source/shared.rst:1
 msgid "DownloadPage"
@@ -951,9 +942,8 @@ msgstr ""
 "alcanzar nuestra meta de 3000 € de fondos adicionales en los próximos meses."
 
 #: ../../source/index.rst:51
-#, fuzzy
 msgid "Donate now ♥︎"
-msgstr "Donar"
+msgstr "Donar ahora ♥︎"
 
 #: ../../source/index.rst:60
 msgid "2025-04-04 We've obtained another NLnet grant!"
@@ -1415,35 +1405,35 @@ msgstr ""
 
 #: ../../source/index.rst:181
 msgid "Perform UX review"
-msgstr ""
+msgstr "Revisar la experiencia de usuario (UX)"
 
 #: ../../source/index.rst:182
 msgid "Perform Security audit"
-msgstr ""
+msgstr "Realizar una auditoría de seguridad"
 
 #: ../../source/index.rst:186 ../../source/index.rst:390
 msgid "Thanks"
-msgstr ""
+msgstr "Agradecimientos"
 
 #: ../../source/index.rst:188
 msgid "NLnet, for continuing to support Overte."
-msgstr ""
+msgstr "NLnet, por al apoyo continuo a Overte."
 
 #: ../../source/index.rst:189 ../../source/index.rst:393
 msgid "Julian Groß, for negotiating this agreement."
-msgstr ""
+msgstr "Julian Groß, por negociar este acuerdo."
 
 #: ../../source/index.rst:190
 msgid "All of the developers who have agreed to take on this work."
-msgstr "Todos los desarrolladores que han aceptado asumir este trabajo."
+msgstr "A todos los desarrolladores que han aceptado asumir este trabajo."
 
 #: ../../source/index.rst:191 ../../source/index.rst:395
 msgid "The Overte community, for making this possible."
-msgstr ""
+msgstr "A la comunidad Overte por hacer esto posible."
 
 #: ../../source/index.rst:196
 msgid "2024-04-16 NLnet grant extended again!"
-msgstr ""
+msgstr "2024-04-16 ¡La subvención de NLnet se extiende nuevamente!"
 
 #: ../../source/index.rst:198
 msgid ""
@@ -1458,18 +1448,24 @@ msgid ""
 "Fix warnings and allow turning on warnings-as-errors (https://github.com"
 "/overte-org/overte/issues/930)"
 msgstr ""
+"Corregir advertencias y permitir activar la opción de tratar advertencias "
+"como errores (https://github.com/overte-org/overte/issues/930)"
 
 #: ../../source/index.rst:205
 msgid ""
 "Clean up Application.cpp so it's not 10,000 lines (https://github.com"
 "/overte-org/overte/issues/931)"
 msgstr ""
+"Limpiar Application.cpp para que no tenga 10,000 líneas (https://github.com/"
+"overte-org/overte/issues/931)"
 
 #: ../../source/index.rst:206
 msgid ""
 "fix setting joint data by name (https://github.com/overte-"
 "org/overte/issues/613)"
 msgstr ""
+"Corregir el establecimiento de datos de articulaciones por nombre (https://"
+"github.com/overte-org/overte/issues/613)"
 
 #: ../../source/index.rst:207
 msgid ""
@@ -1481,7 +1477,7 @@ msgstr ""
 
 #: ../../source/index.rst:210
 msgid "Text entities"
-msgstr ""
+msgstr "Entidades de texto"
 
 #: ../../source/index.rst:212
 msgid ""
@@ -1490,36 +1486,48 @@ msgid ""
 "cannot add new fonts, which is especially bad because the current fonts "
 "only support ASCII character."
 msgstr ""
+"Nuestras entidades de texto necesitan atención. Son poco prácticas y, lo más "
+"importante, utilizan un formato personalizado que no está documentado en "
+"ningún lugar; esto impide agregar nuevas fuentes, lo cual es especialmente "
+"grave porque las actuales solo admiten caracteres ASCII."
 
 #: ../../source/index.rst:214
 msgid ""
 "clip to edges instead of completely disappearing (https://github.com"
 "/overte-org/overte/issues/583)"
 msgstr ""
+"Recortar en los bordes en lugar de desaparecer completamente (https://"
+"github.com/overte-org/overte/issues/583)"
 
 #: ../../source/index.rst:215
 msgid ""
 "Switch to a standard font format (https://github.com/overte-"
 "org/overte/issues/126)"
 msgstr ""
+"Cambiar a un formato de fuente estándar (https://github.com/overte-org/"
+"overte/issues/126)"
 
 #: ../../source/index.rst:218
 msgid "Graphics improvements II"
-msgstr ""
+msgstr "Mejoras gráficas II"
 
 #: ../../source/index.rst:220
 msgid "Add ambient light color (https://github.com/overte-org/overte/issues/6)"
 msgstr ""
+"Añadir color de luz ambiental (https://github.com/overte-org/overte/issues/6)"
 
 #: ../../source/index.rst:221
 msgid ""
 "Loading MToon materials directly from glTF (https://github.com/overte-"
 "org/overte/issues/933)"
 msgstr ""
+"Cargar materiales MToon directamente desde glTF (https://github.com/"
+"overte-org/overte/issues/933)"
 
 #: ../../source/index.rst:222
 msgid "Optional camera clipping (https://github.com/overte-org/overte/issues/618)"
 msgstr ""
+"Recorte de cámara opcional (https://github.com/overte-org/overte/issues/618)"
 
 #: ../../source/index.rst:223
 msgid ""
@@ -1527,6 +1535,10 @@ msgid ""
 " One fallback for if a shader fails to load/compile and one for if a user"
 " has procedural shaders disabled"
 msgstr ""
+"Mecanismo de respaldo para sombreadores personalizados (https://github.com/"
+"overte-org/overte/issues/640): uno si un sombreador falla al cargarse/"
+"compilar, y otro si el usuario tiene deshabilitados los sombreadores "
+"procedimentales"
 
 #: ../../source/index.rst:224
 msgid ""
@@ -1545,10 +1557,12 @@ msgid ""
 "add tone-mapping and Ambient Occlusion properties to Zone entities "
 "(https://github.com/overte-org/overte/issues/934)"
 msgstr ""
+"Añadir propiedades de mapeo de tonos y oclusión ambiental a las entidades de "
+"zona (https://github.com/overte-org/overte/issues/934)"
 
 #: ../../source/index.rst:228
 msgid "Miscellaneous improvements II"
-msgstr ""
+msgstr "Mejoras varias II"
 
 #: ../../source/index.rst:230
 msgid ""
@@ -1563,6 +1577,8 @@ msgid ""
 "Increase loading priority of avatar entities (https://github.com/overte-"
 "org/overte/issues/834)"
 msgstr ""
+"Mejorar el sistema actual de prioridad de entidades tipo avatar (https://"
+"github.com/overte-org/overte/issues/834)"
 
 #: ../../source/index.rst:232
 msgid ""
@@ -1577,16 +1593,20 @@ msgid ""
 "Improve current loading priority system (https://github.com/overte-"
 "org/overte/issues/834)"
 msgstr ""
+"Mejorar el sistema actual de prioridad de carga (https://github.com/"
+"overte-org/overte/issues/834)"
 
 #: ../../source/index.rst:234
 msgid ""
 "Add a property to influence load priority of entities (https://github.com"
 "/overte-org/overte/issues/834)"
 msgstr ""
+"Añadir una propiedad para influir en la prioridad de carga de las entidades "
+"(https://github.com/overte-org/overte/issues/834)"
 
 #: ../../source/index.rst:239
 msgid "2024-04-02 NLnet grant extended!"
-msgstr ""
+msgstr "2024-04-02 ¡Subvención de NLnet extendida!"
 
 #: ../../source/index.rst:241
 msgid ""
@@ -1598,7 +1618,7 @@ msgstr ""
 
 #: ../../source/index.rst:245
 msgid "Linux FHS Support"
-msgstr ""
+msgstr "Soporte para FHS en Linux"
 
 #: ../../source/index.rst:247
 msgid ""
@@ -1606,46 +1626,53 @@ msgid ""
 "for an application. This work would involve adopting it, and adding some "
 "nice improvements as well."
 msgstr ""
+"El estándar Linux Filesystem Hierarchy (FHS) define la estructura adecuada "
+"de archivos para una aplicación. Este trabajo implicaría adoptarlo y además "
+"implementar algunas mejoras importantes."
 
 #: ../../source/index.rst:249
 msgid "This will:"
-msgstr ""
+msgstr "Esto permitirá:"
 
 #: ../../source/index.rst:251
 msgid "Make packaging easier and allow inclusion in distributions."
-msgstr ""
+msgstr "Facilitar la creación de paquetes e inclusión en distribuciones."
 
 #: ../../source/index.rst:252
 msgid "Make SELinux easier."
-msgstr ""
+msgstr "Facilitar la integración con SELinux."
 
 #: ../../source/index.rst:253
 msgid "Allow easy instancing out of the box."
-msgstr ""
+msgstr "Permitir instanciación sencilla desde el inicio."
 
 #: ../../source/index.rst:254
 msgid "Make Mac packaging easier."
-msgstr ""
+msgstr "Facilitar el empaquetado para Mac."
 
 #: ../../source/index.rst:256 ../../source/index.rst:269
 #: ../../source/index.rst:282 ../../source/index.rst:298
 #: ../../source/index.rst:321
 msgid "Tasks:"
-msgstr ""
+msgstr "Tareas:"
 
 #: ../../source/index.rst:258
 msgid ""
 "Domain server/assignment client implementation (https://github.com"
 "/overte-org/overte/issues/903)"
 msgstr ""
+"Implementación del servidor de dominio/cliente de asignación (https://"
+"github.com/overte-org/overte/issues/903)"
 
 #: ../../source/index.rst:259
 msgid "Interface implementation (https://github.com/overte-org/overte/issues/904)"
 msgstr ""
+"Implementación de la interfaz (https://github.com/overte-org/overte/issues/"
+"904)"
 
 #: ../../source/index.rst:263
 msgid "LDAP Support"
-msgstr ""
+msgstr "Soporte LDAP"
 
 #: ../../source/index.rst:265
 msgid ""
@@ -1662,6 +1689,11 @@ msgid ""
 "authentication. We'd save the need to write that code ourselves, which is"
 " of little interest and has been done better by other projects."
 msgstr ""
+"Esto ayudará a que Overte se integre mucho mejor en estructuras corporativas "
+"y universitarias. Podrían usar su propio sistema interno para controlar la "
+"autenticación. Nos ahorraríamos tener que escribir ese código nosotros "
+"mismos, el cual tiene poco interés y ya ha sido implementado mejor por otros "
+"proyectos."
 
 #: ../../source/index.rst:271
 msgid ""
@@ -1693,7 +1725,7 @@ msgstr ""
 
 #: ../../source/index.rst:277
 msgid "IPv6 Support"
-msgstr ""
+msgstr "Soporte para IPv6"
 
 #: ../../source/index.rst:279
 msgid ""
@@ -1703,24 +1735,35 @@ msgid ""
 "already are charging extra for IPv4 addresses, so supporting IPv6 helps "
 "making hosting domains cheaper."
 msgstr ""
+"La adopción de IPv6 ha alcanzado niveles buenos recientemente, y es "
+"especialmente importante en entornos con escasez de direcciones IPv4, como "
+"empresas, universidades, nubes y despliegues a gran escala. Algunos "
+"proveedores ya cobran extra por direcciones IPv4, por lo que soportar IPv6 "
+"ayuda a reducir los costos de alojamiento de dominios."
 
 #: ../../source/index.rst:284
 msgid ""
 "Basic support in domain web UI. (https://github.com/overte-"
 "org/overte/issues/908)"
 msgstr ""
+"Soporte básico en la interfaz web del dominio. (https://github.com/"
+"overte-org/overte/issues/908)"
 
 #: ../../source/index.rst:285
 msgid ""
 "Support for fetching assets over IPv6 in interface. (https://github.com"
 "/overte-org/overte/issues/909)"
 msgstr ""
+"Soporte para la descarga de recursos mediante IPv6 en la interfaz. (https://"
+"github.com/overte-org/overte/issues/909)"
 
 #: ../../source/index.rst:286
 msgid ""
 "Support for domains running on IPv6. (https://github.com/overte-"
 "org/overte/issues/910)"
 msgstr ""
+"Soporte para dominios que operan sobre IPv6. (https://github.com/overte-org/"
+"overte/issues/910)"
 
 #: ../../source/index.rst:291
 msgid "SELinux"
@@ -1741,22 +1784,33 @@ msgid ""
 "instance, a domain exploit could still break the domain, but couldn't use"
 " the server to attack other computers or expose the user's private data."
 msgstr ""
+"SELinux aislaría el servidor de dominio y, opcionalmente, la interfaz, para "
+"garantizar que cualquier exploit no pueda afectar el resto del sistema. Por "
+"ejemplo, una vulnerabilidad en el dominio podría afectar al dominio, pero no "
+"permitiría usar el servidor para atacar otros equipos ni exponer los datos "
+"privados del usuario."
 
 #: ../../source/index.rst:300
 msgid "Confine domain-server. (https://github.com/overte-org/overte/issues/911)"
 msgstr ""
+"Restringir el servidor de dominio mediante SELinux. (https://github.com/"
+"overte-org/overte/issues/911)"
 
 #: ../../source/index.rst:301
 msgid ""
 "Confine assignment clients. (https://github.com/overte-"
 "org/overte/issues/912)"
 msgstr ""
+"Restringir los clientes de asignación. (https://github.com/overte-org/overte/"
+"issues/912)"
 
 #: ../../source/index.rst:302
 msgid ""
 "Attempt supporting multiple instances with isolation. (https://github.com"
 "/overte-org/overte/issues/913)"
 msgstr ""
+"Intentar soportar múltiples instancias con aislamiento. (https://github.com/"
+"overte-org/overte/issues/913)"
 
 #: ../../source/index.rst:303
 msgid ""
@@ -1769,40 +1823,45 @@ msgstr ""
 #: ../../source/index.rst:304
 msgid "Confine interface. (https://github.com/overte-org/overte/issues/915)"
 msgstr ""
+"Restringir la interfaz. (https://github.com/overte-org/overte/issues/915)"
 
 #: ../../source/index.rst:308
 msgid "Canvas texture"
-msgstr ""
+msgstr "Textura de lienzo (canvas)"
 
 #: ../../source/index.rst:310
 msgid ""
 "This would implement a new concept of a software defined canvas texture. "
 "Scripts can draw on it, and clients receive updates."
 msgstr ""
+"Esto implementaría un nuevo concepto de textura de lienzo definida por "
+"software. Los scripts pueden dibujar sobre ella y los clientes recibirán "
+"actualizaciones."
 
 #: ../../source/index.rst:312
 msgid "This has a huge potential range of useful functionality:"
-msgstr ""
+msgstr "Esto tiene un amplio potencial de funcionalidades útiles:"
 
 #: ../../source/index.rst:314
 msgid "Software defined textures"
-msgstr ""
+msgstr "Texturas definidas por software"
 
 #: ../../source/index.rst:315
 msgid "Script-generated nametags, banners, status displays, etc."
 msgstr ""
+"Etiquetas de nombre, pancartas, paneles de estado generados por scripts, etc."
 
 #: ../../source/index.rst:316
 msgid "Screen sharing without any external dependencies"
-msgstr ""
+msgstr "Compartir pantalla sin dependencias externas"
 
 #: ../../source/index.rst:317
 msgid "Whiteboard"
-msgstr ""
+msgstr "Pizarra digital"
 
 #: ../../source/index.rst:318
 msgid "Synchronized web entity"
-msgstr ""
+msgstr "Entidad web sincronizada"
 
 #: ../../source/index.rst:319
 msgid ""
@@ -1832,17 +1891,19 @@ msgstr ""
 
 #: ../../source/index.rst:325
 msgid "Screen sharing (https://github.com/overte-org/overte/issues/918)"
-msgstr ""
+msgstr "Compartir pantalla (https://github.com/overte-org/overte/issues/918)"
 
 #: ../../source/index.rst:326
 msgid ""
 "Synchronized web surface. (https://github.com/overte-"
 "org/overte/issues/919)"
 msgstr ""
+"Superficie web sincronizada. (https://github.com/overte-org/overte/issues/"
+"919)"
 
 #: ../../source/index.rst:331
 msgid "2024-02-24 We've obtained an NLnet grant!"
-msgstr ""
+msgstr "2024-02-24 ¡Hemos obtenido una subvención de NLnet!"
 
 #: ../../source/index.rst:333
 msgid ""
@@ -1875,6 +1936,9 @@ msgid ""
 "listed below. There exists the possibility of more work being agreed "
 "between us and NLnet."
 msgstr ""
+"Los fondos se utilizarán para pagar a desarrolladores que trabajarán en las "
+"áreas enumeradas a continuación. Existe la posibilidad de acordar más "
+"trabajos entre nosotros y NLnet."
 
 #: ../../source/index.rst:343
 msgid "The agreed on deadline for completion is February 17, 2025."
@@ -1891,63 +1955,76 @@ msgstr ""
 
 #: ../../source/index.rst:348
 msgid "Audio Overhaul"
-msgstr ""
+msgstr "Reestructuración del audio"
 
 #: ../../source/index.rst:351
 msgid ""
 "Move audio zones to zone properties (https://github.com/overte-"
 "org/overte/issues/69)"
 msgstr ""
+"Mover las zonas de audio a propiedades de zona (https://github.com/"
+"overte-org/overte/issues/69)"
 
 #: ../../source/index.rst:352
 msgid "Add audio entities (https://github.com/overte-org/overte/issues/69)"
 msgstr ""
+"Añadir entidades de audio (https://github.com/overte-org/overte/issues/69)"
 
 #: ../../source/index.rst:355
 msgid "Miscelaneous Improvements"
-msgstr ""
+msgstr "Mejoras varias"
 
 #: ../../source/index.rst:357
 msgid ""
 "Add a wantsKeyboardFocus property for web entities (https://github.com"
 "/overte-org/overte/issues/6)"
 msgstr ""
+"Añadir una propiedad wantsKeyboardFocus para entidades web (https://"
+"github.com/overte-org/overte/issues/6)"
 
 #: ../../source/index.rst:358
 msgid ""
 "Add interpolation on model animations (https://github.com/overte-"
 "org/overte/issues/317)"
 msgstr ""
+"Añadir interpolación en las animaciones de modelos (https://github.com/"
+"overte-org/overte/issues/317)"
 
 #: ../../source/index.rst:361
 msgid "Graphics Improvements"
-msgstr ""
+msgstr "Mejoras gráficas"
 
 #: ../../source/index.rst:363
 msgid ""
 "Fix shadow culling on back-faces (https://github.com/overte-"
 "org/overte/issues/547)"
 msgstr ""
+"Corregir la eliminación de sombras en las caras traseras (https://github.com/"
+"overte-org/overte/issues/547)"
 
 #: ../../source/index.rst:364
 msgid ""
 "Allow opaque particles (https://github.com/overte-"
 "org/overte/issues/776#issuecomment-1868203856)"
 msgstr ""
+"Permitir partículas opacas (https://github.com/overte-org/overte/issues/"
+"776#issuecomment-1868203856)"
 
 #: ../../source/index.rst:365
 msgid ""
 "Finish overhauling TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
+"Finalizar la reestructuración del TAA con velocity buffer (https://"
+"github.com/overte-org/overte/pull/501)"
 
 #: ../../source/index.rst:366
 msgid "Add support for GPU particles"
-msgstr ""
+msgstr "Añadir soporte para partículas por GPU"
 
 #: ../../source/index.rst:369
 msgid "Vulkan"
-msgstr ""
+msgstr "Vulkan"
 
 #: ../../source/index.rst:371
 msgid ""
@@ -1956,6 +2033,11 @@ msgid ""
 "even deprecating it completely. AMD pays very little attention to it, and"
 " driver bugs are a frequent annoyance."
 msgstr ""
+"Actualmente estamos usando OpenGL para la renderización 3D. Pero, "
+"desafortunadamente, ha caído en desuso en los últimos años y algunas "
+"plataformas como Mac incluso lo están desaprobando completamente. AMD le "
+"presta muy poca atención y los errores en los controladores son una molestia "
+"frecuente."
 
 #: ../../source/index.rst:373
 msgid ""
@@ -1963,32 +2045,32 @@ msgid ""
 "renderer, and should fix our Mac support woes."
 msgstr ""
 "Vulkan proporcionará un renderizador mucho más moderno, de mayor rendimiento "
-"y con más soporte, y debería solucionar nuestros problemas de compatibilidad "
-"con Mac."
+"y con mayor soporte, y debería solucionar nuestros problemas de "
+"compatibilidad con Mac."
 
 #: ../../source/index.rst:375
 msgid "Wireframe rendering"
-msgstr ""
+msgstr "Renderizado en modo alámbrico"
 
 #: ../../source/index.rst:376
 msgid "Forward renderer (for low end hardware)"
-msgstr ""
+msgstr "Renderizador directo (para hardware de gama baja)"
 
 #: ../../source/index.rst:377
 msgid "Deferred renderer (fully featured)"
-msgstr ""
+msgstr "Renderizador diferido (completo)"
 
 #: ../../source/index.rst:378
 msgid "Optimization"
-msgstr ""
+msgstr "Optimización"
 
 #: ../../source/index.rst:379
 msgid "Frame transfer to VR plugin"
-msgstr ""
+msgstr "Transferencia de cuadros al complemento de VR"
 
 #: ../../source/index.rst:382
 msgid "Build system improvements"
-msgstr ""
+msgstr "Mejoras al sistema de construcción"
 
 #: ../../source/index.rst:383
 msgid ""
@@ -1996,22 +2078,25 @@ msgid ""
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
 msgstr ""
+"Esto hará que trabajar en Overte sea más agradable y que el proceso de "
+"construcción sea más sencillo. Esto es importante para facilitar el "
+"mantenimiento y hacer la vida más fácil a futuros colaboradores."
 
 #: ../../source/index.rst:385
 msgid "Switching to Conan"
-msgstr ""
+msgstr "Migración a Conan"
 
 #: ../../source/index.rst:386
 msgid "Updating documentation"
-msgstr ""
+msgstr "Actualización de la documentación"
 
 #: ../../source/index.rst:387
 msgid "Improving build process"
-msgstr ""
+msgstr "Mejora del proceso de construcción"
 
 #: ../../source/index.rst:392
 msgid "NLnet, for giving us this great opportunity."
-msgstr ""
+msgstr "NLnet, por brindarnos esta gran oportunidad."
 
 #: ../../source/index.rst:394
 msgid "Sam Gondelman, Karol Suprynowicz and AnotherFoxGuy for taking on the work."
@@ -2020,7 +2105,7 @@ msgstr ""
 
 #: ../../source/index.rst:402
 msgid "2023-04-01 New website"
-msgstr ""
+msgstr "2023-04-01 Nuevo sitio web"
 
 #: ../../source/index.rst:404
 msgid ""
@@ -2030,6 +2115,11 @@ msgid ""
 "This also allows us, among other things, to finally translate the website"
 " to different languages using Weblate."
 msgstr ""
+"Dado que nuestro antiguo sitio web basado en 11ty estaba sin mantenimiento y "
+"nadie sabía cómo editarlo, creamos un sitio web completamente nuevo usando "
+"Sphinx, el mismo sistema que hemos utilizado durante años para nuestra "
+"documentación principal. Esto también nos permite, entre otras cosas, "
+"traducir finalmente el sitio web a diferentes idiomas utilizando Weblate."
 
 #: ../../source/index.rst:407
 msgid ""
@@ -2037,6 +2127,8 @@ msgid ""
 "Overte, head over to `weblate.overte.org 🔗 "
 "<https://weblate.overte.org/>`_."
 msgstr ""
+"Si deseas ayudar a traducir este sitio web u otras partes de Overte, visita: "
+"`weblate.overte.org 🔗 <https://weblate.overte.org/>`_."
 
 #: ../../source/overte_ev.rst:5
 msgid ""
@@ -2048,7 +2140,7 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:10
 msgid "Articles of association"
-msgstr ""
+msgstr "Estatutos de la asociación"
 
 #: ../../source/overte_ev.rst:12
 msgid ""
@@ -2056,20 +2148,26 @@ msgid ""
 "associations bylaws. They regulate what the association, its members, and"
 " the board can and cannot do."
 msgstr ""
+"Los estatutos de la asociación, llamados “Satzung” en alemán, son el "
+"reglamento interno de la asociación. Regulan lo que la asociación, sus "
+"miembros y la junta directiva pueden o no pueden hacer."
 
 #: ../../source/overte_ev.rst:15
 msgid "Take a look at them here:"
-msgstr ""
+msgstr "Puedes consultarlos aquí:"
 
 #: ../../source/overte_ev.rst:17
 msgid "`Overte e.V. Satzung – German original <https://satzung.overte.org/de/>`_"
 msgstr ""
+"`Overte e.V. Satzung – original en alemán <https://satzung.overte.org/de/>`_"
 
 #: ../../source/overte_ev.rst:18
 msgid ""
 "`Overte e.V. Articles of association – English translation "
 "<https://satzung.overte.org/en/>`_"
 msgstr ""
+"`Estatutos de la Asociación Overte e.V. – traducción al español <https://"
+"satzung.overte.org/es/>`_"
 
 #: ../../source/overte_ev.rst:21
 msgid ""
@@ -2077,10 +2175,13 @@ msgid ""
 "we try to make sure that the English translation is as accurate as "
 "possible. If you notice any discrepancies, please get in touch with us."
 msgstr ""
+"Aunque el original en alemán tiene prioridad sobre la traducción al español, "
+"procuramos que la traducción sea lo más precisa posible. Si notas alguna "
+"discrepancia, por favor comunícate con nosotros."
 
 #: ../../source/overte_ev.rst:27
 msgid "Membership"
-msgstr ""
+msgstr "Membresía"
 
 #: ../../source/overte_ev.rst:30
 msgid ""
@@ -2096,6 +2197,9 @@ msgid ""
 "member. As a member you are allowed to vote in association meetings. This"
 " also includes board member elections."
 msgstr ""
+"Eres bienvenido a unirte a la asociación como miembro o miembro colaborador. "
+"Como miembro, puedes votar en las reuniones de la asociación, incluidas las "
+"elecciones de la junta directiva."
 
 #: ../../source/overte_ev.rst:35
 msgid ""
@@ -2113,10 +2217,14 @@ msgid ""
 "address, and email address, to application@overte.org, or our postal "
 "address."
 msgstr ""
+"Si deseas unirte, por favor familiarízate con los estatutos enlazados "
+"anteriormente. Para unirte a la asociación, envía una solicitud con tu "
+"nombre real, nombre de usuario (opcional), dirección postal y correo "
+"electrónico a application@overte.org o a nuestra dirección postal."
 
 #: ../../source/overte_ev.rst:44
 msgid "Current Board"
-msgstr ""
+msgstr "Junta actual"
 
 #: ../../source/overte_ev.rst:47
 msgid ""
@@ -2136,11 +2244,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:51
 msgid "Speaks Spanish, English and Russian."
-msgstr ""
+msgstr "Habla español, inglés y ruso."
 
 #: ../../source/overte_ev.rst:52
 msgid "Chairman and developer."
-msgstr ""
+msgstr "Presidente y desarrollador."
 
 #: ../../source/overte_ev.rst:53
 msgid ""
@@ -2148,6 +2256,8 @@ msgid ""
 "<https://matrix.to/#/@dale_glass:matrix.org>`_, Discord: daleglass, "
 "E-Mail: vadim.troshchinskiy@overte.org."
 msgstr ""
+"Matrix: `@dale_glass:matrix.org <https://matrix.to/#/@dale_glass:matrix.org>`"
+"_, Discord: daleglass, Correo electrónico: vadim.troshchinskiy@overte.org."
 
 #: ../../source/overte_ev.rst:61
 msgid "|Julian_Groß| Julian Groß"
@@ -2159,11 +2269,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:62
 msgid "Speaks German, English and basic Japanese."
-msgstr ""
+msgstr "Habla alemán, inglés y japonés básico."
 
 #: ../../source/overte_ev.rst:63
 msgid "Treasurer, deputy chairman, and developer."
-msgstr ""
+msgstr "Tesorero, vicepresidente y desarrollador."
 
 #: ../../source/overte_ev.rst:64
 msgid ""
@@ -2171,6 +2281,8 @@ msgid ""
 "<https://matrix.to/#/@juliangro:overte.org>`_, E-Mail: "
 "julian.gro@overte.org."
 msgstr ""
+"Matrix: `@juliangro:overte.org <https://matrix.to/#/@juliangro:overte.org>`"
+"_, Correo electrónico: julian.gro@overte.org."
 
 #: ../../source/overte_ev.rst:72
 msgid "|Kreolis| Kreolis"
@@ -2182,15 +2294,15 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:73
 msgid "Speaks German and English."
-msgstr ""
+msgstr "Habla alemán e inglés."
 
 #: ../../source/overte_ev.rst:74
 msgid "Secretary and second deputy chairman."
-msgstr ""
+msgstr "Secretario y segundo vicepresidente."
 
 #: ../../source/overte_ev.rst:82
 msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr ""
+msgstr "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
 
 #: ../../source/overte_ev.rst:86
 msgid "Karol_Suprynowicz"
@@ -2198,15 +2310,15 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:83
 msgid "Speaks Polish and English."
-msgstr ""
+msgstr "Habla polaco e inglés."
 
 #: ../../source/overte_ev.rst:84
 msgid "Graphics specialist and developer"
-msgstr ""
+msgstr "Especialista en gráficos y desarrollador"
 
 #: ../../source/overte_ev.rst:92
 msgid "|HifiExperiments| HifiExperiments"
-msgstr ""
+msgstr "|HifiExperiments| HifiExperiments"
 
 #: ../../source/overte_ev.rst:96
 msgid "HifiExperiments"
@@ -2214,11 +2326,11 @@ msgstr ""
 
 #: ../../source/overte_ev.rst:93
 msgid "Speaks English."
-msgstr ""
+msgstr "Habla inglés."
 
 #: ../../source/overte_ev.rst:94
 msgid "Core Engine & graphics specialist"
-msgstr ""
+msgstr "Especialista en motor principal y gráficos"
 
 #: ../../source/privacy_policy.rst:5
 msgid ""
@@ -2227,6 +2339,9 @@ msgid ""
 "information that is collected and recorded by overte.org and how we use "
 "it."
 msgstr ""
+"Esta es la política de privacidad de overte.org, accesible desde https://"
+"overte.org. Este documento de Política de privacidad contiene los tipos de "
+"información que recopila y registra overte.org y cómo los usamos."
 
 #: ../../source/privacy_policy.rst:7
 msgid ""
@@ -2239,6 +2354,8 @@ msgstr ""
 #: ../../source/privacy_policy.rst:9
 msgid "We are a Data Controller of your information."
 msgstr ""
+"Somos responsables del tratamiento de sus datos personales (Controlador de "
+"Datos)."
 
 #: ../../source/privacy_policy.rst:11
 msgid ""
@@ -2246,14 +2363,17 @@ msgid ""
 " described in this Privacy Policy depends on the Personal Information we "
 "collect and the specific context in which we collect the information:"
 msgstr ""
+"La base legal de Overte e.V. para recopilar y usar la información personal "
+"descrita en esta Política de privacidad depende de los datos personales que "
+"recopilamos y del contexto específico en el que los recopilamos:"
 
 #: ../../source/privacy_policy.rst:13
 msgid "Overte e.V. needs to perform a contract with you"
-msgstr ""
+msgstr "Overte e.V. necesita realizar un contrato con usted"
 
 #: ../../source/privacy_policy.rst:14
 msgid "You have given Overte e.V. permission to do so"
-msgstr ""
+msgstr "Usted ha dado permiso a Overte e.V. para hacerlo"
 
 #: ../../source/privacy_policy.rst:15
 msgid ""
@@ -2265,7 +2385,7 @@ msgstr ""
 
 #: ../../source/privacy_policy.rst:16
 msgid "Overte e.V. needs to comply with the law"
-msgstr ""
+msgstr "Overte e.V. necesita cumplir con la ley"
 
 #: ../../source/privacy_policy.rst:18
 msgid ""
@@ -2274,6 +2394,11 @@ msgid ""
 " and use your information to the extent necessary to comply with our "
 "legal obligations, resolve disputes, and enforce our policies."
 msgstr ""
+"Overte e.V. conservará su información personal solo durante el tiempo "
+"necesario para los fines establecidos en esta Política de Privacidad. "
+"Conservaremos y utilizaremos su información en la medida necesaria para "
+"cumplir con nuestras obligaciones legales, resolver disputas y hacer cumplir "
+"nuestras políticas."
 
 #: ../../source/privacy_policy.rst:20
 msgid ""
@@ -2282,6 +2407,10 @@ msgid ""
 "Information we hold about you and if you want it to be removed from our "
 "systems, please contact us."
 msgstr ""
+"Si usted reside en el Espacio Económico Europeo (EEE), tiene ciertos "
+"derechos de protección de datos. Si desea saber qué información personal "
+"tenemos sobre usted y desea que se elimine de nuestros sistemas, comuníquese "
+"con nosotros."
 
 #: ../../source/privacy_policy.rst:22
 msgid "In certain circumstances, you have the following data protection rights:"
@@ -2297,27 +2426,27 @@ msgstr ""
 
 #: ../../source/privacy_policy.rst:25
 msgid "The right of rectification."
-msgstr ""
+msgstr "El derecho a la rectificación."
 
 #: ../../source/privacy_policy.rst:26
 msgid "The right to object."
-msgstr ""
+msgstr "El derecho a objeción."
 
 #: ../../source/privacy_policy.rst:27
 msgid "The right of restriction."
-msgstr ""
+msgstr "El derecho a la limitación del tratamiento."
 
 #: ../../source/privacy_policy.rst:28
 msgid "The right to data portability"
-msgstr ""
+msgstr "El derecho a la portabilidad de los datos"
 
 #: ../../source/privacy_policy.rst:29
 msgid "The right to withdraw consent"
-msgstr ""
+msgstr "El derecho a retirar el consentimiento"
 
 #: ../../source/privacy_policy.rst:33
 msgid "Log Files"
-msgstr ""
+msgstr "Archivos de registro (Logs)"
 
 #: ../../source/privacy_policy.rst:35
 msgid ""
@@ -2330,10 +2459,19 @@ msgid ""
 "that is personally identifiable. The purpose of the information is for "
 "analyzing trends, administering the site."
 msgstr ""
+"overte.org sigue un procedimiento estándar de uso de archivos de registro "
+"(logs). Estos archivos registran a los visitantes cuando acceden al sitio "
+"web. Todas las empresas de alojamiento lo hacen como parte del análisis de "
+"servicios de hosting. La información recopilada por los archivos de registro "
+"incluye direcciones de protocolo de internet (IP), tipo de navegador, "
+"proveedor de servicios de internet (ISP), fecha y hora, páginas de "
+"referencia/salida, y posiblemente el número de clics. Esta información no "
+"está vinculada a datos personales identificables. Su propósito es analizar "
+"tendencias y administrar el sitio."
 
 #: ../../source/privacy_policy.rst:39
 msgid "Third Party Privacy Policies"
-msgstr ""
+msgstr "Políticas de privacidad de terceros"
 
 #: ../../source/privacy_policy.rst:41
 msgid ""
@@ -2342,6 +2480,11 @@ msgid ""
 "third-party servers for more detailed information. It may include their "
 "practices and instructions about how to opt-out of certain options."
 msgstr ""
+"La política de privacidad de overte.org no se aplica a otros sitios web. Por "
+"lo tanto, le recomendamos consultar las políticas de privacidad de estos "
+"servicios de terceros para obtener información más detallada. Estas pueden "
+"incluir sus prácticas y las instrucciones sobre cómo excluirse de ciertas "
+"opciones."
 
 #: ../../source/privacy_policy.rst:43
 msgid ""
@@ -2350,10 +2493,14 @@ msgid ""
 "specific web browsers, it can be found at the browsers' respective "
 "websites."
 msgstr ""
+"Puede elegir desactivar las cookies mediante las opciones individuales de su "
+"navegador. Para obtener información más detallada sobre la gestión de "
+"cookies en navegadores específicos, consulte los sitios web correspondientes "
+"de cada navegador."
 
 #: ../../source/privacy_policy.rst:47
 msgid "Fediverse"
-msgstr ""
+msgstr "Fediverse"
 
 #: ../../source/privacy_policy.rst:49
 msgid ""
@@ -2364,10 +2511,16 @@ msgid ""
 "`privacy policy <https://joinmastodon.org/privacy-policy>`_ of that "
 "server applies for all interactions with the content."
 msgstr ""
+"En este sitio web incorporamos aplicaciones y contenido del `Fediverse "
+"<https://fediverse.party/>`_. Específicamente, utilizamos la red social `"
+"mastodon <https://joinmastodon.org/>`_. Este servicio no registra "
+"información adicional, pero si está conectado a su servidor de Mastodon, la `"
+"política de privacidad de dicho servidor <https://joinmastodon.org/privacy-"
+"policy>`_ se aplica a todas las interacciones con el contenido."
 
 #: ../../source/privacy_policy.rst:53
 msgid "Children's Information"
-msgstr ""
+msgstr "Información sobre menores"
 
 #: ../../source/privacy_policy.rst:55
 msgid ""
@@ -2375,6 +2528,9 @@ msgid ""
 "using the internet. We encourage parents and guardians to observe, "
 "participate in, and/or monitor and guide their online activity."
 msgstr ""
+"Otra parte de nuestra prioridad es brindar protección a los menores mientras "
+"usan internet. Animamos a los padres y tutores a observar, participar y/o "
+"supervisar y guiar la actividad en línea de los menores."
 
 #: ../../source/privacy_policy.rst:57
 msgid ""
@@ -2384,10 +2540,15 @@ msgid ""
 "to contact us immediately and we will do our best efforts to promptly "
 "remove such information from our records."
 msgstr ""
+"overte.org no recopila conscientemente ningún dato personal identificable de "
+"menores de 13 años. Si cree que su hijo ha proporcionado este tipo de "
+"información en nuestro sitio web, le animamos a que se ponga en contacto con "
+"nosotros de inmediato y haremos todo lo posible por eliminar dicha "
+"información de nuestros registros lo antes posible."
 
 #: ../../source/privacy_policy.rst:61
 msgid "Online Privacy Policy Only"
-msgstr ""
+msgstr "Política de Privacidad en Línea"
 
 #: ../../source/privacy_policy.rst:63
 msgid ""
@@ -2396,10 +2557,15 @@ msgid ""
 "and/or collect in overte.org. This policy is not applicable to any "
 "information collected offline or via channels other than this website."
 msgstr ""
+"Nuestra Política de privacidad se aplica únicamente a nuestras actividades "
+"en línea y es válida para los visitantes de nuestro sitio web con respecto a "
+"la información que compartieron y/o recopilaron en overte.org. Esta política "
+"no se aplica a la información recopilada fuera de línea o por otros canales "
+"que no sean este sitio web."
 
 #: ../../source/privacy_policy.rst:67
 msgid "Consent"
-msgstr ""
+msgstr "Consentimiento"
 
 #: ../../source/privacy_policy.rst:69
 msgid ""
