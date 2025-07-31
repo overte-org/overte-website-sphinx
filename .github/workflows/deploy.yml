@@ -74,6 +74,11 @@ jobs:
       run: |
        make BUILDDIR="build/ru" SPHINXOPTS="-Dlanguage=ru" html
        mv build/ru/html/ output/ru/
+    
+    - name: Build Spanish translation
+      run: |
+       make BUILDDIR="build/es" SPHINXOPTS="-Dlanguage=es" html
+       mv build/es/html/ output/es/
 
     - name: Deploy website
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
