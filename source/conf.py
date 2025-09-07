@@ -87,8 +87,8 @@ rst_prolog = """
 
 .. note::
 
-    Help us hire a team member! :doc:`Donate ♥︎ <donate>` or `Learn more <index.html#help-us-hire-a-team-member>`_. |br|
-    So far we have raised 562,77€ of 3000€.
+    Thank you to everyone who :doc:`donated︎ <donate>`! |br|
+    We have raised over 600€ in addition to our usual budget. Check out the results in our `progress report <index.html#august-progress-report>`_.
 
 """
 
