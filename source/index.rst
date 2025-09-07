@@ -125,7 +125,7 @@ With the new Conan dependency manager, overhauled build system, and experience w
 Depot.dev
 """""""""
 
-Overte got its first corporate sponsor: Depot.dev is graciously providing us with their Continuous Integration services for free.
+Overte got its first corporate sponsor: `Depot.dev 🔗 <https://depot.dev/?utm_source=Overte>`_ is graciously providing us with their Continuous Integration services for free.
 
 With us needing to build Qt from source on Windows, the free GitHub hosted Runners were timing out because our builds would take over 6 hours any time there was a Qt package cache miss. So we needed a solution which didn't involve constant babysitting of the CI pipeline, which would have defeated the point of having a CI pipeline in the first place. Getting faster Runners from GitHub would have costed us upwards of 2000€ extra per year, which frankly would have broken the bank.
 
