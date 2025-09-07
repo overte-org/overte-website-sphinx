@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-07 11:40+0000\n"
+"POT-Creation-Date: 2025-09-07 18:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: sq\n"
@@ -949,8 +949,9 @@ msgstr ""
 
 #: ../../source/index.rst:128
 msgid ""
-"Overte got its first corporate sponsor: Depot.dev is graciously providing"
-" us with their Continuous Integration services for free."
+"Overte got its first corporate sponsor: `Depot.dev 🔗 "
+"<https://depot.dev/?utm_source=Overte>`_ is graciously providing us with "
+"their Continuous Integration services for free."
 msgstr ""
 
 #: ../../source/index.rst:130
@@ -3186,5 +3187,12 @@ msgstr ""
 #~ " <index.html#help-us-hire-a-team-member>`_. "
 #~ "|br| So far we have raised 562,77€"
 #~ " of 3000€."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Overte got its first corporate sponsor:"
+#~ " Depot.dev is graciously providing us "
+#~ "with their Continuous Integration services "
+#~ "for free."
 #~ msgstr ""
 
