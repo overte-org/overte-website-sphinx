@@ -139,21 +139,21 @@ Progress
 
 Frankly speaking, so much stuff got done this month that I am having a hard time deciding what to mention.
 
-On my side, I have spent most of my time with fixing up our Qt package for Windows and doing more build system improvements. Big thanks to Karol Suprynowicz for finding lots of additional issues in my Qt package. 😅
+On my side, I have spent most of my time with fixing up our Qt package for Windows and doing more build system improvements. Big thanks to 74hc595 for finding lots of additional issues in my Qt package. 😅
 Together, we found out that release builds were actually building with Qt asserts enabled. Asserts are basically deliberate crashes, which exist to make us developers aware of something unexpected happening. They shouldn't be enabled in a release build, as the application often continues to function even when something we didn't expect happens.
 It's quite frustrating working on something that takes three hours to build any time there is a change on an operating system you aren't usually developing on, but I am quite happy with the results.
 
 Thanks to NLnet, I also started working on macOS support. For now, I got all the required dependencies to build and am waiting for Vulkan to be merged and our update to libnode 22 to be finished.
 
 
-Karol did a *lot* of work as usual. They fixed multiple audio issues, helped a lot with getting Pull Requests finished, tested and merged, fixed that weird bug with people starting floating while having their camera zoomed into the back of their heads, fixed multiple crashes on Windows, … you get the idea.
+74hc595 did a *lot* of work as usual. They fixed multiple audio issues, helped a lot with getting Pull Requests finished, tested and merged, fixed that weird bug with people starting floating while having their camera zoomed into the back of their heads, fixed multiple crashes on Windows, … you get the idea.
 
 
 Ada also did a lot of miscellaneous bug fixes, but also upstreamed their Context menu, fixed a lot of issues with VR and OpenXR, added OpenXR body tracking support, added multiple new JavaScript APIs, et cetera.
 We keep merging Pull Requests and Ada keeps opening new ones.
 
 
-HifiExperiments added initial VRM file format support, fixed remaining issues with his new multi-layered materials, and helped Ada and Karol with graphics work as usual.
+HifiExperiments added initial VRM file format support, fixed remaining issues with his new multi-layered materials, and helped Ada and 74hc595 with graphics work as usual.
 
 
 Alezia worked on improving the Snap app, added bookmarks and per-Place user counts to the Places app, and cleaned up the Places app's code.
