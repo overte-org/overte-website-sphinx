@@ -17,6 +17,10 @@ Linux
 Interface
 *********
 
+.. warning::
+
+    If you are using AppImageLauncher make sure you are using version 3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even from command line.
+
 .. button-link:: https://public.overte.org/build/overte/release/2025.09.1/Overte-2025.09.1-x86_64.AppImage
     :shadow:
     :color: primary
