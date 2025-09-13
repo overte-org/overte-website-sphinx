@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-07 18:26+0000\n"
+"POT-Creation-Date: 2025-09-13 20:24+0000\n"
 "PO-Revision-Date: 2025-04-11 04:01+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ko\n"
@@ -425,7 +425,7 @@ msgid "Downloads"
 msgstr "다운로드"
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2025.05.1."
+msgid "The current release of Overte is version 2025.09.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -487,7 +487,7 @@ msgstr "도메인 서버"
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.05.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.09.1/>`_."
 msgstr ""
 "아키텍처에 적합한 패키지를 '깃허브릴리스 페이지 🔗 <https://github.com/overte-"
 "org/overte/releases/tag/2023.11.1/>`_에서 선택하거나 'public.overte.org 🔗 "
@@ -3160,5 +3160,8 @@ msgstr "당사 웹사이트를 이용함으로써 귀하는 당사의 개인정�
 #~ " Depot.dev is graciously providing us "
 #~ "with their Continuous Integration services "
 #~ "for free."
+#~ msgstr ""
+
+#~ msgid "The current release of Overte is version 2025.05.1."
 #~ msgstr ""
 

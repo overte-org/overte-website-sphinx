@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-07 18:26+0000\n"
+"POT-Creation-Date: 2025-09-13 20:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: et\n"
@@ -404,7 +404,7 @@ msgid "Downloads"
 msgstr ""
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2025.05.1."
+msgid "The current release of Overte is version 2025.09.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -459,7 +459,7 @@ msgstr ""
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.05.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.09.1/>`_."
 msgstr ""
 
 #: ../../source/downloads.rst:43
@@ -3194,5 +3194,15 @@ msgstr ""
 #~ " Depot.dev is graciously providing us "
 #~ "with their Continuous Integration services "
 #~ "for free."
+#~ msgstr ""
+
+#~ msgid "The current release of Overte is version 2025.05.1."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Select the appropriate package for your"
+#~ " distribution and architecture from "
+#~ "`public.overte.org 🔗 "
+#~ "<https://public.overte.org/index.html#build/overte/release/2025.05.1/>`_."
 #~ msgstr ""
 
