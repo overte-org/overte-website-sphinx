@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-11 12:56+0000\n"
-"PO-Revision-Date: 2024-02-24 19:36+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2025-10-12 01:28+0000\n"
+"Last-Translator: Yan-K <a080123900@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://weblate.overte.org/"
+"projects/overte/overte-website/zh_Hant/>\n"
 "Language: zh_Hant\n"
-"Language-Team: Chinese (Traditional) "
-"<https://weblate.overte.org/projects/overte/overte-website/zh_Hant/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../<rst_prolog>:9
@@ -470,10 +471,12 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:37
+#, fuzzy
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
-msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod +x Overte.AppImage`。"
+msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod "
+"+x Overte.AppImage`。"
 
 #: ../../source/downloads.rst:43
 msgid "Domain Server"
@@ -2140,6 +2143,7 @@ msgid "Membership"
 msgstr "會員"
 
 #: ../../source/overte_ev.rst:30
+#, fuzzy
 msgid ""
 "To use Overte software or help develop the software it is **NOT** "
 "required to be an association member."
@@ -3059,4 +3063,3 @@ msgstr ""
 
 #~ msgid "19:00 UTC  Development meetup"
 #~ msgstr ""
-
