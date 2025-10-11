@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-13 20:30+0000\n"
+"POT-Creation-Date: 2025-10-11 12:56+0000\n"
 "PO-Revision-Date: 2025-02-15 17:30+0000\n"
 "Last-Translator: WRill <WRill@users.noreply.weblate.overte.org>\n"
 "Language: uk\n"
@@ -54,7 +54,7 @@ msgid "Saturday"
 msgstr "Субота"
 
 #: ../../source/calendar.rst:19
-msgid "19:00 UTC  Development meetup"
+msgid "17:00 UTC  Development meetup"
 msgstr ""
 
 #: ../../source/calendar.rst:23
@@ -3217,5 +3217,8 @@ msgstr ""
 #~ " distribution and architecture from "
 #~ "`public.overte.org 🔗 "
 #~ "<https://public.overte.org/index.html#build/overte/release/2025.05.1/>`_."
+#~ msgstr ""
+
+#~ msgid "19:00 UTC  Development meetup"
 #~ msgstr ""
 

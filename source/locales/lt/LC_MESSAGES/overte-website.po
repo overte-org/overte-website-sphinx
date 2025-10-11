@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-13 20:30+0000\n"
+"POT-Creation-Date: 2025-10-11 12:56+0000\n"
 "PO-Revision-Date: 2025-04-10 15:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: lt\n"
@@ -56,7 +56,7 @@ msgid "Saturday"
 msgstr ""
 
 #: ../../source/calendar.rst:19
-msgid "19:00 UTC  Development meetup"
+msgid "17:00 UTC  Development meetup"
 msgstr ""
 
 #: ../../source/calendar.rst:23
@@ -3023,5 +3023,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The current release of Overte is version 2025.05.1."
+#~ msgstr ""
+
+#~ msgid "19:00 UTC  Development meetup"
 #~ msgstr ""
 
