@@ -16,7 +16,7 @@ To convert to your local timezone, please ask your preferred search engine somet
 +-------------------------------+
 | Saturday                      |
 +===============================+
-| 19:00 UTC  Development meetup |
+| 17:00 UTC  Development meetup |
 +-------------------------------+
 
 +-------------------------------------------------+
