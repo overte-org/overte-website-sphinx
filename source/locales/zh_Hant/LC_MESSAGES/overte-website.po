@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 12:56+0000\n"
+"POT-Creation-Date: 2025-10-13 17:49+0000\n"
 "PO-Revision-Date: 2025-10-12 01:28+0000\n"
 "Last-Translator: Yan-K <a080123900@gmail.com>\n"
-"Language-Team: Chinese (Traditional Han script) <https://weblate.overte.org/"
-"projects/overte/overte-website/zh_Hant/>\n"
 "Language: zh_Hant\n"
+"Language-Team: Chinese (Traditional Han script) "
+"<https://weblate.overte.org/projects/overte/overte-website/zh_Hant/>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../<rst_prolog>:9
@@ -372,31 +371,24 @@ msgstr "可以透過以下幾種方式贊助："
 #, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
-"Credit card, SEPA Direct Debit"
+"Credit card, SEPA Direct Debit, Bancontact"
 msgstr "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - 金融卡, 信用卡"
 
 #: ../../source/donate.rst:13
-#, fuzzy
-msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
-"payment method you can think of"
-msgstr "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - 幾乎支援所有支付方式"
-
-#: ../../source/donate.rst:14
 msgid ""
 "Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Account number 1303331100"
 msgstr ""
 
-#: ../../source/donate.rst:15
+#: ../../source/donate.rst:14
 msgid ""
 "SEPA Direct Debit – Send a filled out `mandate "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
-" to accounting@overte.org or our postal adress together with how much you"
-" would like to contribute."
+" to accounting@overte.org or our postal address together with how much "
+"you would like to contribute."
 msgstr ""
 
-#: ../../source/donate.rst:16
+#: ../../source/donate.rst:15
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
@@ -404,7 +396,7 @@ msgstr ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
-#: ../../source/donate.rst:19
+#: ../../source/donate.rst:18
 #, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
@@ -475,8 +467,7 @@ msgstr ""
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
-msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod "
-"+x Overte.AppImage`。"
+msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod +x Overte.AppImage`。"
 
 #: ../../source/downloads.rst:43
 msgid "Domain Server"
@@ -3063,3 +3054,19 @@ msgstr ""
 
 #~ msgid "19:00 UTC  Development meetup"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " – Almost any payment method you "
+#~ "can think of"
+#~ msgstr "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - 幾乎支援所有支付方式"
+
+#~ msgid ""
+#~ "SEPA Direct Debit – Send a filled"
+#~ " out `mandate "
+#~ "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
+#~ " to accounting@overte.org or our postal "
+#~ "adress together with how much you "
+#~ "would like to contribute."
+#~ msgstr ""
+

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 12:56+0000\n"
+"POT-Creation-Date: 2025-10-13 17:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: pt_PT\n"
@@ -363,36 +363,30 @@ msgstr ""
 #: ../../source/donate.rst:12
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
-"Credit card, SEPA Direct Debit"
+"Credit card, SEPA Direct Debit, Bancontact"
 msgstr ""
 
 #: ../../source/donate.rst:13
-msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
-"payment method you can think of"
-msgstr ""
-
-#: ../../source/donate.rst:14
 msgid ""
 "Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Account number 1303331100"
 msgstr ""
 
-#: ../../source/donate.rst:15
+#: ../../source/donate.rst:14
 msgid ""
 "SEPA Direct Debit – Send a filled out `mandate "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
-" to accounting@overte.org or our postal adress together with how much you"
-" would like to contribute."
+" to accounting@overte.org or our postal address together with how much "
+"you would like to contribute."
 msgstr ""
 
-#: ../../source/donate.rst:16
+#: ../../source/donate.rst:15
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr ""
 
-#: ../../source/donate.rst:19
+#: ../../source/donate.rst:18
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
 "tax-deductible in Germany. Contact us at accounting@overte.org after "
@@ -3214,5 +3208,26 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "19:00 UTC  Development meetup"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`OpenCollective 🔗 <https://opencollective.com/overte>`_"
+#~ " – Debit card, Credit card, SEPA "
+#~ "Direct Debit"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " – Almost any payment method you "
+#~ "can think of"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SEPA Direct Debit – Send a filled"
+#~ " out `mandate "
+#~ "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
+#~ " to accounting@overte.org or our postal "
+#~ "adress together with how much you "
+#~ "would like to contribute."
 #~ msgstr ""
 

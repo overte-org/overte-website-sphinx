@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 12:56+0000\n"
+"POT-Creation-Date: 2025-10-13 17:49+0000\n"
 "PO-Revision-Date: 2025-04-11 04:01+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ko\n"
@@ -377,40 +377,31 @@ msgstr "아래에 선호하는 방법을 통해 기부할 수 있습니다:"
 #, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
-"Credit card, SEPA Direct Debit"
+"Credit card, SEPA Direct Debit, Bancontact"
 msgstr "`오픈콜렉티브 🔗 <https://opencollective.com/overte>`_ - 직불카드, 신용카드"
 
 #: ../../source/donate.rst:13
-#, fuzzy
-msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
-"payment method you can think of"
-msgstr ""
-"`스트라이프 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - 생각할 수 있는 거의 "
-"모든 결제 방법"
-
-#: ../../source/donate.rst:14
 msgid ""
 "Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Account number 1303331100"
 msgstr ""
 
-#: ../../source/donate.rst:15
+#: ../../source/donate.rst:14
 msgid ""
 "SEPA Direct Debit – Send a filled out `mandate "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
-" to accounting@overte.org or our postal adress together with how much you"
-" would like to contribute."
+" to accounting@overte.org or our postal address together with how much "
+"you would like to contribute."
 msgstr ""
 
-#: ../../source/donate.rst:16
+#: ../../source/donate.rst:15
 #, fuzzy
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 msgstr "`페이팔 🔗 <https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
-#: ../../source/donate.rst:19
+#: ../../source/donate.rst:18
 #, fuzzy
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
@@ -3173,5 +3164,22 @@ msgstr "당사 웹사이트를 이용함으로써 귀하는 당사의 개인정�
 #~ msgstr ""
 
 #~ msgid "19:00 UTC  Development meetup"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " – Almost any payment method you "
+#~ "can think of"
+#~ msgstr ""
+#~ "`스트라이프 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " - 생각할 수 있는 거의 모든 결제 방법"
+
+#~ msgid ""
+#~ "SEPA Direct Debit – Send a filled"
+#~ " out `mandate "
+#~ "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
+#~ " to accounting@overte.org or our postal "
+#~ "adress together with how much you "
+#~ "would like to contribute."
 #~ msgstr ""
 

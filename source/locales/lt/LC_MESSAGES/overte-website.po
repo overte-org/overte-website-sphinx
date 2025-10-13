@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 12:56+0000\n"
+"POT-Creation-Date: 2025-10-13 17:49+0000\n"
 "PO-Revision-Date: 2025-04-10 15:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: lt\n"
@@ -384,34 +384,26 @@ msgstr "Aukoti galite toliau nurodytais būdais:"
 #, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
-"Credit card, SEPA Direct Debit"
+"Credit card, SEPA Direct Debit, Bancontact"
 msgstr ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Bankinis "
 "pervedimas debetine/kreditine kortele (pageidautina)"
 
 #: ../../source/donate.rst:13
 msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
-"payment method you can think of"
-msgstr ""
-"`\"Stripe\" 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Beveik "
-"visi galimi mokėjimo būdai"
-
-#: ../../source/donate.rst:14
-msgid ""
 "Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Account number 1303331100"
 msgstr ""
 
-#: ../../source/donate.rst:15
+#: ../../source/donate.rst:14
 msgid ""
 "SEPA Direct Debit – Send a filled out `mandate "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
-" to accounting@overte.org or our postal adress together with how much you"
-" would like to contribute."
+" to accounting@overte.org or our postal address together with how much "
+"you would like to contribute."
 msgstr ""
 
-#: ../../source/donate.rst:16
+#: ../../source/donate.rst:15
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
@@ -419,7 +411,7 @@ msgstr ""
 "`\"PayPal\" 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
-#: ../../source/donate.rst:19
+#: ../../source/donate.rst:18
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
 "tax-deductible in Germany. Contact us at accounting@overte.org after "
@@ -3026,5 +3018,23 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "19:00 UTC  Development meetup"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " – Almost any payment method you "
+#~ "can think of"
+#~ msgstr ""
+#~ "`\"Stripe\" 🔗 "
+#~ "<https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Beveik"
+#~ " visi galimi mokėjimo būdai"
+
+#~ msgid ""
+#~ "SEPA Direct Debit – Send a filled"
+#~ " out `mandate "
+#~ "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
+#~ " to accounting@overte.org or our postal "
+#~ "adress together with how much you "
+#~ "would like to contribute."
 #~ msgstr ""
 

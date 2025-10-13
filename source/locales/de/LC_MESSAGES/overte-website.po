@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 12:56+0000\n"
+"POT-Creation-Date: 2025-10-13 17:49+0000\n"
 "PO-Revision-Date: 2025-09-29 00:04+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
@@ -501,20 +501,12 @@ msgstr "Sie können über die folgenden Methoden spenden. Sortiert nach Präfere
 #, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
-"Credit card, SEPA Direct Debit"
+"Credit card, SEPA Direct Debit, Bancontact"
 msgstr ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Debitkarte, "
 "Kreditkarte"
 
 #: ../../source/donate.rst:13
-msgid ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ – Almost any "
-"payment method you can think of"
-msgstr ""
-"`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_ - Fast jede "
-"erdenkliche Zahlungsmethode"
-
-#: ../../source/donate.rst:14
 msgid ""
 "Bank transfer – Recipient: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Account number 1303331100"
@@ -522,19 +514,20 @@ msgstr ""
 "Banküberweisung ‐ Empfänger: Overte e.V., IBAN: DE18 4306 0967 1303 3311 "
 "00, BIC: GENODEM1GLS, Kontonummer: 1303331100"
 
-#: ../../source/donate.rst:15
+#: ../../source/donate.rst:14
+#, fuzzy
 msgid ""
 "SEPA Direct Debit – Send a filled out `mandate "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
-" to accounting@overte.org or our postal adress together with how much you"
-" would like to contribute."
+" to accounting@overte.org or our postal address together with how much "
+"you would like to contribute."
 msgstr ""
 "SEPA-Lastschrift – Senden Sie ein ausgefülltes `Mandat "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
 " an accounting@overte.org oder an unsere Postanschrift zusammen mit dem "
 "gewünschten Betrag."
 
-#: ../../source/donate.rst:16
+#: ../../source/donate.rst:15
 msgid ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
@@ -542,7 +535,7 @@ msgstr ""
 "`PayPal 🔗 "
 "<https://www.paypal.com/donate/?hosted_button_id=GJPDZP47RG34E>`_"
 
-#: ../../source/donate.rst:19
+#: ../../source/donate.rst:18
 msgid ""
 "As a recognized non-profit, the Overte e.V. can issue receipts that are "
 "tax-deductible in Germany. Contact us at accounting@overte.org after "
@@ -3405,4 +3398,12 @@ msgstr ""
 #~ "with their Continuous Integration services "
 #~ "for free."
 #~ msgstr ""
+
+#~ msgid ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " – Almost any payment method you "
+#~ "can think of"
+#~ msgstr ""
+#~ "`Stripe 🔗 <https://donate.stripe.com/28o8xXbZC9uS7RecMM>`_"
+#~ " - Fast jede erdenkliche Zahlungsmethode"
 
