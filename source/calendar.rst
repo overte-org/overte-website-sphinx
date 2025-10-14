@@ -20,7 +20,7 @@ To convert to your local timezone, please ask your preferred search engine somet
 +-------------------------------+
 
 +-------------------------------------------------+
-| Wednesday, Friday, Saturday (sometimes Sundays) |
+| Friday, Sunday                                  |
 +=================================================+
 | 18:00 UTC  OMM — Overte Mindfulness Meditation  |
 +-------------------------------------------------+
