@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-13 17:49+0000\n"
+"POT-Creation-Date: 2025-10-16 09:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -27,7 +27,7 @@ msgid ""
 "`progress report <index.html#august-progress-report>`_."
 msgstr ""
 
-#: ../../source/calendar.rst:3 ../../source/index.rst:543
+#: ../../source/calendar.rst:3 ../../source/index.rst:648
 msgid "Calendar"
 msgstr ""
 
@@ -57,14 +57,14 @@ msgid "17:00 UTC  Development meetup"
 msgstr ""
 
 #: ../../source/calendar.rst:23
-msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
+msgid "Friday, Sunday"
 msgstr ""
 
 #: ../../source/calendar.rst:25
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
 msgstr ""
 
-#: ../../source/code_of_conduct.rst:3 ../../source/index.rst:543
+#: ../../source/code_of_conduct.rst:3 ../../source/index.rst:648
 msgid "Code of Conduct"
 msgstr ""
 
@@ -270,7 +270,7 @@ msgid ""
 "present members will discuss and vote on the issue."
 msgstr ""
 
-#: ../../source/contact.rst:5 ../../source/index.rst:543
+#: ../../source/contact.rst:5 ../../source/index.rst:648
 msgid "Contact"
 msgstr ""
 
@@ -339,7 +339,7 @@ msgstr ""
 msgid "https://fosstodon.org/@overte"
 msgstr ""
 
-#: ../../source/donate.rst:3 ../../source/index.rst:543
+#: ../../source/donate.rst:3 ../../source/index.rst:648
 msgid "Donate"
 msgstr ""
 
@@ -393,7 +393,7 @@ msgid ""
 "donating, to request such a receipt."
 msgstr ""
 
-#: ../../source/downloads.rst:5 ../../source/index.rst:543
+#: ../../source/downloads.rst:5 ../../source/index.rst:648
 msgid "Downloads"
 msgstr ""
 
@@ -526,7 +526,7 @@ msgid ""
 " 🔗 <https://github.com/overte-org/overte-builder/>`_"
 msgstr ""
 
-#: ../../source/gallery.rst:3 ../../source/index.rst:543
+#: ../../source/gallery.rst:3 ../../source/index.rst:648
 msgid "Gallery"
 msgstr ""
 
@@ -600,11 +600,11 @@ msgstr ""
 msgid "Kreolis playing in Brainstormer's Club"
 msgstr ""
 
-#: ../../source/imprint.rst:3 ../../source/index.rst:543
+#: ../../source/imprint.rst:3 ../../source/index.rst:648
 msgid "Imprint"
 msgstr ""
 
-#: ../../source/imprint.rst:5 ../../source/index.rst:543
+#: ../../source/imprint.rst:5 ../../source/index.rst:648
 #: ../../source/overte_ev.rst:3
 msgid "Overte e.V."
 msgstr ""
@@ -625,19 +625,19 @@ msgstr ""
 msgid "contact@overte.org"
 msgstr ""
 
-#: ../../source/index.rst:543
+#: ../../source/index.rst:648
 msgid "Home"
 msgstr ""
 
-#: ../../source/index.rst:543
+#: ../../source/index.rst:648
 msgid "Documentation 🔗"
 msgstr ""
 
-#: ../../source/index.rst:543
+#: ../../source/index.rst:648
 msgid "API reference 🔗"
 msgstr ""
 
-#: ../../source/index.rst:543 ../../source/privacy_policy.rst:3
+#: ../../source/index.rst:648 ../../source/privacy_policy.rst:3
 msgid "Privacy policy"
 msgstr ""
 
@@ -723,18 +723,271 @@ msgid "News"
 msgstr ""
 
 #: ../../source/index.rst:41
-msgid "2025-09-07 August progress report"
+msgid "2025-10-13 September progress report"
 msgstr ""
 
-#: ../../source/index.rst:44
+#: ../../source/index.rst:44 ../../source/index.rst:149
 msgid "Organizational"
 msgstr ""
 
 #: ../../source/index.rst:47
-msgid "Employment"
+msgid "\"AI Cryptocurrency Investment\" scammers"
 msgstr ""
 
 #: ../../source/index.rst:49
+msgid "**Too long; didn't read**: We fell victim to scammers and lost >190 €."
+msgstr ""
+
+#: ../../source/index.rst:51
+msgid ""
+"September has been a very busy month for me as the accountant. Our "
+"organization fell victim to a group of \"AI Cryptocurrency Investment\" "
+"scammers, who try to use our identity to build trust with their targets."
+msgstr ""
+
+#: ../../source/index.rst:53
+msgid ""
+"On the 12th of September, we started receiving multiple payments of "
+"around 250€ each on our bank account, which were seemed not intended for "
+"us. I (Julian Groß) didn't notice these payments initially, as I had "
+"already done the monthly accounting and didn't check our bank account. On"
+" the 15th of September, we started receiving payments on Stripe, which is"
+" our credit card payment provider, as well. Since I got an email "
+"notification about those, I knew of them pretty much immediately. Nothing"
+" seemed weird there at first; The transactions were using our donation "
+"form, so they were clearly labelled as donations. What was odd was that "
+"we would suddenly get such large amount of donations in the first place. "
+"And, looking closer at them, multiple people were supposedly sharing "
+"email addresses. At this point, I started reading through Stripe's "
+"documentation and contacted Stripe. Unfortunately, they were very "
+"unhelpful. Their documentation suggested this being a card testing scam, "
+"and that we should immediately refund everything. Their support was "
+"extremely slow, AI translated, and never had anything helpful to say. "
+"This is where the first mistake happens as well: I follow Stripe's advice"
+" and press the refund button on all the transactions. What I didn't "
+"notice at the time, was that Stripe keeps their fees. Meaning that on "
+"every refund I make, the Overte e.V. pays a hefty credit card fee. "
+"Multiple Euros per transaction. In total, we lost 163,50 € in Stripe "
+"fees. Once I noticed this the next day, I started returning only what was"
+" left after Stripe's fee. While that saved us from another losing another"
+" >100 € in Stripe fees, it ended up incurring a chargeback from one "
+"person who really wanted their 1,86 € back. As it turns out, Stripe (and "
+"credit card companies) charge 20 € per chargeback. Not to mention the "
+"bank responsible for the chargeback graciously rounded up the sum to 1,95"
+" €. Contesting chargebacks incurs another 20 € fee. So I decided to just "
+"pay up."
+msgstr ""
+
+#: ../../source/index.rst:66
+msgid ""
+"In the meantime, I noticed transactions also going straight to our bank "
+"account. This felt way less problematic, since the fees are *way* lower "
+"than for credit card stuff, and we have rule of law there, rather than "
+"credit card companies and payment providers just offloading everything "
+"onto us. At this point, I got in contact with the Police, since the "
+"victims suddenly had names and identities, and as opposed to our Stripe "
+"account, I wasn't willing to just close it off. The local Policeman knew "
+"immediately what was going on and asked me to inform the victims by "
+"sending them messages via SEPA bank transfers. Turns out, instant bank "
+"transfers are faster than the police. At least as long as the victims "
+"check their bank accounts regularly."
+msgstr ""
+
+#: ../../source/index.rst:71
+msgid ""
+"Apparently, this is a very common scam: - The scammers rope their victims"
+" in with promises of high-return investment opportunities. - They then "
+"have their victims pay a smaller sum to a place that feels trustworthy; "
+"In this case, a German bank account. Since it is a German bank account, "
+"at least the German victims have little to worry about. If it is a scam, "
+"they have someone they can hold accountable. None of this money actually "
+"makes it to the scammers. - The scammers then show their victims how much"
+" money their investments are allegedly making, and are offering them to "
+"invest larger sums. At this point, they have their victims pay money to a"
+" channel they have control over. `In this latest case published by "
+"Eurojust <https://www.eurojust.europa.eu/news/eurojust-coordinates-"
+"action-halt-cryptocurrency-fraud-over-100-million-euros-across-europe>`__"
+" it was mainly Lithuanian bank accounts."
+msgstr ""
+
+#: ../../source/index.rst:76
+msgid ""
+"While our bank was slow to respond, they were *extremely* helpful. They "
+"immediately knew what was going on, and offered to screen the "
+"transactions for us, meaning I didn't have to return the money manually "
+"anymore and didn't have to account for them in our books either, since "
+"they never actually make it onto our bank account."
+msgstr ""
+
+#: ../../source/index.rst:80
+msgid ""
+"The scam is still going on, but has slowed down considerably. Only one of"
+" the scammers appears to remain, and I now know what to do with any "
+"fraudulent transactions we receive."
+msgstr ""
+
+#: ../../source/index.rst:82
+msgid ""
+"So what did we learn from this? - The saying \"Never look a gifted horse "
+"in the mouth\" doesn't always apply. - We are legally required to pay "
+"back any money that wasn't intended for us. (See `BGB § 812 <https://www"
+".gesetze-im-internet.de/bgb/__812.html>`_) - Credit card is an awful way "
+"of receiving donations, because it leaves you vulnerable to chargeback "
+"and contesting fees, and generally costs *way* more than even "
+"international and inter-currency transfers."
+msgstr ""
+
+#: ../../source/index.rst:87
+msgid ""
+"What are the next steps? I am still considering to completely stop "
+"accepting donations via Stripe. While the 163,50 € of fees was my fault "
+"to some degree, the chargeback fees are something we cannot do anything "
+"about with our current setup. Some donators already switched over to "
+"donating via bank transfer instead. Meaning that we receive so little "
+"money via Stripe now, that just two chargebacks per month are enough to "
+"completely negate the money received from there. At that point, I would "
+"need to shut that channel down. We could still decide to accept credit "
+"card payments via email then; Or maybe we can find some other payment "
+"provider who takes over such fees."
+msgstr ""
+
+#: ../../source/index.rst:93
+msgid ""
+"If you have any suggestions, questions, or input on this, feel free to "
+"reach out via our usual channels."
+msgstr ""
+
+#: ../../source/index.rst:97
+msgid "Infrastructure"
+msgstr ""
+
+#: ../../source/index.rst:99
+msgid ""
+"Our `Weblate translation instance <https://weblate.overte.org/>`_ has "
+"been slow or inaccessible for most of September due to crappy Chinese AI "
+"scraping bots. While this is probably not a deliberate attack, it "
+"manifests the same as a distributed denial-of-service attack on our "
+"infrastructure."
+msgstr ""
+
+#: ../../source/index.rst:102
+msgid ""
+"`Anubis <https://anubis.techaro.lol/>`_ has been deployed to our Weblate "
+"instance, but unfortunately the low percentage of scrapers that do get "
+"through are still occasionally enough to overwhelm the server and flood "
+"us with error messages. Due to this, I had to shut down the server for "
+"multiple days. While it has been running without issues again for a "
+"couple of days now, it might get overwhelmed again until a solution is "
+"found."
+msgstr ""
+
+#: ../../source/index.rst:105
+msgid ""
+"Weblate added the option to back up individual projects, instead of the "
+"entire server, so we are currently looking into moving to a public "
+"Weblate instance. So far, this has been a slow process though: - "
+"hosted.weblate.org allows creating said backups, but it currently doesn't"
+" allow actually restoring them. - translate.codeberg.org doesn't "
+"currently support pushing to GitHub and still hasn't made a formal "
+"decision if they want to. We also haven't been able to reach their admin "
+"yet."
+msgstr ""
+
+#: ../../source/index.rst:110
+msgid "We are not aware of any other public Weblate instances."
+msgstr ""
+
+#: ../../source/index.rst:112
+msgid ""
+"There are some other open-source organizations hosting their own Weblate "
+"instances, so we might try to join with one of them."
+msgstr ""
+
+#: ../../source/index.rst:114
+msgid ""
+"Alternatively, we will just have to upgrade our server and/or pay for "
+"something that lets fewer bots through, like Anubis' \"`Thoth "
+"<https://anubis.techaro.lol/docs/admin/thoth>`_\" service."
+msgstr ""
+
+#: ../../source/index.rst:118 ../../source/index.rst:243
+msgid "Progress"
+msgstr ""
+
+#: ../../source/index.rst:120
+msgid ""
+"74hc595 spent most of their time working on upgrading to Qt6. Apparently,"
+" the Qt6 branch already works, even if it is still very unstable. Of "
+"course, they also did their usual general contributions like reviewing "
+"and testing a *lot* of Pull Requests."
+msgstr ""
+
+#: ../../source/index.rst:123
+msgid ""
+"Ada has been helping with the Qt6 upgrade, focusing on QML related fixes."
+" They also committed some smaller fixes like fixing OpenXR trigger click "
+"reliability, in addition to reviewing, testing and reporting bugs, and "
+"prototyping their upcoming UI theming support."
+msgstr ""
+
+#: ../../source/index.rst:126
+msgid "HifiExperiments helped with a lot of triage, advice, and code review."
+msgstr ""
+
+#: ../../source/index.rst:128
+msgid ""
+"RTUnreal worked up upgrading dependencies and has generally been helping "
+"with build system maintenance."
+msgstr ""
+
+#: ../../source/index.rst:130
+msgid ""
+"I was mostly busy with handling the recent scam and the flood of broken "
+"Chinese AI scrapers. In addition, I worked on refactoring our GitHub "
+"Actions workflow files (shoutout to RTUnreal for the code review), fixed "
+"some smaller build system bugs and troubleshot regressions. I also "
+"started initial work on an itch.io release: Finding regressions "
+"introduced multiple releases ago isn't fun and showcases that there just "
+"isn't enough testing happening. This suggests that it is about time to "
+"try to get more users in. When this release will happen isn't entirely "
+"clear yet; We have an upcoming protocol changing release which will "
+"undoubtedly introduce more not-yet-known regressions, as well as require "
+"all servers and clients to be updated."
+msgstr ""
+
+#: ../../source/index.rst:134
+msgid ""
+"We also received bug reports and help for Alezia, Dale, and Krzeszny. Big"
+" shoutout also to KawaneRio for organizing Sunday's \"Overte warmup\" "
+"event."
+msgstr ""
+
+#: ../../source/index.rst:138
+msgid "Release!"
+msgstr ""
+
+#: ../../source/index.rst:140
+msgid ""
+"We made our first release since switching from VCPKG to Conan. Version "
+"2025.09.1 and its changelog are available `here 🔗 <https://github.com"
+"/overte-org/overte/releases/tag/2025.09.1>`__ and come with a *huge* list"
+" of bug fixes, improvements, additions, and changes. It does come with a "
+"regression that causes it to crash on many on some Linux distributions "
+"when opening a web view, like the Places app. A fix will be included in "
+"the next release. For now, affected users can get the CI testing build "
+"from `GitHub <https://github.com/overte-org/overte/pull/1840>`__ or keep "
+"using version 2025.05.1."
+msgstr ""
+
+#: ../../source/index.rst:146
+msgid "2025-09-07 August progress report"
+msgstr ""
+
+#: ../../source/index.rst:152
+msgid "Employment"
+msgstr ""
+
+#: ../../source/index.rst:154
 msgid ""
 "Last post we asked for donations in case unforeseen costs come up with my"
 " (Julian Groß) employment. As it turns out, the employment does indeed "
@@ -744,7 +997,7 @@ msgid ""
 "by 4 weeks.)"
 msgstr ""
 
-#: ../../source/index.rst:51
+#: ../../source/index.rst:156
 msgid ""
 "I want to personally thank everyone who donated. Most of the people who "
 "donated appear to be new people who had never even tried Overte before "
@@ -753,7 +1006,7 @@ msgid ""
 "you rock!"
 msgstr ""
 
-#: ../../source/index.rst:54
+#: ../../source/index.rst:159
 msgid ""
 "Next time, I should have the donation banner count all money paid towards"
 " the Overte e.V., instead of just extra funds on top of the regular "
@@ -761,11 +1014,11 @@ msgid ""
 "purposes and that was probably just a bad idea."
 msgstr ""
 
-#: ../../source/index.rst:58
+#: ../../source/index.rst:163
 msgid "NLnet grant"
 msgstr ""
 
-#: ../../source/index.rst:60
+#: ../../source/index.rst:165
 msgid ""
 "In other news, the NLnet Foundation has accepted another grant "
 "(amendment) proposal from us. After having been successfully working with"
@@ -773,89 +1026,89 @@ msgid ""
 "amazing open source projects supported by them."
 msgstr ""
 
-#: ../../source/index.rst:62
+#: ../../source/index.rst:167
 msgid ""
 "We want to thank NLnet and the European Commission for fostering software"
 " freedom with their Next Generation Internet programme."
 msgstr ""
 
-#: ../../source/index.rst:65 ../../source/index.rst:203
-#: ../../source/index.rst:472
+#: ../../source/index.rst:170 ../../source/index.rst:308
+#: ../../source/index.rst:577
 msgid "Project plan"
 msgstr ""
 
-#: ../../source/index.rst:67
+#: ../../source/index.rst:172
 msgid ""
 "The funding will be used to pay developers to work on the areas listed "
 "below."
 msgstr ""
 
-#: ../../source/index.rst:70 ../../source/index.rst:211
+#: ../../source/index.rst:175 ../../source/index.rst:316
 msgid "Features"
 msgstr ""
 
-#: ../../source/index.rst:72
+#: ../../source/index.rst:177
 msgid "Multi-packet avatar updates"
 msgstr ""
 
-#: ../../source/index.rst:73
+#: ../../source/index.rst:178
 msgid "linear interpolation for avatar updates"
 msgstr ""
 
-#: ../../source/index.rst:74
+#: ../../source/index.rst:179
 msgid "Finish multi-packet entity properties"
 msgstr ""
 
-#: ../../source/index.rst:77 ../../source/index.rst:224
+#: ../../source/index.rst:182 ../../source/index.rst:329
 msgid "Graphics"
 msgstr ""
 
-#: ../../source/index.rst:79
+#: ../../source/index.rst:184
 msgid "Vulkan frame transfer to VR plugin"
 msgstr ""
 
-#: ../../source/index.rst:82 ../../source/index.rst:251
-#: ../../source/index.rst:335
+#: ../../source/index.rst:187 ../../source/index.rst:356
+#: ../../source/index.rst:440
 msgid "Maintenance"
 msgstr ""
 
-#: ../../source/index.rst:84
+#: ../../source/index.rst:189
 msgid ""
 "Switch to using a package lock file on Conan and updating it semi-"
 "automatically using something like Renovate"
 msgstr ""
 
-#: ../../source/index.rst:85
+#: ../../source/index.rst:190
 msgid ""
 "Try getting NSIS more foolproof (boolean checks are unreliable as they "
 "only check for one possible boolean naming scheme)"
 msgstr ""
 
-#: ../../source/index.rst:86
+#: ../../source/index.rst:191
 msgid "Document networking code"
 msgstr ""
 
-#: ../../source/index.rst:89 ../../source/index.rst:270
+#: ../../source/index.rst:194 ../../source/index.rst:375
 msgid "Bug Fixes"
 msgstr ""
 
-#: ../../source/index.rst:91
+#: ../../source/index.rst:196
 msgid ""
 "Fix networking congestion control ( https://github.com/overte-"
 "org/overte/issues/572#issuecomment-2799907780 )"
 msgstr ""
 
-#: ../../source/index.rst:92
+#: ../../source/index.rst:197
 msgid ""
 "Fix retransmissions ignoring congestion control ( https://github.com"
 "/overte-org/overte/issues/572#issuecomment-2799907780 )"
 msgstr ""
 
-#: ../../source/index.rst:95
+#: ../../source/index.rst:200
 msgid "Entity Transition Shader (Fade)"
 msgstr ""
 
-#: ../../source/index.rst:97
+#: ../../source/index.rst:202
 msgid ""
 "We have a special shader that makes user appear as if they were \"beaming"
 " in\" or \"beaming out\" when connecting or disconnecting. Apparently, "
@@ -866,25 +1119,25 @@ msgid ""
 "this."
 msgstr ""
 
-#: ../../source/index.rst:99
+#: ../../source/index.rst:204
 msgid "Add/fix entity transition shader"
 msgstr ""
 
-#: ../../source/index.rst:100
+#: ../../source/index.rst:205
 msgid "Expose avatar and entity transition shader as zone properties"
 msgstr ""
 
-#: ../../source/index.rst:101
+#: ../../source/index.rst:206
 msgid ""
 "Expose entity transition shader to Entities.addEntity and "
 "Entities.deleteEntity (overriding zone properties)"
 msgstr ""
 
-#: ../../source/index.rst:104
+#: ../../source/index.rst:209
 msgid "macOS support"
 msgstr ""
 
-#: ../../source/index.rst:106
+#: ../../source/index.rst:211
 msgid ""
 "With the Vulkan PR almost merged into master, Apple getting rid of OpenGL"
 " isn't a blocker to our macOS support anymore. However, macOS support was"
@@ -895,31 +1148,31 @@ msgid ""
 "one."
 msgstr ""
 
-#: ../../source/index.rst:108
+#: ../../source/index.rst:213
 msgid "Get macOS development machine"
 msgstr ""
 
-#: ../../source/index.rst:109
+#: ../../source/index.rst:214
 msgid "Build with MoltenVK"
 msgstr ""
 
-#: ../../source/index.rst:110
+#: ../../source/index.rst:215
 msgid "Get all of our Conan packages to build on macOS"
 msgstr ""
 
-#: ../../source/index.rst:111
+#: ../../source/index.rst:216
 msgid "Fix the server software crashing on macOS"
 msgstr ""
 
-#: ../../source/index.rst:112
+#: ../../source/index.rst:217
 msgid "Set up automatic macOS CI builds"
 msgstr ""
 
-#: ../../source/index.rst:115
+#: ../../source/index.rst:220
 msgid "Android support"
 msgstr ""
 
-#: ../../source/index.rst:117
+#: ../../source/index.rst:222
 msgid ""
 "With the new Conan dependency manager, overhauled build system, and "
 "experience with Conan, CMake, and our build system, I now feel "
@@ -928,34 +1181,34 @@ msgid ""
 " C++ that that part needs to be completely rewritten."
 msgstr ""
 
-#: ../../source/index.rst:119
+#: ../../source/index.rst:224
 msgid "Get all of our required Conan packages to build for Android"
 msgstr ""
 
-#: ../../source/index.rst:120
+#: ../../source/index.rst:225
 msgid "Add Android support to our build system"
 msgstr ""
 
-#: ../../source/index.rst:121
+#: ../../source/index.rst:226
 msgid "Set up automatic Android CI builds"
 msgstr ""
 
-#: ../../source/index.rst:122
+#: ../../source/index.rst:227
 msgid "Add initial OpenXR support to our Android client"
 msgstr ""
 
-#: ../../source/index.rst:126
+#: ../../source/index.rst:231
 msgid "Depot.dev"
 msgstr ""
 
-#: ../../source/index.rst:128
+#: ../../source/index.rst:233
 msgid ""
 "Overte got its first corporate sponsor: `Depot.dev 🔗 "
 "<https://depot.dev/?utm_source=Overte>`_ is graciously providing us with "
 "their Continuous Integration services for free."
 msgstr ""
 
-#: ../../source/index.rst:130
+#: ../../source/index.rst:235
 msgid ""
 "With us needing to build Qt from source on Windows, the free GitHub "
 "hosted Runners were timing out because our builds would take over 6 hours"
@@ -966,30 +1219,26 @@ msgid ""
 "extra per year, which frankly would have broken the bank."
 msgstr ""
 
-#: ../../source/index.rst:132
+#: ../../source/index.rst:237
 msgid ""
 "This is where Depot.dev comes in. Not only are they *way* cheaper than "
 "GitHub hosted Runners and provide a lot more cache space, but they also "
 "offer discounts for non-profits and open-source projects."
 msgstr ""
 
-#: ../../source/index.rst:134
+#: ../../source/index.rst:239
 msgid ""
 "Interesting enough, even the same spec runners on Depot.dev are actually "
 "quite a lot faster at building Overte than the ones on GitHub already."
 msgstr ""
 
-#: ../../source/index.rst:138
-msgid "Progress"
-msgstr ""
-
-#: ../../source/index.rst:140
+#: ../../source/index.rst:245
 msgid ""
 "Frankly speaking, so much stuff got done this month that I am having a "
 "hard time deciding what to mention."
 msgstr ""
 
-#: ../../source/index.rst:142
+#: ../../source/index.rst:247
 msgid ""
 "On my side, I have spent most of my time with fixing up our Qt package "
 "for Windows and doing more build system improvements. Big thanks to "
@@ -1004,14 +1253,14 @@ msgid ""
 "developing on, but I am quite happy with the results."
 msgstr ""
 
-#: ../../source/index.rst:146
+#: ../../source/index.rst:251
 msgid ""
 "Thanks to NLnet, I also started working on macOS support. For now, I got "
 "all the required dependencies to build and am waiting for Vulkan to be "
 "merged and our update to libnode 22 to be finished."
 msgstr ""
 
-#: ../../source/index.rst:149
+#: ../../source/index.rst:254
 msgid ""
 "74hc595 did a *lot* of work as usual. They fixed multiple audio issues, "
 "helped a lot with getting Pull Requests finished, tested and merged, "
@@ -1020,7 +1269,7 @@ msgid ""
 "Windows, … you get the idea."
 msgstr ""
 
-#: ../../source/index.rst:152
+#: ../../source/index.rst:257
 msgid ""
 "Ada also did a lot of miscellaneous bug fixes, but also upstreamed their "
 "Context menu, fixed a lot of issues with VR and OpenXR, added OpenXR body"
@@ -1028,20 +1277,20 @@ msgid ""
 " merging Pull Requests and Ada keeps opening new ones."
 msgstr ""
 
-#: ../../source/index.rst:156
+#: ../../source/index.rst:261
 msgid ""
 "HifiExperiments added initial VRM file format support, fixed remaining "
 "issues with his new multi-layered materials, and helped Ada and 74hc595 "
 "with graphics work as usual."
 msgstr ""
 
-#: ../../source/index.rst:159
+#: ../../source/index.rst:264
 msgid ""
 "Alezia worked on improving the Snap app, added bookmarks and per-Place "
 "user counts to the Places app, and cleaned up the Places app's code."
 msgstr ""
 
-#: ../../source/index.rst:162
+#: ../../source/index.rst:267
 msgid ""
 "We also got a new contributor this month: RTUnreal started work on "
 "packaging Overte for NixOS. To that end, they already added support for "
@@ -1052,73 +1301,73 @@ msgid ""
 "especially great to see RTUnreal get changes merged into Overte."
 msgstr ""
 
-#: ../../source/index.rst:166
+#: ../../source/index.rst:271
 msgid "Release candidate!"
 msgstr ""
 
-#: ../../source/index.rst:168
+#: ../../source/index.rst:273
 msgid ""
 "On the topic of progress: We tagged our first release candidate since "
 "switching from VCPKG to Conan. Version 2025.09.1-rc1 and its changelog "
 "are available `here 🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2025.09.1-rc1>`_ and come with a *huge* list of "
+"org/overte/releases/tag/2025.09.1-rc1>`__ and come with a *huge* list of "
 "bug fixes, improvements, additions, and changes. So far, this release "
 "candidate has been rock solid, so it might turn into a full release "
 "already next week without any additional changes necessary."
 msgstr ""
 
-#: ../../source/index.rst:174
+#: ../../source/index.rst:279
 msgid "2025-06-07 Help us hire a team member!"
 msgstr ""
 
-#: ../../source/index.rst:176
+#: ../../source/index.rst:281
 msgid ""
 "We are in the process of hiring our long-term contributor Julian Groß, "
 "allowing him to dedicate more time to Overte and get things done."
 msgstr ""
 
-#: ../../source/index.rst:178
+#: ../../source/index.rst:283
 msgid ""
 "The current proposal is a one-year-long contract for 13 hours per week at"
 " German minimum wage. While not much, this is enough for Julian to "
 "survive and make work on Overte his main profession."
 msgstr ""
 
-#: ../../source/index.rst:180
+#: ../../source/index.rst:285
 msgid ""
 "However, while the Overte e.V. can technically afford that, we are "
 "cutting it close. That is why we are asking for your support!"
 msgstr ""
 
-#: ../../source/index.rst:182
+#: ../../source/index.rst:287
 msgid ""
 "We need to keep some financial cushioning in case of unforeseen costs, so"
 " we are doing our first fundraiser to reach our goal of 3000€ of "
 "additional funds over the next couple of months."
 msgstr ""
 
-#: ../../source/index.rst:184
+#: ../../source/index.rst:289
 msgid "Donate now ♥︎"
 msgstr ""
 
-#: ../../source/index.rst:193
+#: ../../source/index.rst:298
 msgid "2025-04-04 We've obtained another NLnet grant!"
 msgstr ""
 
-#: ../../source/index.rst:195
+#: ../../source/index.rst:300
 msgid ""
 "After the success of our previous grant, which enabled myriad fixes, "
 "improvements, and new features, we are pleased to announce that we've "
 "obtained a second NLnet grant!"
 msgstr ""
 
-#: ../../source/index.rst:197
+#: ../../source/index.rst:302
 msgid ""
 "The NLnet Foundation continues to support many amazing Open Source "
 "projects, and we're honored to continue partnering with them."
 msgstr ""
 
-#: ../../source/index.rst:199
+#: ../../source/index.rst:304
 msgid ""
 "As with the previous grant, we commit to keeping users and developers up "
 "to date with the progress made on these items, both during our usual "
@@ -1126,56 +1375,56 @@ msgid ""
 "along with the progress."
 msgstr ""
 
-#: ../../source/index.rst:205
+#: ../../source/index.rst:310
 msgid ""
 "The funding will be used to pay developers to work on the areas listed "
 "below, with the possibility of extensions and additional work."
 msgstr ""
 
-#: ../../source/index.rst:207
+#: ../../source/index.rst:312
 msgid "The agreed upon deadline for completion is December 1st, 2025."
 msgstr ""
 
-#: ../../source/index.rst:213
+#: ../../source/index.rst:318
 msgid ""
 "We would like to allow less technical users to more comfortably make use "
 "of all the features provided by our scripting engine. To that end, we "
 "would like to add a visual scripting system."
 msgstr ""
 
-#: ../../source/index.rst:216
+#: ../../source/index.rst:321
 msgid "Visual scripting (https://github.com/overte-org/overte/issues/982)"
 msgstr ""
 
-#: ../../source/index.rst:217
+#: ../../source/index.rst:322
 msgid ""
 "Chat messages in 3D space (https://github.com/overte-"
 "org/overte/issues/1147)"
 msgstr ""
 
-#: ../../source/index.rst:218
+#: ../../source/index.rst:323
 msgid ""
 "Add copy and paste buttons to VR keyboard (https://github.com/overte-"
 "org/overte/issues/130)"
 msgstr ""
 
-#: ../../source/index.rst:219
+#: ../../source/index.rst:324
 msgid ""
 "Support OpenXR finger tracking (https://github.com/overte-"
 "org/overte/issues/224)"
 msgstr ""
 
-#: ../../source/index.rst:220
+#: ../../source/index.rst:325
 msgid ""
 "Cryptography functions in scripting API (https://github.com/overte-"
 "org/overte/tree/feature/cryptography)"
 msgstr ""
 
-#: ../../source/index.rst:221
+#: ../../source/index.rst:326
 msgid "Add live translation support to chat"
 msgstr ""
 
-#: ../../source/index.rst:226
+#: ../../source/index.rst:331
 msgid ""
 "Our engine uses its own internal graphics API, which is largely "
 "undocumented. Documenting this API is a lot of work and important for the"
@@ -1184,185 +1433,185 @@ msgid ""
 "performance issues on Intel Arc graphics cards."
 msgstr ""
 
-#: ../../source/index.rst:228
+#: ../../source/index.rst:333
 msgid "Vulkan optimization"
 msgstr ""
 
-#: ../../source/index.rst:229
+#: ../../source/index.rst:334
 msgid "Internal graphics API documentation"
 msgstr ""
 
-#: ../../source/index.rst:230
+#: ../../source/index.rst:335
 msgid ""
 "Have local lights affect MToon materials (https://github.com/overte-"
 "org/overte/issues/1131)"
 msgstr ""
 
-#: ../../source/index.rst:231
+#: ../../source/index.rst:336
 msgid ""
 "Expose normal map attenuation distance as zone property "
 "(https://github.com/overte-org/overte/issues/1139)"
 msgstr ""
 
-#: ../../source/index.rst:232
+#: ../../source/index.rst:337
 msgid ""
 "Use standard physically-based-rendering for voxels (https://github.com"
 "/overte-org/overte/issues/749)"
 msgstr ""
 
-#: ../../source/index.rst:233
+#: ../../source/index.rst:338
 msgid "Allow switching between graphics APIs through command line option"
 msgstr ""
 
-#: ../../source/index.rst:234
+#: ../../source/index.rst:339
 msgid ""
 "Add splat mapping functionality (https://github.com/overte-"
 "org/overte/issues/1163)"
 msgstr ""
 
-#: ../../source/index.rst:235
+#: ../../source/index.rst:340
 msgid ""
 "Add a no-filter texture filtering mode (https://github.com/overte-"
 "org/overte/issues/145)"
 msgstr ""
 
-#: ../../source/index.rst:238
+#: ../../source/index.rst:343
 msgid "QML Localization"
 msgstr ""
 
-#: ../../source/index.rst:240
+#: ../../source/index.rst:345
 msgid ""
 "As Overte is used by people from all over the world, we want to add "
 "localization support. This task aims to allow translating all internal UI"
 " created using QML. (Most, but not all, of our UI uses QML.)"
 msgstr ""
 
-#: ../../source/index.rst:243
+#: ../../source/index.rst:348
 msgid "Mark strings as translatable"
 msgstr ""
 
-#: ../../source/index.rst:244
+#: ../../source/index.rst:349
 msgid "Generate translation files automatically"
 msgstr ""
 
-#: ../../source/index.rst:245
+#: ../../source/index.rst:350
 msgid "Hook up to Weblate translation system"
 msgstr ""
 
-#: ../../source/index.rst:246
+#: ../../source/index.rst:351
 msgid "Build with translations"
 msgstr ""
 
-#: ../../source/index.rst:247
+#: ../../source/index.rst:352
 msgid "Check if we include the required fonts"
 msgstr ""
 
-#: ../../source/index.rst:248
+#: ../../source/index.rst:353
 msgid "Add German translation (as a reference test case)"
 msgstr ""
 
-#: ../../source/index.rst:253
+#: ../../source/index.rst:358
 msgid ""
 "CMake 4.0 is around the corner, dropping support for some legacy "
 "compatibility, which seems to break almost every one of our dependencies."
 " Libnode has similarly received updates, including breaking changes."
 msgstr ""
 
-#: ../../source/index.rst:257
+#: ../../source/index.rst:362
 msgid "Update Overte for CMake 4.0 compatibility"
 msgstr ""
 
-#: ../../source/index.rst:258
+#: ../../source/index.rst:363
 msgid "Fix building dependencies on CMake 4.0"
 msgstr ""
 
-#: ../../source/index.rst:259
+#: ../../source/index.rst:364
 msgid "Update libnode to the next LTS version"
 msgstr ""
 
-#: ../../source/index.rst:260
+#: ../../source/index.rst:365
 msgid "Improve build instructions for building with KDevelop and CLion"
 msgstr ""
 
-#: ../../source/index.rst:261
+#: ../../source/index.rst:366
 msgid "Add automatic Docker release builds"
 msgstr ""
 
-#: ../../source/index.rst:262
+#: ../../source/index.rst:367
 msgid "Finish getting Overte into Flathub"
 msgstr ""
 
-#: ../../source/index.rst:263
+#: ../../source/index.rst:368
 msgid "Update to Qt 6 (https://github.com/overte-org/overte/issues/1243)"
 msgstr ""
 
-#: ../../source/index.rst:264
+#: ../../source/index.rst:369
 msgid "Package Qt 6 dependency for Windows"
 msgstr ""
 
-#: ../../source/index.rst:265
+#: ../../source/index.rst:370
 msgid "Package Qt 6 dependency for Linux"
 msgstr ""
 
-#: ../../source/index.rst:266
+#: ../../source/index.rst:371
 msgid "Package webrtc-audio-processing"
 msgstr ""
 
-#: ../../source/index.rst:267
+#: ../../source/index.rst:372
 msgid "Switch to libdatachannel"
 msgstr ""
 
-#: ../../source/index.rst:272
+#: ../../source/index.rst:377
 msgid ""
 "Fix MToon materials not showing up in Material Inspector "
 "(https://github.com/overte-org/overte/issues/1028)"
 msgstr ""
 
-#: ../../source/index.rst:273
+#: ../../source/index.rst:378
 msgid ""
 "Text entities: show tofu character on missing character "
 "(https://github.com/overte-org/overte/issues/1133)"
 msgstr ""
 
-#: ../../source/index.rst:274
+#: ../../source/index.rst:379
 msgid "Add \"blocklist\" for known broken graphics drivers"
 msgstr ""
 
-#: ../../source/index.rst:275
+#: ../../source/index.rst:380
 msgid ""
 "Fix server Console trying to connect to highfidelity.com "
 "(https://github.com/overte-org/overte/issues/578)"
 msgstr ""
 
-#: ../../source/index.rst:276
+#: ../../source/index.rst:381
 msgid ""
 "Fix QML warning message spam on Windows (https://github.com/overte-"
 "org/overte/issues/593)"
 msgstr ""
 
-#: ../../source/index.rst:277
+#: ../../source/index.rst:382
 msgid ""
 "Fix problems with HifiControlsUit.SpinBox (https://github.com/overte-"
 "org/overte/issues/921)"
 msgstr ""
 
-#: ../../source/index.rst:278
+#: ../../source/index.rst:383
 msgid ""
 "Fix uninstalling Overte not removing cache from AppData\\Local "
 "(https://github.com/overte-org/overte/issues/952)"
 msgstr ""
 
-#: ../../source/index.rst:279
+#: ../../source/index.rst:384
 msgid ""
 "Fix avatar bookmarks silently failing on broken syntax "
 "(https://github.com/overte-org/overte/issues/192)"
 msgstr ""
 
-#: ../../source/index.rst:282
+#: ../../source/index.rst:387
 msgid "UI Rework"
 msgstr ""
 
-#: ../../source/index.rst:284
+#: ../../source/index.rst:389
 msgid ""
 "Our current UI is a mix of different themes, design philosophies, and "
 "programming languages (https://github.com/orgs/overte-org/projects/8). "
@@ -1370,169 +1619,169 @@ msgid ""
 "(https://github.com/overte-org/overte/issues/1145)."
 msgstr ""
 
-#: ../../source/index.rst:287
+#: ../../source/index.rst:392
 msgid "Framework for default QML applications"
 msgstr ""
 
-#: ../../source/index.rst:288
+#: ../../source/index.rst:393
 msgid "Rework Avatar app"
 msgstr ""
 
-#: ../../source/index.rst:289
+#: ../../source/index.rst:394
 msgid "Add grid shader to Create"
 msgstr ""
 
-#: ../../source/index.rst:290
+#: ../../source/index.rst:395
 msgid "Allow switching Create windows between external and embedded windows"
 msgstr ""
 
-#: ../../source/index.rst:291
+#: ../../source/index.rst:396
 msgid "Rework asset browser"
 msgstr ""
 
-#: ../../source/index.rst:292
+#: ../../source/index.rst:397
 msgid "Rework voxel edit mode"
 msgstr ""
 
-#: ../../source/index.rst:293
+#: ../../source/index.rst:398
 msgid "Allow parenting entities using drag and drop in entity list"
 msgstr ""
 
-#: ../../source/index.rst:294
+#: ../../source/index.rst:399
 msgid "Add a tree view to entity list"
 msgstr ""
 
-#: ../../source/index.rst:295
+#: ../../source/index.rst:400
 msgid "Add a free camera mode to Create"
 msgstr ""
 
-#: ../../source/index.rst:296
+#: ../../source/index.rst:401
 msgid "Improve material management in Create"
 msgstr ""
 
-#: ../../source/index.rst:297
+#: ../../source/index.rst:402
 msgid "Add centered scaling to Create"
 msgstr ""
 
-#: ../../source/index.rst:298
+#: ../../source/index.rst:403
 msgid "Rework More app"
 msgstr ""
 
-#: ../../source/index.rst:299
+#: ../../source/index.rst:404
 msgid "Rework settings"
 msgstr ""
 
-#: ../../source/index.rst:300
+#: ../../source/index.rst:405
 msgid "Rework Pal app (People list)"
 msgstr ""
 
-#: ../../source/index.rst:301
+#: ../../source/index.rst:406
 msgid "Rework log viewer"
 msgstr ""
 
-#: ../../source/index.rst:302
+#: ../../source/index.rst:407
 msgid "Rework Snapshot app"
 msgstr ""
 
-#: ../../source/index.rst:303
+#: ../../source/index.rst:408
 msgid "Rework Emote app"
 msgstr ""
 
-#: ../../source/index.rst:304
+#: ../../source/index.rst:409
 msgid "Rework running scripts window"
 msgstr ""
 
-#: ../../source/index.rst:305
+#: ../../source/index.rst:410
 msgid "Rework Places app"
 msgstr ""
 
-#: ../../source/index.rst:306
+#: ../../source/index.rst:411
 msgid "Rework notifications"
 msgstr ""
 
-#: ../../source/index.rst:307
+#: ../../source/index.rst:412
 msgid "Add theming support"
 msgstr ""
 
-#: ../../source/index.rst:308
+#: ../../source/index.rst:413
 msgid "Prefer using system file-picker"
 msgstr ""
 
-#: ../../source/index.rst:309
+#: ../../source/index.rst:414
 msgid "Add dashboard user interface"
 msgstr ""
 
-#: ../../source/index.rst:312
+#: ../../source/index.rst:417
 msgid "Integrate results from UX review and security audit"
 msgstr ""
 
-#: ../../source/index.rst:314
+#: ../../source/index.rst:419
 msgid "Perform UX review"
 msgstr ""
 
-#: ../../source/index.rst:315
+#: ../../source/index.rst:420
 msgid "Perform Security audit"
 msgstr ""
 
-#: ../../source/index.rst:319 ../../source/index.rst:523
+#: ../../source/index.rst:424 ../../source/index.rst:628
 msgid "Thanks"
 msgstr ""
 
-#: ../../source/index.rst:321
+#: ../../source/index.rst:426
 msgid "NLnet, for continuing to support Overte."
 msgstr ""
 
-#: ../../source/index.rst:322 ../../source/index.rst:526
+#: ../../source/index.rst:427 ../../source/index.rst:631
 msgid "Julian Groß, for negotiating this agreement."
 msgstr ""
 
-#: ../../source/index.rst:323
+#: ../../source/index.rst:428
 msgid "All of the developers who have agreed to take on this work."
 msgstr ""
 
-#: ../../source/index.rst:324 ../../source/index.rst:528
+#: ../../source/index.rst:429 ../../source/index.rst:633
 msgid "The Overte community, for making this possible."
 msgstr ""
 
-#: ../../source/index.rst:329
+#: ../../source/index.rst:434
 msgid "2024-04-16 NLnet grant extended again!"
 msgstr ""
 
-#: ../../source/index.rst:331
+#: ../../source/index.rst:436
 msgid ""
 "We've obtained another extension to the NLnet grant, with the following "
 "additional items:"
 msgstr ""
 
-#: ../../source/index.rst:337
+#: ../../source/index.rst:442
 msgid ""
 "Fix warnings and allow turning on warnings-as-errors (https://github.com"
 "/overte-org/overte/issues/930)"
 msgstr ""
 
-#: ../../source/index.rst:338
+#: ../../source/index.rst:443
 msgid ""
 "Clean up Application.cpp so it's not 10,000 lines (https://github.com"
 "/overte-org/overte/issues/931)"
 msgstr ""
 
-#: ../../source/index.rst:339
+#: ../../source/index.rst:444
 msgid ""
 "fix setting joint data by name (https://github.com/overte-"
 "org/overte/issues/613)"
 msgstr ""
 
-#: ../../source/index.rst:340
+#: ../../source/index.rst:445
 msgid ""
 "Replace the old wearables system with avatar entities to deduplicate "
 "code. (https://github.com/overte-org/overte/issues/932)"
 msgstr ""
 
-#: ../../source/index.rst:343
+#: ../../source/index.rst:448
 msgid "Text entities"
 msgstr ""
 
-#: ../../source/index.rst:345
+#: ../../source/index.rst:450
 msgid ""
 "Our text entities need some love. They are clunky, and most importantly "
 "they use a custom format that isn't documented anywhere; Meaning that we "
@@ -1540,44 +1789,44 @@ msgid ""
 "only support ASCII character."
 msgstr ""
 
-#: ../../source/index.rst:347
+#: ../../source/index.rst:452
 msgid ""
 "clip to edges instead of completely disappearing (https://github.com"
 "/overte-org/overte/issues/583)"
 msgstr ""
 
-#: ../../source/index.rst:348
+#: ../../source/index.rst:453
 msgid ""
 "Switch to a standard font format (https://github.com/overte-"
 "org/overte/issues/126)"
 msgstr ""
 
-#: ../../source/index.rst:351
+#: ../../source/index.rst:456
 msgid "Graphics improvements II"
 msgstr ""
 
-#: ../../source/index.rst:353
+#: ../../source/index.rst:458
 msgid "Add ambient light color (https://github.com/overte-org/overte/issues/6)"
 msgstr ""
 
-#: ../../source/index.rst:354
+#: ../../source/index.rst:459
 msgid ""
 "Loading MToon materials directly from glTF (https://github.com/overte-"
 "org/overte/issues/933)"
 msgstr ""
 
-#: ../../source/index.rst:355
+#: ../../source/index.rst:460
 msgid "Optional camera clipping (https://github.com/overte-org/overte/issues/618)"
 msgstr ""
 
-#: ../../source/index.rst:356
+#: ../../source/index.rst:461
 msgid ""
 "Custom shader fallback (https://github.com/overte-org/overte/issues/640):"
 " One fallback for if a shader fails to load/compile and one for if a user"
 " has procedural shaders disabled"
 msgstr ""
 
-#: ../../source/index.rst:357
+#: ../../source/index.rst:462
 msgid ""
 "Exposing more graphics settings (tone-mapping, bloom, procedural shaders,"
 " AO) (https://github.com/overte-org/overte/issues/740, https://github.com"
@@ -1585,114 +1834,114 @@ msgid ""
 "org/overte/issues/14)"
 msgstr ""
 
-#: ../../source/index.rst:358
+#: ../../source/index.rst:463
 msgid ""
 "add tone-mapping and Ambient Occlusion properties to Zone entities "
 "(https://github.com/overte-org/overte/issues/934)"
 msgstr ""
 
-#: ../../source/index.rst:361
+#: ../../source/index.rst:466
 msgid "Miscellaneous improvements II"
 msgstr ""
 
-#: ../../source/index.rst:363
+#: ../../source/index.rst:468
 msgid ""
 "Add VR laser smoothing which will especially help people with shaky hands"
 " (https://github.com/overte-org/overte/issues/883)"
 msgstr ""
 
-#: ../../source/index.rst:364
+#: ../../source/index.rst:469
 msgid ""
 "Increase loading priority of avatar entities (https://github.com/overte-"
 "org/overte/issues/834)"
 msgstr ""
 
-#: ../../source/index.rst:365
+#: ../../source/index.rst:470
 msgid ""
 "Add option to not have an avatar show until its entities are loaded "
 "(https://github.com/overte-org/overte/issues/834)"
 msgstr ""
 
-#: ../../source/index.rst:366
+#: ../../source/index.rst:471
 msgid ""
 "Improve current loading priority system (https://github.com/overte-"
 "org/overte/issues/834)"
 msgstr ""
 
-#: ../../source/index.rst:367
+#: ../../source/index.rst:472
 msgid ""
 "Add a property to influence load priority of entities (https://github.com"
 "/overte-org/overte/issues/834)"
 msgstr ""
 
-#: ../../source/index.rst:372
+#: ../../source/index.rst:477
 msgid "2024-04-02 NLnet grant extended!"
 msgstr ""
 
-#: ../../source/index.rst:374
+#: ../../source/index.rst:479
 msgid ""
 "We've obtained an extension to the NLnet grant, with the following "
 "additional items:"
 msgstr ""
 
-#: ../../source/index.rst:378
+#: ../../source/index.rst:483
 msgid "Linux FHS Support"
 msgstr ""
 
-#: ../../source/index.rst:380
+#: ../../source/index.rst:485
 msgid ""
 "The Linux Filesystem Hierarchy standard defines the proper file layout "
 "for an application. This work would involve adopting it, and adding some "
 "nice improvements as well."
 msgstr ""
 
-#: ../../source/index.rst:382
+#: ../../source/index.rst:487
 msgid "This will:"
 msgstr ""
 
-#: ../../source/index.rst:384
+#: ../../source/index.rst:489
 msgid "Make packaging easier and allow inclusion in distributions."
 msgstr ""
 
-#: ../../source/index.rst:385
+#: ../../source/index.rst:490
 msgid "Make SELinux easier."
 msgstr ""
 
-#: ../../source/index.rst:386
+#: ../../source/index.rst:491
 msgid "Allow easy instancing out of the box."
 msgstr ""
 
-#: ../../source/index.rst:387
+#: ../../source/index.rst:492
 msgid "Make Mac packaging easier."
 msgstr ""
 
-#: ../../source/index.rst:389 ../../source/index.rst:402
-#: ../../source/index.rst:415 ../../source/index.rst:431
-#: ../../source/index.rst:454
+#: ../../source/index.rst:494 ../../source/index.rst:507
+#: ../../source/index.rst:520 ../../source/index.rst:536
+#: ../../source/index.rst:559
 msgid "Tasks:"
 msgstr ""
 
-#: ../../source/index.rst:391
+#: ../../source/index.rst:496
 msgid ""
 "Domain server/assignment client implementation (https://github.com"
 "/overte-org/overte/issues/903)"
 msgstr ""
 
-#: ../../source/index.rst:392
+#: ../../source/index.rst:497
 msgid "Interface implementation (https://github.com/overte-org/overte/issues/904)"
 msgstr ""
 
-#: ../../source/index.rst:396
+#: ../../source/index.rst:501
 msgid "LDAP Support"
 msgstr ""
 
-#: ../../source/index.rst:398
+#: ../../source/index.rst:503
 msgid ""
 "LDAP is a common authentication mechanism, widely supported in "
 "organizations. Active Directory is compatible as well."
 msgstr ""
 
-#: ../../source/index.rst:400
+#: ../../source/index.rst:505
 msgid ""
 "This will help Overte integrate much better into corporate and university"
 " structures. They could use their own internal system to control "
@@ -1700,30 +1949,30 @@ msgid ""
 " of little interest and has been done better by other projects."
 msgstr ""
 
-#: ../../source/index.rst:404
+#: ../../source/index.rst:509
 msgid ""
 "Basic support in domain web UI to allow multiple users to authenticate. "
 "(https://github.com/overte-org/overte/issues/905)"
 msgstr ""
 
-#: ../../source/index.rst:405
+#: ../../source/index.rst:510
 msgid ""
 "Basic support as an alternative to directory server: user accounts, "
 "domain directory. (https://github.com/overte-org/overte/issues/906)"
 msgstr ""
 
-#: ../../source/index.rst:406
+#: ../../source/index.rst:511
 msgid ""
 "Full alternative to directory server. Support user relationships, data "
 "storage, profile metadata. (https://github.com/overte-"
 "org/overte/issues/907)"
 msgstr ""
 
-#: ../../source/index.rst:410
+#: ../../source/index.rst:515
 msgid "IPv6 Support"
 msgstr ""
 
-#: ../../source/index.rst:412
+#: ../../source/index.rst:517
 msgid ""
 "IPv6 adoption is reaching quite good levels as of late, and is especially"
 " important in environments that are hurting for IPv4 addresses such as "
@@ -1732,35 +1981,35 @@ msgid ""
 "making hosting domains cheaper."
 msgstr ""
 
-#: ../../source/index.rst:417
+#: ../../source/index.rst:522
 msgid ""
 "Basic support in domain web UI. (https://github.com/overte-"
 "org/overte/issues/908)"
 msgstr ""
 
-#: ../../source/index.rst:418
+#: ../../source/index.rst:523
 msgid ""
 "Support for fetching assets over IPv6 in interface. (https://github.com"
 "/overte-org/overte/issues/909)"
 msgstr ""
 
-#: ../../source/index.rst:419
+#: ../../source/index.rst:524
 msgid ""
 "Support for domains running on IPv6. (https://github.com/overte-"
 "org/overte/issues/910)"
 msgstr ""
 
-#: ../../source/index.rst:424
+#: ../../source/index.rst:529
 msgid "SELinux"
 msgstr ""
 
-#: ../../source/index.rst:426
+#: ../../source/index.rst:531
 msgid ""
 "SELinux is a security system that allows sandboxing applications and "
 "daemons."
 msgstr ""
 
-#: ../../source/index.rst:429
+#: ../../source/index.rst:534
 msgid ""
 "SELinux would sandbox the domain server and optionally the interface, to "
 "ensure that any exploits can't affect the rest of the system. For "
@@ -1768,107 +2017,107 @@ msgid ""
 " the server to attack other computers or expose the user's private data."
 msgstr ""
 
-#: ../../source/index.rst:433
+#: ../../source/index.rst:538
 msgid "Confine domain-server. (https://github.com/overte-org/overte/issues/911)"
 msgstr ""
 
-#: ../../source/index.rst:434
+#: ../../source/index.rst:539
 msgid ""
 "Confine assignment clients. (https://github.com/overte-"
 "org/overte/issues/912)"
 msgstr ""
 
-#: ../../source/index.rst:435
+#: ../../source/index.rst:540
 msgid ""
 "Attempt supporting multiple instances with isolation. (https://github.com"
 "/overte-org/overte/issues/913)"
 msgstr ""
 
-#: ../../source/index.rst:436
+#: ../../source/index.rst:541
 msgid ""
 "Isolate multiple Overte servers on the same machine from each other. "
 "(https://github.com/overte-org/overte/issues/914)"
 msgstr ""
 
-#: ../../source/index.rst:437
+#: ../../source/index.rst:542
 msgid "Confine interface. (https://github.com/overte-org/overte/issues/915)"
 msgstr ""
 
-#: ../../source/index.rst:441
+#: ../../source/index.rst:546
 msgid "Canvas texture"
 msgstr ""
 
-#: ../../source/index.rst:443
+#: ../../source/index.rst:548
 msgid ""
 "This would implement a new concept of a software defined canvas texture. "
 "Scripts can draw on it, and clients receive updates."
 msgstr ""
 
-#: ../../source/index.rst:445
+#: ../../source/index.rst:550
 msgid "This has a huge potential range of useful functionality:"
 msgstr ""
 
-#: ../../source/index.rst:447
+#: ../../source/index.rst:552
 msgid "Software defined textures"
 msgstr ""
 
-#: ../../source/index.rst:448
+#: ../../source/index.rst:553
 msgid "Script-generated nametags, banners, status displays, etc."
 msgstr ""
 
-#: ../../source/index.rst:449
+#: ../../source/index.rst:554
 msgid "Screen sharing without any external dependencies"
 msgstr ""
 
-#: ../../source/index.rst:450
+#: ../../source/index.rst:555
 msgid "Whiteboard"
 msgstr ""
 
-#: ../../source/index.rst:451
+#: ../../source/index.rst:556
 msgid "Synchronized web entity"
 msgstr ""
 
-#: ../../source/index.rst:452
+#: ../../source/index.rst:557
 msgid ""
 "Server-side rendered web entity. This would help with the Quest "
 "implementation."
 msgstr ""
 
-#: ../../source/index.rst:456
+#: ../../source/index.rst:561
 msgid ""
 "Basic implementation. Texture object, simple operations like painting "
 "pixels and blocks. (https://github.com/overte-org/overte/issues/916)"
 msgstr ""
 
-#: ../../source/index.rst:457
+#: ../../source/index.rst:562
 msgid ""
 "Proper canvas API. Support for fonts, graphics primitives like "
 "rectangles, circles, curves, etc. (https://github.com/overte-"
 "org/overte/issues/917)"
 msgstr ""
 
-#: ../../source/index.rst:458
+#: ../../source/index.rst:563
 msgid "Screen sharing (https://github.com/overte-org/overte/issues/918)"
 msgstr ""
 
-#: ../../source/index.rst:459
+#: ../../source/index.rst:564
 msgid ""
 "Synchronized web surface. (https://github.com/overte-"
 "org/overte/issues/919)"
 msgstr ""
 
-#: ../../source/index.rst:464
+#: ../../source/index.rst:569
 msgid "2024-02-24 We've obtained an NLnet grant!"
 msgstr ""
 
-#: ../../source/index.rst:466
+#: ../../source/index.rst:571
 msgid ""
 "The NLnet Foundation is an organization that supports many amazing Open "
 "Source projects, and we're elated to announce that we've also made the "
 "list!"
 msgstr ""
 
-#: ../../source/index.rst:468
+#: ../../source/index.rst:573
 msgid ""
 "As part of the agreement, we commit to keeping users and developers up to"
 " date with the progress made on these items at least every two months. "
@@ -1877,84 +2126,84 @@ msgid ""
 "make it easy for anyone interested to follow the progress."
 msgstr ""
 
-#: ../../source/index.rst:474
+#: ../../source/index.rst:579
 msgid ""
 "The funding will be used to pay developers that will work on the areas "
 "listed below. There exists the possibility of more work being agreed "
 "between us and NLnet."
 msgstr ""
 
-#: ../../source/index.rst:476
+#: ../../source/index.rst:581
 msgid "The agreed on deadline for completion is February 17, 2025."
 msgstr ""
 
-#: ../../source/index.rst:478
+#: ../../source/index.rst:583
 msgid ""
 "Some of the work has already started and can be seen on GitHub: "
 "https://github.com/overte-org/overte"
 msgstr ""
 
-#: ../../source/index.rst:481
+#: ../../source/index.rst:586
 msgid "Audio Overhaul"
 msgstr ""
 
-#: ../../source/index.rst:484
+#: ../../source/index.rst:589
 msgid ""
 "Move audio zones to zone properties (https://github.com/overte-"
 "org/overte/issues/69)"
 msgstr ""
 
-#: ../../source/index.rst:485
+#: ../../source/index.rst:590
 msgid "Add audio entities (https://github.com/overte-org/overte/issues/69)"
 msgstr ""
 
-#: ../../source/index.rst:488
+#: ../../source/index.rst:593
 msgid "Miscelaneous Improvements"
 msgstr ""
 
-#: ../../source/index.rst:490
+#: ../../source/index.rst:595
 msgid ""
 "Add a wantsKeyboardFocus property for web entities (https://github.com"
 "/overte-org/overte/issues/6)"
 msgstr ""
 
-#: ../../source/index.rst:491
+#: ../../source/index.rst:596
 msgid ""
 "Add interpolation on model animations (https://github.com/overte-"
 "org/overte/issues/317)"
 msgstr ""
 
-#: ../../source/index.rst:494
+#: ../../source/index.rst:599
 msgid "Graphics Improvements"
 msgstr ""
 
-#: ../../source/index.rst:496
+#: ../../source/index.rst:601
 msgid ""
 "Fix shadow culling on back-faces (https://github.com/overte-"
 "org/overte/issues/547)"
 msgstr ""
 
-#: ../../source/index.rst:497
+#: ../../source/index.rst:602
 msgid ""
 "Allow opaque particles (https://github.com/overte-"
 "org/overte/issues/776#issuecomment-1868203856)"
 msgstr ""
 
-#: ../../source/index.rst:498
+#: ../../source/index.rst:603
 msgid ""
 "Finish overhauling TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
 
-#: ../../source/index.rst:499
+#: ../../source/index.rst:604
 msgid "Add support for GPU particles"
 msgstr ""
 
-#: ../../source/index.rst:502
+#: ../../source/index.rst:607
 msgid "Vulkan"
 msgstr ""
 
-#: ../../source/index.rst:504
+#: ../../source/index.rst:609
 msgid ""
 "We're currently using OpenGL for 3D rendering. But unfortunately it's "
 "fallen out of favor in the last years, and some platforms like Mac are "
@@ -1962,68 +2211,68 @@ msgid ""
 " driver bugs are a frequent annoyance."
 msgstr ""
 
-#: ../../source/index.rst:506
+#: ../../source/index.rst:611
 msgid ""
 "Vulkan will provide a much more modern, performant and supported "
 "renderer, and should fix our Mac support woes."
 msgstr ""
 
-#: ../../source/index.rst:508
+#: ../../source/index.rst:613
 msgid "Wireframe rendering"
 msgstr ""
 
-#: ../../source/index.rst:509
+#: ../../source/index.rst:614
 msgid "Forward renderer (for low end hardware)"
 msgstr ""
 
-#: ../../source/index.rst:510
+#: ../../source/index.rst:615
 msgid "Deferred renderer (fully featured)"
 msgstr ""
 
-#: ../../source/index.rst:511
+#: ../../source/index.rst:616
 msgid "Optimization"
 msgstr ""
 
-#: ../../source/index.rst:512
+#: ../../source/index.rst:617
 msgid "Frame transfer to VR plugin"
 msgstr ""
 
-#: ../../source/index.rst:515
+#: ../../source/index.rst:620
 msgid "Build system improvements"
 msgstr ""
 
-#: ../../source/index.rst:516
+#: ../../source/index.rst:621
 msgid ""
 "This will make work on Overte more pleasant and make it easier to build. "
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
 msgstr ""
 
-#: ../../source/index.rst:518
+#: ../../source/index.rst:623
 msgid "Switching to Conan"
 msgstr ""
 
-#: ../../source/index.rst:519
+#: ../../source/index.rst:624
 msgid "Updating documentation"
 msgstr ""
 
-#: ../../source/index.rst:520
+#: ../../source/index.rst:625
 msgid "Improving build process"
 msgstr ""
 
-#: ../../source/index.rst:525
+#: ../../source/index.rst:630
 msgid "NLnet, for giving us this great opportunity."
 msgstr ""
 
-#: ../../source/index.rst:527
+#: ../../source/index.rst:632
 msgid "Sam Gondelman, Karol Suprynowicz and AnotherFoxGuy for taking on the work."
 msgstr ""
 
-#: ../../source/index.rst:535
+#: ../../source/index.rst:640
 msgid "2023-04-01 New website"
 msgstr ""
 
-#: ../../source/index.rst:537
+#: ../../source/index.rst:642
 msgid ""
 "Since our old 11ty based website was unmaintained and no one knew how to "
 "edit it, we created a brand spanking new website using Sphinx, the same "
@@ -2032,7 +2281,7 @@ msgid ""
 " to different languages using Weblate."
 msgstr ""
 
-#: ../../source/index.rst:540
+#: ../../source/index.rst:645
 msgid ""
 "If you would like to help translate this website or other parts of "
 "Overte, head over to `weblate.overte.org 🔗 "
@@ -3229,5 +3478,24 @@ msgstr ""
 #~ " to accounting@overte.org or our postal "
 #~ "adress together with how much you "
 #~ "would like to contribute."
+#~ msgstr ""
+
+#~ msgid "Wednesday, Friday, Saturday (sometimes Sundays)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the topic of progress: We "
+#~ "tagged our first release candidate since"
+#~ " switching from VCPKG to Conan. "
+#~ "Version 2025.09.1-rc1 and its changelog "
+#~ "are available `here 🔗 <https://github.com"
+#~ "/overte-org/overte/releases/tag/2025.09.1-rc1>`_ and "
+#~ "come with a *huge* list of bug "
+#~ "fixes, improvements, additions, and changes."
+#~ " So far, this release candidate has"
+#~ " been rock solid, so it might "
+#~ "turn into a full release already "
+#~ "next week without any additional changes"
+#~ " necessary."
 #~ msgstr ""
 
