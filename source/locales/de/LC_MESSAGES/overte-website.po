@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-16 09:19+0000\n"
+"POT-Creation-Date: 2025-10-17 19:46+0000\n"
 "PO-Revision-Date: 2025-09-29 00:04+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
@@ -552,7 +552,7 @@ msgstr "Downloads"
 
 #: ../../source/downloads.rst:7
 #, fuzzy
-msgid "The current release of Overte is version 2025.09.1."
+msgid "The current release of Overte is version 2025.10.1."
 msgstr "Die aktuelle Veröffentlichung von Overte ist Version 2025.05.1."
 
 #: ../../source/downloads.rst:9
@@ -599,10 +599,11 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:32
+#, fuzzy
 msgid ""
-"This release includes experimental OpenXR support, which already works "
-"better than OpenVR on most Linux VR stacks. You can enable OpenXR support"
-" using the :bash:`--useExperimentalXR` command line argument."
+"This release includes OpenXR support, which already works better than "
+"OpenVR on most Linux VR stacks. You can enable OpenXR support using the "
+":bash:`--useExperimentalXR` command line argument."
 msgstr ""
 "Diese Version enthält experimentelle OpenXR-Unterstützung, die auf den "
 "meisten Linux-VR-Systemen bereits besser funktioniert als OpenVR. Sie "
@@ -626,7 +627,7 @@ msgstr "Domain Server"
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.09.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.10.1/>`_."
 msgstr ""
 "Wählen Sie das passende Paket für Ihre Distribution und Architektur von "
 "`public.overte.org 🔗 "

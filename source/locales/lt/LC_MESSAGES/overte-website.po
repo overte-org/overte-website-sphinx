@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-16 09:19+0000\n"
+"POT-Creation-Date: 2025-10-17 19:46+0000\n"
 "PO-Revision-Date: 2025-04-10 15:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: lt\n"
@@ -427,7 +427,7 @@ msgid "Downloads"
 msgstr "Atsisiuntimai"
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2025.09.1."
+msgid "The current release of Overte is version 2025.10.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -472,9 +472,9 @@ msgstr ""
 
 #: ../../source/downloads.rst:32
 msgid ""
-"This release includes experimental OpenXR support, which already works "
-"better than OpenVR on most Linux VR stacks. You can enable OpenXR support"
-" using the :bash:`--useExperimentalXR` command line argument."
+"This release includes OpenXR support, which already works better than "
+"OpenVR on most Linux VR stacks. You can enable OpenXR support using the "
+":bash:`--useExperimentalXR` command line argument."
 msgstr ""
 
 #: ../../source/downloads.rst:37
@@ -494,7 +494,7 @@ msgstr "Domeno serveris"
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.09.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2025.10.1/>`_."
 msgstr ""
 "Pasirinkite savo distribucijai ir architektūrai tinkamą paketą iš mūsų "
 "`\"GitHub\" leidinių puslapio 🔗 <https://github.com/overte-"
@@ -3304,5 +3304,17 @@ msgstr ""
 #~ "turn into a full release already "
 #~ "next week without any additional changes"
 #~ " necessary."
+#~ msgstr ""
+
+#~ msgid "The current release of Overte is version 2025.09.1."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This release includes experimental OpenXR "
+#~ "support, which already works better than"
+#~ " OpenVR on most Linux VR stacks. "
+#~ "You can enable OpenXR support using "
+#~ "the :bash:`--useExperimentalXR` command line "
+#~ "argument."
 #~ msgstr ""
 
