@@ -131,7 +131,7 @@ I was mostly busy with handling the recent scam and the flood of broken Chinese 
 fixed some smaller build system bugs and troubleshot regressions. I also started initial work on an itch.io release: Finding regressions introduced multiple releases ago isn't fun and showcases that there just isn't enough testing happening.
 This suggests that it is about time to try to get more users in. When this release will happen isn't entirely clear yet; We have an upcoming protocol changing release which will undoubtedly introduce more not-yet-known regressions, as well as require all servers and clients to be updated.
 
-We also received bug reports and help for Alezia, Dale, and Krzeszny.
+We also received bug reports and help from Alezia, Dale, and Krzeszny.
 Big shoutout also to KawaneRio for organizing Sunday's "Overte warmup" event.
 
 Release!
