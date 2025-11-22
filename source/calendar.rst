@@ -24,3 +24,9 @@ To convert to your local timezone, please ask your preferred search engine somet
 +=================================================+
 | 18:00 UTC  OMM — Overte Mindfulness Meditation  |
 +-------------------------------------------------+
+
++-----------------------------------------------+
+| Saturday, December 6th 2025                   |
++===============================================+
+| 19:00 UTC  Overte e.V. general assembly 2025  |
++-----------------------------------------------+
