@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-22 11:37+0000\n"
-"PO-Revision-Date: 2025-09-29 00:04+0000\n"
+"PO-Revision-Date: 2025-11-22 11:53+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"Language-Team: German <https://weblate.overte.org/projects/overte/"
+"overte-website/de/>\n"
 "Language: de\n"
-"Language-Team: German <https://weblate.overte.org/projects/overte/overte-"
-"website/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../<rst_prolog>:9
@@ -63,25 +64,24 @@ msgid "Saturday"
 msgstr "Samstag"
 
 #: ../../source/calendar.rst:19
-#, fuzzy
 msgid "17:00 UTC  Development meetup"
-msgstr "19:00 UTC  Development Meetup"
+msgstr "17:00 UTC  Development Meetup"
 
 #: ../../source/calendar.rst:23
 msgid "Friday, Sunday"
-msgstr ""
+msgstr "Freitag, Sonntag"
 
 #: ../../source/calendar.rst:25
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
-msgstr ""
+msgstr "18:00 UTC  OMM — Overte Mindfulness Meditation"
 
 #: ../../source/calendar.rst:29
 msgid "Saturday, December 6th 2025"
-msgstr ""
+msgstr "Samstag, 6. Dezember 2025"
 
 #: ../../source/calendar.rst:31
 msgid "19:00 UTC  Overte e.V. general assembly 2025"
-msgstr ""
+msgstr "19:00 UTC  Overte e.V. Mitgliederversammlung 2025"
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:728
 msgid "Code of Conduct"
@@ -506,13 +506,12 @@ msgid "You may donate via the following methods in order of preference:"
 msgstr "Sie können über die folgenden Methoden spenden. Sortiert nach Präferenz:"
 
 #: ../../source/donate.rst:12
-#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card, SEPA Direct Debit, Bancontact"
 msgstr ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ - Debitkarte, "
-"Kreditkarte"
+"Kreditkarte, Lastschrift, Bancontact"
 
 #: ../../source/donate.rst:13
 msgid ""
@@ -523,16 +522,15 @@ msgstr ""
 "00, BIC: GENODEM1GLS, Kontonummer: 1303331100"
 
 #: ../../source/donate.rst:14
-#, fuzzy
 msgid ""
 "SEPA Direct Debit – Send a filled out `mandate "
 "<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
 " to accounting@overte.org or our postal address together with how much "
 "you would like to contribute."
 msgstr ""
-"SEPA-Lastschrift – Senden Sie ein ausgefülltes `Mandat "
-"<https://overte.org/_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_"
-" an accounting@overte.org oder an unsere Postanschrift zusammen mit dem "
+"SEPA-Lastschrift – Senden Sie ein ausgefülltes `Mandat <https://overte.org/"
+"_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_ an "
+"accounting@overte.org oder an unsere Postanschrift zusammen mit dem "
 "gewünschten Betrag."
 
 #: ../../source/donate.rst:15
@@ -559,9 +557,8 @@ msgid "Downloads"
 msgstr "Downloads"
 
 #: ../../source/downloads.rst:7
-#, fuzzy
 msgid "The current release of Overte is version 2025.10.1."
-msgstr "Die aktuelle Veröffentlichung von Overte ist Version 2025.05.1."
+msgstr "Die aktuelle Veröffentlichung von Overte ist Version 2025.10.1."
 
 #: ../../source/downloads.rst:9
 msgid ""
@@ -607,16 +604,15 @@ msgid ""
 msgstr ""
 
 #: ../../source/downloads.rst:32
-#, fuzzy
 msgid ""
 "This release includes OpenXR support, which already works better than "
 "OpenVR on most Linux VR stacks. You can enable OpenXR support using the "
 ":bash:`--useExperimentalXR` command line argument."
 msgstr ""
-"Diese Version enthält experimentelle OpenXR-Unterstützung, die auf den "
-"meisten Linux-VR-Systemen bereits besser funktioniert als OpenVR. Sie "
-"können die OpenXR-Unterstützung mit dem Kommandozeilenargument "
-":bash:`--useExperimentalXR` aktivieren."
+"Diese Version enthält OpenXR-Unterstützung, die auf den meisten Linux-VR-"
+"Systemen bereits besser funktioniert als OpenVR. Sie können die OpenXR-"
+"Unterstützung mit dem Kommandozeilenargument :bash:`--useExperimentalXR` "
+"aktivieren."
 
 #: ../../source/downloads.rst:37
 msgid ""
@@ -631,29 +627,26 @@ msgid "Domain Server"
 msgstr "Domain Server"
 
 #: ../../source/downloads.rst:45
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2025.10.1/>`_."
 msgstr ""
-"Wählen Sie das passende Paket für Ihre Distribution und Architektur von "
-"`public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2024.11.1/>`_."
+"Wählen Sie das passende Paket für Ihre Distribution und Architektur von `"
+"public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2025.10.1/>`_."
 
 #: ../../source/downloads.rst:47
-#, fuzzy
 msgid ""
 "There are also Docker images available on `hub.docker.com 🔗 "
 "<https://hub.docker.com/r/overte/overte-server/tags>`_. These images are "
 "still new, so please report any issues you run into on our `GitHub issue "
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
-"Es sind auch Docker images auf `hub.docker.com 🔗 "
-"<https://hub.docker.com/repository/docker/overte/overte-server/>`_ "
-"verfügbar. Diese images sind noch neu, also melden Sie bitte alle "
-"Probleme, auf die Sie stoßen, auf unserem `GitHub issue tracker 🔗 "
-"<https://github.com/overte-org/overte/issues>`_."
+"Es sind auch Docker Images auf `hub.docker.com 🔗 <https://hub.docker.com/r/"
+"overte/overte-server/tags>`_ verfügbar. Diese Images sind noch neu, also "
+"melden Sie bitte alle Probleme, auf die Sie stoßen, auf unserem `GitHub "
+"Issue Tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 
 #: ../../source/downloads.rst:52
 msgid "Windows"
@@ -941,7 +934,7 @@ msgstr "Neuigkeiten"
 
 #: ../../source/index.rst:41
 msgid "2025-11-22 Invitation to the Overte e.V. general assembly 2025"
-msgstr ""
+msgstr "2025-11-22 Einladung zur Overte e.V. Mitgliederversammlung 2025"
 
 #: ../../source/index.rst:43
 msgid ""
@@ -950,68 +943,86 @@ msgid ""
 "members are allowed to vote, non-Overte-e.V.-members are also welcome to "
 "attend."
 msgstr ""
+"Samstag, den 6. Dezember um 19:00 UTC (also 20:00 Uhr MEZ) ist es so weit. "
+"Die jährliche Mitgliederversammlung des Overte e.V. findet in Overte statt. "
+"Die Versammlung wird in Englisch abgehalten, allerdings werden genug "
+"deutschsprachige Mitglieder anwesend sein, um eventuelle Unklarheiten zu "
+"klären. Während nur aktive Overte e.V. Mitglieder mitwählen dürfen, sind "
+"auch nicht-Mitglieder herzlich eingeladen."
 
 #: ../../source/index.rst:45
 msgid "The planned agenda is as follows:"
-msgstr ""
+msgstr "Die geplante Agenda ist wie folgt:"
 
 #: ../../source/index.rst:47
 msgid "Decide on assembly leader."
-msgstr ""
+msgstr "Wahl eines Versammlungsleiters."
 
 #: ../../source/index.rst:48
 msgid ""
 "Decide on assembly secretary. The secretary will fill out the protocol "
 "during the assembly."
 msgstr ""
+"Wahl eines Schriftführers. Der Schriftführer wird während der Versammlung "
+"Protokoll führen."
 
 #: ../../source/index.rst:49
 msgid "Accounting report for 2024 and 2025."
-msgstr ""
+msgstr "Kassenbericht für 2024 und 2025."
 
 #: ../../source/index.rst:50
 msgid "Budgeting for 2026."
-msgstr ""
+msgstr "Haushaltsplan 2026."
 
 #: ../../source/index.rst:51
 msgid "Accounting auditor report (Steve Pruneau)."
-msgstr ""
+msgstr "Bericht des Kassenprüfers (Steve Pruneau)."
 
 #: ../../source/index.rst:52
 msgid ""
 "Do we have someone that would like to become the accounting auditor? The "
 "accounting auditor cannot be a board member."
 msgstr ""
+"Wahl des Kassenprüfers, sofern es Freiwillige gibt. Der Kassenprüfer darf "
+"kein Vorstandmitglied sein."
 
 #: ../../source/index.rst:53
 msgid "Board report."
-msgstr ""
+msgstr "Bericht über die Vorstandsarbeit."
 
 #: ../../source/index.rst:54
 msgid "Board member elections."
-msgstr ""
+msgstr "Vorstandswahl."
 
 #: ../../source/index.rst:55
 msgid ""
 "Vote on allowing the board to set membership fees for non-individuals at "
 "their discretion. **[1]**"
 msgstr ""
+"Abstimmung: Darf der Vorstand die Höhe der Mitgliedsbeiträge für juristische "
+"Personen beliebig festlegen? **[1]**"
 
 #: ../../source/index.rst:56
 msgid ""
 "Vote on hiring Julian Groß as done through board decision on 8th of July "
 "2025. **[2]**"
 msgstr ""
+"Abstimmung über die, am 8. Juli 2025 vom Vorstand beschlossene, Anstellung "
+"von Julian Groß. **[2]**"
 
 #: ../../source/index.rst:57
 msgid ""
 "Vote on by-law change to specifically mention “approval voting” as the "
 "used board election system **[3]**"
 msgstr ""
+"Abstimmung über Satzungsänderung um den Begriff „Zustimmungswahl“ für "
+"Vorstandswahlen zu erwähnen. **[3]**"
 
 #: ../../source/index.rst:58
 msgid "Protocol gets signed by the assembly secretary and assembly leader."
 msgstr ""
+"Protokoll wird von dem Schriftführer und dem Versammlungsleiter "
+"unterschrieben."
 
 #: ../../source/index.rst:61
 msgid ""
@@ -1019,6 +1030,10 @@ msgid ""
 "the same 60€ yearly membership fee as everyone else. Some bodies may be "
 "willing to pay more but cannot donate due to legal reasons."
 msgstr ""
+"**[1]**: Momentan zahlen juristische Personen (z. B. Unternehmen oder "
+"Universitäten) die gleichen 60 € Jahresmitgliedsbeitrag wie alle anderen "
+"Mitglieder. Manche Organisationen sind unter Umständen bereit mehr zu "
+"zahlen, dürfen aber aus rechtlichen Gründen nichts spenden."
 
 #: ../../source/index.rst:64
 msgid ""
@@ -1027,15 +1042,18 @@ msgid ""
 "assembly should still vote on it to back the board in its decision (or "
 "fire me)."
 msgstr ""
+"**[2]**: Der Vorstand hat Julian Groß bereits nach § 6 Der Vorstand (3) "
+"Aufgaben ( https://satzung.overte.org/de/#aufgaben ) angestellt. Die "
+"Mitgliederversammlung sollte trotzdem darüber abstimmen, ob sie mit dieser "
+"Entscheidung einverstanden ist."
 
 #: ../../source/index.rst:67
 msgid "**[3]**    Suggested change to § 6 The Board (4) Election:"
-msgstr ""
+msgstr "**[3]**    Vorgeschlagene Änderung zu § 6 Der Vorstand (4) Wahl:"
 
 #: ../../source/index.rst:68
-#, fuzzy
 msgid "From:"
-msgstr "Forum"
+msgstr "Von:"
 
 #: ../../source/index.rst:69
 msgid ""
@@ -1043,6 +1061,9 @@ msgid ""
 "besetzendem Sitz im gesonderten Wahlgang bestimmt. In jedem Wahlgang "
 "geben die Mitglieder eine Stimme pro Kandidaten ab. (…)"
 msgstr ""
+"(…) Die Vorstandsmitglieder werden von der Mitgliederversammlung pro zu "
+"besetzendem Sitz im gesonderten Wahlgang bestimmt. In jedem Wahlgang geben "
+"die Mitglieder eine Stimme pro Kandidaten ab. (…)"
 
 #: ../../source/index.rst:70
 msgid ""
@@ -1050,10 +1071,13 @@ msgid ""
 "occupied seat in separate votes. During each vote, each member has one "
 "vote per candidate. (…)"
 msgstr ""
+"(…) The board members are elected by the general assembly for each to be "
+"occupied seat in separate votes. During each vote, each member has one vote "
+"per candidate. (…)"
 
 #: ../../source/index.rst:72
 msgid "To:"
-msgstr ""
+msgstr "Zu:"
 
 #: ../../source/index.rst:73
 msgid ""
@@ -1070,23 +1094,26 @@ msgid ""
 "to as \"approval voting\": During each vote, each member has one vote per"
 " candidate. (…)"
 msgstr ""
+"(…) The board members are elected by the general assembly for each to be "
+"occupied seat in separate votes. The used voting system is also referred to "
+"as \"approval voting\": During each vote, each member has one vote per "
+"candidate. (…)"
 
 #: ../../source/index.rst:76
 msgid "Greetings from Germany"
-msgstr ""
+msgstr "Mit freundlichen Grüßen aus Paderborn"
 
 #: ../../source/index.rst:77
 msgid "Julian Groß"
-msgstr ""
+msgstr "Julian Groß"
 
 #: ../../source/index.rst:78
 msgid "Overte e.V. accountant"
-msgstr ""
+msgstr "Overte e.V. Schatzmeister"
 
 #: ../../source/index.rst:82
-#, fuzzy
 msgid "2025-11-05 October progress report"
-msgstr "2025-09-07 Fortschrittsbericht August"
+msgstr "2025-11-05 Fortschrittsbericht Oktober"
 
 #: ../../source/index.rst:85 ../../source/index.rst:198
 #: ../../source/index.rst:323
@@ -3908,4 +3935,3 @@ msgstr ""
 #~ "Big shoutout also to KawaneRio for "
 #~ "organizing Sunday's \"Overte warmup\" event."
 #~ msgstr ""
-
