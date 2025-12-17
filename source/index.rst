@@ -69,6 +69,8 @@ RTUnreal spent a lot of time bumping their head against more or less random buil
 
 I (Julian Groß) spent my time with small things as they popped up, including working on the next stable release.
 
+We got a new contributor this month: Zedwick has been helping out with updating the documentation and fixing issues with both the chat and the Nametags app.
+
 Part of the team went on holiday in Warszawa during the first week of December.
 
 --------------------------------------------------------------
