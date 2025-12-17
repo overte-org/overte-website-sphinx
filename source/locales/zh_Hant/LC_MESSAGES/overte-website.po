@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-22 11:37+0000\n"
+"POT-Creation-Date: 2025-12-17 10:30+0000\n"
 "PO-Revision-Date: 2025-10-12 01:28+0000\n"
 "Last-Translator: Yan-K <a080123900@gmail.com>\n"
 "Language: zh_Hant\n"
@@ -63,14 +63,6 @@ msgstr ""
 
 #: ../../source/calendar.rst:25
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
-msgstr ""
-
-#: ../../source/calendar.rst:29
-msgid "Saturday, December 6th 2025"
-msgstr ""
-
-#: ../../source/calendar.rst:31
-msgid "19:00 UTC  Overte e.V. general assembly 2025"
 msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:728
@@ -3576,5 +3568,11 @@ msgstr ""
 #~ "help for Alezia, Dale, and Krzeszny. "
 #~ "Big shoutout also to KawaneRio for "
 #~ "organizing Sunday's \"Overte warmup\" event."
+#~ msgstr ""
+
+#~ msgid "Saturday, December 6th 2025"
+#~ msgstr ""
+
+#~ msgid "19:00 UTC  Overte e.V. general assembly 2025"
 #~ msgstr ""
 
