@@ -412,7 +412,7 @@ pre span {
 .rst-content code.literal {
     font-family: Consolas;
     color: #000000;
-
+    white-space: nowrap;  /* Don't wrap on inline code. */
 }
 
 /***********************************/
