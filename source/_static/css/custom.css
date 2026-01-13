@@ -63,7 +63,8 @@ video {
 
 .wy-nav-content {
     background: #FFFFFF;
-    max-width: 100%;
+    max-width: 1600px;  /* Limit content width. */
+    margin: auto;  /* Center content without sidebar. */
     padding: 2rem 6rem;
 }
 
