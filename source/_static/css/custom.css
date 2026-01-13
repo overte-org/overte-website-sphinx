@@ -426,3 +426,11 @@ pre span {
     --sd-color-primary: #6667AB;
     --sd-color-primary-highlight: #515394;
 }
+
+/***********************************/
+/************* ABlog ***************/
+/***********************************/
+
+.postlist .ablog-post .ablog-post-title {
+    font-size: 130%  /* Increase size of titles in the postlist on the front page. */
+}

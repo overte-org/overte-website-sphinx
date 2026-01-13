@@ -39,7 +39,9 @@ needs_sphinx = '3.5.4'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_design'
+    'sphinx_design',
+    'ablog',
+    'sphinx.ext.intersphinx',  # Required by ABlog.
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -120,3 +122,17 @@ html_static_path = ['_static']
 
 # Do not copy source files to build folder
 html_copy_source = False
+
+# -- Options for ABlog -------------------------------------------------
+
+blog_authors = {
+    'Julian Groß': ('Julian Groß', 'https://github.com/JulianGro'),
+}
+post_date_format = '%Y-%m-%d'
+# Our Sphinx theme, sphinx_rtd_theme, already includes Font Awesome.
+fontawesome_included = True
+
+# RSS feed URL
+blog_baseurl = "https://overte.org"
+blog_title = "Overte News"
+blog_feed_fulltext = True
