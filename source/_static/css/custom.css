@@ -24,6 +24,10 @@
 /********* General styles **********/
 /***********************************/
 
+html {
+    font-size: 105%;  /* Slightly increase font size of everything. */
+}
+
 body {
     font-family: 'FiraSans Regular', 'Montserrat Regular', arial, sans-serif;
 	font-weight: 400;
