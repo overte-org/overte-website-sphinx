@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Overte'
-copyright = '2022-2025, Overte e.V.'
+copyright = '2022-2026, Overte e.V.'
 author = 'Julian Groß'
 
 # The short X.Y version
@@ -39,7 +39,9 @@ needs_sphinx = '3.5.4'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_design'
+    'sphinx_design',
+    'ablog',
+    'sphinx.ext.intersphinx',  # Required by ABlog.
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -77,20 +79,6 @@ highlight_language = "bash"
 
 # Disable Smartquotes for French in html to work around issue https://github.com/vircadia/vircadia-docs-sphinx/issues/112
 smartquotes_excludes = {'languages': ['fr'], 'builders': ['html']}
-
-# Include at the beginning of every RST source file.
-rst_prolog = """
-
-.. |br| raw:: html
-
-     <br>
-
-.. note::
-
-    Thank you to everyone who :doc:`donated︎ <donate>`! |br|
-    We have raised over 600€ in addition to our usual budget. Check out the results in our `progress report <index.html#august-progress-report>`_.
-
-"""
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -134,3 +122,17 @@ html_static_path = ['_static']
 
 # Do not copy source files to build folder
 html_copy_source = False
+
+# -- Options for ABlog -------------------------------------------------
+
+blog_authors = {
+    'Julian Groß': ('Julian Groß', 'https://github.com/JulianGro'),
+}
+post_date_format = '%Y-%m-%d'
+# Our Sphinx theme, sphinx_rtd_theme, already includes Font Awesome.
+fontawesome_included = True
+
+# RSS feed URL
+blog_baseurl = "https://overte.org"
+blog_title = "Overte News"
+blog_feed_fulltext = True
