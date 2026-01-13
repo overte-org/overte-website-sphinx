@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Overte'
-copyright = '2022-2025, Overte e.V.'
+copyright = '2022-2026, Overte e.V.'
 author = 'Julian Groß'
 
 # The short X.Y version
@@ -77,20 +77,6 @@ highlight_language = "bash"
 
 # Disable Smartquotes for French in html to work around issue https://github.com/vircadia/vircadia-docs-sphinx/issues/112
 smartquotes_excludes = {'languages': ['fr'], 'builders': ['html']}
-
-# Include at the beginning of every RST source file.
-rst_prolog = """
-
-.. |br| raw:: html
-
-     <br>
-
-.. note::
-
-    Thank you to everyone who :doc:`donated︎ <donate>`! |br|
-    We have raised over 600€ in addition to our usual budget. Check out the results in our `progress report <index.html#august-progress-report>`_.
-
-"""
 
 # -- Options for HTML output -------------------------------------------------
 
