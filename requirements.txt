@@ -2,6 +2,7 @@ Sphinx>=3.5.4
 sphinx-intl>=2.0.1
 sphinx-rtd-theme>=3.0.2
 sphinx-design>=0.3.0
+ablog
 
 # Utility for easily running builds in Python virtual environments.
 venv-run
