@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-25 19:11+0000\n"
+"POT-Creation-Date: 2026-01-29 21:28+0000\n"
 "PO-Revision-Date: 2025-11-22 11:53+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
@@ -2449,7 +2449,8 @@ msgid "17:00 UTC  Development meetup"
 msgstr "17:00 UTC  Development Meetup"
 
 #: ../../source/calendar.rst:23
-msgid "Friday, Sunday"
+#, fuzzy
+msgid "Monday-Friday, Sunday"
 msgstr "Freitag, Sonntag"
 
 #: ../../source/calendar.rst:25
