@@ -9,16 +9,17 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2025-04-11 04:01+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2026-02-20 07:51+0000\n"
+"Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
+"Language-Team: Russian <https://weblate.overte.org/projects/overte/"
+"overte-website/ru/>\n"
 "Language: ru\n"
-"Language-Team: Russian <https://weblate.overte.org/projects/overte"
-"/overte-website/ru/>\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -2309,17 +2310,16 @@ msgid "Saturday"
 msgstr "Суббота"
 
 #: ../../source/calendar.rst:19
-#, fuzzy
 msgid "17:00 UTC  Development meetup"
-msgstr "19:00 UTC    Встреча разработчиков"
+msgstr "17:00 UTC    Встреча разработчиков"
 
 #: ../../source/calendar.rst:23
 msgid "Monday-Friday, Sunday"
-msgstr ""
+msgstr "Понедельник-Пятница, Воскресенье"
 
 #: ../../source/calendar.rst:25
 msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
-msgstr ""
+msgstr "18:00 UTC  OMM — Медитация осознанности Overte"
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:49
 msgid "Code of Conduct"
@@ -2696,6 +2696,9 @@ msgid ""
 "breaking** release, meaning that **servers and clients are incompatible "
 "with previous versions**."
 msgstr ""
+"Текущая версия Overte — 2025.12.1. Это версия, **нарушающая совместимость с "
+"протоколом**, поэтому **серверы и клиенты несовместимы с предыдущими "
+"версиями**."
 
 #: ../../source/downloads.rst:10
 msgid ""
@@ -2719,6 +2722,8 @@ msgid ""
 "3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
 "from command line."
 msgstr ""
+"Если вы используйте AppImageLauncher, убедитесь, что версия 3.0.0-alpha-3 "
+"или выше, иначе AppImage не запустится, даже из командной строки."
 
 #: ../../source/downloads.rst:25
 msgid ""
@@ -2743,6 +2748,10 @@ msgid ""
 "OpenVR on most Linux VR stacks. You can enable OpenXR support using the "
 ":bash:`--useExperimentalXR` command line argument."
 msgstr ""
+"В этом релизе добавлена поддержка OpenXR, которая уже работает лучше, чем "
+"OpenVR, на большинстве Linux-систем с поддержкой VR. Вы можете включить "
+"поддержку OpenXR, используя аргумент командной строки "
+":bash:`--useExperimentalXR`."
 
 #: ../../source/downloads.rst:38
 msgid ""
@@ -2757,17 +2766,14 @@ msgid "Domain Server"
 msgstr "Доменный сервер"
 
 #: ../../source/downloads.rst:46
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2025.12.1/>`_."
 msgstr ""
-"Выберите пакет, соответствующий вашему дистрибутиву и архитектуре, на "
-"нашей `странице релизов GitHub 🔗 <https://github.com/overte-"
-"org/overte/releases/tag/2023.11.1/>`_ или непосредственно на "
-"`public.overte .org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_."
+"Выберете подходящий пакет для вашего дистрибутива и архитектуры на странице `"
+"public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2025.12.1/>`_."
 
 #: ../../source/downloads.rst:48
 msgid ""
@@ -2776,6 +2782,10 @@ msgid ""
 "still new, so please report any issues you run into on our `GitHub issue "
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
+"Также доступны образы Docker на странице `hub.docker.com 🔗 <https://"
+"hub.docker.com/r/overte/overte-server/tags>`_. Образы новые, так что о любых "
+"проблемах сообщайте в наш `GitHub issue tracker 🔗 <https://github.com/"
+"overte-org/overte/issues>`_."
 
 #: ../../source/downloads.rst:53
 msgid "Windows"
@@ -2925,7 +2935,7 @@ msgstr "Kreolis играет в Brainstormer's Club"
 
 #: ../../source/imprint.rst:3 ../../source/index.rst:49
 msgid "Imprint"
-msgstr "Вывод"
+msgstr "Выходные данные"
 
 #: ../../source/imprint.rst:5 ../../source/index.rst:49
 #: ../../source/overte_ev.rst:3
@@ -2950,7 +2960,7 @@ msgstr ""
 
 #: ../../source/index.rst:49
 msgid "Home"
-msgstr "Дом"
+msgstr "Главная"
 
 #: ../../source/index.rst:49
 msgid "Documentation 🔗"
@@ -2976,6 +2986,13 @@ msgid ""
 "create and host your own virtual world, explore other worlds, meet and "
 "connect with other users, attend or host live VR events, and much more."
 msgstr ""
+"Overte — это проект с :ref:`открытым исходным "
+"кодом<reference_to_downloads_source>` для погружения в виртуальные миры и "
+"социальные VR-приложения, позволяющий создавать и делиться своими мирами в "
+"шлемах виртуальной реальности (VR) и на обычных компьютерах. Вы сможете "
+"построить мир и разместить на свой собственный сервер, исследовать другие "
+"миры, знакомиться и общаться с другими пользователями, посещать или "
+"проводить прямые VR-мероприятия и многое другое."
 
 #: ../../source/index.rst:10
 msgid "The Overte software provides the following key features:"
@@ -4345,4 +4362,3 @@ msgstr ""
 
 #~ msgid "Friday, Sunday"
 #~ msgstr ""
-
