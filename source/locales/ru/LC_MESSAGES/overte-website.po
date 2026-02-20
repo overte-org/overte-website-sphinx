@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-20 07:51+0000\n"
+"PO-Revision-Date: 2026-02-21 05:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -2333,11 +2333,11 @@ msgid ""
 "and accepted regardless of their personal background and affiliation to "
 "the Overte project."
 msgstr ""
-"Проект Overte - это международное сообщество, открытое для всех без "
+"Проект Overte - это международное сообщество, открытое для всех, без "
 "дискриминации. Мы хотим, чтобы это сообщество было безопасным и "
-"гостеприимным местом как для новичков, так и для нынешних участников. "
-"Каждый должен чувствовать себя комфортно и быть принятым, независимо от "
-"его личного происхождения и принадлежности к проекту Overte."
+"гостеприимным местом как для новичков, так и для нынешних участников. Каждый "
+"должен чувствовать себя комфортно и быть принятым, независимо от его "
+"происхождения и принадлежности к проекту Overte."
 
 #: ../../source/code_of_conduct.rst:8
 msgid "Philosophy"
@@ -2352,6 +2352,13 @@ msgid ""
 "experience. Cooperation in such an environment requires common guidelines"
 " to ensure a positive and inspiring atmosphere in the community."
 msgstr ""
+"В сообществе Overte участники со всего мира объединяются, чтобы создать "
+"бесплатную и открытую социальную VR-платформу. Это стало возможным благодаря "
+"поддержке, упорному труду и энтузиазму многих людей, которые сотрудничают "
+"ради достижения общей цели - создания по-настоящему уникального опыта "
+"виртуальной реальности. Сотрудничество в такой среде требует общих "
+"руководящих принципов для обеспечения позитивной и вдохновляющей атмосферы в "
+"сообществе."
 
 #: ../../source/code_of_conduct.rst:12
 msgid ""
@@ -2364,6 +2371,14 @@ msgid ""
 " would affect normal interactions. Be reasonable, the Overte e.V. surely "
 "will be as well."
 msgstr ""
+"Именно поэтому у нас есть этот Кодекс поведения: он объясняет, какое "
+"сообщество мы хотим построить. Приведенные ниже правила не применяются ко "
+"всем ситуациям как простой алгоритм сопоставления. Человеческое общение "
+"происходит в контексте и бывает сложным. Возможные нарушения оцениваются "
+"реальными людьми, которые постараются отнестись с пониманием к таким "
+"ситуациям и следовать правилам. Соответственно, не нужно думать о том, как "
+"эти правила повлияют на ваше общение. Будьте разумны, и сообщество Overte "
+"e.V. наверняка ответит вам тем же."
 
 #: ../../source/code_of_conduct.rst:16
 msgid "Application"
@@ -2375,6 +2390,9 @@ msgid ""
 "with the Overte project and its community platforms, both online and at "
 "Overte-related events."
 msgstr ""
+"Кодекс поведения распространяется на всех пользователей и участников, "
+"взаимодействующих с проектом Overte и его сообществами, как в онлайн, так и "
+"на мероприятиях, связанных с Overte."
 
 #: ../../source/code_of_conduct.rst:20
 msgid ""
@@ -2384,6 +2402,11 @@ msgid ""
 "parties and don't interact with the Overte project's infrastructure are "
 "not bound by the agreement."
 msgstr ""
+"Данное соглашение распространяется на все ресурсы (домены), официально "
+"используемые проектом Overte, размещенные на инфраструктуре Overte или "
+"указанные на официальном сервере каталогов Overte. Ресурсы, размещенные "
+"третьими лицами и не взаимодействующие с инфраструктурой проекта Overte, не "
+"подпадают под действие соглашения."
 
 #: ../../source/code_of_conduct.rst:24
 msgid "Expectations"
@@ -2643,13 +2666,12 @@ msgstr ""
 "предпочтения):"
 
 #: ../../source/donate.rst:12
-#, fuzzy
 msgid ""
 "`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Debit card, "
 "Credit card, SEPA Direct Debit, Bancontact"
 msgstr ""
-"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Дебетовая "
-"карта, Кредитная карта"
+"`OpenCollective 🔗 <https://opencollective.com/overte>`_ – Дебетовая карта, "
+"Кредитная карта, Прямое списание SEPA, Bancontact"
 
 #: ../../source/donate.rst:13
 msgid ""
@@ -2666,6 +2688,10 @@ msgid ""
 " to accounting@overte.org or our postal address together with how much "
 "you would like to contribute."
 msgstr ""
+"Прямое списание SEPA – Отправьте заполненное `поручение <https://overte.org/"
+"_static/resources/SEPA_Basis_Lastschriftmandat_beschreibbar.pdf>`_ на "
+"accounting@overte.org или наш почтовый адрес с указанием суммы, которую вы "
+"хотите пожертвовать."
 
 #: ../../source/donate.rst:15
 msgid ""
@@ -3251,14 +3277,12 @@ msgid "Karol_Suprynowicz"
 msgstr ""
 
 #: ../../source/overte_ev.rst:83
-#, fuzzy
 msgid "Speaks Polish and English."
-msgstr "Говорит на немецком и английском языках."
+msgstr "Говорит на польском и английском языках."
 
 #: ../../source/overte_ev.rst:84
-#, fuzzy
 msgid "Graphics specialist and developer"
-msgstr "Председатель и разработчик."
+msgstr "Специалист по графике и разработчик"
 
 #: ../../source/overte_ev.rst:92
 msgid "|HifiExperiments| HifiExperiments"
