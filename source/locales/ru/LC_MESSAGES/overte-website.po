@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-21 13:01+0000\n"
+"PO-Revision-Date: 2026-02-21 20:27+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -2447,7 +2447,7 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:32
 msgid "Restricted conduct"
-msgstr ""
+msgstr "Запрещенные действия"
 
 #: ../../source/code_of_conduct.rst:34
 msgid ""
@@ -2455,6 +2455,9 @@ msgid ""
 " moderators and/or the Overte e.V. board and may lead to exclusion from "
 "the community in the form of a ban from one or all platforms."
 msgstr ""
+"Участие в запрещенных действиях приведет к предупреждению со стороны "
+"модераторов сообщества и/или самой Overte e.V. и может повлечь за собой "
+"исключение из сообщества в виде бана на одной или всех платформах."
 
 #: ../../source/code_of_conduct.rst:36
 msgid ""
@@ -2466,6 +2469,12 @@ msgid ""
 "characteristics. We do not tolerate harassment or discrimination of "
 "participants in any form."
 msgstr ""
+"Проект Overte стремится обеспечить дружелюбную и безопасную среду для всех, "
+"независимо от уровня опыта, гендерной идентичности и самовыражения, "
+"сексуальной ориентации, инвалидности, внешнего вида, телосложения, расы, "
+"этнической принадлежности, уровня владения языком, возраста, политических "
+"взглядов, национальности, религии или других подобных характеристик. Мы не "
+"терпим преследования или дискриминации участников в любой форме."
 
 #: ../../source/code_of_conduct.rst:37
 msgid ""
@@ -2473,6 +2482,10 @@ msgid ""
 "to ensure that they can take a more active role in the community and the "
 "project. Targeted harassment of minorities is unacceptable."
 msgstr ""
+"В частности, мы стремимся оказывать поддержку всем представителям меньшинств "
+"в отрасли и обеспечивать им возможность принимать более активное участие в "
+"жизни сообщества и проекта. Целенаправленное преследование меньшинств "
+"недопустимо."
 
 #: ../../source/code_of_conduct.rst:38
 msgid ""
@@ -2483,10 +2496,16 @@ msgid ""
 "disputes towards the Overte e.V. via the appropriate channels (see the "
 "`disputes`_ section below)."
 msgstr ""
+"Этот проект разрабатывается сообществом,и мы стремимся достичь согласия "
+"среди участников, прежде чем внедрять новую функцию. Если ваши идеи не "
+"получают достаточной поддержки, пожалуйста, не настаивайте и не пытайтесь "
+"заставить других поддержать ваше предложение; лучше обращайтесь с любыми "
+"спорными вопросами в Overte e.V. по соответствующим каналам (см. раздел "
+"`споры`_ ниже)."
 
 #: ../../source/code_of_conduct.rst:39
 msgid "Aggressive or offensive behavior is not acceptable."
-msgstr ""
+msgstr "Агрессивное или оскорбительное поведение недопустимо."
 
 #: ../../source/code_of_conduct.rst:40
 msgid ""
@@ -2494,6 +2513,10 @@ msgid ""
 "demean, harass, intentionally make others uncomfortable by any means, or "
 "participate in any other hateful conduct, either publicly or privately."
 msgstr ""
+"Вы будете исключены из сообщества, если будете оскорблять, унижать, "
+"преследовать, намеренно причинять дискомфорт другим любыми способами или "
+"участвовать в любом другом оскорбительном поведении, публично или в частном "
+"порядке."
 
 #: ../../source/code_of_conduct.rst:41
 msgid ""
@@ -2501,6 +2524,9 @@ msgid ""
 "stealing behavior is not welcome and will result in exclusion from the "
 "community."
 msgstr ""
+"Также, любой спам, троллинг, оскорбления, провокации или иное поведение, "
+"направленное на привлечение внимания, недопустимы и приведут к исключению из "
+"сообщества."
 
 #: ../../source/code_of_conduct.rst:42
 msgid ""
@@ -2509,16 +2535,23 @@ msgid ""
 " complaint. Any such behavior will result in exclusion from the "
 "community."
 msgstr ""
+"Любая форма мести в отношении участника, обратившегося в группу по "
+"соблюдению Кодекса поведения, совершенно недопустима, независимо от исхода "
+"жалобы. Любое подобное поведение приведет к исключению из сообщества."
 
 #: ../../source/code_of_conduct.rst:43
 msgid ""
 "For certainty, any conduct which could reasonably be considered "
 "inappropriate in a professional setting is not acceptable."
 msgstr ""
+"Безусловно, любое поведение, которое может быть обоснованно сочтено "
+"неуместным в профессиональной среде, недопустимо."
 
 #: ../../source/code_of_conduct.rst:44
 msgid "Additional restrictions may apply if required by German law."
 msgstr ""
+"Дополнительные ограничения могут применяться, если это требует "
+"законодательство Германии."
 
 #: ../../source/code_of_conduct.rst:46
 msgid ""
@@ -2528,10 +2561,15 @@ msgid ""
 "it's not for discriminatory reasons. Non-compliance will result in the "
 "removal of the listing from the directory server."
 msgstr ""
+"В сторонних ресурсах (доменах) могут действовать дополнительные правила, "
+"если они не противоречат вышеизложенным. Например, они могут иметь более "
+"строгий кодекс поведения, требовать соблюдение ролевой игры или исключать "
+"людей, при условии, что это не связано с дискриминацией. Несоблюдение правил "
+"приведет к удалению записи с сервера каталогов."
 
 #: ../../source/code_of_conduct.rst:50
 msgid "Reporting a breach"
-msgstr ""
+msgstr "Сообщение о нарушении"
 
 #: ../../source/code_of_conduct.rst:52
 msgid ""
@@ -2552,7 +2590,7 @@ msgstr ""
 
 #: ../../source/code_of_conduct.rst:59
 msgid "Disputes"
-msgstr ""
+msgstr "Споры"
 
 #: ../../source/code_of_conduct.rst:61
 msgid ""
