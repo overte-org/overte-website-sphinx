@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-21 21:49+0000\n"
+"PO-Revision-Date: 2026-02-22 17:58+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -23,9 +23,8 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
-#, fuzzy
 msgid "New website"
-msgstr "2023-04-01 Новый сайт"
+msgstr "Новый сайт"
 
 #: ../../source/blog/2023-04-01_New_website.rst:7
 msgid ""
@@ -51,9 +50,8 @@ msgstr ""
 "перейдите на `weblate.overte.org 🔗 <https://weblate.overte.org/>`_."
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:5
-#, fuzzy
 msgid "We've obtained an NLnet grant!"
-msgstr "2024-02-24 Мы получили грант NLnet!"
+msgstr "Мы получили грант NLnet!"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:7
 msgid ""
@@ -66,7 +64,6 @@ msgstr ""
 " мы также попали в этот список!"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:9
-#, fuzzy
 msgid ""
 "As part of the agreement, we commit to keeping users and developers up to"
 " date with the progress made on these items at least every two months. "
@@ -74,12 +71,11 @@ msgid ""
 "meetings, and use tags, projects and other functionality on GitHub to "
 "make it easy for anyone interested to follow the progress."
 msgstr ""
-"В рамках соглашения мы обязуемся информировать пользователей и "
-"разработчиков о прогрессе, достигнутом по этим вопросам, по крайней мере,"
-" каждые два месяца. Для этого мы будем отслеживать его во время наших "
-"обычных субботних встреч разработчиков и использовать теги, проекты и "
-"другие функции на Github, чтобы всем, кому интересно, было легко следить "
-"за прогрессом."
+"В рамках соглашения мы обязуемся информировать пользователей и разработчиков "
+"о прогрессе, достигнутом по этим задачам, минимум каждые два месяца. Для "
+"этого мы будем отслеживать его во время наших обычных субботних встреч "
+"разработчиков и использовать теги, проекты и другие функции на Github, чтобы "
+"всем, кому интересно, было легко следить за ходом работы."
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:13
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:15
@@ -166,13 +162,12 @@ msgstr ""
 "org/overte/issues/776#issuecomment-1868203856)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:39
-#, fuzzy
 msgid ""
 "Finish overhauling TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
-"Завершить переработку TAA с помощью буфера скорости (https://github.com"
-"/overte-org/overte/pull/501)"
+"Завершить переработку TAA с использованием velocity buffer (https://"
+"github.com/overte-org/overte/pull/501)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:40
 msgid "Add support for GPU particles"
@@ -277,17 +272,18 @@ msgstr "Сообществу Overte за то, что это стало возм
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:5
 msgid "NLnet grant extended!"
-msgstr ""
+msgstr "Грант NLnet продлен!"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:7
 msgid ""
 "We've obtained an extension to the NLnet grant, with the following "
 "additional items:"
 msgstr ""
+"Мы получили продление гранта NLnet со следующими дополнительными пунктами:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:11
 msgid "Linux FHS Support"
-msgstr ""
+msgstr "Поддержка Linux FHS"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:13
 msgid ""
@@ -295,47 +291,50 @@ msgid ""
 "for an application. This work would involve adopting it, and adding some "
 "nice improvements as well."
 msgstr ""
+"Стандарт иерархии файловой системы Linux определяет правильную структуру "
+"файлов для приложения. Мы предполагаем его внедрение, а также внесение "
+"некоторых полезных улучшений."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:15
 msgid "This will:"
-msgstr ""
+msgstr "Это позволит:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:17
 msgid "Make packaging easier and allow inclusion in distributions."
 msgstr ""
+"Упростить сборку пакетов и обеспечить возможность включения в дистрибутивы."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:18
 msgid "Make SELinux easier."
-msgstr ""
+msgstr "Сделать работу с SELinux проще."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:19
 msgid "Allow easy instancing out of the box."
-msgstr ""
+msgstr "Обеспечить простой инстансинг \"из коробки\"."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:20
 msgid "Make Mac packaging easier."
-msgstr ""
+msgstr "Упростить сборку пакетов для Mac."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:22
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:35
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:48
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:64
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:87
-#, fuzzy
 msgid "Tasks:"
-msgstr "Благодарности"
+msgstr "Задачи:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:24
-#, fuzzy
 msgid ""
 "Domain server/assignment client implementation (https://github.com"
 "/overte-org/overte/issues/903)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Реализация в Сервере домена/назначенных клиентов (https://github.com/"
+"overte-org/overte/issues/903)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:25
-#, fuzzy
 msgid "Interface implementation (https://github.com/overte-org/overte/issues/904)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr "Реализация в клиенте (https://github.com/overte-org/overte/issues/904)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:29
 msgid "LDAP Support"
@@ -3161,7 +3160,7 @@ msgstr "Новости"
 
 #: ../../source/index.rst:46
 msgid "See all posts: :ref:`blog-posts`"
-msgstr ""
+msgstr "Все новости: :ref:`blog-posts`"
 
 #: ../../source/overte_ev.rst:5
 msgid ""
