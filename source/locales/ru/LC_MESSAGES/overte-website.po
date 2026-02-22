@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-22 17:58+0000\n"
+"PO-Revision-Date: 2026-02-22 21:50+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -338,13 +338,15 @@ msgstr "Реализация в клиенте (https://github.com/overte-org/ov
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:29
 msgid "LDAP Support"
-msgstr ""
+msgstr "Поддержка LDAP"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:31
 msgid ""
 "LDAP is a common authentication mechanism, widely supported in "
 "organizations. Active Directory is compatible as well."
 msgstr ""
+"LDAP — это распространённый механизм аутентификации, широко используемый в "
+"организациях. Active Directory также совместим с ним."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:33
 msgid ""
@@ -353,19 +355,27 @@ msgid ""
 "authentication. We'd save the need to write that code ourselves, which is"
 " of little interest and has been done better by other projects."
 msgstr ""
+"Это позволит Overte гораздо лучше интегрироваться в корпоративные и "
+"университетские структуры. Они смогут использовать свою собственную "
+"внутреннюю систему управления аутентификацией. Нам не придётся писать этот "
+"код самим, что малоинтересно и уже хорошо реализовано в других проектах."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:37
-#, fuzzy
 msgid ""
 "Basic support in domain web UI to allow multiple users to authenticate. "
 "(https://github.com/overte-org/overte/issues/905)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Базовая поддержка в веб-интерфейсе домена для обеспечения аутентификации "
+"нескольких пользователей. (https://github.com/overte-org/overte/issues/905)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:38
 msgid ""
 "Basic support as an alternative to directory server: user accounts, "
 "domain directory. (https://github.com/overte-org/overte/issues/906)"
 msgstr ""
+"Базовая поддержка как альтернатива серверу каталогов: учетные записи "
+"пользователей, каталог доменов. (https://github.com/overte-org/overte/issues/"
+"906)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:39
 msgid ""
@@ -373,10 +383,13 @@ msgid ""
 "storage, profile metadata. (https://github.com/overte-"
 "org/overte/issues/907)"
 msgstr ""
+"Полная альтернатива серверу каталогов. Поддержка взаимосвязей пользователей, "
+"хранения данных, метаданных профилей. (https://github.com/overte-org/overte/"
+"issues/907)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:43
 msgid "IPv6 Support"
-msgstr ""
+msgstr "Поддержка IPv6"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:45
 msgid ""
