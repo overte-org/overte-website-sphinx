@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-22 21:50+0000\n"
+"PO-Revision-Date: 2026-02-23 20:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -383,9 +383,9 @@ msgid ""
 "storage, profile metadata. (https://github.com/overte-"
 "org/overte/issues/907)"
 msgstr ""
-"Полная альтернатива серверу каталогов. Поддержка взаимосвязей пользователей, "
-"хранения данных, метаданных профилей. (https://github.com/overte-org/overte/"
-"issues/907)"
+"Полная альтернатива серверу каталогов. Поддержка связей между "
+"пользователями, хранения данных, метаданных профилей. (https://github.com/"
+"overte-org/overte/issues/907)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:43
 msgid "IPv6 Support"
@@ -399,29 +399,35 @@ msgid ""
 "already are charging extra for IPv4 addresses, so supporting IPv6 helps "
 "making hosting domains cheaper."
 msgstr ""
+"В последнее время внедрение IPv6 достигает довольно хороших показателей, и "
+"это особенно важно в средах, испытывающих нехватку адресов IPv4, таких как "
+"корпорации, университеты, облачные сервисы и крупные развертывания. "
+"Некоторые провайдеры уже взимают дополнительную плату за адреса IPv4, "
+"поэтому поддержка IPv6 помогает снизить стоимость хостинга доменов."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:50
-#, fuzzy
 msgid ""
 "Basic support in domain web UI. (https://github.com/overte-"
 "org/overte/issues/908)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Базовая поддержка в веб-интерфейсе домена. (https://github.com/overte-org/"
+"overte/issues/908)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:51
-#, fuzzy
 msgid ""
 "Support for fetching assets over IPv6 in interface. (https://github.com"
 "/overte-org/overte/issues/909)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Поддержка получения ресурсов по IPv6 в клиенте (https://github.com/"
+"overte-org/overte/issues/909)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:52
-#, fuzzy
 msgid ""
 "Support for domains running on IPv6. (https://github.com/overte-"
 "org/overte/issues/910)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Поддержка доменов, работающих по протоколу IPv6. (https://github.com/"
+"overte-org/overte/issues/910)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:57
 #, fuzzy
@@ -433,6 +439,8 @@ msgid ""
 "SELinux is a security system that allows sandboxing applications and "
 "daemons."
 msgstr ""
+"SELinux — это система безопасности, позволяющая изолировать приложения и "
+"демоны."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:62
 msgid ""
@@ -441,90 +449,97 @@ msgid ""
 "instance, a domain exploit could still break the domain, but couldn't use"
 " the server to attack other computers or expose the user's private data."
 msgstr ""
+"SELinux изолирует сервер домена и, при необходимости, клиент, чтобы "
+"гарантировать, что любые уязвимости не смогут повлиять на остальную часть "
+"системы. Например, уязвимость домена всё ещё может нарушить работу домена, "
+"но не сможет использовать сервер для атаки на другие компьютеры или "
+"раскрытия личных данных пользователя."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:66
-#, fuzzy
 msgid "Confine domain-server. (https://github.com/overte-org/overte/issues/911)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Изолировать сервер домена. (https://github.com/overte-org/overte/issues/911)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:67
-#, fuzzy
 msgid ""
 "Confine assignment clients. (https://github.com/overte-"
 "org/overte/issues/912)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Изолировать назначенных клиентов. (https://github.com/overte-org/overte/"
+"issues/912)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:68
-#, fuzzy
 msgid ""
 "Attempt supporting multiple instances with isolation. (https://github.com"
 "/overte-org/overte/issues/913)"
 msgstr ""
-"Переместить аудиозоны в свойства зоны (https://github.com/overte-"
-"org/overte/issues/69)"
+"Попробовать реализовать поддержку нескольких экземпляров с изоляцией. "
+"(https://github.com/overte-org/overte/issues/913)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:69
-#, fuzzy
 msgid ""
 "Isolate multiple Overte servers on the same machine from each other. "
 "(https://github.com/overte-org/overte/issues/914)"
 msgstr ""
-"Переместить аудиозоны в свойства зоны (https://github.com/overte-"
-"org/overte/issues/69)"
+"Изолировать несколько серверов Overte на одной машине друг от друга. "
+"(https://github.com/overte-org/overte/issues/914)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:70
-#, fuzzy
 msgid "Confine interface. (https://github.com/overte-org/overte/issues/915)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr "Изолировать клиент (https://github.com/overte-org/overte/issues/915)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:74
 msgid "Canvas texture"
-msgstr ""
+msgstr "Canvas текстура"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:76
 msgid ""
 "This would implement a new concept of a software defined canvas texture. "
 "Scripts can draw on it, and clients receive updates."
 msgstr ""
+"Будет реализована новая концепция – программно-определяемая текстура холста. "
+"Скрипты смогут рисовать на ней, а клиенты будут получать обновления."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:78
 msgid "This has a huge potential range of useful functionality:"
-msgstr ""
+msgstr "Это открывает огромные возможности для полезного функционала:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:80
 msgid "Software defined textures"
-msgstr ""
+msgstr "Программно определяемые текстуры"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:81
 msgid "Script-generated nametags, banners, status displays, etc."
 msgstr ""
+"Создаваемые скриптами именные таблички, баннеры, индикаторы статуса и т.д."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:82
 msgid "Screen sharing without any external dependencies"
-msgstr ""
+msgstr "Демонстрация экрана без каких-либо внешних зависимостей"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:83
 msgid "Whiteboard"
-msgstr ""
+msgstr "Доска"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:84
 msgid "Synchronized web entity"
-msgstr ""
+msgstr "Синхронизированная веб-сущность"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:85
 msgid ""
 "Server-side rendered web entity. This would help with the Quest "
 "implementation."
 msgstr ""
+"Веб-сущность, которая рендерится на стороне сервера. Это помогло бы в "
+"реализации для Quest."
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:89
-#, fuzzy
 msgid ""
 "Basic implementation. Texture object, simple operations like painting "
 "pixels and blocks. (https://github.com/overte-org/overte/issues/916)"
 msgstr ""
-"Добавить интерполяцию в анимацию модели (https://github.com/overte-"
-"org/overte/issues/317)"
+"Базовая реализация. Объект текстуры, простые операции, такие как рисование "
+"пикселей и блоков. (https://github.com/overte-org/overte/issues/916)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:90
 msgid ""
@@ -532,71 +547,75 @@ msgid ""
 "rectangles, circles, curves, etc. (https://github.com/overte-"
 "org/overte/issues/917)"
 msgstr ""
+"Полноценный canvas API. Поддержка шрифтов, графических примитивов, таких как "
+"прямоугольники, круги, кривые и т.д. (https://github.com/overte-org/overte/"
+"issues/917)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:91
-#, fuzzy
 msgid "Screen sharing (https://github.com/overte-org/overte/issues/918)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr "Демонстрация экрана (https://github.com/overte-org/overte/issues/918)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:92
-#, fuzzy
 msgid ""
 "Synchronized web surface. (https://github.com/overte-"
 "org/overte/issues/919)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Синхронизированная веб-поверхность. (https://github.com/overte-org/overte/"
+"issues/919)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:5
 msgid "NLnet grant extended again!"
-msgstr ""
+msgstr "Грант NLnet снова продлен!"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:7
 msgid ""
 "We've obtained another extension to the NLnet grant, with the following "
 "additional items:"
 msgstr ""
+"Мы получили очередное продление гранта NLnet со следующими дополнительными "
+"пунктами:"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:11
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:63
 #: ../../source/blog/2025-09-07_August_progress_report.rst:46
-#, fuzzy
 msgid "Maintenance"
-msgstr "Интерфейс"
+msgstr "Поддержка"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:13
-#, fuzzy
 msgid ""
 "Fix warnings and allow turning on warnings-as-errors (https://github.com"
 "/overte-org/overte/issues/930)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Исправить предупреждения и разрешить включение функции «предупреждения как "
+"ошибки». (https://github.com/overte-org/overte/issues/930)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:14
-#, fuzzy
 msgid ""
 "Clean up Application.cpp so it's not 10,000 lines (https://github.com"
 "/overte-org/overte/issues/931)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Подчистить Application.cpp, чтобы он не содержал 10 000 строк. (https://"
+"github.com/overte-org/overte/issues/931)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:15
-#, fuzzy
 msgid ""
 "fix setting joint data by name (https://github.com/overte-"
 "org/overte/issues/613)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Исправить задание данных суставов по имени. (https://github.com/overte-org/"
+"overte/issues/613)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:16
-#, fuzzy
 msgid ""
 "Replace the old wearables system with avatar entities to deduplicate "
 "code. (https://github.com/overte-org/overte/issues/932)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Заменить старую систему носимых устройств на вещи аватара, чтобы избежать "
+"дублирования кода. (https://github.com/overte-org/overte/issues/932)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:19
 msgid "Text entities"
-msgstr ""
+msgstr "Текстовые объекты"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:21
 msgid ""
@@ -605,42 +624,50 @@ msgid ""
 "cannot add new fonts, which is especially bad because the current fonts "
 "only support ASCII character."
 msgstr ""
+"Наши текстовые объекты нуждаются в доработке. Они неуклюжи, и, что наиболее "
+"важно, используют собственный формат, который нигде не задокументирован; это "
+"означает, что мы не можем добавлять новые шрифты, что особенно плохо, "
+"поскольку текущие шрифты поддерживают только символы ASCII."
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:23
-#, fuzzy
 msgid ""
 "clip to edges instead of completely disappearing (https://github.com"
 "/overte-org/overte/issues/583)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Обрезка происходит по краям, а не полностью исчезает. (https://github.com/"
+"overte-org/overte/issues/583)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:24
-#, fuzzy
 msgid ""
 "Switch to a standard font format (https://github.com/overte-"
 "org/overte/issues/126)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Переключиться на стандартный формат шрифта. (https://github.com/overte-org/"
+"overte/issues/126)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:27
-#, fuzzy
 msgid "Graphics improvements II"
-msgstr "Улучшения графики"
+msgstr "Улучшения графики II"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:29
-#, fuzzy
 msgid "Add ambient light color (https://github.com/overte-org/overte/issues/6)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Добавить цвет к окружающему освещению. (https://github.com/overte-org/overte/"
+"issues/6)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:30
-#, fuzzy
 msgid ""
 "Loading MToon materials directly from glTF (https://github.com/overte-"
 "org/overte/issues/933)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Загрузка материалов MToon непосредственно из glTF. (https://github.com/"
+"overte-org/overte/issues/933)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:31
-#, fuzzy
 msgid "Optional camera clipping (https://github.com/overte-org/overte/issues/618)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Опциональный клиппинг камеры. (https://github.com/overte-org/overte/issues/"
+"618)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:32
 msgid ""
@@ -648,6 +675,10 @@ msgid ""
 " One fallback for if a shader fails to load/compile and one for if a user"
 " has procedural shaders disabled"
 msgstr ""
+"Резервный вариант для пользовательских шейдеров (https://github.com/"
+"overte-org/overte/issues/640): Один – на случай, если шейдер не загрузится/"
+"не скомпилируется, второй – на случай, если пользователь отключил "
+"процедурные шейдеры"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:33
 msgid ""
@@ -656,64 +687,66 @@ msgid ""
 "/overte-org/overte/issues/741, https://github.com/overte-"
 "org/overte/issues/14)"
 msgstr ""
+"Расширение возможностей настройки графики (tone-mapping, bloom, процедурные "
+"шейдеры, AO) (https://github.com/overte-org/overte/issues/740, https://"
+"github.com/overte-org/overte/issues/741, https://github.com/overte-org/"
+"overte/issues/14)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:34
-#, fuzzy
 msgid ""
 "add tone-mapping and Ambient Occlusion properties to Zone entities "
 "(https://github.com/overte-org/overte/issues/934)"
 msgstr ""
-"Добавить свойство WantKeyboardFocus для веб-сущностей (https://github.com"
-"/overte-org/overte/issues/6)"
+"Добавить свойства tone-mapping и Ambient Occlusion к объектам Zone (https://"
+"github.com/overte-org/overte/issues/934)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:37
-#, fuzzy
 msgid "Miscellaneous improvements II"
-msgstr "Различные улучшения"
+msgstr "Различные улучшения II"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:39
-#, fuzzy
 msgid ""
 "Add VR laser smoothing which will especially help people with shaky hands"
 " (https://github.com/overte-org/overte/issues/883)"
 msgstr ""
-"Переместить аудиозоны в свойства зоны (https://github.com/overte-"
-"org/overte/issues/69)"
+"Добавить функцию сглаживания лазера в VR, которая особенно поможет людям с "
+"дрожащими руками. (https://github.com/overte-org/overte/issues/883)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:40
-#, fuzzy
 msgid ""
 "Increase loading priority of avatar entities (https://github.com/overte-"
 "org/overte/issues/834)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Повысить приоритет загрузки объектов аватара. (https://github.com/overte-org/"
+"overte/issues/834)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:41
-#, fuzzy
 msgid ""
 "Add option to not have an avatar show until its entities are loaded "
 "(https://github.com/overte-org/overte/issues/834)"
 msgstr ""
-"Добавить интерполяцию в анимацию модели (https://github.com/overte-"
-"org/overte/issues/317)"
+"Добавить опцию, позволяющую не отображать аватар до загрузки его вещей. "
+"(https://github.com/overte-org/overte/issues/834)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:42
-#, fuzzy
 msgid ""
 "Improve current loading priority system (https://github.com/overte-"
 "org/overte/issues/834)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Улучшить текущую систему приоритетов загрузки. (https://github.com/"
+"overte-org/overte/issues/834)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:43
-#, fuzzy
 msgid ""
 "Add a property to influence load priority of entities (https://github.com"
 "/overte-org/overte/issues/834)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Добавьте свойство, влияющее на приоритет загрузки объектов. (https://"
+"github.com/overte-org/overte/issues/834)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:5
-#, fuzzy
 msgid "We've obtained another NLnet grant!"
-msgstr "2024-02-24 Мы получили грант NLnet!"
+msgstr "Мы получили еще один грант от NLnet!"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:7
 msgid ""
@@ -721,31 +754,30 @@ msgid ""
 "improvements, and new features, we are pleased to announce that we've "
 "obtained a second NLnet grant!"
 msgstr ""
+"После успеха нашего предыдущего гранта, который позволил внести множество "
+"исправлений, улучшений и добавить новые возможности, мы рады сообщить, что "
+"получили второй грант от NLnet!"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:9
-#, fuzzy
 msgid ""
 "The NLnet Foundation continues to support many amazing Open Source "
 "projects, and we're honored to continue partnering with them."
 msgstr ""
-"NLnet Foundation - это организация, которая поддерживает множество "
-"замечательных проектов с открытым исходным кодом, и мы рады сообщить, что"
-" мы также попали в этот список!"
+"Фонд NLnet продолжает поддерживать множество замечательных проектов с "
+"открытым исходным кодом, и для нас большая честь продолжать сотрудничество с "
+"ним."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:11
-#, fuzzy
 msgid ""
 "As with the previous grant, we commit to keeping users and developers up "
 "to date with the progress made on these items, both during our usual "
 "Saturday development meetings and on GitHub, so that everyone can follow "
 "along with the progress."
 msgstr ""
-"В рамках соглашения мы обязуемся информировать пользователей и "
-"разработчиков о прогрессе, достигнутом по этим вопросам, по крайней мере,"
-" каждые два месяца. Для этого мы будем отслеживать его во время наших "
-"обычных субботних встреч разработчиков и использовать теги, проекты и "
-"другие функции на Github, чтобы всем, кому интересно, было легко следить "
-"за прогрессом."
+"Как и в случае с предыдущим грантом, мы обязуемся держать пользователей и "
+"разработчиков в курсе прогресса, достигнутого в работе над этими задачами, "
+"как во время наших обычных субботних встреч по разработке, так и на GitHub, "
+"чтобы все могли следить за ходом работ."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:17
 #, fuzzy
