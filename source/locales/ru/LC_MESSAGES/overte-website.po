@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-23 20:30+0000\n"
+"PO-Revision-Date: 2026-02-25 07:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -205,11 +205,11 @@ msgstr "Рендер каркаса"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:50
 msgid "Forward renderer (for low end hardware)"
-msgstr "Форвардный рендерер (для бюджетного оборудования)"
+msgstr "Forward renderer (для бюджетного оборудования)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:51
 msgid "Deferred renderer (fully featured)"
-msgstr "Отложенный рендерер (полноценный)"
+msgstr "Deferred renderer (полноценный)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:52
 msgid "Optimization"
@@ -235,7 +235,7 @@ msgstr ""
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:59
 msgid "Switching to Conan"
-msgstr "Переключение на Конана"
+msgstr "Переход на Conan"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:60
 msgid "Updating documentation"
@@ -741,7 +741,7 @@ msgid ""
 "Add a property to influence load priority of entities (https://github.com"
 "/overte-org/overte/issues/834)"
 msgstr ""
-"Добавьте свойство, влияющее на приоритет загрузки объектов. (https://"
+"Добавить свойство, влияющее на приоритет загрузки объектов. (https://"
 "github.com/overte-org/overte/issues/834)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:5
@@ -780,24 +780,22 @@ msgstr ""
 "чтобы все могли следить за ходом работ."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:17
-#, fuzzy
 msgid ""
 "The funding will be used to pay developers to work on the areas listed "
 "below, with the possibility of extensions and additional work."
 msgstr ""
-"Финансирование будет использовано для оплаты труда разработчиков, которые"
-" будут работать в областях, перечисленных ниже. Существует возможность "
-"согласования дополнительной работы между нами и NLnet."
+"Финансирование будет использовано для оплаты труда разработчиков, работающих "
+"в перечисленных ниже областях, с возможностью продления сроков и выполнения "
+"дополнительных работ."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:19
-#, fuzzy
 msgid "The agreed upon deadline for completion is December 1st, 2025."
-msgstr "Согласованный срок завершения - 17 февраля 2025 года."
+msgstr "Согласованный срок завершения - 1 декабря 2025 года."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:23
 #: ../../source/blog/2025-09-07_August_progress_report.rst:34
 msgid "Features"
-msgstr ""
+msgstr "Возможности"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:25
 msgid ""
@@ -805,48 +803,54 @@ msgid ""
 "of all the features provided by our scripting engine. To that end, we "
 "would like to add a visual scripting system."
 msgstr ""
+"Мы хотим предоставить пользователям с низкими техническими навыками "
+"возможность с большим комфортом использовать все функции нашего скриптового "
+"движка. Для этого мы хотели бы добавить визуальную систему скриптинга."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:28
-#, fuzzy
 msgid "Visual scripting (https://github.com/overte-org/overte/issues/982)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr "Визуальный скриптинг (https://github.com/overte-org/overte/issues/982)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:29
-#, fuzzy
 msgid ""
 "Chat messages in 3D space (https://github.com/overte-"
 "org/overte/issues/1147)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Сообщения в чате в 3D пространстве (https://github.com/overte-org/overte/"
+"issues/1147)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:30
-#, fuzzy
 msgid ""
 "Add copy and paste buttons to VR keyboard (https://github.com/overte-"
 "org/overte/issues/130)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Добавить кнопки копирования и вставки на клавиатуру в VR (https://github.com/"
+"overte-org/overte/issues/130)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:31
-#, fuzzy
 msgid ""
 "Support OpenXR finger tracking (https://github.com/overte-"
 "org/overte/issues/224)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Поддержка отслеживания пальцев в OpenXR (https://github.com/overte-org/"
+"overte/issues/224)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:32
-#, fuzzy
 msgid ""
 "Cryptography functions in scripting API (https://github.com/overte-"
 "org/overte/tree/feature/cryptography)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Криптографические функции в API скриптов (https://github.com/overte-org/"
+"overte/tree/feature/cryptography)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:33
 msgid "Add live translation support to chat"
-msgstr ""
+msgstr "Добавить поддержку перевода в реальном времени в чат"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:36
 #: ../../source/blog/2025-09-07_August_progress_report.rst:41
 msgid "Graphics"
-msgstr ""
+msgstr "Графика"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:38
 msgid ""
@@ -856,22 +860,27 @@ msgid ""
 "spend more time on Vulkan optimization, especially on troubleshooting "
 "performance issues on Intel Arc graphics cards."
 msgstr ""
+"Наш движок использует собственный внутренний графический API, который в "
+"значительной степени не документирован. Документирование этого API — большая "
+"работа, и это важно для будущей поддержки проекта. Кроме того, мы хотели бы "
+"уделить больше времени оптимизации Vulkan, особенно устранению проблем с "
+"производительностью на видеокартах Intel Arc."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:40
-#, fuzzy
 msgid "Vulkan optimization"
-msgstr "Оптимизация"
+msgstr "Оптимизация Vulkan"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:41
 msgid "Internal graphics API documentation"
-msgstr ""
+msgstr "Документирование внутреннего графического API"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:42
-#, fuzzy
 msgid ""
 "Have local lights affect MToon materials (https://github.com/overte-"
 "org/overte/issues/1131)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Влияние локального освещения на материалы MToon (https://github.com/"
+"overte-org/overte/issues/1131)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:43
 #, fuzzy
@@ -883,31 +892,34 @@ msgstr ""
 "org/overte/issues/69)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:44
-#, fuzzy
 msgid ""
 "Use standard physically-based-rendering for voxels (https://github.com"
 "/overte-org/overte/issues/749)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Использовать стандартный физически корректный рендеринг (PBR) для вокселей "
+"(https://github.com/overte-org/overte/issues/749)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:45
 msgid "Allow switching between graphics APIs through command line option"
 msgstr ""
+"Разрешить переключение между графическими API с помощью параметра командной "
+"строки"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:46
-#, fuzzy
 msgid ""
 "Add splat mapping functionality (https://github.com/overte-"
 "org/overte/issues/1163)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Добавить функциональность splat-карт (https://github.com/overte-org/overte/"
+"issues/1163)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:47
-#, fuzzy
 msgid ""
 "Add a no-filter texture filtering mode (https://github.com/overte-"
 "org/overte/issues/145)"
 msgstr ""
-"Добавить интерполяцию в анимацию модели (https://github.com/overte-"
-"org/overte/issues/317)"
+"Добавить режим фильтрации текстур без фильтрации (https://github.com/"
+"overte-org/overte/issues/145)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:50
 msgid "QML Localization"
@@ -957,60 +969,56 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:70
 msgid "Fix building dependencies on CMake 4.0"
-msgstr ""
+msgstr "Исправить зависимости сборки в CMake 4.0"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:71
 msgid "Update libnode to the next LTS version"
-msgstr ""
+msgstr "Обновить libnode до следующей версии LTS"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:72
 msgid "Improve build instructions for building with KDevelop and CLion"
-msgstr ""
+msgstr "Улучшить инструкции по сборке для KDevelop и CLion"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:73
 msgid "Add automatic Docker release builds"
-msgstr ""
+msgstr "Добавить автоматическую сборку релизов Docker"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:74
 msgid "Finish getting Overte into Flathub"
-msgstr ""
+msgstr "Завершить добавление Overte в Flathub"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:75
-#, fuzzy
 msgid "Update to Qt 6 (https://github.com/overte-org/overte/issues/1243)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr "Обновление до Qt 6 (https://github.com/overte-org/overte/issues/1243)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:76
 msgid "Package Qt 6 dependency for Windows"
-msgstr ""
+msgstr "Пакет зависимостей Qt 6 для Windows"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:77
 msgid "Package Qt 6 dependency for Linux"
-msgstr ""
+msgstr "Пакет зависимостей Qt 6 для Linux"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:78
 msgid "Package webrtc-audio-processing"
-msgstr ""
+msgstr "Пакет webrtc-audio-processing"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:79
-#, fuzzy
 msgid "Switch to libdatachannel"
-msgstr "Переключение на Конана"
+msgstr "Переход на libdatachannel"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:82
 #: ../../source/blog/2025-09-07_August_progress_report.rst:53
-#, fuzzy
 msgid "Bug Fixes"
-msgstr "Файлы логов"
+msgstr "Исправить ошибки"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:84
-#, fuzzy
 msgid ""
 "Fix MToon materials not showing up in Material Inspector "
 "(https://github.com/overte-org/overte/issues/1028)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Исправить ошибку, из-за которой материалы MToon не отображаются в инспекторе "
+"материалов (https://github.com/overte-org/overte/issues/1028)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:85
 #, fuzzy
