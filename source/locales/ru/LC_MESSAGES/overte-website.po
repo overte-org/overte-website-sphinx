@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-25 07:30+0000\n"
+"PO-Revision-Date: 2026-02-26 05:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -883,13 +883,12 @@ msgstr ""
 "overte-org/overte/issues/1131)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:43
-#, fuzzy
 msgid ""
 "Expose normal map attenuation distance as zone property "
 "(https://github.com/overte-org/overte/issues/1139)"
 msgstr ""
-"Переместить аудиозоны в свойства зоны (https://github.com/overte-"
-"org/overte/issues/69)"
+"Сделать дистанцию затухания карты нормалей свойством зоны  (https://"
+"github.com/overte-org/overte/issues/1139)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:44
 msgid ""
@@ -923,7 +922,7 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:50
 msgid "QML Localization"
-msgstr ""
+msgstr "QML локализация"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:52
 msgid ""
@@ -931,30 +930,34 @@ msgid ""
 "localization support. This task aims to allow translating all internal UI"
 " created using QML. (Most, but not all, of our UI uses QML.)"
 msgstr ""
+"Так как Overte используется людьми по всему миру, мы хотим добавить "
+"поддержку локализации. Цель этой задачи — обеспечить перевод всего "
+"внутреннего пользовательского интерфейса (UI), созданного с использованием "
+"QML. (Большая часть, но не весь, наш UI использует QML.)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:55
 msgid "Mark strings as translatable"
-msgstr ""
+msgstr "Пометить строки как переводимые"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:56
 msgid "Generate translation files automatically"
-msgstr ""
+msgstr "Автоматическая генерация файлов перевода"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:57
 msgid "Hook up to Weblate translation system"
-msgstr ""
+msgstr "Подключитесь к системе перевода Weblate"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:58
 msgid "Build with translations"
-msgstr ""
+msgstr "Сборка с переводами"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:59
 msgid "Check if we include the required fonts"
-msgstr ""
+msgstr "Проверка, включены ли необходимые шрифты"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:60
 msgid "Add German translation (as a reference test case)"
-msgstr ""
+msgstr "Добавить немецкий перевод (в качестве тестового примера)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:65
 msgid ""
@@ -962,10 +965,13 @@ msgid ""
 "compatibility, which seems to break almost every one of our dependencies."
 " Libnode has similarly received updates, including breaking changes."
 msgstr ""
+"Скоро выйдет CMake 4.0 – в нём будет прекращена поддержка некоторых "
+"устаревших функций, что, похоже, нарушит работу почти всех наших "
+"зависимостей. Libnode также получил обновления, имеет критические изменения."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:69
 msgid "Update Overte for CMake 4.0 compatibility"
-msgstr ""
+msgstr "Обновить Overte для совместимости с CMake 4.0"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:70
 msgid "Fix building dependencies on CMake 4.0"
@@ -1074,7 +1080,7 @@ msgstr "Добавить аудиообъекты (https://github.com/overte-org
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:94
 msgid "UI Rework"
-msgstr ""
+msgstr "Переработка UI"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:96
 msgid ""
@@ -1083,110 +1089,115 @@ msgid ""
 "Specifically our Create app could use some improvement "
 "(https://github.com/overte-org/overte/issues/1145)."
 msgstr ""
+"Наш текущий пользовательский интерфейс (UI) представляет собой смесь "
+"различных тем, дизайнерских концепций и языков программирования (https://"
+"github.com/orgs/overte-org/projects/8). В частности, наше приложение Create "
+"нуждается в улучшении (https://github.com/overte-org/overte/issues/1145)."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:99
 msgid "Framework for default QML applications"
-msgstr ""
+msgstr "Фреймворк для стандартных QML приложений"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:100
 msgid "Rework Avatar app"
-msgstr ""
+msgstr "Переработка приложения Avatar"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:101
 msgid "Add grid shader to Create"
-msgstr ""
+msgstr "Добавить шейдер сетки в меню «Создать»"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:102
 msgid "Allow switching Create windows between external and embedded windows"
-msgstr ""
+msgstr "Возможность переключения между внешними и встроенными окнами"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:103
 msgid "Rework asset browser"
-msgstr ""
+msgstr "Переработка браузера ассетов"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:104
 msgid "Rework voxel edit mode"
-msgstr ""
+msgstr "Переработка режима редактирования вокселей"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:105
 msgid "Allow parenting entities using drag and drop in entity list"
 msgstr ""
+"Возможность привязки родительских объектов с помощью перетаскивания в списке"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:106
 msgid "Add a tree view to entity list"
-msgstr ""
+msgstr "Добавить древовидное представление списка объектов"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:107
 msgid "Add a free camera mode to Create"
-msgstr ""
+msgstr "Добавить режим \"свободная камера\" в меню \"Создать\""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:108
 msgid "Improve material management in Create"
-msgstr ""
+msgstr "Улучшение управления материальными ресурсами в меню \"Create\""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:109
 msgid "Add centered scaling to Create"
-msgstr ""
+msgstr "Добавить центрированное масштабирование в меню «Создать»"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:110
 msgid "Rework More app"
-msgstr ""
+msgstr "Переработка приложения More"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:111
 msgid "Rework settings"
-msgstr ""
+msgstr "Переработка настроек"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:112
 msgid "Rework Pal app (People list)"
-msgstr ""
+msgstr "Переработка приложения Pal (список Люди)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:113
 msgid "Rework log viewer"
-msgstr ""
+msgstr "Переработка просмотра лога"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:114
 msgid "Rework Snapshot app"
-msgstr ""
+msgstr "Переработка приложения Snapshot"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:115
 msgid "Rework Emote app"
-msgstr ""
+msgstr "Переработка приложения Emote"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:116
 msgid "Rework running scripts window"
-msgstr ""
+msgstr "Переработка окна запуска скриптов"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:117
 msgid "Rework Places app"
-msgstr ""
+msgstr "Переработка приложения Places"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:118
 msgid "Rework notifications"
-msgstr ""
+msgstr "Переработка уведомлений"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:119
 msgid "Add theming support"
-msgstr ""
+msgstr "Добавить поддержку тем"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:120
 msgid "Prefer using system file-picker"
-msgstr ""
+msgstr "Предпочтительнее использовать системный диалог выбора файлов"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:121
 msgid "Add dashboard user interface"
-msgstr ""
+msgstr "Добавить пользовательский интерфейс панели управления"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:124
 msgid "Integrate results from UX review and security audit"
-msgstr ""
+msgstr "Интегрировать результаты анализа UX и аудита безопасности"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:126
 msgid "Perform UX review"
-msgstr ""
+msgstr "Провести UX-анализ"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:127
 msgid "Perform Security audit"
-msgstr ""
+msgstr "Проведите аудит безопасности"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:133
 msgid "NLnet, for continuing to support Overte."
@@ -1194,17 +1205,20 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:135
 msgid "All of the developers who have agreed to take on this work."
-msgstr ""
+msgstr "Всем разработчикам, которые согласились взяться за эту работу."
 
 #: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:5
 msgid "Help us hire a team member!"
-msgstr ""
+msgstr "Помогите нам нанять нового члена команды!"
 
 #: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:7
 msgid ""
 "We are in the process of hiring our long-term contributor Julian Groß, "
 "allowing him to dedicate more time to Overte and get things done."
 msgstr ""
+"Мы сейчас оформляем на работу нашего давнего контрибьютора Джулиана Гросса ("
+"Julian Groß), чтобы он мог уделять больше времени проекту Overte и "
+"эффективней выполнять работу."
 
 #: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:9
 msgid ""
@@ -1212,12 +1226,18 @@ msgid ""
 " German minimum wage. While not much, this is enough for Julian to "
 "survive and make work on Overte his main profession."
 msgstr ""
+"Предложенный контракт рассчитан на один год, 13 часов в неделю, с оплатой по "
+"немецкой минимальной заработной плате. Это немного, но этого достаточно, "
+"чтобы Джулиан мог прожить и сделать работу над Overte своей основной "
+"профессией."
 
 #: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:11
 msgid ""
 "However, while the Overte e.V. can technically afford that, we are "
 "cutting it close. That is why we are asking for your support!"
 msgstr ""
+"Хотя технически Overte e.V. может себе это позволить, бюджет будет впритык. "
+"Поэтому мы просим вашей поддержки!"
 
 #: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:13
 msgid ""
@@ -1225,6 +1245,9 @@ msgid ""
 " we are doing our first fundraiser to reach our goal of 3000€ of "
 "additional funds over the next couple of months."
 msgstr ""
+"Нам необходимо иметь некоторый финансовую подушку на случай непредвиденных "
+"расходов, поэтому мы проводим первый сбор средств, чтобы собрать 3000 евро "
+"дополнительных средств в течение следующих нескольких месяцев."
 
 #: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:15
 #, fuzzy
