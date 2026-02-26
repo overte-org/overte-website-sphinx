@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-26 05:30+0000\n"
+"PO-Revision-Date: 2026-02-27 09:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -1016,7 +1016,7 @@ msgstr "Переход на libdatachannel"
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:82
 #: ../../source/blog/2025-09-07_August_progress_report.rst:53
 msgid "Bug Fixes"
-msgstr "Исправить ошибки"
+msgstr "Исправление ошибок"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:84
 msgid ""
@@ -1027,56 +1027,58 @@ msgstr ""
 "материалов (https://github.com/overte-org/overte/issues/1028)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:85
-#, fuzzy
 msgid ""
 "Text entities: show tofu character on missing character "
 "(https://github.com/overte-org/overte/issues/1133)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Текстовые объекты: отображать символ тофу вместо отсутствующего символа "
+"(https://github.com/overte-org/overte/issues/1133)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:86
 msgid "Add \"blocklist\" for known broken graphics drivers"
 msgstr ""
+"Добавить \"черный список\" для известных неработающих графических драйверов"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:87
-#, fuzzy
 msgid ""
 "Fix server Console trying to connect to highfidelity.com "
 "(https://github.com/overte-org/overte/issues/578)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Исправить ошибку в консоли сервера при попытке подключиться к "
+"highfidelity.com (https://github.com/overte-org/overte/issues/578)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:88
-#, fuzzy
 msgid ""
 "Fix QML warning message spam on Windows (https://github.com/overte-"
 "org/overte/issues/593)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Исправить спам журналов Windows предупреждениями QML (https://github.com/"
+"overte-org/overte/issues/593)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:89
-#, fuzzy
 msgid ""
 "Fix problems with HifiControlsUit.SpinBox (https://github.com/overte-"
 "org/overte/issues/921)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Исправить проблемы с HifiControlsUit.SpinBox (https://github.com/overte-org/"
+"overte/issues/921)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:90
-#, fuzzy
 msgid ""
 "Fix uninstalling Overte not removing cache from AppData\\Local "
 "(https://github.com/overte-org/overte/issues/952)"
 msgstr ""
-"Исправить отсечение теней на обратной стороне (https://github.com/overte-"
-"org/overte/issues/547)"
+"Исправить ошибку, из-за которой при удалении Overte не удалялся кэш из папки "
+"AppData\\Local (https://github.com/overte-org/overte/issues/952)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:91
-#, fuzzy
 msgid ""
 "Fix avatar bookmarks silently failing on broken syntax "
 "(https://github.com/overte-org/overte/issues/192)"
-msgstr "Добавить аудиообъекты (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"Исправить проблему, из-за которой закладки аватар не отображаются при "
+"некорректном синтаксисе без сообщения об ошибке (https://github.com/"
+"overte-org/overte/issues/192)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:94
 msgid "UI Rework"
@@ -1197,11 +1199,11 @@ msgstr "Провести UX-анализ"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:127
 msgid "Perform Security audit"
-msgstr "Проведите аудит безопасности"
+msgstr "Провести аудит безопасности"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:133
 msgid "NLnet, for continuing to support Overte."
-msgstr ""
+msgstr "NLnet, за то, что продолжаете поддерживать Overte."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:135
 msgid "All of the developers who have agreed to take on this work."
@@ -1256,13 +1258,12 @@ msgstr "Пожертвовать"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:5
 msgid "August progress report"
-msgstr ""
+msgstr "Отчет о ходе работ за август"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:8
 #: ../../source/blog/2025-10-13_September_progress_report.rst:11
-#, fuzzy
 msgid "Organizational"
-msgstr "Оптимизация"
+msgstr "Организационные вопросы"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:11
 msgid "Employment"
