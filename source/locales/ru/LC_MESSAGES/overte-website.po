@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-28 08:30+0000\n"
+"PO-Revision-Date: 2026-02-28 15:15+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -1337,43 +1337,44 @@ msgstr ""
 "поколения»."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:31
-#, fuzzy
 msgid ""
 "The funding will be used to pay developers to work on the areas listed "
 "below."
 msgstr ""
-"Финансирование будет использовано для оплаты труда разработчиков, которые"
-" будут работать в областях, перечисленных ниже. Существует возможность "
-"согласования дополнительной работы между нами и NLnet."
+"Финансирование будет использовано для оплаты труда разработчиков, которые "
+"будут работать в областях, перечисленных ниже."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:36
 msgid "Multi-packet avatar updates"
-msgstr ""
+msgstr "Обновления аватаров передачей нескольких пакетов (Multi-packet)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:37
 msgid "linear interpolation for avatar updates"
-msgstr ""
+msgstr "Линейная интерполяция для обновления аватара"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:38
 msgid "Finish multi-packet entity properties"
-msgstr ""
+msgstr "Доделать multi-packet передачу свойств объектов"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:43
-#, fuzzy
 msgid "Vulkan frame transfer to VR plugin"
-msgstr "Перенос кадров в VR плагин"
+msgstr "Передача кадров Vulkan в VR плагин"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:48
 msgid ""
 "Switch to using a package lock file on Conan and updating it semi-"
 "automatically using something like Renovate"
 msgstr ""
+"Перейти на использование файла блокировки пакетов в Conan и обновлять его "
+"полуавтоматически с помощью таких программ, как Renovate"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:49
 msgid ""
 "Try getting NSIS more foolproof (boolean checks are unreliable as they "
 "only check for one possible boolean naming scheme)"
 msgstr ""
+"Попытаться сделать NSIS более безопасной (булевы проверки ненадежны, т.к. "
+"они проверяют только одну возможную булеву схему именования)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:50
 msgid "Document networking code"
@@ -1397,7 +1398,7 @@ msgstr ""
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:59
 msgid "Entity Transition Shader (Fade)"
-msgstr ""
+msgstr "Шейдер перехода для объектов (Fade)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:61
 msgid ""
