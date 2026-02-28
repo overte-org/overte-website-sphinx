@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-27 09:30+0000\n"
+"PO-Revision-Date: 2026-02-28 08:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -430,9 +430,8 @@ msgstr ""
 "overte-org/overte/issues/910)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:57
-#, fuzzy
 msgid "SELinux"
-msgstr "Linux"
+msgstr "SELinux"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:59
 msgid ""
@@ -1267,7 +1266,7 @@ msgstr "Организационные вопросы"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:11
 msgid "Employment"
-msgstr ""
+msgstr "Трудоустройство"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:13
 msgid ""
@@ -1278,6 +1277,12 @@ msgid ""
 "say “around” and “roughly” because most months cannot be cleanly divided "
 "by 4 weeks.)"
 msgstr ""
+"В последнем посте мы просили о пожертвованиях на случай непредвиденных "
+"расходов, связанных с моей (Julian Groß) трудоустройством. Как оказалось, "
+"работа действительно обходится немного дороже (~30€), чем я ожидал, примерно "
+"в 1000€ в месяц, из которых около 710€ приходят мне на банковский счет. (Я "
+"говорю «около» и «приблизительно», потому что большинство месяцев нельзя "
+"ровно разделить на 4 недели.)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:15
 msgid ""
@@ -1287,6 +1292,11 @@ msgid ""
 "Overte e.V. members, who keep Overte running. You know who you are, and "
 "you rock!"
 msgstr ""
+"Я хочу лично поблагодарить всех, кто пожертвовал. Большинство из тех, кто "
+"пожертвовал, похоже, новички, которые никогда раньше не пользовались Overte. "
+"Я также хочу особо поблагодарить наших постоянных жертвователей и платящих "
+"членов Overte e.V., благодаря которым Overte продолжает работать. Вы знаете, "
+"кто вы, и вы — лучшие!"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:18
 msgid ""
@@ -1295,10 +1305,15 @@ msgid ""
 "donations minus transaction fees. I did it this way for accounting "
 "purposes and that was probably just a bad idea."
 msgstr ""
+"В следующий раз мне следует настроить баннер для пожертвований так, чтобы он "
+"учитывал все деньги, поступившие в Overte e.V., а не просто добавлял "
+"дополнительные средства сверх обычных пожертвований за вычетом комиссионных "
+"сборов. Я сделал это таким образом в целях учета, и это, вероятно, было "
+"просто плохой идеей."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:22
 msgid "NLnet grant"
-msgstr ""
+msgstr "Грант NLnet"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:24
 msgid ""
@@ -1307,12 +1322,19 @@ msgid ""
 " them for over 1 1/2 years now, it feels great to still be among all the "
 "amazing open source projects supported by them."
 msgstr ""
+"Также, фонд NLnet принял от нас еще одну заявку на грант (поправку). После "
+"более чем полутора лет успешного сотрудничества с ними, приятно чувствовать, "
+"что мы по-прежнему в числе всех замечательных проектов с открытым исходным "
+"кодом, которые они поддерживают."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:26
 msgid ""
 "We want to thank NLnet and the European Commission for fostering software"
 " freedom with their Next Generation Internet programme."
 msgstr ""
+"Мы хотим поблагодарить NLnet и Европейскую комиссию за содействие свободе "
+"программного обеспечения в рамках их программы «Интернет следующего "
+"поколения»."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:31
 #, fuzzy
@@ -1355,25 +1377,23 @@ msgstr ""
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:50
 msgid "Document networking code"
-msgstr ""
+msgstr "Документирование сетевого кода"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:55
-#, fuzzy
 msgid ""
 "Fix networking congestion control ( https://github.com/overte-"
 "org/overte/issues/572#issuecomment-2799907780 )"
 msgstr ""
-"Разрешить непрозрачные частицы (https://github.com/overte-"
-"org/overte/issues/776#issuecomment-1868203856)"
+"Исправить управления перегрузкой сети ( https://github.com/overte-org/overte/"
+"issues/572#issuecomment-2799907780 )"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:56
-#, fuzzy
 msgid ""
 "Fix retransmissions ignoring congestion control ( https://github.com"
 "/overte-org/overte/issues/572#issuecomment-2799907780 )"
 msgstr ""
-"Разрешить непрозрачные частицы (https://github.com/overte-"
-"org/overte/issues/776#issuecomment-1868203856)"
+"Исправить повторные передачи, игнорирующие управление перегрузкой ( https://"
+"github.com/overte-org/overte/issues/572#issuecomment-2799907780 )"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:59
 msgid "Entity Transition Shader (Fade)"
