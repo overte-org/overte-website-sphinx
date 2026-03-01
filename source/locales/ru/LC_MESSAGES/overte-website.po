@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-02-28 15:15+0000\n"
+"PO-Revision-Date: 2026-03-01 08:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -1410,24 +1410,32 @@ msgid ""
 "worlds, for example by deleting entities, is what got us to look into "
 "this."
 msgstr ""
+"У нас есть специальный шейдер, который создает впечатление, будто "
+"пользователь «входит» или «выходит» при подключении или отключении. По-"
+"видимому, поддержка этого эффекта для других объектов еще не завершена, и мы "
+"хотели бы это исправить/доработать и отполировать. Это можно использовать "
+"для разных целей, но воспроизведение аналогичных анимаций при редактировании "
+"миров, например, при удалении объектов, заставило нас заняться этим вопросом."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:63
 msgid "Add/fix entity transition shader"
-msgstr ""
+msgstr "Добавить/исправить шейдер перехода для объектов"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:64
 msgid "Expose avatar and entity transition shader as zone properties"
-msgstr ""
+msgstr "Доступ к шейдеру перехода аватара и объекта в качестве свойств зоны"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:65
 msgid ""
 "Expose entity transition shader to Entities.addEntity and "
 "Entities.deleteEntity (overriding zone properties)"
 msgstr ""
+"Доступ к шейдеру перехода объектов для Entities.addEntity и "
+"Entities.deleteEntity (переопределение свойств зоны)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:68
 msgid "macOS support"
-msgstr ""
+msgstr "Поддержка macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:70
 msgid ""
@@ -1439,30 +1447,37 @@ msgid ""
 "who are still running our last macOS version, eagerly waiting for a new "
 "one."
 msgstr ""
+"Поскольку PR Vulkan почти интегрирован в основную ветку, отказ Apple от "
+"OpenGL больше не будет препятствием для нашей поддержки macOS. Однако "
+"поддержка macOS была недоступна в течение нескольких лет, всегда "
+"откладывалась на потом, и в за это время мы перешли на другие системы "
+"сборки, поэтому это довольно масштабная задача. У нас есть немало "
+"пользователей macOS, готовых протестировать, и даже некоторые, кто до сих "
+"пор использует нашу последнюю версию macOS и с нетерпением ждет новой."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:72
 msgid "Get macOS development machine"
-msgstr ""
+msgstr "Получить компьютер для разработки под macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:73
 msgid "Build with MoltenVK"
-msgstr ""
+msgstr "Сборка с MoltenVK"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:74
 msgid "Get all of our Conan packages to build on macOS"
-msgstr ""
+msgstr "Получить все наши пакеты Conan для сборки на macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:75
 msgid "Fix the server software crashing on macOS"
-msgstr ""
+msgstr "Исправить сбои сервера на macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:76
 msgid "Set up automatic macOS CI builds"
-msgstr ""
+msgstr "Настроить автоматическую сборку macOS в CI"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:79
 msgid "Android support"
-msgstr ""
+msgstr "Поддержка Android"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:81
 msgid ""
@@ -1472,26 +1487,31 @@ msgid ""
 "Android support, but Google changed so much of their build system API for"
 " C++ that that part needs to be completely rewritten."
 msgstr ""
+"Благодаря новому менеджеру зависимостей Conan, переработанной системе сборки "
+"и опыту работы с Conan, CMake и нашей системой сборки, я теперь чувствую "
+"себя уверенно, занимаясь поддержкой Android. Раньше у нас была "
+"экспериментальная поддержка Android, но Google настолько изменил API своей "
+"системы сборки для C++, что эту часть необходимо полностью переписать."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:83
 msgid "Get all of our required Conan packages to build for Android"
-msgstr ""
+msgstr "Получить все необходимые пакеты Conan для сборки под Android"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:84
 msgid "Add Android support to our build system"
-msgstr ""
+msgstr "Добавить поддержку Android в нашу систему сборки"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:85
 msgid "Set up automatic Android CI builds"
-msgstr ""
+msgstr "Настроить автоматическую сборку Android CI"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:86
 msgid "Add initial OpenXR support to our Android client"
-msgstr ""
+msgstr "Добавить начальную поддержку OpenXR в наш Android-клиент"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:90
 msgid "Depot.dev"
-msgstr ""
+msgstr "Depot.dev"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:92
 msgid ""
@@ -1499,6 +1519,9 @@ msgid ""
 "<https://depot.dev/?utm_source=Overte>`_ is graciously providing us with "
 "their Continuous Integration services for free."
 msgstr ""
+"Overte получила первого корпоративного спонсора: `Depot.dev 🔗 <https://"
+"depot.dev/?utm_source=Overte>`_ любезно предоставляет нам свои услуги "
+"Непрерывной интеграции бесплатно."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:94
 msgid ""
