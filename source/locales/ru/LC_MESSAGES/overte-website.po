@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-03-01 18:32+0000\n"
+"PO-Revision-Date: 2026-03-02 07:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -1556,6 +1556,8 @@ msgid ""
 "Interesting enough, even the same spec runners on Depot.dev are actually "
 "quite a lot faster at building Overte than the ones on GitHub already."
 msgstr ""
+"Интересно, что раннеры с те же самыми характеристиками на Depot.dev собирают "
+"Overte гораздо быстрее, чем на GitHub."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:102
 #: ../../source/blog/2025-10-13_September_progress_report.rst:85
@@ -1569,6 +1571,8 @@ msgid ""
 "Frankly speaking, so much stuff got done this month that I am having a "
 "hard time deciding what to mention."
 msgstr ""
+"Честно говоря, в этом месяце было сделано так много всего, что мне трудно "
+"решить, о чём именно упомянуть."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:106
 msgid ""
@@ -1584,6 +1588,16 @@ msgid ""
 "any time there is a change on an operating system you aren't usually "
 "developing on, but I am quite happy with the results."
 msgstr ""
+"Со своей стороны, я большую часть времени посвятил исправлению нашего пакета "
+"Qt для Windows и улучшению системы сборки. Огромное спасибо 74hc595 за "
+"обнаружение множества дополнительных проблем в моём пакете Qt. 😅 Вместе мы "
+"выяснили, что в релизных сборках на самом деле были включены ассерты Qt. "
+"Ассерты — это, по сути, преднамеренные сбои, которые существуют, чтобы "
+"сообщить нам, разработчикам, о чём-то неожиданном. Их не стоит включать в "
+"релизную сборку, поскольку приложение часто продолжает работать, даже когда "
+"что-то происходит. Довольно неприятно работать над тем, что занимает три "
+"часа сборки каждый раз, когда происходят изменения в операционной системе, "
+"на которой вы обычно не разрабатываете, но я вполне доволен результатами."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:110
 msgid ""
@@ -1591,6 +1605,9 @@ msgid ""
 "all the required dependencies to build and am waiting for Vulkan to be "
 "merged and our update to libnode 22 to be finished."
 msgstr ""
+"Благодаря NLnet я также начал работать над поддержкой macOS. На данный "
+"момент у меня есть все необходимые зависимости для сборки, и я жду, когда "
+"будет объединена поддержка Vulkan и завершится наше обновление до libnode 22."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:113
 msgid ""
@@ -1600,6 +1617,11 @@ msgid ""
 "camera zoomed into the back of their heads, fixed multiple crashes on "
 "Windows, … you get the idea."
 msgstr ""
+"74hc595, как обычно, проделал *огромную* работу. Он исправил множество "
+"проблем со звуком, очень помог доведением запросов на слияние, тестированием "
+"и слиянием, исправил странный баг, из-за которого люди начинали парить в "
+"воздухе, когда камера приближалась к их затылку, исправил множество сбоев в "
+"Windows… в общем, вы поняли."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:116
 msgid ""
@@ -1608,6 +1630,11 @@ msgid ""
 " tracking support, added multiple new JavaScript APIs, et cetera. We keep"
 " merging Pull Requests and Ada keeps opening new ones."
 msgstr ""
+"Ada также внесла множество различных исправлений ошибок, а также добавила в "
+"основную ветку разработки контекстное меню, исправила множество проблем с VR "
+"и OpenXR, добавила поддержку отслеживания движений тела в OpenXR, добавила "
+"несколько новых API JavaScript и так далее. Мы продолжаем объединять запросы "
+"на слияние (Pull Requests), а Ada продолжает открывать новые."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:120
 msgid ""
@@ -1615,12 +1642,18 @@ msgid ""
 "issues with his new multi-layered materials, and helped Ada and 74hc595 "
 "with graphics work as usual."
 msgstr ""
+"HifiExperiments добавил начальную поддержку формата файлов VRM, исправил "
+"оставшиеся проблемы со своими новыми многослойными материалами и, как "
+"обычно, помог Ada и 74hc595 с работой над графикой."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:123
 msgid ""
 "Alezia worked on improving the Snap app, added bookmarks and per-Place "
 "user counts to the Places app, and cleaned up the Places app's code."
 msgstr ""
+"Alezia работал над улучшением приложения Snap, добавила закладки и подсчет "
+"пользователей для каждого места в приложение Places, а также почистила код "
+"приложения Places."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:126
 msgid ""
@@ -1632,10 +1665,17 @@ msgid ""
 " gave up once they realized how much work it is going to be, it is "
 "especially great to see RTUnreal get changes merged into Overte."
 msgstr ""
+"В этом месяце у нас также появился новый участник: RTUnreal начал работу над "
+"пакетом Overte для NixOS. Для этого он уже добавил поддержку нашей системы "
+"сборки, позволяющую использовать только системные библиотеки, обнаружил и "
+"исправил несколько ошибок, а также оказал огромную помощь в обновлении "
+"libnode до версии 22. Учитывая, сколько людей уже пытались собрать Overte с "
+"помощью Nix и сдались, поняв, сколько работы это потребует, особенно приятно "
+"видеть, что изменения RTUnreal интегрированы в Overte."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:130
 msgid "Release candidate!"
-msgstr ""
+msgstr "Релиз-кандидат!"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:132
 msgid ""
@@ -1647,18 +1687,25 @@ msgid ""
 "candidate has been rock solid, so it might turn into a full release "
 "already next week without any additional changes necessary."
 msgstr ""
+"О прогрессе: мы выпустили первый релиз-кандидат после перехода с VCPKG на "
+"Conan. Версия 2025.09.1-rc1 и список изменений доступны `здесь 🔗 <https://"
+"github.com/overte-org/overte/releases/tag/2025.09.1-rc1>`__ и содержит "
+"*огромный* список исправлений ошибок, улучшений, дополнений и изменений. "
+"Пока что этот релиз-кандидат работает очень стабильно, поэтому он может "
+"превратиться в полноценный релиз уже на следующей неделе без внесения каких-"
+"либо дополнительных изменений."
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:8
 msgid "September progress report"
-msgstr ""
+msgstr "Отчет о ходе работ за сентябрь"
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:14
 msgid "\"AI Cryptocurrency Investment\" scammers"
-msgstr ""
+msgstr "Мошенники, представляющиеся инвесторами в \"ИИ-криптовалюты\""
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:16
 msgid "**Too long; didn't read**: We fell victim to scammers and lost >190 €."
-msgstr ""
+msgstr "**Если кратко**: Мы стали жертвой мошенников и потеряли более 190 €."
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:18
 msgid ""
