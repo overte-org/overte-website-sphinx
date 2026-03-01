@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-29 21:28+0000\n"
-"PO-Revision-Date: 2026-03-01 08:30+0000\n"
+"PO-Revision-Date: 2026-03-01 17:02+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -886,7 +886,7 @@ msgid ""
 "Expose normal map attenuation distance as zone property "
 "(https://github.com/overte-org/overte/issues/1139)"
 msgstr ""
-"Сделать дистанцию затухания карты нормалей свойством зоны  (https://"
+"Сделать дистанцию затухания карты нормалей свойством зоны (https://"
 "github.com/overte-org/overte/issues/1139)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:44
@@ -1533,6 +1533,13 @@ msgid ""
 "Getting faster Runners from GitHub would have costed us upwards of 2000€ "
 "extra per year, which frankly would have broken the bank."
 msgstr ""
+"Так как нам приходилось собирать Qt из исходного кода на Windows, бесплатные "
+"RUNNER-серверы на GitHub, выдавали ошибки тайм-аута, так как сборка занимала "
+"более 6 часов каждый раз, когда происходил промах кэша пакета Qt. Поэтому "
+"нам нужно было решение, которое не требовало бы постоянного контроля над "
+"конвейером CI, что свело бы на нет смысл его использования. Более быстрые "
+"RUNNER-серверы от GitHub обошлись бы нам более чем в 2000 евро в год, что, "
+"честно говоря, разорило бы нас."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:96
 msgid ""
@@ -1552,7 +1559,7 @@ msgstr ""
 #: ../../source/blog/2025-11-05_October_progress_report.rst:8
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:28
 msgid "Progress"
-msgstr ""
+msgstr "Прогресс"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:104
 msgid ""
