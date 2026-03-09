@@ -4,6 +4,8 @@
 Monthly progress report
 -----------------------
 
+This month, we talk about a large performance regression, the new dashboard UI and Flycam, and the weekly "Overte Warmup" event.
+
 .. contents:: Table of Contents
     :local:
 
