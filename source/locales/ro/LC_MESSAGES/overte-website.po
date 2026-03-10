@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-09 13:34+0000\n"
+"POT-Creation-Date: 2026-03-10 12:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ro\n"
@@ -1816,6 +1816,7 @@ msgstr ""
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:5
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:5
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:5
 msgid "Monthly progress report"
 msgstr ""
 
@@ -2107,6 +2108,174 @@ msgid ""
 "such long wait times. Whatever the case may be, having Overte on a store "
 "just for it to be unlisted isn't very useful. If this continues, we will "
 "just have to drop itch.io support again…"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:7
+msgid ""
+"This month, we talk about a large performance regression, the new "
+"dashboard UI and Flycam, and the weekly \"Overte Warmup\" event."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:10
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:13
+msgid "Performance regression fixed"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:15
+#, python-format
+msgid ""
+"We fixed a large performance regression introduced in version 2025.09.1. "
+"74hc595 noticed awful performance on their workstation with old dual Xeon"
+" E5-2690v2 CPUs getting only 30 FPS with their Nvidia RTX3090 in the "
+"tutorial world. Even with such old CPUs, performance should be *much* "
+"better than that. Looking into it myself, I also saw a ~50% decrease in "
+"engine (physics) performance on my machine. In my case, 50% higher frame "
+"times still meant hitting the 90 FPS frame cap in VR and the 60 FPS frame"
+" cap in desktop mode, which is why I never noticed the issue myself."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:19
+msgid ""
+"Our changelog for version 2025.09.1 didn't show anything suspicious, so I"
+" set out to use a process called \"bisecting\" to find out which change "
+"introduced the performance regression. I ran :code:`git bisect` telling "
+"it the last known good commit and the earliest known bad commit. Git then"
+" checks out commits in the middle for me to manually build, test, and "
+"tell Git if it suffers from the issue or not."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:22
+msgid ""
+"After just two hours I found `the culprit <https://github.com/overte-"
+"org/overte/commit/209fea6b5821645b36452bf3781ff3450e0ed708>`__: The "
+"virtual keyboard used in VR was parented to the avatar. It turns out that"
+" having the virtual keyboard follow you around is extremely "
+"computationally expensive, even when it is not in use and even in desktop"
+" mode. Why this is the case? I don't know. My assumption is that the "
+"keyboard and its individual keys have collisions enabled (probably "
+"because of the mallet input), and the physics engine checks if we are "
+"colliding with each individual key because of how close we are to them. "
+"Having to check for collisions between ~80 moving entities every frame is"
+" pretty expensive."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:25
+msgid ""
+"Interesting that something as simple as parenting the keyboard to the "
+"avatar in VR could have such large performance impact on *desktop* mode. "
+"The `initial fix <https://github.com/overte-org/overte/pull/2077>`__ is "
+"just as simple: Only parent the keyboard to the avatar when it is "
+"actually in use."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:28
+msgid ""
+"With this issue out of the way, your laptop or old computer should be "
+"running Overte a lot better again. The fix will be in the upcoming "
+"2025.03.1 release."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:31
+msgid "New Dashboard UI"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:33
+msgid ""
+"As mentioned in previous progress reports, our upgrade to Qt6 is coupled "
+"to a complete UI overhaul. Recently, Ada started work on the new "
+"\"dashboard\", which is planned to replace the current tablet and HUD."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:36
+msgid "After a bunch of brainstorming, Ada came up with some mock-ups:"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:38
+msgid "|2026-03-09_dash_mockup_1| |2026-03-09_dash_mockup_2|"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:40
+msgid "Hand-drawn mock-up for the dashboard."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:44
+msgid ""
+"3D render with Woody's cousin \"man_stolen\" looking at the dashboard "
+"mock-up."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:48
+msgid ""
+"And went straight to work, teasing us with screenshots and short video "
+"showcases:"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:50
+msgid "|2026-03-09_dash_1|"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:52
+msgid "New dashboard with new Script Log window."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:64
+msgid ""
+"The new UI will be available in the upcoming months, once our update to "
+"Qt6 is finished and stable enough for a release."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:67
+msgid "Flycam"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:69
+msgid ""
+"Another addition by Ada is a new flycam mode, which allows you to more "
+"conveniently move your camera around while using the Create app."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:79
+msgid ""
+"It can be toggled by pressing F4 and will be available in the upcoming "
+"2025.03.1 release."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:81
+msgid ""
+"Currently, there are no plans to remove the Altcam (toggled using the Alt"
+" key) or the focus mode, which allows you to focus the camera on an "
+"entity by selecting it and pressing the F key."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:84
+msgid "Sunday Overte Warmup event"
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:86
+msgid ""
+"I also want to take this opportunity to advertise our \"Overte Warmup\" "
+"event, which takes place every Sunday at 12:30 UTC time."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:88
+msgid ""
+"It begins at 12:00 UTC in VRChat and then switches to Overte at 12:30 "
+"UTC. The idea behind it is to spark curiosity in our VRChat friends and "
+"bring them over for this occasion."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:91
+msgid ""
+"Keep an eye on the `#events channel "
+"<https://matrix.to/#/!ZzFb_DI4Gwv9E7h5bTDLCMxgu9AnkCO3I_acGhB7PN0?via=matrix.org&via=overte.org>`_"
+" on Matrix or Discord for up-to-date information about the event."
+msgstr ""
+
+#: ../../source/blog/2026-03-09_Monthly_progress_report.rst:93
+msgid "Group picture taken at a previous \"Overte Warmup\"."
 msgstr ""
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
