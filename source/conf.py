@@ -42,6 +42,7 @@ extensions = [
     'sphinx_design',
     'ablog',
     'sphinx.ext.intersphinx',  # Required by ABlog.
+    'sphinxcontrib.video',  # Used for embedding videos.
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -79,6 +80,9 @@ highlight_language = "bash"
 
 # Disable Smartquotes for French in html to work around issue https://github.com/vircadia/vircadia-docs-sphinx/issues/112
 smartquotes_excludes = {'languages': ['fr'], 'builders': ['html']}
+
+# Force us to provide both webm and mp4 videos. MacOS/iOS does not support free codecs, so we always provide mp4 alternatives.
+video_enforce_extra_source = True
 
 # -- Options for HTML output -------------------------------------------------
 
