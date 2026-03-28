@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-10 12:26+0000\n"
-"PO-Revision-Date: 2025-03-01 22:34+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-03-28 22:06+0000\n"
+"Last-Translator: mxreia <mxreixa@tuta.io>\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
+"overte-website/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
-"/overte-website/ja/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -143,13 +144,12 @@ msgstr ""
 "org/overte/issues/776#issuecomment-1868203856)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:39
-#, fuzzy
 msgid ""
 "Finish overhauling TAA with velocity buffer (https://github.com/overte-"
 "org/overte/pull/501)"
 msgstr ""
-"ベロシティバッファつき TAA アンチエイジング の見直し (https://github.com/overte-"
-"org/overte/pull/501)"
+"ベロシティバッファつき TAA アンチエイジング の見直し作業の完了 (https://"
+"github.com/overte-org/overte/pull/501)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:40
 msgid "Add support for GPU particles"
@@ -179,47 +179,48 @@ msgstr "Vulkanは、より現代的でパフォーマンスが高く、サポー
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:49
 msgid "Wireframe rendering"
-msgstr ""
+msgstr "ワイヤフレームのレンダリング"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:50
 msgid "Forward renderer (for low end hardware)"
-msgstr ""
+msgstr "Forward レンダラー(ローエンドハードウェア向け)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:51
 msgid "Deferred renderer (fully featured)"
-msgstr ""
+msgstr "遅延レンダリング(十分な性能を持ったハードウェア向け)"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:52
 msgid "Optimization"
-msgstr ""
+msgstr "最適化"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:53
 msgid "Frame transfer to VR plugin"
-msgstr ""
+msgstr "VR プラグインへのフレーム転送"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:56
 msgid "Build system improvements"
-msgstr "ビルドシステムの改善"
+msgstr "ビルドシステムの改良"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:57
 msgid ""
 "This will make work on Overte more pleasant and make it easier to build. "
 "This is important for making maintenance easier and making life easier "
 "for future contributors."
-msgstr "Overteでの作業がより快適になり、ビルドが容易になります。これは、メンテナンスを容易にし、将来の貢献者の作業を容易にするために重要です。"
+msgstr ""
+"Overteでの作業がより楽になり、ビルドが簡単になります。これは、メンテナンスを"
+"円滑にし、将来のプロジェクト貢献者の負担軽減のために重要なものとなります。"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:59
 msgid "Switching to Conan"
 msgstr ""
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:60
-#, fuzzy
 msgid "Updating documentation"
-msgstr "ドキュメンテーション🔗"
+msgstr "ドキュメンテーションの更新🔗"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:61
 msgid "Improving build process"
-msgstr ""
+msgstr "ビルドプロセスの改善"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:64
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:131
@@ -228,36 +229,37 @@ msgstr "謝辞"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:66
 msgid "NLnet, for giving us this great opportunity."
-msgstr ""
+msgstr "NLnet様、貴重な助成の機会を頂き感謝申しあげます。"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:67
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:134
 msgid "Julian Groß, for negotiating this agreement."
-msgstr ""
+msgstr "合意交渉に尽力した Julian Groß 氏に感謝申しあげます。"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:68
 msgid "Sam Gondelman, Karol Suprynowicz and AnotherFoxGuy for taking on the work."
 msgstr ""
+"この作業を引き受けて頂いた Sam Gondelman 氏、 Karol Suprynowicz 氏 、"
+"AnotherFoxGuy 氏に感謝を申しあげます。"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:69
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:136
 msgid "The Overte community, for making this possible."
-msgstr ""
+msgstr "プロジェクト実現に尽力された Overte community の皆様方に感謝申しあげます。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:5
-#, fuzzy
 msgid "NLnet grant extended!"
-msgstr "2024年4月2日 NLnetの助成金が延長されました！"
+msgstr "2024年4月2日 NLnet様からの助成金が延長されました！"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:7
 msgid ""
 "We've obtained an extension to the NLnet grant, with the following "
 "additional items:"
-msgstr ""
+msgstr "NLnet様からの助成金の延長が認められ、以下の追加事項が盛り込まれました："
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:11
 msgid "Linux FHS Support"
-msgstr ""
+msgstr "Linux ファイルシステム階層標準(FHS)のサポート"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:13
 msgid ""
@@ -265,14 +267,20 @@ msgid ""
 "for an application. This work would involve adopting it, and adding some "
 "nice improvements as well."
 msgstr ""
+"Linux "
+"ファイルシステム階層標準(FHS)はアプリケーションに適したファイル構成を定義する"
+"ものです。この作業では Linux FHS "
+"を採用するとともに、いくつかの改良を加えることが含まれています。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:15
 msgid "This will:"
-msgstr ""
+msgstr "次のように:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:17
+#, fuzzy
 msgid "Make packaging easier and allow inclusion in distributions."
-msgstr ""
+msgstr "バッケージングをより簡単にし、ディストリビューションへの組み込みを可能にしま"
+"す。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:18
 msgid "Make SELinux easier."
@@ -280,11 +288,11 @@ msgstr ""
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:19
 msgid "Allow easy instancing out of the box."
-msgstr ""
+msgstr "導入してからすぐにインスタンシングができます。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:20
 msgid "Make Mac packaging easier."
-msgstr ""
+msgstr "macOS上のパッケージングを簡単にします。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:22
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:35
@@ -292,29 +300,29 @@ msgstr ""
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:64
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:87
 msgid "Tasks:"
-msgstr ""
+msgstr "作業内容:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:24
-#, fuzzy
 msgid ""
 "Domain server/assignment client implementation (https://github.com"
 "/overte-org/overte/issues/903)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "ドメインサーバ及び割り当てクライアントの実装 (https://github.com/overte-org/"
+"overte/issues/903"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:25
-#, fuzzy
 msgid "Interface implementation (https://github.com/overte-org/overte/issues/904)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "インターフェースの実装 (https://github.com/overte-org/overte/issues/904)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:29
 msgid "LDAP Support"
-msgstr ""
+msgstr "LDAP のサポート"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:31
 msgid ""
 "LDAP is a common authentication mechanism, widely supported in "
 "organizations. Active Directory is compatible as well."
-msgstr ""
+msgstr "LDAP は一般的な認証方法であり、多くの団体で採用されています。Active "
+"Directory も同様に互換性があります。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:33
 msgid ""
@@ -323,19 +331,28 @@ msgid ""
 "authentication. We'd save the need to write that code ourselves, which is"
 " of little interest and has been done better by other projects."
 msgstr ""
+"これにより Overte "
+"は企業や大学のシステムとより統合しやすくなりました。各組織で自前の内部システ"
+"ムを使用して認証管理することも可能です。そうすれば、私達がそのコードを書く必"
+"要はなくなるでしょう。その作業はあまり意味がなく、他のプロジェクトの方が良い"
+"実装をしているからです。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:37
-#, fuzzy
 msgid ""
 "Basic support in domain web UI to allow multiple users to authenticate. "
 "(https://github.com/overte-org/overte/issues/905)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"ドメインの WebUI "
+"における複数のユーザー認証を可能にする基本的な機能のサポート。(https://"
+"github.com/overte-org/overte/issues/905)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:38
 msgid ""
 "Basic support as an alternative to directory server: user accounts, "
 "domain directory. (https://github.com/overte-org/overte/issues/906)"
 msgstr ""
+"ディレクトリサーバの代替となる基本的機能の実装:ユーザアカウント、"
+"ドメインディレクトリ (https://github.com/overte-org/overte/issues/906)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:39
 msgid ""
@@ -343,10 +360,13 @@ msgid ""
 "storage, profile metadata. (https://github.com/overte-"
 "org/overte/issues/907)"
 msgstr ""
+"ディレクトリサーバの完全な代替の実装。user relationships "
+"やデータストレージ、プロファイルのメタデータのサポート。(https://github.com/"
+"overte-org/overte/issues/907)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:43
 msgid "IPv6 Support"
-msgstr ""
+msgstr "IPv6のサポート"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:45
 msgid ""
@@ -356,27 +376,33 @@ msgid ""
 "already are charging extra for IPv4 addresses, so supporting IPv6 helps "
 "making hosting domains cheaper."
 msgstr ""
+"近年、IPv6の普及率がかなり上昇しており、特に企業や大学、SaaS等のクラウドコン"
+"ピューティングや大規模な導入環境における、IPv4アドレスが枯渇している環境では"
+"その重要性が際立っています。既にIPv4アドレスの使用に追加料金を課すプロバイダ"
+"も存在しているため、ドメインのホスティング費用を抑えることができます。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:50
-#, fuzzy
 msgid ""
 "Basic support in domain web UI. (https://github.com/overte-"
 "org/overte/issues/908)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "ドメインWebUIの基本的なサポート (https://github.com/overte-org/overte/issues/"
+"908)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:51
-#, fuzzy
 msgid ""
 "Support for fetching assets over IPv6 in interface. (https://github.com"
 "/overte-org/overte/issues/909)"
-msgstr "背面の影カリングの修正 (https://github.com/overte-org/overte/issues/547)"
+msgstr ""
+"インターフェースにおけるIPv6環境でのアセット取得のサポート (https://"
+"github.com/overte-org/overte/issues/909)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:52
-#, fuzzy
 msgid ""
 "Support for domains running on IPv6. (https://github.com/overte-"
 "org/overte/issues/910)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"IPv6環境上で動作するドメインのサポート。 (https://github.com/overte-org/"
+"overte/issues/910)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:57
 msgid "SELinux"
@@ -386,7 +412,9 @@ msgstr "SELinux"
 msgid ""
 "SELinux is a security system that allows sandboxing applications and "
 "daemons."
-msgstr ""
+msgstr "SELinux "
+"はアプリケーションやデーモンをサンドボックス化できるセキュリティシステムです"
+"。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:62
 msgid ""
@@ -395,86 +423,93 @@ msgid ""
 "instance, a domain exploit could still break the domain, but couldn't use"
 " the server to attack other computers or expose the user's private data."
 msgstr ""
+"SELinux "
+"はドメインサーバを(必要に応じインターフェースも)サンドボックス化し、エクスプ"
+"ロイトを受けた場合でもシステムの他の箇所に影響を及ぼさないようにします。例え"
+"ばドメインの脆弱性を悪用されたとしても、そのドメインを機能不全にすることがで"
+"きますが、そのサーバを踏み台にして他のコンピュータを攻撃したり、ユーザの個人"
+"情報を流出することは不可能になります。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:66
-#, fuzzy
 msgid "Confine domain-server. (https://github.com/overte-org/overte/issues/911)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "ドメインサーバを制限する (https://github.com/overte-org/overte/issues/69)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:67
-#, fuzzy
 msgid ""
 "Confine assignment clients. (https://github.com/overte-"
 "org/overte/issues/912)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "割り当て先の制限の実装。(https://github.com/overte-org/overte/issues/912)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:68
-#, fuzzy
 msgid ""
 "Attempt supporting multiple instances with isolation. (https://github.com"
 "/overte-org/overte/issues/913)"
-msgstr "音声領域を領域設定へ移行させる (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"分離機能を備えた複数インスタンスサポートの試行。 (https://github.com/"
+"overte-org/overte/issues/913)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:69
-#, fuzzy
 msgid ""
 "Isolate multiple Overte servers on the same machine from each other. "
 "(https://github.com/overte-org/overte/issues/914)"
-msgstr "音声領域を領域設定へ移行させる (https://github.com/overte-org/overte/issues/69)"
+msgstr ""
+"同一環境上の複数の Overte サーバを互いに分離する。 (https://github.com/"
+"overte-org/overte/issues/914)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:70
-#, fuzzy
 msgid "Confine interface. (https://github.com/overte-org/overte/issues/915)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "インターフェイスの限定 (https://github.com/overte-org/overte/issues/915)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:74
 msgid "Canvas texture"
-msgstr ""
+msgstr "キャンバステクスチャ"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:76
 msgid ""
 "This would implement a new concept of a software defined canvas texture. "
 "Scripts can draw on it, and clients receive updates."
 msgstr ""
+"これにより、ソフトウェア定義のキャンバステクスチャという新たな概念が実装され"
+"ます。スクリプトはこの上に描画でき、クライアントは更新情報を受け取ります。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:78
 msgid "This has a huge potential range of useful functionality:"
-msgstr ""
+msgstr "これには、膨大で幅広い有用な機能の可能性が秘められています:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:80
 msgid "Software defined textures"
-msgstr ""
+msgstr "ソフトウェア定義のテクスチャ"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:81
 msgid "Script-generated nametags, banners, status displays, etc."
-msgstr ""
+msgstr "スクリプトによって生成された名札、バナー、ステータス表示など。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:82
 msgid "Screen sharing without any external dependencies"
-msgstr ""
+msgstr "外部の依存なしでの画像の共有"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:83
 msgid "Whiteboard"
-msgstr ""
+msgstr "ホワイトボード"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:84
 msgid "Synchronized web entity"
-msgstr ""
+msgstr "同期された Web エンティティ"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:85
 msgid ""
 "Server-side rendered web entity. This would help with the Quest "
 "implementation."
-msgstr ""
+msgstr "サーバサイドでレンダリングされる Web エンティティ。これにより Quest "
+"の実装が進むでしょう。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:89
-#, fuzzy
 msgid ""
 "Basic implementation. Texture object, simple operations like painting "
 "pixels and blocks. (https://github.com/overte-org/overte/issues/916)"
 msgstr ""
-"モデルアニメーションにインターポレーションを追加する (https://github.com/overte-"
-"org/overte/issues/317)"
+"テクスチャオブジェクト、ピクセルやブロック描画といった簡単な操作といった基本"
+"的な実装。(https://github.com/overte-org/overte/issues/916)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:90
 msgid ""
@@ -482,18 +517,19 @@ msgid ""
 "rectangles, circles, curves, etc. (https://github.com/overte-"
 "org/overte/issues/917)"
 msgstr ""
+"本格的なキャンバス API "
+"の実装。フォントや矩形、円や曲線などのグラフィックプリミティブに対応。(https:"
+"//github.com/overte-org/overte/issues/917)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:91
-#, fuzzy
 msgid "Screen sharing (https://github.com/overte-org/overte/issues/918)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "画面共有の実装 (https://github.com/overte-org/overte/issues/918)"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:92
-#, fuzzy
 msgid ""
 "Synchronized web surface. (https://github.com/overte-"
 "org/overte/issues/919)"
-msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
+msgstr "同期されたWeb画面への対応 (https://github.com/overte-org/overte/issues/919)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:5
 #, fuzzy
@@ -504,14 +540,13 @@ msgstr "2024年4月16日 NLnetの助成金が再延長されました！"
 msgid ""
 "We've obtained another extension to the NLnet grant, with the following "
 "additional items:"
-msgstr ""
+msgstr "NLnet様からの助成金の延長が再び認められ、以下の追加項目が盛り込まれました："
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:11
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:63
 #: ../../source/blog/2025-09-07_August_progress_report.rst:46
-#, fuzzy
 msgid "Maintenance"
-msgstr "インターフェース"
+msgstr "メンテナンス"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:13
 #, fuzzy
@@ -543,7 +578,7 @@ msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:19
 msgid "Text entities"
-msgstr ""
+msgstr "テキストエンティティ"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:21
 msgid ""
@@ -552,6 +587,10 @@ msgid ""
 "cannot add new fonts, which is especially bad because the current fonts "
 "only support ASCII character."
 msgstr ""
+"テキストエンティティには改善の余地があります。それらは扱いにくく、何よりどこ"
+"にもドキュメント化されていない独自のフォーマットを使用しているからです。つま"
+"りは新しいフォントを追加できないということですが、現在のフォントはASCII文字に"
+"しか対応していないため、これが重要な課題となっています。"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:23
 #, fuzzy
@@ -595,6 +634,10 @@ msgid ""
 " One fallback for if a shader fails to load/compile and one for if a user"
 " has procedural shaders disabled"
 msgstr ""
+"カスタムシェーダーのフォールバック (https://github.com/overte-org/overte/"
+"issues/640): "
+"シェーダーの読み込み失敗やコンパイル失敗時のフォールバックとユーザーがプロシ"
+"ージャルシェーダーを無効にしている場合のフォールバック"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:33
 msgid ""
@@ -603,6 +646,9 @@ msgid ""
 "/overte-org/overte/issues/741, https://github.com/overte-"
 "org/overte/issues/14)"
 msgstr ""
+"グラフィック設定の追加。(トーンマッピング、ブルーム、プロシージャルシェーダー"
+"、AO)(https://github.com/overte-org/overte/issues/740, https://github.com/"
+"overte-org/overte/issues/741, https://github.com/overte-org/overte/issues/14)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:34
 #, fuzzy
@@ -4194,4 +4240,3 @@ msgstr ""
 
 #~ msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
 #~ msgstr ""
-
