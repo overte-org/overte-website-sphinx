@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-10 12:26+0000\n"
-"PO-Revision-Date: 2026-03-28 22:06+0000\n"
+"PO-Revision-Date: 2026-03-29 04:02+0000\n"
 "Last-Translator: mxreia <mxreixa@tuta.io>\n"
 "Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
 "overte-website/ja/>\n"
@@ -22,9 +22,8 @@ msgstr ""
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
-#, fuzzy
 msgid "New website"
-msgstr "2023年4月1日 新サイト"
+msgstr "2023年4月1日 新サイト開設"
 
 #: ../../source/blog/2023-04-01_New_website.rst:7
 msgid ""
