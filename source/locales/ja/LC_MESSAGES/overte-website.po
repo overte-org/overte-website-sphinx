@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-10 12:26+0000\n"
-"PO-Revision-Date: 2026-03-29 04:02+0000\n"
+"PO-Revision-Date: 2026-03-31 03:30+0000\n"
 "Last-Translator: mxreia <mxreixa@tuta.io>\n"
 "Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
 "overte-website/ja/>\n"
@@ -283,7 +283,7 @@ msgstr "バッケージングをより簡単にし、ディストリビューシ
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:18
 msgid "Make SELinux easier."
-msgstr ""
+msgstr "SELinux をより使いやすくします。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:19
 msgid "Allow easy instancing out of the box."
@@ -701,9 +701,8 @@ msgid ""
 msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/issues/69)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:5
-#, fuzzy
 msgid "We've obtained another NLnet grant!"
-msgstr "2024年2月24日 NLnet から助成金が支給されました！"
+msgstr "2024年2月24日 NLnet 様から助成金が支給されました！"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:7
 msgid ""
@@ -711,6 +710,9 @@ msgid ""
 "improvements, and new features, we are pleased to announce that we've "
 "obtained a second NLnet grant!"
 msgstr ""
+"前回の助成金により、複数の不具合修正や機能改善、新機能の追加を実現することが"
+"できました。これらの功績が認められ、この度2度目の NLnet "
+"様からの助成金を獲得したことをお知らせいたします!"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:9
 #, fuzzy
@@ -745,7 +747,7 @@ msgstr "締め切りは 2025年2月17日 です。"
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:23
 #: ../../source/blog/2025-09-07_August_progress_report.rst:34
 msgid "Features"
-msgstr ""
+msgstr "特徴"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:25
 msgid ""
@@ -753,6 +755,10 @@ msgid ""
 "of all the features provided by our scripting engine. To that end, we "
 "would like to add a visual scripting system."
 msgstr ""
+"VR "
+"やプログラミング技術に詳しくないユーザーにも、当団体のスクリプトエンジンが提"
+"供する全ての機能をより快適に使っていただけたらと考えております。その為にビジ"
+"ュアルスクリプティング機能を実装予定です。"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:28
 #, fuzzy
@@ -789,12 +795,12 @@ msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:33
 msgid "Add live translation support to chat"
-msgstr ""
+msgstr "チャットにリアルタイムライブ翻訳機能をサポートする"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:36
 #: ../../source/blog/2025-09-07_August_progress_report.rst:41
 msgid "Graphics"
-msgstr ""
+msgstr "描画処理"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:38
 msgid ""
@@ -804,14 +810,20 @@ msgid ""
 "spend more time on Vulkan optimization, especially on troubleshooting "
 "performance issues on Intel Arc graphics cards."
 msgstr ""
+"当エンジンの内部では独自の描画処理用のグラフィックスAPIを使用しておりますが、"
+"この仕様は殆どドキュメント化されておりません。この API "
+"のドキュメント化は大変な作業となりますが、プロジェクトの将来的な保守性を確保"
+"する上で必要になります。さらにVulkanの最適化、特にIntel "
+"Arcグラフィックスカードにおけるパフォーマンスの問題解決にも、より多くの時間を"
+"割きたいと考えています。"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:40
 msgid "Vulkan optimization"
-msgstr ""
+msgstr "Vulkan の最適化"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:41
 msgid "Internal graphics API documentation"
-msgstr ""
+msgstr "内製グラフィック API のドキュメント化"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:42
 #, fuzzy
@@ -836,7 +848,8 @@ msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:45
 msgid "Allow switching between graphics APIs through command line option"
-msgstr ""
+msgstr "コマンドラインオプションを利用してグラフィックス API "
+"を切り替えられるようにする"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:46
 #, fuzzy
@@ -856,7 +869,7 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:50
 msgid "QML Localization"
-msgstr ""
+msgstr "QML のローカライズ"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:52
 msgid ""
@@ -864,30 +877,35 @@ msgid ""
 "localization support. This task aims to allow translating all internal UI"
 " created using QML. (Most, but not all, of our UI uses QML.)"
 msgstr ""
+"Overte "
+"は世界中の方々に利用されているため、ローカライズ機能を実装したいと考えており"
+"ます。このタスクは QML を使用して作成された全ての内部 UI "
+"の翻訳を可能にする目的があります。(当団体の UI は殆ど QML "
+"を使用していますが、全てではありません。)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:55
 msgid "Mark strings as translatable"
-msgstr ""
+msgstr "文字列を翻訳可能としてマークする"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:56
 msgid "Generate translation files automatically"
-msgstr ""
+msgstr "翻訳ファイルの自動生成"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:57
 msgid "Hook up to Weblate translation system"
-msgstr ""
+msgstr "Weblate 翻訳ファイルに接続する"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:58
 msgid "Build with translations"
-msgstr ""
+msgstr "翻訳を含めてビルドする"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:59
 msgid "Check if we include the required fonts"
-msgstr ""
+msgstr "必要なフォントが含まれているか確認する"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:60
 msgid "Add German translation (as a reference test case)"
-msgstr ""
+msgstr "ドイツ語翻訳の追加(テストケースの実装)"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:65
 msgid ""
@@ -895,30 +913,34 @@ msgid ""
 "compatibility, which seems to break almost every one of our dependencies."
 " Libnode has similarly received updates, including breaking changes."
 msgstr ""
+"CMake 4.0 "
+"が間も無くリリースされます。これにより一部のレガシー互換性がサポートされなく"
+"なるため、当ソフトウェアの依存関係の大半が機能しなくなる可能性があります。"
+"Libnode も更新され、互換性を損う変更を含みます。"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:69
 msgid "Update Overte for CMake 4.0 compatibility"
-msgstr ""
+msgstr "Overte をCMale 4.0 に対応するための更新"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:70
 msgid "Fix building dependencies on CMake 4.0"
-msgstr ""
+msgstr "CMake 4.0 に対するビルド依存関係の修正"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:71
 msgid "Update libnode to the next LTS version"
-msgstr ""
+msgstr "libnode を次の LTS 版に更新する"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:72
 msgid "Improve build instructions for building with KDevelop and CLion"
-msgstr ""
+msgstr "KDevelop と CLion を使用したビルド手順を改善する"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:73
 msgid "Add automatic Docker release builds"
-msgstr ""
+msgstr "Docker の自動リリースビルドを追加する"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:74
 msgid "Finish getting Overte into Flathub"
-msgstr ""
+msgstr "Overte を Flathub に追加する作業の完了"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:75
 #, fuzzy
