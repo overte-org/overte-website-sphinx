@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-10 12:26+0000\n"
-"PO-Revision-Date: 2026-03-31 03:30+0000\n"
+"PO-Revision-Date: 2026-03-31 15:13+0000\n"
 "Last-Translator: mxreia <mxreixa@tuta.io>\n"
 "Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
 "overte-website/ja/>\n"
@@ -949,11 +949,11 @@ msgstr "音声エンティティの追加 (https://github.com/overte-org/overte/
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:76
 msgid "Package Qt 6 dependency for Windows"
-msgstr ""
+msgstr "Windows 用の Qt6 パッケージの依存関係"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:77
 msgid "Package Qt 6 dependency for Linux"
-msgstr ""
+msgstr "Linux 用 Qt6 パッケージの依存関係"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:78
 msgid "Package webrtc-audio-processing"
