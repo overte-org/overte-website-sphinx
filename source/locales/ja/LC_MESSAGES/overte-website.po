@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-10 12:26+0000\n"
-"PO-Revision-Date: 2026-03-31 15:13+0000\n"
+"PO-Revision-Date: 2026-04-01 19:16+0000\n"
 "Last-Translator: mxreia <mxreixa@tuta.io>\n"
 "Language-Team: Japanese <https://weblate.overte.org/projects/overte/"
 "overte-website/ja/>\n"
@@ -44,9 +44,8 @@ msgstr ""
 "<https://weblate.overte.org/>`_ までお越しください。"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:5
-#, fuzzy
 msgid "We've obtained an NLnet grant!"
-msgstr "2024年2月24日 NLnet から助成金が支給されました！"
+msgstr "2024年2月24日 NLnet 様から助成金が支給されました！"
 
 #: ../../source/blog/2024-02-24_Weve_obtained_an_NLnet_grant.rst:7
 msgid ""
@@ -1055,71 +1054,71 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:104
 msgid "Rework voxel edit mode"
-msgstr ""
+msgstr "ボクセル編集モードの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:105
 msgid "Allow parenting entities using drag and drop in entity list"
-msgstr ""
+msgstr "エンティティリストで親エンティティを Drag and Drop 操作できるようにする"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:106
 msgid "Add a tree view to entity list"
-msgstr ""
+msgstr "エンティティリストにツリービューを追加する"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:107
 msgid "Add a free camera mode to Create"
-msgstr ""
+msgstr "Create にフリーカメラモードを追加"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:108
 msgid "Improve material management in Create"
-msgstr ""
+msgstr "Create の material 管理を改善"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:109
 msgid "Add centered scaling to Create"
-msgstr ""
+msgstr "Create に中央揃えの縮小・拡大機能の実装"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:110
 msgid "Rework More app"
-msgstr ""
+msgstr "さらなるアプリケーションの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:111
 msgid "Rework settings"
-msgstr ""
+msgstr "設定の作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:112
 msgid "Rework Pal app (People list)"
-msgstr ""
+msgstr "Pal アプリケーション (ユーザ一覧) の作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:113
 msgid "Rework log viewer"
-msgstr ""
+msgstr "ログビューアの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:114
 msgid "Rework Snapshot app"
-msgstr ""
+msgstr "スナップショットアプリケーションの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:115
 msgid "Rework Emote app"
-msgstr ""
+msgstr "エモートアプリケーションの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:116
 msgid "Rework running scripts window"
-msgstr ""
+msgstr "実行中スクリプトウィンドウの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:117
 msgid "Rework Places app"
-msgstr ""
+msgstr "プレイスアプリケーションの作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:118
 msgid "Rework notifications"
-msgstr ""
+msgstr "通知表示の作り直し"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:119
 msgid "Add theming support"
-msgstr ""
+msgstr "テーマ機能のサポートの追加"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:120
 msgid "Prefer using system file-picker"
-msgstr ""
+msgstr "システム標準のファイル選択の使用の推奨"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:121
 msgid "Add dashboard user interface"
