@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-10 12:26+0000\n"
+"POT-Creation-Date: 2026-04-16 15:38+0000\n"
 "PO-Revision-Date: 2026-04-07 16:11+0000\n"
 "Last-Translator: Pasquale Pittaluga <pasquale@pittaluga.net>\n"
-"Language-Team: Italian <https://weblate.overte.org/projects/overte/"
-"overte-website/it/>\n"
 "Language: it\n"
+"Language-Team: Italian <https://weblate.overte.org/projects/overte"
+"/overte-website/it/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -2308,11 +2307,11 @@ msgid "17:00 UTC  Development meetup"
 msgstr ""
 
 #: ../../source/calendar.rst:23
-msgid "Monday-Friday, Sunday"
+msgid "Tuesday, Thursday, Friday, Sunday"
 msgstr ""
 
 #: ../../source/calendar.rst:25
-msgid "18:00 UTC  Everyday Mindfulness"
+msgid "17:00 UTC  Everyday Mindfulness"
 msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:49
@@ -4306,3 +4305,10 @@ msgstr ""
 
 #~ msgid "18:00 UTC  OMM — Overte Mindfulness Meditation"
 #~ msgstr ""
+
+#~ msgid "Monday-Friday, Sunday"
+#~ msgstr ""
+
+#~ msgid "18:00 UTC  Everyday Mindfulness"
+#~ msgstr ""
+
