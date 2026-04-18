@@ -9,16 +9,17 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-16 15:38+0000\n"
-"PO-Revision-Date: 2026-03-22 20:36+0000\n"
+"PO-Revision-Date: 2026-04-18 21:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
+"Language-Team: Russian <https://weblate.overte.org/projects/overte/"
+"overte-website/ru/>\n"
 "Language: ru\n"
-"Language-Team: Russian <https://weblate.overte.org/projects/overte"
-"/overte-website/ru/>\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -2016,10 +2017,9 @@ msgid ""
 "course, they also did their usual general contributions like reviewing "
 "and testing a *lot* of Pull Requests."
 msgstr ""
-"74hc595 большую часть времени посвятил обновлению до Qt6. По всей "
-"видимости, ветка Qt6 уже работает, хотя и остается очень нестабильной. "
-"Конечно, он также внес свой обычный вклад, например, проверил и "
-"протестировал *множество* Pull Requests."
+"74hc595 большую часть времени посвятил обновлению до Qt6. По всей видимости, "
+"ветка Qt6 уже работает, хотя и остается очень нестабильной. А также проверил "
+"и протестировал *множество* запросов на слияние (Pull Requests)."
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:90
 msgid ""
@@ -2062,6 +2062,17 @@ msgid ""
 "undoubtedly introduce more not-yet-known regressions, as well as require "
 "all servers and clients to be updated."
 msgstr ""
+"В основном я был занят устранением последствий недавней аферы и флудом "
+"китайских ИИ-скрейперов. А также работал над рефакторингом файлов нашего "
+"рабочего процесса GitHub Actions (спасибо RTUnreal за проверку кода), "
+"исправлял мелкие ошибки системы сборки и устранял регрессии. Я также начал "
+"подготовительную работу над релизом для itch.io: обнаружение регрессий, "
+"появившихся несколько релизов назад, — не самое приятное занятие, и оно "
+"показывает, что тестирование недостаточно. Это говорит о том, что пора "
+"попытаться привлечь больше пользователей. Когда именно состоится этот релиз, "
+"пока не совсем ясно; у нас запланирован релиз, изменяющий протокол, который, "
+"несомненно, приведет к появлению новых, пока неизвестных регрессий, а также "
+"потребует обновления всех серверов и клиентов."
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:101
 msgid ""
@@ -2069,11 +2080,14 @@ msgid ""
 "Big shoutout also to KawaneRio for organizing Sunday's \"Overte warmup\" "
 "event."
 msgstr ""
+"Мы получили отчеты об ошибках и помощь от Alezia, Dale, and Krzeszny. "
+"Большое спасибо также KawaneRio за организацию воскресного мероприятия "
+"\"Overte warmup\"."
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:105
 #: ../../source/blog/2025-11-05_October_progress_report.rst:38
 msgid "Release!"
-msgstr ""
+msgstr "Релиз!"
 
 #: ../../source/blog/2025-10-13_September_progress_report.rst:107
 msgid ""
@@ -2087,10 +2101,20 @@ msgid ""
 "from `GitHub <https://github.com/overte-org/overte/pull/1840>`__ or keep "
 "using version 2025.05.1."
 msgstr ""
+"Мы выпустили наш первый релиз после перехода с VCPKG на Conan. Версия "
+"2025.09.1 и список изменений доступны `здесь 🔗 <https://github.com/"
+"overte-org/overte/releases/tag/2025.09.1>`__ и содержат *огромный* список "
+"исправлений ошибок, улучшений, дополнений и изменений. Однако в ней "
+"обнаружена регрессия, из-за которой приложение падает на многих "
+"дистрибутивах Linux при открытии веб-представления, например, приложения "
+"«Места». Исправление будет включено в следующий релиз. Пользователи, которых "
+"столкнулись с данными проблемами, могут получить тестовую сборку CI из `"
+"GitHub <https://github.com/overte-org/overte/pull/1840>`__ или продолжать "
+"использовать версию 2025.05.1."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:5
 msgid "October progress report"
-msgstr ""
+msgstr "Отчет о ходе работ за октябрь"
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:10
 msgid ""
@@ -2100,12 +2124,19 @@ msgid ""
 "now. Of course, they also did their usual general contributions like "
 "reviewing and testing Pull Requests."
 msgstr ""
+"74hc595 снова большую часть времени посвятил обновлению до Qt6. В процессе "
+"поиска причин сбоев в Qt6 он обнаружил и исправил множество старых проблем с "
+"безопасностью памяти, которые, вероятно, создавали проблемы уже много лет. "
+"Конечно, как всегда, проверил и протестировал запросы на слияние (Pull "
+"Requests)."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:13
 msgid ""
 "Ada spent a lot of time working on their new UI overhaul, which is part "
 "of the upgrade to Qt6. Here are some work-in-progress screenshots:"
 msgstr ""
+"Ada потратил много времени на переработку UI, которая является частью "
+"обновления до Qt6. Вот несколько скриншотов процесса работы:"
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:16
 msgid "|2025-11-05_settings_UI| |2025-11-05_chat| |2025-11-05_places_app|"
@@ -2113,24 +2144,23 @@ msgstr ""
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:18
 msgid "Screenshot of the work-in-progress QML settings UI."
-msgstr ""
+msgstr "Скриншот процесса разработки настроек UI на QML."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:22
 msgid "Screenshot of the work-in-progress QML Chat."
-msgstr ""
+msgstr "Скриншот процесса разработки Чата на QML."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:26
 msgid "Screenshot of the work-in-progress QML Places app."
-msgstr ""
+msgstr "Скриншот процесса разработки приложения Места на QML."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:30
-#, fuzzy
 msgid ""
 "HifiExperiments has been working on a fix for the `FBX texture coordinate"
 " regression 🔗 <https://github.com/overte-org/overte/issues/1823>`__."
 msgstr ""
-"Добавить интерполяцию в анимацию модели (https://github.com/overte-"
-"org/overte/issues/317)"
+"HifiExperiments работали над исправлением `регрессии координат текстур FBX 🔗"
+" <https://github.com/overte-org/overte/issues/1823>`__."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:32
 msgid ""
@@ -2138,6 +2168,9 @@ msgid ""
 "C++20. Without him, a lot of maintenance work would be stuck waiting for "
 "Qt6 to be finished."
 msgstr ""
+"RTUnreal исправлял проблемы сборки C++ как для Qt6, так и для нашего "
+"перехода на C++20. Без него большая часть работы по поддержке застряла бы в "
+"ожидании завершения разработки Qt6."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:34
 msgid ""
@@ -2146,6 +2179,10 @@ msgid ""
 "fixing smaller regressions, which were introduced by all the large "
 "changes which were merged recently."
 msgstr ""
+"Я (Julian Groß) большую часть времени посвятил мелким деталям, включая "
+"стабильный релиз, поддержку, завершение рефакторинга GitHub Actions и "
+"исправление мелких регрессий, возникших в результате недавнего слияния "
+"крупных изменений."
 
 #: ../../source/blog/2025-11-05_October_progress_report.rst:40
 msgid ""
@@ -2158,10 +2195,18 @@ msgid ""
 "resolved, so get the \"Fcitx_support\" AppImage if you are having issues "
 "with using your IME in Overte."
 msgstr ""
+"Мы выпустили ещё один релиз. Версия 2025.10.1 (и исправление 2025.10.1.1), "
+"которая включает только исправления ошибок; самое важное — исправление "
+"проблемы с вылетами AppImages в Arch Linux и исправление проблемы с "
+"неработающей поддержкой OpenXR в NixOS. Он доступен `здесь 🔗 <https://"
+"github.com/overte-org/overte/releases/tag/2025.10.1.1>`__. После исправления "
+"мы заметили проблему с упаковкой, из-за которой не работала поддержка Fcitx. "
+"Эта проблема также решена, поэтому, если у вас возникли проблемы с "
+"использованием вашего IME в Overte, скачайте AppImage \"Fcitx_support\"."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:6
 msgid "Invitation to the Overte e.V. general assembly 2025"
-msgstr ""
+msgstr "Приглашение на генеральную ассамблею Overte e.V. 2025"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:8
 msgid ""
@@ -4944,4 +4989,3 @@ msgstr ""
 
 #~ msgid "Friday, Sunday"
 #~ msgstr ""
-
