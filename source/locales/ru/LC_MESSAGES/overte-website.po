@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-16 15:38+0000\n"
-"PO-Revision-Date: 2026-04-19 20:30+0000\n"
+"PO-Revision-Date: 2026-04-20 09:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -2206,7 +2206,7 @@ msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:6
 msgid "Invitation to the Overte e.V. general assembly 2025"
-msgstr "Приглашение на генеральную ассамблею Overte e.V. 2025"
+msgstr "Приглашение на общее собрание Overte e.V. 2025"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:8
 msgid ""
@@ -2294,6 +2294,10 @@ msgid ""
 "the same 60€ yearly membership fee as everyone else. Some bodies may be "
 "willing to pay more but cannot donate due to legal reasons."
 msgstr ""
+"**[1]**: В настоящее время нефизические лица (например, компании, "
+"университеты) платят тот же ежегодный членский взнос в размере 60 евро, что "
+"и все остальные. Некоторые организации готовы бы платить больше, но не могут "
+"делать пожертвования по юридическим причинам."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:29
 msgid ""
@@ -2379,16 +2383,18 @@ msgid ""
 "This month, I decided to change it up a bit and report on the progress to"
 " date, instead of only to the end of last month."
 msgstr ""
+"В этом месяце я решил немного изменить формат и отчитываться о достигнутом "
+"прогрессе на текущую дату, а не только за конец прошлого месяца."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:10
 msgid "Overte e.V. general assembly 2025"
-msgstr ""
+msgstr "Общее собрание Overte e.V. 2025"
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:12
 msgid ""
 "We held our annual assembly on the 6th of December. The highlights "
 "include:"
-msgstr ""
+msgstr "Мы провели наше ежегодное собрание 6 декабря. Основные моменты:"
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:15
 msgid ""
@@ -2404,6 +2410,10 @@ msgid ""
 "appreciated, since my this assumes my work contract running out at the "
 "end of July 2026.)"
 msgstr ""
+"У нас хорошие финансовые перспективы на 2026 год . Мы должны справиться, "
+"даже если не завершим работу по грантам. (Хотя пожертвования всегда "
+"приветствуются, поскольку это предполагает, что мой трудовой контракт "
+"истекает в конце июля 2026 года.)"
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:19
 msgid ""
@@ -2411,20 +2421,27 @@ msgid ""
 "extended their audit into governance and administration and found no "
 "issues or new recommendations."
 msgstr ""
+"Наш аудитор не обнаружил никаких проблем. Как и в предыдущие годы, они "
+"расширили свою проверку на вопросы управления и администрирования и не "
+"обнаружили никаких проблем или новых рекомендаций."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:21
 msgid "We got a new honorary member within our ranks."
-msgstr ""
+msgstr "В наших рядах появился новый почетный член."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:23
 msgid ""
 "The board can now arbitrarily set the membership fee of non-natural "
 "persons (e.g. companies)."
 msgstr ""
+"Совет теперь может произвольно устанавливать членский взнос для физических "
+"лиц (например, компаний)."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:25
 msgid "A detailed protocol was sent to all Overte e.V. members via email today."
 msgstr ""
+"Подробный протокол был разослан всем членам Overte e.V. сегодня по "
+"электронной почте."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:30
 msgid ""
@@ -2436,6 +2453,13 @@ msgid ""
 " general contributions like reviewing and testing Pull Requests, in "
 "addition to some smaller PRs."
 msgstr ""
+"74hc595 снова потратил слишком много времени, работая над слишком большим "
+"количеством вещей 😉. Отдохнув от Qt6, он вернулся к работе над слиянием "
+"Vulkan. (Я буквально получил почти 70 уведомлений по e-mail только о запросе "
+"на слияние Vulkan.) Он нашел и исправил проблемы с производительностью, "
+"которые тормозили наше обновление до libnode 22. Конечно, он также, как "
+"обычно, внес свой вклад в общее дело, например, проверил и протестировал "
+"запросы на слияние, а также несколько небольших запросов."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:34
 msgid ""
@@ -2444,24 +2468,34 @@ msgid ""
 "lights to the forward renderer. As always, Ada also did a huge amount of "
 "other miscellaneous stuff."
 msgstr ""
+"Ada продолжил работу над переработкой пользовательского интерфейса, а также "
+"продолжила улучшать поддержку OpenXR, добавив лучшую поддержку OSC и работая "
+"над добавлением локальных источников света в forward рендерер. Как всегда, "
+"Ada также проделал огромную работу по другим задачам."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:36
 msgid ""
 "HifiExperiments has been helping with all the graphics related changes "
 "and fixed OpenGL ES support."
 msgstr ""
+"HifiExperiments помогали со всеми изменениями, связанными с графикой, и "
+"исправили поддержку OpenGL ES."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:38
 msgid ""
 "RTUnreal spent a lot of time bumping their head against more or less "
 "random build system issues again."
 msgstr ""
+"RTUnreal снова потратил много времени, пытаясь решить более или менее "
+"случайные проблемы системы сборки."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:40
 msgid ""
 "I (Julian Groß) spent my time with small things as they popped up, "
 "including working on the next stable release."
 msgstr ""
+"Я (Julian Groß) занимался мелкими задачами по мере их возникновения, включая "
+"работу над следующим стабильным релизом."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:42
 msgid ""
@@ -2469,12 +2503,14 @@ msgid ""
 "updating the documentation and fixing issues with both the chat and the "
 "Nametags app."
 msgstr ""
+"В этом месяце у нас появился новый участник: Zedwick помогал обновлять "
+"документацию и исправлять ошибки как в чате, так и в приложении Nametags."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:44
 msgid ""
 "Part of the team went on holiday in Warszawa during the first week of "
 "December."
-msgstr ""
+msgstr "Часть команды уехала в отпуск в Варшаву в первую неделю декабря."
 
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:8
 msgid "Website facelift"
