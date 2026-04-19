@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-16 15:38+0000\n"
-"PO-Revision-Date: 2026-04-18 21:30+0000\n"
+"PO-Revision-Date: 2026-04-19 20:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -2215,68 +2215,78 @@ msgid ""
 "members are allowed to vote, non-Overte-e.V.-members are also welcome to "
 "attend."
 msgstr ""
+"В субботу, 6 декабря, в 19:00 UTC состоится наше ежегодное общее собрание "
+"Overte e.V. в Overte. Голосовать могут только действующие члены Overte e.V., "
+"но присутствовать - все желающие."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:10
 msgid "The planned agenda is as follows:"
-msgstr ""
+msgstr "На повестке дня:"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:12
 msgid "Decide on assembly leader."
-msgstr ""
+msgstr "Выбор главы собрания."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:13
 msgid ""
 "Decide on assembly secretary. The secretary will fill out the protocol "
 "during the assembly."
 msgstr ""
+"Выбор секретаря собрания. Секретарь заполнит протокол во время собрания."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:14
 msgid "Accounting report for 2024 and 2025."
-msgstr ""
+msgstr "Бухгалтерский отчет за 2024 и 2025."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:15
 msgid "Budgeting for 2026."
-msgstr ""
+msgstr "Бюджет на 2026 год."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:16
 msgid "Accounting auditor report (Steve Pruneau)."
-msgstr ""
+msgstr "Отчет аудитора (Steve Pruneau)."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:17
 msgid ""
 "Do we have someone that would like to become the accounting auditor? The "
 "accounting auditor cannot be a board member."
-msgstr ""
+msgstr "Есть ли желающий стать аудитором? Аудитор не может быть членом совета."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:18
 msgid "Board report."
-msgstr ""
+msgstr "Отчет совета."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:19
 msgid "Board member elections."
-msgstr ""
+msgstr "Выборы членов совета."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:20
 msgid ""
 "Vote on allowing the board to set membership fees for non-individuals at "
 "their discretion. **[1]**"
 msgstr ""
+"Голосование по вопросу о предоставлении совету права устанавливать членские "
+"взносы для нефизических лиц по своему усмотрению. **[1]**"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:21
 msgid ""
 "Vote on hiring Julian Groß as done through board decision on 8th of July "
 "2025. **[2]**"
 msgstr ""
+"Голосование по найму Джулиана Гросса (Julian Groß), принятое решением совета "
+"директоров 8 июля 2025 года. **[2]**"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:22
 msgid ""
 "Vote on by-law change to specifically mention “approval voting” as the "
 "used board election system **[3]**"
 msgstr ""
+"Голосование по изменению устава, чтобы упомянуть “утверждающее голосование” "
+"как используемую систему выборов в совет **[3]**"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:23
 msgid "Protocol gets signed by the assembly secretary and assembly leader."
-msgstr ""
+msgstr "Протокол подписан секретарем собрания и главой собрания."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:26
 msgid ""
@@ -2292,15 +2302,18 @@ msgid ""
 "assembly should still vote on it to back the board in its decision (or "
 "fire me)."
 msgstr ""
+"**[2]**: Совет уже нанял Джулиана Гросса (Julian Groß) в соответствии с § 6 "
+"\"Обязанности совета директоров (3)\" (https://satzung.overte.org/en/"
+"#aufgaben). Собрание должно еще проголосовать за то, чтобы поддержать это "
+"решение (или уволить меня)."
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:32
 msgid "**[3]**    Suggested change to § 6 The Board (4) Election:"
-msgstr ""
+msgstr "**[3]**: Предлагаемое изменение в § 6 Выборы совета (4):"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:33
-#, fuzzy
 msgid "From:"
-msgstr "Форум"
+msgstr "Из:"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:34
 msgid ""
@@ -2315,10 +2328,13 @@ msgid ""
 "occupied seat in separate votes. During each vote, each member has one "
 "vote per candidate. (…)"
 msgstr ""
+"(…) Члены совета избираются общим собранием на каждое занимаемое место в "
+"отдельных голосованиях. Во время каждого голосования каждый член имеет один "
+"голос за кандидата. (…)"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:37
 msgid "To:"
-msgstr ""
+msgstr "В:"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:38
 msgid ""
@@ -2335,10 +2351,14 @@ msgid ""
 "to as \"approval voting\": During each vote, each member has one vote per"
 " candidate. (…)"
 msgstr ""
+"(…) Члены совета избираются общим собранием на каждое занимаемое место в "
+"отдельных голосованиях. Используемая система голосования также называется "
+"\"утвердительным голосованием\": Во время каждого голосования каждый член "
+"имеет один голос за каждого кандидата. (…)"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:41
 msgid "Greetings from Germany"
-msgstr ""
+msgstr "Привет из Германии"
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:42
 msgid "Julian Groß"
@@ -2346,13 +2366,13 @@ msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:43
 msgid "Overte e.V. accountant"
-msgstr ""
+msgstr "Бухгалтер Overte e.V."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:5
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:5
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:5
 msgid "Monthly progress report"
-msgstr ""
+msgstr "Отчет о ходе работ за месяц"
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:7
 msgid ""
@@ -2375,6 +2395,7 @@ msgid ""
 "2024 and 2025 both our income and our expenses were way higher than "
 "expected."
 msgstr ""
+"В 2024 и 2025 годах наши доходы и расходы были намного выше, чем ожидалось."
 
 #: ../../source/blog/2025-12-17_Monthly_progress_report.rst:17
 msgid ""
