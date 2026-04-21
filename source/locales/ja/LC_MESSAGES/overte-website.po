@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-16 15:38+0000\n"
+"POT-Creation-Date: 2026-04-21 09:22+0000\n"
 "PO-Revision-Date: 2026-04-01 19:16+0000\n"
 "Last-Translator: mxreia <mxreixa@tuta.io>\n"
 "Language: ja\n"
@@ -2786,13 +2786,10 @@ msgid "Downloads"
 msgstr "ダウンロード"
 
 #: ../../source/downloads.rst:7
-msgid ""
-"The current release of Overte is version 2025.12.1. This is a **protocol "
-"breaking** release, meaning that **servers and clients are incompatible "
-"with previous versions**."
+msgid "The current release of Overte is version 2026.04.1."
 msgstr ""
 
-#: ../../source/downloads.rst:10
+#: ../../source/downloads.rst:9
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
 "/overte-org/overte/blob/master/CHANGELOG.md>`_"
@@ -2800,22 +2797,22 @@ msgstr ""
 "GitHubにある変更履歴をご覧ください： `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 
-#: ../../source/downloads.rst:15
+#: ../../source/downloads.rst:14
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/downloads.rst:19
+#: ../../source/downloads.rst:18
 msgid "Interface"
 msgstr "インターフェース"
 
-#: ../../source/downloads.rst:23
+#: ../../source/downloads.rst:22
 msgid ""
 "If you are using AppImageLauncher make sure you are using version "
 "3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
 "from command line."
 msgstr ""
 
-#: ../../source/downloads.rst:25
+#: ../../source/downloads.rst:24
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2832,14 +2829,14 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:33
+#: ../../source/downloads.rst:30
 msgid ""
-"This release includes OpenXR support, which already works better than "
-"OpenVR on most Linux VR stacks. You can enable OpenXR support using the "
-":bash:`--useExperimentalXR` command line argument."
+"`Linux AppImage for aarch64 "
+"<https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_"
+" :octicon:`desktop-download;0.9em;`"
 msgstr ""
 
-#: ../../source/downloads.rst:38
+#: ../../source/downloads.rst:34
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
@@ -2847,23 +2844,23 @@ msgstr ""
 "ファイルマネージャや :bash:`chmod +x Overte.AppImage` のようなコマンドを使用して、AppImageを "
 "**実行可能** に設定する必要があります。"
 
-#: ../../source/downloads.rst:44
+#: ../../source/downloads.rst:40
 msgid "Domain Server"
 msgstr "ドメインサーバー"
 
-#: ../../source/downloads.rst:46
+#: ../../source/downloads.rst:42
 #, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.12.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_."
 msgstr ""
 "`GitHubのリリースページ🔗 <https://github.com/overte-"
 "org/overte/releases/tag/2023.11.1/>`_ から、または `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_ "
 "から、あなたのディストリビューションやアーキテクチャに適したパッケージを選んでください。"
 
-#: ../../source/downloads.rst:48
+#: ../../source/downloads.rst:44
 msgid ""
 "There are also Docker images available on `hub.docker.com 🔗 "
 "<https://hub.docker.com/r/overte/overte-server/tags>`_. These images are "
@@ -2871,11 +2868,11 @@ msgid ""
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
 
-#: ../../source/downloads.rst:53
+#: ../../source/downloads.rst:49
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/downloads.rst:55
+#: ../../source/downloads.rst:51
 #, fuzzy
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
@@ -2887,7 +2884,7 @@ msgstr ""
 "Serverを実行したい場合は、インストールウィザードで「custom install」を選択し、「Overte "
 "Server」にチェックを入れてください。後からインストーラーを再実行すれば、いつでもサーバーソフトをインストールすることができます。"
 
-#: ../../source/downloads.rst:59
+#: ../../source/downloads.rst:55
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2904,7 +2901,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:67
+#: ../../source/downloads.rst:63
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyway click on \"**More info**\" and"
@@ -2913,11 +2910,11 @@ msgstr ""
 "Windows "
 "Defenderが、「このアプリを実行すると、PCに問題が起こる可能性があ」るという警告を表示することがあります。とにかく実行するには、「**詳細情報**」をクリックし、「**実行**」をクリックしてください。"
 
-#: ../../source/downloads.rst:75
+#: ../../source/downloads.rst:71
 msgid "Source"
 msgstr "ソース"
 
-#: ../../source/downloads.rst:77
+#: ../../source/downloads.rst:73
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
 "<https://github.com/overte-org/overte/>`_. If you intend to build from "
@@ -2927,15 +2924,6 @@ msgstr ""
 "私たちのソースコードは `GitHub repository 🔗 <https://github.com/overte-"
 "org/overte/>`_ "
 "で公開されています。もしソースからビルドするつもりなら、最新の改良を享受するために、リリースではなく、直接masterブランチをビルドすることをお勧めします。"
-
-#: ../../source/downloads.rst:80
-msgid ""
-"For Linux there is a helper application available that aims to simplify "
-"the build process for newcomers. Get it from GitHub here: `Overte builder"
-" 🔗 <https://github.com/overte-org/overte-builder/>`_"
-msgstr ""
-"Linuxでは、初心者向けにビルドプロセスを簡素化することを目的としたヘルパーアプリケーションが用意されています。GitHubから入手することができます："
-" `Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_"
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
@@ -4219,4 +4207,32 @@ msgstr ""
 
 #~ msgid "18:00 UTC  Everyday Mindfulness"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "The current release of Overte is "
+#~ "version 2025.12.1. This is a **protocol"
+#~ " breaking** release, meaning that **servers"
+#~ " and clients are incompatible with "
+#~ "previous versions**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This release includes OpenXR support, "
+#~ "which already works better than OpenVR"
+#~ " on most Linux VR stacks. You "
+#~ "can enable OpenXR support using the "
+#~ ":bash:`--useExperimentalXR` command line argument."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For Linux there is a helper "
+#~ "application available that aims to "
+#~ "simplify the build process for "
+#~ "newcomers. Get it from GitHub here: "
+#~ "`Overte builder 🔗 <https://github.com/overte-"
+#~ "org/overte-builder/>`_"
+#~ msgstr ""
+#~ "Linuxでは、初心者向けにビルドプロセスを簡素化することを目的としたヘルパーアプリケーションが用意されています。GitHubから入手することができます："
+#~ " `Overte builder 🔗 <https://github.com/overte-"
+#~ "org/overte-builder/>`_"
 

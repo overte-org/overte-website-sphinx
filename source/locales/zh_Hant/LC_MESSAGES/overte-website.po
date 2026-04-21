@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-16 15:38+0000\n"
+"POT-Creation-Date: 2026-04-21 09:22+0000\n"
 "PO-Revision-Date: 2025-10-12 01:28+0000\n"
 "Last-Translator: Yan-K <a080123900@gmail.com>\n"
 "Language: zh_Hant\n"
@@ -2672,13 +2672,10 @@ msgid "Downloads"
 msgstr "下載"
 
 #: ../../source/downloads.rst:7
-msgid ""
-"The current release of Overte is version 2025.12.1. This is a **protocol "
-"breaking** release, meaning that **servers and clients are incompatible "
-"with previous versions**."
+msgid "The current release of Overte is version 2026.04.1."
 msgstr ""
 
-#: ../../source/downloads.rst:10
+#: ../../source/downloads.rst:9
 #, fuzzy
 msgid ""
 "Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com"
@@ -2687,22 +2684,22 @@ msgstr ""
 "更新履歷請查看 Github：`Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 
-#: ../../source/downloads.rst:15
+#: ../../source/downloads.rst:14
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../source/downloads.rst:19
+#: ../../source/downloads.rst:18
 msgid "Interface"
 msgstr "介面"
 
-#: ../../source/downloads.rst:23
+#: ../../source/downloads.rst:22
 msgid ""
 "If you are using AppImageLauncher make sure you are using version "
 "3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
 "from command line."
 msgstr ""
 
-#: ../../source/downloads.rst:25
+#: ../../source/downloads.rst:24
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2719,37 +2716,37 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:33
+#: ../../source/downloads.rst:30
 msgid ""
-"This release includes OpenXR support, which already works better than "
-"OpenVR on most Linux VR stacks. You can enable OpenXR support using the "
-":bash:`--useExperimentalXR` command line argument."
+"`Linux AppImage for aarch64 "
+"<https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_"
+" :octicon:`desktop-download;0.9em;`"
 msgstr ""
 
-#: ../../source/downloads.rst:38
+#: ../../source/downloads.rst:34
 #, fuzzy
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
 msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod +x Overte.AppImage`。"
 
-#: ../../source/downloads.rst:44
+#: ../../source/downloads.rst:40
 msgid "Domain Server"
 msgstr "Domain 伺服器"
 
-#: ../../source/downloads.rst:46
+#: ../../source/downloads.rst:42
 #, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.12.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_."
 msgstr ""
 "從 GitHub 發行頁面選擇適合你 Linux 發行版本和架構的套件 `GitHub Release page 🔗 "
 "<https://github.com/overte-org/overte/releases/tag/2023.11.1/>`_，或是從這裡取得 "
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_。"
 
-#: ../../source/downloads.rst:48
+#: ../../source/downloads.rst:44
 msgid ""
 "There are also Docker images available on `hub.docker.com 🔗 "
 "<https://hub.docker.com/r/overte/overte-server/tags>`_. These images are "
@@ -2757,11 +2754,11 @@ msgid ""
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
 
-#: ../../source/downloads.rst:53
+#: ../../source/downloads.rst:49
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../source/downloads.rst:55
+#: ../../source/downloads.rst:51
 #, fuzzy
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
@@ -2772,7 +2769,7 @@ msgstr ""
 "Windows 安裝器同時包含了 Interface 和 Domain Server。如果要執行 Domain Server "
 "的話請選擇自訂安裝並勾選「Overte Server」。也可以重新執行安裝器再安裝伺服器軟體。"
 
-#: ../../source/downloads.rst:59
+#: ../../source/downloads.rst:55
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2789,7 +2786,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:67
+#: ../../source/downloads.rst:63
 #, fuzzy
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
@@ -2797,11 +2794,11 @@ msgid ""
 " then \"**Run anyway**\"."
 msgstr "Windows Defender 在安裝時可能會顯示安裝器不安全的警告視窗。點選「更多資訊」後選「依然執行」。"
 
-#: ../../source/downloads.rst:75
+#: ../../source/downloads.rst:71
 msgid "Source"
 msgstr "原始碼"
 
-#: ../../source/downloads.rst:77
+#: ../../source/downloads.rst:73
 #, fuzzy
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
@@ -2811,15 +2808,6 @@ msgid ""
 msgstr ""
 "我們原始碼會公開在 Github 頁面裡。如果希望從原始碼自行編譯的話，比起 release 分支我們更建議從 master "
 "分支編譯，才可以體驗到最新的改進。"
-
-#: ../../source/downloads.rst:80
-msgid ""
-"For Linux there is a helper application available that aims to simplify "
-"the build process for newcomers. Get it from GitHub here: `Overte builder"
-" 🔗 <https://github.com/overte-org/overte-builder/>`_"
-msgstr ""
-"對 Linux 用戶我們有一個輔助程式，目標是更簡化新手的編譯流程。從這個 Github 頁面取得：`Overte builder 🔗 "
-"<https://github.com/overte-org/overte-builder/>`_"
 
 #: ../../source/gallery.rst:3 ../../source/index.rst:49
 msgid "Gallery"
@@ -4136,4 +4124,32 @@ msgstr ""
 
 #~ msgid "18:00 UTC  Everyday Mindfulness"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "The current release of Overte is "
+#~ "version 2025.12.1. This is a **protocol"
+#~ " breaking** release, meaning that **servers"
+#~ " and clients are incompatible with "
+#~ "previous versions**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This release includes OpenXR support, "
+#~ "which already works better than OpenVR"
+#~ " on most Linux VR stacks. You "
+#~ "can enable OpenXR support using the "
+#~ ":bash:`--useExperimentalXR` command line argument."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For Linux there is a helper "
+#~ "application available that aims to "
+#~ "simplify the build process for "
+#~ "newcomers. Get it from GitHub here: "
+#~ "`Overte builder 🔗 <https://github.com/overte-"
+#~ "org/overte-builder/>`_"
+#~ msgstr ""
+#~ "對 Linux 用戶我們有一個輔助程式，目標是更簡化新手的編譯流程。從這個 Github "
+#~ "頁面取得：`Overte builder 🔗 <https://github.com"
+#~ "/overte-org/overte-builder/>`_"
 
