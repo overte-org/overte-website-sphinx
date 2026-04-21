@@ -4,8 +4,7 @@
 Downloads
 #########
 
-The current release of Overte is version 2025.12.1.
-This is a **protocol breaking** release, meaning that **servers and clients are incompatible with previous versions**.
+The current release of Overte is version 2026.04.1.
 
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
 
@@ -22,16 +21,13 @@ Interface
 
     If you are using AppImageLauncher make sure you are using version 3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even from command line.
 
-.. button-link:: https://public.overte.org/build/overte/release/2025.12.1/Overte-2025.12.1-x86_64.AppImage
+.. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-x86_64.AppImage
     :shadow:
     :color: primary
 
         Linux AppImage for amd64/x86_64 :octicon:`desktop-download;0.9em;`
 
-.. note::
-
-    This release includes OpenXR support, which already works better than OpenVR on most Linux VR stacks.
-    You can enable OpenXR support using the :bash:`--useExperimentalXR` command line argument.
+`Linux AppImage for aarch64 <https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_ :octicon:`desktop-download;0.9em;`
 
 .. note::
 
@@ -43,7 +39,7 @@ Interface
 Domain Server
 *************
 
-Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2025.12.1/>`_.
+Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_.
 
 There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/r/overte/overte-server/tags>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
 
@@ -56,7 +52,7 @@ The Windows installer contains both Interface and the Domain Server.
 Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
 You can always rerun the installer later to install the server software afterwards.
 
-.. button-link:: https://public.overte.org/build/overte/release/2025.12.1/Overte-2025.12.1.exe
+.. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1.exe
     :shadow:
     :color: primary
 
@@ -76,5 +72,3 @@ Source
 
 Our source code is available on `our GitHub repository 🔗 <https://github.com/overte-org/overte/>`_.
 If you intend to build from source, we would suggest building the master branch directly instead of a release, to profit from the latest improvements.
-
-For Linux there is a helper application available that aims to simplify the build process for newcomers. Get it from GitHub here: `Overte builder 🔗 <https://github.com/overte-org/overte-builder/>`_
