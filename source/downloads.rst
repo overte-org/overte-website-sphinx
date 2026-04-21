@@ -27,6 +27,8 @@ Interface
 
         Linux AppImage for amd64/x86_64 :octicon:`desktop-download;0.9em;`
 
+`Linux AppImage for aarch64 <https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_ :octicon:`desktop-download;0.9em;`
+
 .. note::
 
     You will need to set the AppImage as **executable** using your file manager,
