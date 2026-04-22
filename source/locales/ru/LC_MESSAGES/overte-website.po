@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-21 09:22+0000\n"
-"PO-Revision-Date: 2026-04-21 23:38+0000\n"
+"PO-Revision-Date: 2026-04-22 08:30+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -2553,7 +2553,6 @@ msgstr ""
 "поддерживает версию 12, мост работал только в одном направлении."
 
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:20
-#, fuzzy
 msgid ""
 "After trying to self-host and finding out that the bot itself doesn't "
 "actually work with room version 12 (t2bot just uses a `proxy to change "
@@ -2567,17 +2566,17 @@ msgid ""
 "error on my part, I got Out Of Your Element working on the (at that "
 "point) still unsupported room version 12."
 msgstr ""
-"После попытки разместить бот на собственном сервере и обнаружения, что он на "
-"самом деле не работает с комнатами версии 12 (t2bot просто использует `"
-"прокси для изменения запросов<https://github.com/t2bot/v12-proxy>`_), я "
-"решил поискать более подходящее решение. Вот новый мост, с которым я никогда "
-"не сталкивался в своих предыдущих поисках лучшего решения: `Out Of Your "
-"Element <https://gitdab.com/cadence/out-of-your-element>`_. Он не "
-"поддерживается `matrix-docker-ansible-deploy <https://github.com/spantaleev/"
-"matrix-docker-ansible-deploy>`_, который используется для нашего сервера "
-"Matrix, но настройка всё равно оказалась довольно простой. После множества "
-"ошибок с моей стороны, мне удалось запустить Out Of Your Element на (на тот "
-"момент) всё ещё неподдерживаемой версии room 12."
+"После попытки самостоятельно разместить бота и выяснения того, что сам бот "
+"не работает с версией комнат 12 (t2bot просто использует `прокси для "
+"изменения запросов <https://github.com/t2bot/v12-proxy>`_), я отправился на "
+"поиски лучших вариантов. Вот появляется новый мост, с которым я никогда не "
+"сталкивался в своих предыдущих поисках: `Out Of Your Element <https://"
+"gitdab.com/cadence/out-of-your-element>`_ Он не поддерживается `matrix-"
+"docker-ansible-deploy <https://github.com/spantaleev/matrix-docker-ansible-"
+"deploy>`_, который используется для нашего Matrix-сервера, но все же его "
+"настройка оказалась достаточно простой. После множества моих собственных "
+"ошибок мне удалось заставить Out Of Your Element работать на (тогда ещё не "
+"поддерживаемой) версии комнат 12."
 
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:25
 #, python-format
@@ -2692,7 +2691,6 @@ msgstr ""
 "масштабном проекте."
 
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:65
-#, fuzzy
 msgid ""
 "While there is still a lot to do, before Vulkan will become our default "
 "rendering backend, it is already daily-drivable on Linux. If you want to "
@@ -2706,7 +2704,7 @@ msgstr ""
 "ещё многое предстоит сделать, он уже вполне пригоден для ежедневной работы в "
 "Linux. Если вы хотите попробовать, либо соберите Overte из исходного кода, "
 "используя аргумент :code:`-DOVERTE_RENDERING_BACKEND=Vulkan`, или загрузите "
-"любую сборку Vulkan, созданную конвейером CI, например `эту<https://"
+"любую сборку Vulkan, созданную конвейером CI, например `эту <https://"
 "nightly.link/overte-org/overte/actions/runs/21102409135/Overte-"
 "PR2011-06de05e-x86_64-Vulkan.AppImage>`__."
 
@@ -2733,14 +2731,13 @@ msgstr ""
 "Steam."
 
 #: ../../source/blog/2026-01-23_Monthly_progress_report.rst:76
-#, fuzzy
 msgid ""
 "I spent a bunch of time designing `Overte's itch.io page <https://overte-"
 "org.itch.io/overte>`_ and even added support for “itch”, itch.io's "
 "desktop app, allowing automatic incremental updates. A feature, which "
 "none of our other distribution channels have yet."
 msgstr ""
-"Я потратил много времени на разработку `страницы Overte на itch.io<https"
+"Я потратил много времени на разработку `страницы Overte на itch.io <https"
 "://overte-org.itch.io/overte>`_ и даже добавил поддержку “itch”, приложения "
 "для ПК от itch.io, позволяющего автоматически обновлять программу. Функция, "
 "которой пока нет ни в одном из наших других каналов распространения."
@@ -2799,14 +2796,17 @@ msgid ""
 "This month, we talk about a large performance regression, the new "
 "dashboard UI and Flycam, and the weekly \"Overte Warmup\" event."
 msgstr ""
+"В этом месяце мы обсудим значительное снижение производительности, новый UI "
+"панели управления и Flycam, а также еженедельное мероприятие "
+"\"Overte Warmup\"."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:10
 msgid "Table of Contents"
-msgstr ""
+msgstr "Содержание"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:13
 msgid "Performance regression fixed"
-msgstr ""
+msgstr "Исправление снижения производительности"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:15
 #, python-format
@@ -2820,6 +2820,15 @@ msgid ""
 "times still meant hitting the 90 FPS frame cap in VR and the 60 FPS frame"
 " cap in desktop mode, which is why I never noticed the issue myself."
 msgstr ""
+"Мы исправили значительное снижение производительности, появившееся в версии "
+"2025.09.1. 74hc595 заметил ужасную производительность на своей рабочей "
+"станции со старыми двумя процессорами Xeon E5-2690v2, получая всего 30 FPS с "
+"Nvidia RTX3090 в обучающем мире. Даже с такими старыми процессорами "
+"производительность должна быть *намного* лучше. Проверив это, я также "
+"заметил снижение производительности движка (физики) ~50% d на своей машине. "
+"В моем случае, увеличение времени кадра на 50% hi все равно означало "
+"достижение ограничения в 90 FPS в VR и 60 FPS в режиме рабочего стола, "
+"поэтому я сам никогда не замечал этой проблемы."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:19
 msgid ""
@@ -2830,6 +2839,14 @@ msgid ""
 " checks out commits in the middle for me to manually build, test, and "
 "tell Git if it suffers from the issue or not."
 msgstr ""
+"В нашем списке изменений для версии 2025.09.1 не было ничего "
+"подозрительного, поэтому я решил воспользоваться процессом под названием "
+"\"биссекция\" (bisecting), чтобы выяснить, какое изменение привело к падению "
+"производительности. Я запустил :code:`git bisect`, указав последний "
+"известный рабочий коммит и самый ранний известный проблемный коммит. Затем "
+"Git переключается на промежуточные коммиты, чтобы я мог вручную собрать "
+"проект, протестировать его и сообщить Git, есть ли в этом коммите проблема "
+"или нет."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:22
 msgid ""
@@ -2845,6 +2862,17 @@ msgid ""
 "Having to check for collisions between ~80 moving entities every frame is"
 " pretty expensive."
 msgstr ""
+"Всего через два часа я обнаружил `виновника <https://github.com/overte-org/"
+"overte/commit/209fea6b5821645b36452bf3781ff3450e0ed708>`__: виртуальная "
+"клавиатура, используемая в VR, была привязана к аватару. Оказывается, "
+"использование виртуальной клавиатуры, которая следует за вами, требует "
+"огромных вычислительных затрат, даже когда она не используется и даже в "
+"режиме рабочего стола. Почему так происходит? Я не знаю. Предполагаю, что на "
+"клавиатуре и отдельных клавишах включена проверка столкновений (вероятно, "
+"потому что на каждую клавишу нужно нажимать ударом), и физический движок "
+"проверяет, не сталкиваемся ли мы с каждой отдельной клавишей, исходя из "
+"того, насколько близко мы к ним находимся. Проверка столкновений между ~80 "
+"движущимися объектами каждый кадр — довольно ресурсоемкий процесс."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:25
 msgid ""
@@ -2854,6 +2882,11 @@ msgid ""
 "just as simple: Only parent the keyboard to the avatar when it is "
 "actually in use."
 msgstr ""
+"Интересно, что такая простая вещь, как привязка клавиатуры к аватару в VR, "
+"может оказывать такое большое влияние на производительность в *десктоп* "
+"режиме. Первоначальное `решение <https://github.com/overte-org/overte/pull/"
+"2077>`__ так же просто: привязывайте клавиатуру к аватару только тогда, "
+"когда она используется."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:28
 msgid ""
@@ -2861,10 +2894,13 @@ msgid ""
 "running Overte a lot better again. The fix will be in the upcoming "
 "2025.03.1 release."
 msgstr ""
+"После решения этой проблемы ваш ноутбук или старый компьютер должен снова "
+"работать с Overte намного лучше. Исправление будет включено в предстоящий "
+"релиз 2025.03.1."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:31
 msgid "New Dashboard UI"
-msgstr ""
+msgstr "Новый UI панели управления"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:33
 msgid ""
@@ -2872,10 +2908,14 @@ msgid ""
 "to a complete UI overhaul. Recently, Ada started work on the new "
 "\"dashboard\", which is planned to replace the current tablet and HUD."
 msgstr ""
+"Как упоминалось в предыдущих отчетах о ходе работ, наше обновление до Qt6 "
+"сопровождается полной переработкой пользовательского интерфейса. Недавно Ada "
+"начала работу над новой «панелью управления», которая, как планируется, "
+"заменит текущий планшет и HUD."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:36
 msgid "After a bunch of brainstorming, Ada came up with some mock-ups:"
-msgstr ""
+msgstr "После множества мозговых штурмов Ada придумал несколько макетов:"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:38
 msgid "|2026-03-09_dash_mockup_1| |2026-03-09_dash_mockup_2|"
@@ -2883,19 +2923,23 @@ msgstr ""
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:40
 msgid "Hand-drawn mock-up for the dashboard."
-msgstr ""
+msgstr "Набросок макета панели управления."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:44
 msgid ""
 "3D render with Woody's cousin \"man_stolen\" looking at the dashboard "
 "mock-up."
 msgstr ""
+"3D-рендер с Woody's cousin \"man_stolen\", рассматривающим макет панели "
+"управления."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:48
 msgid ""
 "And went straight to work, teasing us with screenshots and short video "
 "showcases:"
 msgstr ""
+"И сразу же приступил к работе, дразня нас скриншотами и короткими "
+"видеороликами:"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:50
 msgid "|2026-03-09_dash_1|"
@@ -2903,29 +2947,36 @@ msgstr ""
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:52
 msgid "New dashboard with new Script Log window."
-msgstr ""
+msgstr "Новая панель управления с новым окном Журнала скриптов."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:64
 msgid ""
 "The new UI will be available in the upcoming months, once our update to "
 "Qt6 is finished and stable enough for a release."
 msgstr ""
+"Новый пользовательский интерфейс будет доступен в ближайшие месяцы, как "
+"только наше обновление до Qt6 будет завершено и достаточно стабильно для "
+"релиза."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:67
 msgid "Flycam"
-msgstr ""
+msgstr "Летающая камера"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:69
 msgid ""
 "Another addition by Ada is a new flycam mode, which allows you to more "
 "conveniently move your camera around while using the Create app."
 msgstr ""
+"Еще одно нововведение от Ada — новый режим \"летающей камеры\", который "
+"позволяет удобнее перемещать камеру во время работы с приложением Создать."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:79
 msgid ""
 "It can be toggled by pressing F4 and will be available in the upcoming "
 "2025.03.1 release."
 msgstr ""
+"Включить его можно клавишей F4, и он будет доступен в предстоящем релизе "
+"2025.03.1."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:81
 msgid ""
@@ -2933,16 +2984,22 @@ msgid ""
 " key) or the focus mode, which allows you to focus the camera on an "
 "entity by selecting it and pressing the F key."
 msgstr ""
+"Сейчас нет планов удалять режим Altcam (переключаемый клавишей Alt) или "
+"режим фокусировки, который позволяет сфокусировать камеру на объекте, выбрав "
+"его и нажав клавишу F."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:84
 msgid "Sunday Overte Warmup event"
-msgstr ""
+msgstr "Воскресное мероприятие Overte Warmup"
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:86
 msgid ""
 "I also want to take this opportunity to advertise our \"Overte Warmup\" "
 "event, which takes place every Sunday at 12:30 UTC time."
 msgstr ""
+"Я также хочу воспользоваться этой возможностью, чтобы рассказать о нашем "
+"мероприятии \"Overte Warmup\", которое проходит каждое воскресенье в 12:30 "
+"UTC."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:88
 msgid ""
