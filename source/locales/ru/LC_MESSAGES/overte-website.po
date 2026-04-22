@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-21 09:22+0000\n"
-"PO-Revision-Date: 2026-04-22 08:30+0000\n"
+"PO-Revision-Date: 2026-04-22 09:32+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/"
 "overte-website/ru/>\n"
@@ -3007,6 +3007,9 @@ msgid ""
 "UTC. The idea behind it is to spark curiosity in our VRChat friends and "
 "bring them over for this occasion."
 msgstr ""
+"Оно начинается в 12:00 UTC в VRChat, а затем в 12:30 UTC переходит в Overte. "
+"Идея в том, чтобы пробудить любопытство у наших друзей из VRChat и привести "
+"их в Overte по этому случаю."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:91
 msgid ""
@@ -3014,10 +3017,13 @@ msgid ""
 "<https://matrix.to/#/!ZzFb_DI4Gwv9E7h5bTDLCMxgu9AnkCO3I_acGhB7PN0?via=matrix.org&via=overte.org>`_"
 " on Matrix or Discord for up-to-date information about the event."
 msgstr ""
+"Следите за `#events channel <https://matrix.to/#/"
+"!ZzFb_DI4Gwv9E7h5bTDLCMxgu9AnkCO3I_acGhB7PN0?via=matrix.org&via=overte.org>`"
+"_ в Matrix или Discord, чтобы получать актуальную информацию о мероприятии."
 
 #: ../../source/blog/2026-03-09_Monthly_progress_report.rst:93
 msgid "Group picture taken at a previous \"Overte Warmup\"."
-msgstr ""
+msgstr "Групповое фото, сделанное на предыдущем \"Overte Warmup\"."
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
 msgid "Calendar"
