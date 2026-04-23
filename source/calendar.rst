@@ -20,7 +20,7 @@ To convert to your local timezone, please ask your preferred search engine somet
 +-------------------------------+
 
 +-----------------------------------+
-| Tuesday, Thursday, Friday, Sunday |
+| Sunday-Friday                     |
 +===================================+
-| 17:00 UTC  Everyday Mindfulness   |
+| 17:30 UTC  Everyday Mindfulness   |
 +-----------------------------------+
