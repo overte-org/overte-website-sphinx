@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-21 09:22+0000\n"
+"POT-Creation-Date: 2026-04-25 18:33+0000\n"
 "PO-Revision-Date: 2025-11-22 11:53+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: de\n"
@@ -2618,13 +2618,12 @@ msgid "17:00 UTC  Development meetup"
 msgstr "17:00 UTC  Development Meetup"
 
 #: ../../source/calendar.rst:23
-#, fuzzy
-msgid "Tuesday, Thursday, Friday, Sunday"
-msgstr "Freitag, Sonntag"
+msgid "Sunday-Friday"
+msgstr ""
 
 #: ../../source/calendar.rst:25
 #, fuzzy
-msgid "17:00 UTC  Everyday Mindfulness"
+msgid "17:30 UTC  Everyday Mindfulness"
 msgstr "18:00 UTC  OMM — Overte Mindfulness Meditation"
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:49
@@ -4488,4 +4487,7 @@ msgstr ""
 #~ "es sich `Overte Builder 🔗 "
 #~ "<https://github.com/overte-org/overte-builder/>`_ "
 #~ "von GitHub."
+
+#~ msgid "Tuesday, Thursday, Friday, Sunday"
+#~ msgstr "Freitag, Sonntag"
 

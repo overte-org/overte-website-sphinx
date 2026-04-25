@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-21 09:22+0000\n"
+"POT-Creation-Date: 2026-04-25 18:33+0000\n"
 "PO-Revision-Date: 2025-04-10 15:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: lt\n"
@@ -2326,11 +2326,11 @@ msgid "17:00 UTC  Development meetup"
 msgstr ""
 
 #: ../../source/calendar.rst:23
-msgid "Tuesday, Thursday, Friday, Sunday"
+msgid "Sunday-Friday"
 msgstr ""
 
 #: ../../source/calendar.rst:25
-msgid "17:00 UTC  Everyday Mindfulness"
+msgid "17:30 UTC  Everyday Mindfulness"
 msgstr ""
 
 #: ../../source/code_of_conduct.rst:3 ../../source/index.rst:49
@@ -4121,4 +4121,10 @@ msgstr ""
 #~ " naujokams. Gaukite ją iš „GitHub“ "
 #~ "čia: `Overte builder 🔗 <https://github.com"
 #~ "/overte-org/overte-builder/>`_"
+
+#~ msgid "Tuesday, Thursday, Friday, Sunday"
+#~ msgstr ""
+
+#~ msgid "17:00 UTC  Everyday Mindfulness"
+#~ msgstr ""
 
