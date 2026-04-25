@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-25 18:33+0000\n"
+"POT-Creation-Date: 2026-04-25 18:34+0000\n"
 "PO-Revision-Date: 2026-04-01 19:16+0000\n"
 "Last-Translator: mxreia <mxreixa@tuta.io>\n"
 "Language: ja\n"
@@ -2432,10 +2432,21 @@ msgid "17:00 UTC  Development meetup"
 msgstr "19:00 UTC  デベロッパーミートアップ"
 
 #: ../../source/calendar.rst:23
+#, fuzzy
+msgid "Sunday"
+msgstr "土曜日"
+
+#: ../../source/calendar.rst:25
+msgid ""
+"12:00 UTC  Overte Warmup (Starts at 12:00 in VRChat, moves to Overte at "
+"12:30)"
+msgstr ""
+
+#: ../../source/calendar.rst:29
 msgid "Sunday-Friday"
 msgstr ""
 
-#: ../../source/calendar.rst:25
+#: ../../source/calendar.rst:31
 msgid "17:30 UTC  Everyday Mindfulness"
 msgstr ""
 
