@@ -22,7 +22,7 @@ To convert to your local timezone, please ask your preferred search engine somet
 +--------------------------------------------------------------------------------+
 | Sunday                                                                         |
 +================================================================================+
-| 13:00 UTC  Overte Warmup (Starts at 13:00 in VRchat, moves to Overte at 13:30) |
+| 12:00 UTC  Overte Warmup (Starts at 12:00 in VRChat, moves to Overte at 12:30) |
 +--------------------------------------------------------------------------------+
 
 +-----------------------------------+
