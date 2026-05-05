@@ -432,6 +432,10 @@ pre span {
     --sd-color-primary-highlight: #515394;
 }
 
+.download-icon-style {
+    font-size: 3em; /* Increase size of FontAwesome icons on the downloads page. */
+}
+
 /***********************************/
 /************* ABlog ***************/
 /***********************************/

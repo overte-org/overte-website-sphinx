@@ -3,6 +3,7 @@ Sphinx>=3.5.4, <9.0.0
 sphinx-intl>=2.0.1
 sphinx-rtd-theme>=3.0.2
 sphinx-design>=0.3.0
+sphinx-tabs
 ablog
 sphinxcontrib-video>=0.4.2
 

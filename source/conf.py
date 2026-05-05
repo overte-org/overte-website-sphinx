@@ -42,6 +42,7 @@ extensions = [
     'sphinx_design',
     'ablog',
     'sphinx.ext.intersphinx',  # Required by ABlog.
+    'sphinx_tabs.tabs',
     'sphinxcontrib.video',  # Used for embedding videos.
 ]
 
@@ -83,6 +84,9 @@ smartquotes_excludes = {'languages': ['fr'], 'builders': ['html']}
 
 # Force us to provide both webm and mp4 videos. MacOS/iOS does not support free codecs, so we always provide mp4 alternatives.
 video_enforce_extra_source = True
+
+# Use Sphinx Tabs for the linkcheck builder in addition to the HTML builder.
+sphinx_tabs_valid_builders = ['linkcheck']
 
 # -- Options for HTML output -------------------------------------------------
 

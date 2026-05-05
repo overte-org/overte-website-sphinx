@@ -4,7 +4,7 @@
 About
 #####
 
-Overte is an :ref:`open source<reference_to_downloads_source>` virtual worlds and social VR software which enables you to create and share virtual worlds as virtual reality (VR) and desktop experiences. You can create and host your own virtual world,
+Overte is an `open source 🔗 <https://github.com/overte-org/overte>`_ virtual worlds and social VR software which enables you to create and share virtual worlds as virtual reality (VR) and desktop experiences. You can create and host your own virtual world,
 explore other worlds, meet and connect with other users, attend or host live VR events, and much more.
 
 The Overte software provides the following key features:
