@@ -10,11 +10,11 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
 
 .. tabs::
 
-   .. tab:: Linux :fa:`linux;download-icon-style`
+   .. tab:: :fa:`linux;download-icon-style` Linux
 
         .. tabs::
 
-            .. tab:: Interface (Client) :octicon:`device-desktop;0.9em;`
+            .. tab:: :octicon:`device-desktop;0.9em;` Interface (Client)
 
                 .. warning::
 
@@ -37,14 +37,14 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
                     You will need to set the AppImage as **executable** using your file manager,
                     or a command like: :bash:`chmod +x Overte.AppImage`.
 
-            .. tab:: Domain Server :octicon:`server;0.9em;`
+            .. tab:: :octicon:`server;0.9em;` Domain Server
 
                 Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_.
 
                 There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/r/overte/overte-server/tags>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
 
 
-   .. tab:: Windows :fa:`windows;download-icon-style`
+   .. tab:: :fa:`windows;download-icon-style` Windows
 
         .. card::
 
@@ -64,7 +64,7 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
                 To run it anyway click on "**More info**" and then "**Run anyway**".
 
 
-   .. tab:: Source :fa:`code-fork;download-icon-style`
+   .. tab:: :fa:`code-fork;download-icon-style` Source
 
         .. card::
 
