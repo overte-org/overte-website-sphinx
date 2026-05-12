@@ -8,67 +8,65 @@ The current release of Overte is version 2026.04.1.
 
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
 
+.. tabs::
 
------
-Linux
------
+   .. tab:: :fa:`linux;download-icon-style` Linux
 
-*********
-Interface
-*********
+        .. tabs::
 
-.. warning::
+            .. tab:: :octicon:`device-desktop;0.9em;` Interface (Client)
 
-    If you are using AppImageLauncher make sure you are using version 3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even from command line.
+                .. warning::
 
-.. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-x86_64.AppImage
-    :shadow:
-    :color: primary
+                    If you are using AppImageLauncher make sure you are using version 3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even from command line.
 
-        Linux AppImage for amd64/x86_64 :octicon:`desktop-download;0.9em;`
+                .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-x86_64.AppImage
+                    :shadow:
+                    :color: primary
 
-`Linux AppImage for aarch64 <https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_ :octicon:`desktop-download;0.9em;`
+                        Linux AppImage for amd64/x86_64 :octicon:`desktop-download;0.9em;`
 
-.. note::
+                .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage
+                    :shadow:
+                    :color: muted
 
-    You will need to set the AppImage as **executable** using your file manager,
-    or a command like: :bash:`chmod +x Overte.AppImage`.
+                        Linux AppImage for aarch64 :octicon:`desktop-download;0.9em;`
 
+                .. note::
 
-*************
-Domain Server
-*************
+                    You will need to set the AppImage as **executable** using your file manager,
+                    or a command like: :bash:`chmod +x Overte.AppImage`.
 
-Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_.
+            .. tab:: :octicon:`server;0.9em;` Domain Server
 
-There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/r/overte/overte-server/tags>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
+                Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_.
 
-
--------
-Windows
--------
-
-The Windows installer contains both Interface and the Domain Server.
-Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
-You can always rerun the installer later to install the server software afterwards.
-
-.. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1.exe
-    :shadow:
-    :color: primary
-
-        Windows Installer for x86_64 :octicon:`desktop-download;0.9em;`
-
-.. note::
-
-    Windows Defender might display a warning about the Windows installer being potentially unsafe.
-    To run it anyway click on "**More info**" and then "**Run anyway**".
+                There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/r/overte/overte-server/tags>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
 
 
-.. _reference_to_downloads_source:
+   .. tab:: :fa:`windows;download-icon-style` Windows
 
-------
-Source
-------
+        .. card::
 
-Our source code is available on `our GitHub repository 🔗 <https://github.com/overte-org/overte/>`_.
-If you intend to build from source, we would suggest building the master branch directly instead of a release, to profit from the latest improvements.
+            The Windows installer contains both Interface and the Domain Server.
+            Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
+            You can always rerun the installer later to install the server software afterwards.
+
+            .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1.exe
+                :shadow:
+                :color: primary
+
+                    Windows Installer for x86_64 :octicon:`desktop-download;0.9em;`
+
+            .. note::
+
+                Windows Defender might display a warning about the Windows installer being potentially unsafe.
+                To run it anyway click on "**More info**" and then "**Run anyway**".
+
+
+   .. tab:: :fa:`code-fork;download-icon-style` Source
+
+        .. card::
+
+            Our source code is available on `our GitHub repository 🔗 <https://github.com/overte-org/overte/>`_.
+            If you intend to build from source, we would suggest building the master branch directly instead of a release, to profit from the latest improvements.
