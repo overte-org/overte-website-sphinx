@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-25 18:34+0000\n"
+"POT-Creation-Date: 2026-05-12 14:35+0000\n"
 "PO-Revision-Date: 2025-10-12 01:28+0000\n"
 "Last-Translator: Yan-K <a080123900@gmail.com>\n"
 "Language: zh_Hant\n"
@@ -2694,22 +2694,22 @@ msgstr ""
 "更新履歷請查看 Github：`Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 
-#: ../../source/downloads.rst:14
-msgid "Linux"
-msgstr "Linux"
+#: ../../source/downloads.rst:13
+msgid ":fa:`linux;download-icon-style` Linux"
+msgstr ""
 
-#: ../../source/downloads.rst:18
-msgid "Interface"
-msgstr "介面"
+#: ../../source/downloads.rst:17
+msgid ":octicon:`device-desktop;0.9em;` Interface (Client)"
+msgstr ""
 
-#: ../../source/downloads.rst:22
+#: ../../source/downloads.rst:21
 msgid ""
 "If you are using AppImageLauncher make sure you are using version "
 "3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
 "from command line."
 msgstr ""
 
-#: ../../source/downloads.rst:24
+#: ../../source/downloads.rst:23
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2726,14 +2726,24 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:30
+#: ../../source/downloads.rst:29
 msgid ""
-"`Linux AppImage for aarch64 "
-"<https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_"
-" :octicon:`desktop-download;0.9em;`"
+"Linux AppImage for aarch64 <svg version=\"1.1\" width=\"0.9em\" "
+"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
+"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
+"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
+"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
+"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
+"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
+"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
+"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
+"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
+"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
+"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:34
+#: ../../source/downloads.rst:37
 #, fuzzy
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
@@ -2741,8 +2751,8 @@ msgid ""
 msgstr "你會需要透過檔案管理將 AppImage 設定成「執行檔」，或是使用指令：:bash:`chmod +x Overte.AppImage`。"
 
 #: ../../source/downloads.rst:40
-msgid "Domain Server"
-msgstr "Domain 伺服器"
+msgid ":octicon:`server;0.9em;` Domain Server"
+msgstr ""
 
 #: ../../source/downloads.rst:42
 #, fuzzy
@@ -2764,9 +2774,9 @@ msgid ""
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
 
-#: ../../source/downloads.rst:49
-msgid "Windows"
-msgstr "Windows"
+#: ../../source/downloads.rst:47
+msgid ":fa:`windows;download-icon-style` Windows"
+msgstr ""
 
 #: ../../source/downloads.rst:51
 #, fuzzy
@@ -2804,11 +2814,11 @@ msgid ""
 " then \"**Run anyway**\"."
 msgstr "Windows Defender 在安裝時可能會顯示安裝器不安全的警告視窗。點選「更多資訊」後選「依然執行」。"
 
-#: ../../source/downloads.rst:71
-msgid "Source"
-msgstr "原始碼"
+#: ../../source/downloads.rst:67
+msgid ":fa:`code-fork;download-icon-style` Source"
+msgstr ""
 
-#: ../../source/downloads.rst:73
+#: ../../source/downloads.rst:71
 #, fuzzy
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
@@ -2944,11 +2954,12 @@ msgstr "關於"
 #: ../../source/index.rst:7
 #, fuzzy
 msgid ""
-"Overte is an :ref:`open source<reference_to_downloads_source>` virtual "
-"worlds and social VR software which enables you to create and share "
-"virtual worlds as virtual reality (VR) and desktop experiences. You can "
-"create and host your own virtual world, explore other worlds, meet and "
-"connect with other users, attend or host live VR events, and much more."
+"Overte is an `open source 🔗 <https://github.com/overte-org/overte>`_ "
+"virtual worlds and social VR software which enables you to create and "
+"share virtual worlds as virtual reality (VR) and desktop experiences. You"
+" can create and host your own virtual world, explore other worlds, meet "
+"and connect with other users, attend or host live VR events, and much "
+"more."
 msgstr ""
 "Overte 是開源的虛擬世界和 VR 社交軟體，可以讓用戶在裡面創造並分享給桌上電腦和 VR "
 "的體驗。在這裡可以建立並架設你自己的虛擬世界，探索其他人的世界，相遇其他玩家，參加或舉辦現場 VR 活動，還有更多。"
@@ -4168,4 +4179,25 @@ msgstr ""
 
 #~ msgid "17:00 UTC  Everyday Mindfulness"
 #~ msgstr ""
+
+#~ msgid "Linux"
+#~ msgstr "Linux"
+
+#~ msgid "Interface"
+#~ msgstr "介面"
+
+#~ msgid ""
+#~ "`Linux AppImage for aarch64 "
+#~ "<https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_"
+#~ " :octicon:`desktop-download;0.9em;`"
+#~ msgstr ""
+
+#~ msgid "Domain Server"
+#~ msgstr "Domain 伺服器"
+
+#~ msgid "Windows"
+#~ msgstr "Windows"
+
+#~ msgid "Source"
+#~ msgstr "原始碼"
 

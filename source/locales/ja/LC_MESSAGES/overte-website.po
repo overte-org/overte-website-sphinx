@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-25 18:34+0000\n"
+"POT-Creation-Date: 2026-05-12 14:35+0000\n"
 "PO-Revision-Date: 2026-05-06 17:39+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.overte.org/projects/overte/overte-"
-"website/ja/>\n"
 "Language: ja\n"
+"Language-Team: Japanese <https://weblate.overte.org/projects/overte"
+"/overte-website/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -272,9 +271,7 @@ msgstr "次のように:"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:17
 msgid "Make packaging easier and allow inclusion in distributions."
-msgstr ""
-"バッケージングをより簡単にし、ディストリビューションへの組み込みを可能にしま"
-"す。"
+msgstr "バッケージングをより簡単にし、ディストリビューションへの組み込みを可能にします。"
 
 #: ../../source/blog/2024-04-02_NLnet_grant_extended.rst:18
 msgid "Make SELinux easier."
@@ -521,32 +518,30 @@ msgid ""
 "Fix warnings and allow turning on warnings-as-errors (https://github.com"
 "/overte-org/overte/issues/930)"
 msgstr ""
-"警告を修正し、「警告をエラーとして扱う」設定を有効にできるようにする（"
-"https://github.com/overte-org/overte/issues/930）"
+"警告を修正し、「警告をエラーとして扱う」設定を有効にできるようにする（https://github.com/overte-"
+"org/overte/issues/930）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:14
 msgid ""
 "Clean up Application.cpp so it's not 10,000 lines (https://github.com"
 "/overte-org/overte/issues/931)"
 msgstr ""
-"Application.cppを整理して10,000行未満にする（https://github.com/overte-org/"
-"overte/issues/931）"
+"Application.cppを整理して10,000行未満にする（https://github.com/overte-"
+"org/overte/issues/931）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:15
 msgid ""
 "fix setting joint data by name (https://github.com/overte-"
 "org/overte/issues/613)"
-msgstr ""
-"「名前によるジョイントデータの設定」の修正（https://github.com/overte-org/"
-"overte/issues/613）"
+msgstr "「名前によるジョイントデータの設定」の修正（https://github.com/overte-org/overte/issues/613）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:16
 msgid ""
 "Replace the old wearables system with avatar entities to deduplicate "
 "code. (https://github.com/overte-org/overte/issues/932)"
 msgstr ""
-"コードの重複を解消するため、従来のウェアラブルシステムをアバターエンティティ"
-"に置き換える（https://github.com/overte-org/overte/issues/932）"
+"コードの重複を解消するため、従来のウェアラブルシステムをアバターエンティティに置き換える（https://github.com/overte-"
+"org/overte/issues/932）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:19
 msgid "Text entities"
@@ -565,16 +560,14 @@ msgid ""
 "clip to edges instead of completely disappearing (https://github.com"
 "/overte-org/overte/issues/583)"
 msgstr ""
-"完全に消えてしまうのではなく、端で切り取られるようにする（https://github.com/"
-"overte-org/overte/issues/583）"
+"完全に消えてしまうのではなく、端で切り取られるようにする（https://github.com/overte-"
+"org/overte/issues/583）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:24
 msgid ""
 "Switch to a standard font format (https://github.com/overte-"
 "org/overte/issues/126)"
-msgstr ""
-"標準的なフォント形式への切り替え（https://github.com/overte-org/overte/"
-"issues/126）"
+msgstr "標準的なフォント形式への切り替え（https://github.com/overte-org/overte/issues/126）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:27
 msgid "Graphics improvements II"
@@ -582,23 +575,17 @@ msgstr "グラフィックの改善（第二弾）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:29
 msgid "Add ambient light color (https://github.com/overte-org/overte/issues/6)"
-msgstr ""
-"アンビエントライトカラーの追加（https://github.com/overte-org/overte/issues/6"
-"）"
+msgstr "アンビエントライトカラーの追加（https://github.com/overte-org/overte/issues/6）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:30
 msgid ""
 "Loading MToon materials directly from glTF (https://github.com/overte-"
 "org/overte/issues/933)"
-msgstr ""
-"MToonマテリアルのglTFからの直接読み込み（https://github.com/overte-org/"
-"overte/issues/933）"
+msgstr "MToonマテリアルのglTFからの直接読み込み（https://github.com/overte-org/overte/issues/933）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:31
 msgid "Optional camera clipping (https://github.com/overte-org/overte/issues/618)"
-msgstr ""
-"カメラクリッピングのオプション（https://github.com/overte-org/overte/issues/"
-"618）"
+msgstr "カメラクリッピングのオプション（https://github.com/overte-org/overte/issues/618）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:32
 msgid ""
@@ -625,8 +612,8 @@ msgid ""
 "add tone-mapping and Ambient Occlusion properties to Zone entities "
 "(https://github.com/overte-org/overte/issues/934)"
 msgstr ""
-"ゾーンエンティティにトーンマッピングおよびアンビエントオクルージョンの"
-"プロパティを追加する（https://github.com/overte-org/overte/issues/934）"
+"ゾーンエンティティにトーンマッピングおよびアンビエントオクルージョンのプロパティを追加する（https://github.com/overte-"
+"org/overte/issues/934）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:37
 msgid "Miscellaneous improvements II"
@@ -637,40 +624,34 @@ msgid ""
 "Add VR laser smoothing which will especially help people with shaky hands"
 " (https://github.com/overte-org/overte/issues/883)"
 msgstr ""
-"手が震えやすい人にとって特に役立つ、VRレーザー手振れ補正機能を追加（https://"
-"github.com/overte-org/overte/issues/883）"
+"手が震えやすい人にとって特に役立つ、VRレーザー手振れ補正機能を追加（https://github.com/overte-"
+"org/overte/issues/883）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:40
 msgid ""
 "Increase loading priority of avatar entities (https://github.com/overte-"
 "org/overte/issues/834)"
-msgstr ""
-"アバターエンティティの読み込み優先度を上げる（https://github.com/overte-org/"
-"overte/issues/834）"
+msgstr "アバターエンティティの読み込み優先度を上げる（https://github.com/overte-org/overte/issues/834）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:41
 msgid ""
 "Add option to not have an avatar show until its entities are loaded "
 "(https://github.com/overte-org/overte/issues/834)"
 msgstr ""
-"エンティティが読み込まれるまでアバターを表示しないオプションを追加する "
-"(https://github.com/overte-org/overte/issues/834)"
+"エンティティが読み込まれるまでアバターを表示しないオプションを追加する (https://github.com/overte-"
+"org/overte/issues/834)"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:42
 msgid ""
 "Improve current loading priority system (https://github.com/overte-"
 "org/overte/issues/834)"
-msgstr ""
-"現在の読み込み優先順位システムの改善（https://github.com/overte-org/overte/"
-"issues/834）"
+msgstr "現在の読み込み優先順位システムの改善（https://github.com/overte-org/overte/issues/834）"
 
 #: ../../source/blog/2024-04-16_NLnet_grant_extended_again.rst:43
 msgid ""
 "Add a property to influence load priority of entities (https://github.com"
 "/overte-org/overte/issues/834)"
-msgstr ""
-"エンティティに読み込み優先順位プロパティを追加する（https://github.com/"
-"overte-org/overte/issues/834）"
+msgstr "エンティティに読み込み優先順位プロパティを追加する（https://github.com/overte-org/overte/issues/834）"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:5
 msgid "We've obtained another NLnet grant!"
@@ -690,8 +671,8 @@ msgid ""
 "The NLnet Foundation continues to support many amazing Open Source "
 "projects, and we're honored to continue partnering with them."
 msgstr ""
-"NLnet Foundation は、数多くの素晴らしいオープンソースプロジェクトへの支援を続"
-"けており、私たちも引き続き同財団と提携できることを光栄に思います。"
+"NLnet Foundation "
+"は、数多くの素晴らしいオープンソースプロジェクトへの支援を続けており、私たちも引き続き同財団と提携できることを光栄に思います。"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:11
 #, fuzzy
@@ -2817,22 +2798,22 @@ msgstr ""
 "GitHubにある変更履歴をご覧ください： `Changelog 🔗 <https://github.com/overte-"
 "org/overte/blob/master/CHANGELOG.md>`_"
 
-#: ../../source/downloads.rst:14
-msgid "Linux"
-msgstr "Linux"
+#: ../../source/downloads.rst:13
+msgid ":fa:`linux;download-icon-style` Linux"
+msgstr ""
 
-#: ../../source/downloads.rst:18
-msgid "Interface"
-msgstr "インターフェース"
+#: ../../source/downloads.rst:17
+msgid ":octicon:`device-desktop;0.9em;` Interface (Client)"
+msgstr ""
 
-#: ../../source/downloads.rst:22
+#: ../../source/downloads.rst:21
 msgid ""
 "If you are using AppImageLauncher make sure you are using version "
 "3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
 "from command line."
 msgstr ""
 
-#: ../../source/downloads.rst:24
+#: ../../source/downloads.rst:23
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2849,14 +2830,24 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:30
+#: ../../source/downloads.rst:29
 msgid ""
-"`Linux AppImage for aarch64 "
-"<https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_"
-" :octicon:`desktop-download;0.9em;`"
+"Linux AppImage for aarch64 <svg version=\"1.1\" width=\"0.9em\" "
+"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
+"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
+"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
+"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
+"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
+"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
+"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
+"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
+"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
+"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
+"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
+"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:34
+#: ../../source/downloads.rst:37
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
@@ -2865,8 +2856,8 @@ msgstr ""
 "**実行可能** に設定する必要があります。"
 
 #: ../../source/downloads.rst:40
-msgid "Domain Server"
-msgstr "ドメインサーバー"
+msgid ":octicon:`server;0.9em;` Domain Server"
+msgstr ""
 
 #: ../../source/downloads.rst:42
 #, fuzzy
@@ -2888,9 +2879,9 @@ msgid ""
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
 
-#: ../../source/downloads.rst:49
-msgid "Windows"
-msgstr "Windows"
+#: ../../source/downloads.rst:47
+msgid ":fa:`windows;download-icon-style` Windows"
+msgstr ""
 
 #: ../../source/downloads.rst:51
 #, fuzzy
@@ -2930,11 +2921,11 @@ msgstr ""
 "Windows "
 "Defenderが、「このアプリを実行すると、PCに問題が起こる可能性があ」るという警告を表示することがあります。とにかく実行するには、「**詳細情報**」をクリックし、「**実行**」をクリックしてください。"
 
-#: ../../source/downloads.rst:71
-msgid "Source"
-msgstr "ソース"
+#: ../../source/downloads.rst:67
+msgid ":fa:`code-fork;download-icon-style` Source"
+msgstr ""
 
-#: ../../source/downloads.rst:73
+#: ../../source/downloads.rst:71
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
 "<https://github.com/overte-org/overte/>`_. If you intend to build from "
@@ -3065,12 +3056,14 @@ msgid "About"
 msgstr "Overteとは"
 
 #: ../../source/index.rst:7
+#, fuzzy
 msgid ""
-"Overte is an :ref:`open source<reference_to_downloads_source>` virtual "
-"worlds and social VR software which enables you to create and share "
-"virtual worlds as virtual reality (VR) and desktop experiences. You can "
-"create and host your own virtual world, explore other worlds, meet and "
-"connect with other users, attend or host live VR events, and much more."
+"Overte is an `open source 🔗 <https://github.com/overte-org/overte>`_ "
+"virtual worlds and social VR software which enables you to create and "
+"share virtual worlds as virtual reality (VR) and desktop experiences. You"
+" can create and host your own virtual world, explore other worlds, meet "
+"and connect with other users, attend or host live VR events, and much "
+"more."
 msgstr ""
 "Overteは、バーチャルリアリティ（VR）やデスクトップ体験としての仮想世界を作成・共有できる "
 ":ref:`オープンソース<reference_to_downloads_source>` "
@@ -4261,3 +4254,25 @@ msgstr ""
 
 #~ msgid "17:00 UTC  Everyday Mindfulness"
 #~ msgstr ""
+
+#~ msgid "Linux"
+#~ msgstr "Linux"
+
+#~ msgid "Interface"
+#~ msgstr "インターフェース"
+
+#~ msgid ""
+#~ "`Linux AppImage for aarch64 "
+#~ "<https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage>`_"
+#~ " :octicon:`desktop-download;0.9em;`"
+#~ msgstr ""
+
+#~ msgid "Domain Server"
+#~ msgstr "ドメインサーバー"
+
+#~ msgid "Windows"
+#~ msgstr "Windows"
+
+#~ msgid "Source"
+#~ msgstr "ソース"
+
