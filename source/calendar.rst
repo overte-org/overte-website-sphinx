@@ -24,9 +24,3 @@ To convert to your local timezone, please ask your preferred search engine somet
 +================================================================================+
 | 12:00 UTC  Overte Warmup (Starts at 12:00 in VRChat, moves to Overte at 12:30) |
 +--------------------------------------------------------------------------------+
-
-+-----------------------------------+
-| Sunday-Friday                     |
-+===================================+
-| 17:30 UTC  Everyday Mindfulness   |
-+-----------------------------------+
