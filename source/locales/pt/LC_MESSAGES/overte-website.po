@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 18:43+0000\n"
+"POT-Creation-Date: 2026-07-02 14:55+0000\n"
 "PO-Revision-Date: 2025-04-11 04:01+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: pt\n"
@@ -3567,36 +3567,18 @@ msgid "Secretary and second deputy chairman."
 msgstr "Secretário e segundo vice-presidente."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:86
-msgid "Karol_Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:83
-#, fuzzy
-msgid "Speaks Polish and English."
-msgstr "Fala alemão e inglês."
-
-#: ../../source/overte_ev.rst:84
-#, fuzzy
-msgid "Graphics specialist and developer"
-msgstr "Presidente e desenvolvedor."
-
-#: ../../source/overte_ev.rst:92
 msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
-#: ../../source/overte_ev.rst:96
+#: ../../source/overte_ev.rst:86
 msgid "HifiExperiments"
 msgstr ""
 
-#: ../../source/overte_ev.rst:93
+#: ../../source/overte_ev.rst:83
 msgid "Speaks English."
 msgstr "Fala inglês."
 
-#: ../../source/overte_ev.rst:94
+#: ../../source/overte_ev.rst:84
 msgid "Core Engine & graphics specialist"
 msgstr "Core Engine & Especialista em Gráficos"
 
@@ -4341,16 +4323,16 @@ msgstr ""
 #~ msgstr "20:15 UTC  Quarta-feira à noite de jogos"
 
 #~ msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-#~ msgstr "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+#~ msgstr ""
 
 #~ msgid "Karol_Suprynowicz"
 #~ msgstr ""
 
 #~ msgid "Speaks Polish and English."
-#~ msgstr "Fala polonês e inglês."
+#~ msgstr "Fala alemão e inglês."
 
 #~ msgid "Graphics specialist and developer"
-#~ msgstr "Especialista em gráficos e desenvolvedor"
+#~ msgstr "Presidente e desenvolvedor."
 
 #~ msgid ""
 #~ "The current release of Overte is "

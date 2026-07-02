@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 18:43+0000\n"
+"POT-Creation-Date: 2026-07-02 14:55+0000\n"
 "PO-Revision-Date: 2025-10-12 01:28+0000\n"
 "Last-Translator: Melany Fonseca <andropeminer@gmail.com>\n"
 "Language: fr\n"
@@ -3246,37 +3246,19 @@ msgid "Secretary and second deputy chairman."
 msgstr "Secrétaire et second vice-président."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Karol_Suprynowicz"
+msgid "HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:83
 #, fuzzy
-msgid "Speaks Polish and English."
-msgstr "Parle allemand et anglais."
-
-#: ../../source/overte_ev.rst:84
-#, fuzzy
-msgid "Graphics specialist and developer"
-msgstr "Président et développeur."
-
-#: ../../source/overte_ev.rst:92
-msgid "|HifiExperiments| HifiExperiments"
-msgstr ""
-
-#: ../../source/overte_ev.rst:96
-msgid "HifiExperiments"
-msgstr ""
-
-#: ../../source/overte_ev.rst:93
-#, fuzzy
 msgid "Speaks English."
 msgstr "Parle polonais et anglais."
 
-#: ../../source/overte_ev.rst:94
+#: ../../source/overte_ev.rst:84
 msgid "Core Engine & graphics specialist"
 msgstr ""
 
@@ -3985,7 +3967,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Speaks Polish and English."
-#~ msgstr "Parle polonais et anglais."
+#~ msgstr "Parle allemand et anglais."
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "Président et développeur."

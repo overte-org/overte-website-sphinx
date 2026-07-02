@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 18:43+0000\n"
+"POT-Creation-Date: 2026-07-02 14:55+0000\n"
 "PO-Revision-Date: 2025-08-05 13:02+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: es\n"
@@ -3617,34 +3617,18 @@ msgid "Secretary and second deputy chairman."
 msgstr "Secretario y segundo vicepresidente."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-
-#: ../../source/overte_ev.rst:86
-msgid "Karol_Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:83
-msgid "Speaks Polish and English."
-msgstr "Habla polaco e inglés."
-
-#: ../../source/overte_ev.rst:84
-msgid "Graphics specialist and developer"
-msgstr "Especialista en gráficos y desarrollador"
-
-#: ../../source/overte_ev.rst:92
 msgid "|HifiExperiments| HifiExperiments"
 msgstr "|HifiExperiments| HifiExperiments"
 
-#: ../../source/overte_ev.rst:96
+#: ../../source/overte_ev.rst:86
 msgid "HifiExperiments"
 msgstr ""
 
-#: ../../source/overte_ev.rst:93
+#: ../../source/overte_ev.rst:83
 msgid "Speaks English."
 msgstr "Habla inglés."
 
-#: ../../source/overte_ev.rst:94
+#: ../../source/overte_ev.rst:84
 msgid "Core Engine & graphics specialist"
 msgstr "Especialista en motor principal y gráficos"
 
@@ -4846,4 +4830,16 @@ msgstr ""
 
 #~ msgid "17:30 UTC  Everyday Mindfulness"
 #~ msgstr "18:00 UTC OMM — Overte Mindfulness Meditation"
+
+#~ msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+#~ msgstr "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+
+#~ msgid "Karol_Suprynowicz"
+#~ msgstr ""
+
+#~ msgid "Speaks Polish and English."
+#~ msgstr "Habla polaco e inglés."
+
+#~ msgid "Graphics specialist and developer"
+#~ msgstr "Especialista en gráficos y desarrollador"
 

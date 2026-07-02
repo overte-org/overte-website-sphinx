@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 18:43+0000\n"
+"POT-Creation-Date: 2026-07-02 14:55+0000\n"
 "PO-Revision-Date: 2026-05-06 17:39+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
 "Language: ja\n"
@@ -3282,37 +3282,19 @@ msgid "Secretary and second deputy chairman."
 msgstr "秘書・第二副会長"
 
 #: ../../source/overte_ev.rst:82
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Karol_Suprynowicz"
+msgid "HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:83
 #, fuzzy
-msgid "Speaks Polish and English."
-msgstr "ドイツ語・英語"
-
-#: ../../source/overte_ev.rst:84
-#, fuzzy
-msgid "Graphics specialist and developer"
-msgstr "会長・開発者"
-
-#: ../../source/overte_ev.rst:92
-msgid "|HifiExperiments| HifiExperiments"
-msgstr ""
-
-#: ../../source/overte_ev.rst:96
-msgid "HifiExperiments"
-msgstr ""
-
-#: ../../source/overte_ev.rst:93
-#, fuzzy
 msgid "Speaks English."
 msgstr "ポーランド語・英語"
 
-#: ../../source/overte_ev.rst:94
+#: ../../source/overte_ev.rst:84
 msgid "Core Engine & graphics specialist"
 msgstr ""
 
@@ -3931,7 +3913,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Speaks Polish and English."
-#~ msgstr "ポーランド語・英語"
+#~ msgstr "ドイツ語・英語"
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "会長・開発者"

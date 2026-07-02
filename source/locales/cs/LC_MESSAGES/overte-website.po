@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 18:43+0000\n"
+"POT-Creation-Date: 2026-07-02 14:55+0000\n"
 "PO-Revision-Date: 2024-11-16 01:21+0000\n"
 "Last-Translator: Noah <nolefr@posteo.de>\n"
 "Language: cs\n"
@@ -3542,36 +3542,18 @@ msgid "Secretary and second deputy chairman."
 msgstr "Tajemník a druhý zmocněnec předsedy představenstva."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:86
-msgid "Karol_Suprynowicz"
-msgstr ""
-
-#: ../../source/overte_ev.rst:83
-#, fuzzy
-msgid "Speaks Polish and English."
-msgstr "Hovoří německy a anglicky."
-
-#: ../../source/overte_ev.rst:84
-#, fuzzy
-msgid "Graphics specialist and developer"
-msgstr "Předseda představenstva a vývojář."
-
-#: ../../source/overte_ev.rst:92
 msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
-#: ../../source/overte_ev.rst:96
+#: ../../source/overte_ev.rst:86
 msgid "HifiExperiments"
 msgstr ""
 
-#: ../../source/overte_ev.rst:93
+#: ../../source/overte_ev.rst:83
 msgid "Speaks English."
 msgstr "Hovoří anglicky."
 
-#: ../../source/overte_ev.rst:94
+#: ../../source/overte_ev.rst:84
 msgid "Core Engine & graphics specialist"
 msgstr "Specialista na základní engine a grafiku"
 
@@ -4034,7 +4016,7 @@ msgstr ""
 #~ msgstr "Události 🔗"
 
 #~ msgid "Speaks Polish and English."
-#~ msgstr "Hovoří polsky a anglicky."
+#~ msgstr "Hovoří německy a anglicky."
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "Předseda představenstva a vývojář."
@@ -4418,5 +4400,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "17:30 UTC  Everyday Mindfulness"
+#~ msgstr ""
+
+#~ msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+#~ msgstr ""
+
+#~ msgid "Karol_Suprynowicz"
 #~ msgstr ""
 

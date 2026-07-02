@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18 18:43+0000\n"
+"POT-Creation-Date: 2026-07-02 14:55+0000\n"
 "PO-Revision-Date: 2025-04-10 15:20+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: lt\n"
@@ -3231,37 +3231,19 @@ msgid "Secretary and second deputy chairman."
 msgstr "Sekretorius ir antrasis pirmininko pavaduotojas."
 
 #: ../../source/overte_ev.rst:82
-msgid "|Karol_Suprynowicz| Dr. Karol Suprynowicz"
+msgid "|HifiExperiments| HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:86
-msgid "Karol_Suprynowicz"
+msgid "HifiExperiments"
 msgstr ""
 
 #: ../../source/overte_ev.rst:83
 #, fuzzy
-msgid "Speaks Polish and English."
-msgstr "Kalba vokiškai ir angliškai."
-
-#: ../../source/overte_ev.rst:84
-#, fuzzy
-msgid "Graphics specialist and developer"
-msgstr "Pirmininkas ir programuotojas."
-
-#: ../../source/overte_ev.rst:92
-msgid "|HifiExperiments| HifiExperiments"
-msgstr ""
-
-#: ../../source/overte_ev.rst:96
-msgid "HifiExperiments"
-msgstr ""
-
-#: ../../source/overte_ev.rst:93
-#, fuzzy
 msgid "Speaks English."
 msgstr "Kalba lenkų ir anglų kalbomis."
 
-#: ../../source/overte_ev.rst:94
+#: ../../source/overte_ev.rst:84
 msgid "Core Engine & graphics specialist"
 msgstr ""
 
@@ -3745,7 +3727,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Speaks Polish and English."
-#~ msgstr "Kalba lenkų ir anglų kalbomis."
+#~ msgstr "Kalba vokiškai ir angliškai."
 
 #~ msgid "Graphics specialist and developer"
 #~ msgstr "Pirmininkas ir programuotojas."
