@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-02 14:55+0000\n"
+"POT-Creation-Date: 2026-07-20 14:52+0000\n"
 "PO-Revision-Date: 2026-05-06 17:39+0000\n"
 "Last-Translator: BLKZOR <Zorsuho+BLKZOR@gmail.com>\n"
 "Language: ja\n"
@@ -2405,28 +2405,20 @@ msgstr ""
 " UTC 日本時間」などと入力することで時刻計算するサイトを探すこともできます。"
 
 #: ../../source/calendar.rst:11
-msgid "Monday"
-msgstr "月曜日"
-
-#: ../../source/calendar.rst:13
-msgid "20:00 UTC  Maker Monday"
-msgstr "20:00 UTC    メイカーマンデー"
-
-#: ../../source/calendar.rst:17
 msgid "Saturday"
 msgstr "土曜日"
 
-#: ../../source/calendar.rst:19
+#: ../../source/calendar.rst:13
 #, fuzzy
-msgid "17:00 UTC  Development meetup"
+msgid "17:00 UTC  Development & community meetup"
 msgstr "19:00 UTC  デベロッパーミートアップ"
 
-#: ../../source/calendar.rst:23
+#: ../../source/calendar.rst:17
 #, fuzzy
 msgid "Sunday"
 msgstr "土曜日"
 
-#: ../../source/calendar.rst:25
+#: ../../source/calendar.rst:19
 msgid ""
 "12:00 UTC  Overte Warmup (Starts at 12:00 in VRChat, moves to Overte at "
 "12:30)"
@@ -4255,4 +4247,10 @@ msgstr ""
 
 #~ msgid "17:30 UTC  Everyday Mindfulness"
 #~ msgstr ""
+
+#~ msgid "Monday"
+#~ msgstr "月曜日"
+
+#~ msgid "20:00 UTC  Maker Monday"
+#~ msgstr "20:00 UTC    メイカーマンデー"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-02 14:55+0000\n"
+"POT-Creation-Date: 2026-07-20 14:52+0000\n"
 "PO-Revision-Date: 2025-10-12 01:28+0000\n"
 "Last-Translator: Yan-K <a080123900@gmail.com>\n"
 "Language: zh_Hant\n"
@@ -2302,27 +2302,18 @@ msgid ""
 msgstr ""
 
 #: ../../source/calendar.rst:11
-msgid "Monday"
-msgstr ""
-
-#: ../../source/calendar.rst:13
-#, fuzzy
-msgid "20:00 UTC  Maker Monday"
-msgstr "在 Maker Monday 一起玩"
-
-#: ../../source/calendar.rst:17
 msgid "Saturday"
 msgstr ""
 
-#: ../../source/calendar.rst:19
-msgid "17:00 UTC  Development meetup"
+#: ../../source/calendar.rst:13
+msgid "17:00 UTC  Development & community meetup"
 msgstr ""
 
-#: ../../source/calendar.rst:23
+#: ../../source/calendar.rst:17
 msgid "Sunday"
 msgstr ""
 
-#: ../../source/calendar.rst:25
+#: ../../source/calendar.rst:19
 msgid ""
 "12:00 UTC  Overte Warmup (Starts at 12:00 in VRChat, moves to Overte at "
 "12:30)"
@@ -4179,5 +4170,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "17:30 UTC  Everyday Mindfulness"
+#~ msgstr ""
+
+#~ msgid "Monday"
+#~ msgstr ""
+
+#~ msgid "20:00 UTC  Maker Monday"
+#~ msgstr "在 Maker Monday 一起玩"
+
+#~ msgid "17:00 UTC  Development meetup"
 #~ msgstr ""
 
