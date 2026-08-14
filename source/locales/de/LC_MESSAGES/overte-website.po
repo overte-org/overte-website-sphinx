@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-20 14:52+0000\n"
-"PO-Revision-Date: 2025-11-22 11:53+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
-"Language: de\n"
+"PO-Revision-Date: 2026-08-15 07:18+0000\n"
+"Last-Translator: Timo <timosest@proton.me>\n"
 "Language-Team: German <https://weblate.overte.org/projects/overte/overte-"
 "website/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -814,7 +815,7 @@ msgstr "Die vereinbarte Frist für die Fertigstellung ist der 17. Februar 2025."
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:23
 #: ../../source/blog/2025-09-07_August_progress_report.rst:34
 msgid "Features"
-msgstr ""
+msgstr "Features"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:25
 msgid ""
@@ -860,12 +861,12 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:33
 msgid "Add live translation support to chat"
-msgstr ""
+msgstr "Live-Übersetzung für den Chat hinzufügen"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:36
 #: ../../source/blog/2025-09-07_August_progress_report.rst:41
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:38
 msgid ""
@@ -883,7 +884,7 @@ msgstr "Optimierung"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:41
 msgid "Internal graphics API documentation"
-msgstr ""
+msgstr "Internale Grafik API Dokumentation"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:42
 #, fuzzy
@@ -914,7 +915,7 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:45
 msgid "Allow switching between graphics APIs through command line option"
-msgstr ""
+msgstr "Grafik APIs per Kommandozeile Option umschalten"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:46
 #, fuzzy
@@ -936,7 +937,7 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:50
 msgid "QML Localization"
-msgstr ""
+msgstr "QTL Lokalisierung"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:52
 msgid ""
@@ -947,27 +948,27 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:55
 msgid "Mark strings as translatable"
-msgstr ""
+msgstr "Strings als übersetzbar markieren"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:56
 msgid "Generate translation files automatically"
-msgstr ""
+msgstr "Automatische Generierung von Übersetzungsdateien"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:57
 msgid "Hook up to Weblate translation system"
-msgstr ""
+msgstr "Mit dem Weblate Übersetzungssystem verbinden"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:58
 msgid "Build with translations"
-msgstr ""
+msgstr "Mit Übersetzungen bauen"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:59
 msgid "Check if we include the required fonts"
-msgstr ""
+msgstr "Prüfen ob die benötigten Schriftarten enthalten sind."
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:60
 msgid "Add German translation (as a reference test case)"
-msgstr ""
+msgstr "Deutsche Übersetzung hinzufügen ( Als Referenztestfall )"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:65
 msgid ""
@@ -978,15 +979,15 @@ msgstr ""
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:69
 msgid "Update Overte for CMake 4.0 compatibility"
-msgstr ""
+msgstr "Overte auf CMake 4.0-Kompatibilität aktualisieren"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:70
 msgid "Fix building dependencies on CMake 4.0"
-msgstr ""
+msgstr "Build-Abhängigkeiten für CMake 4.0 beheben"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:71
 msgid "Update libnode to the next LTS version"
-msgstr ""
+msgstr "libnode auf die nächste LTS-Version aktualisieren"
 
 #: ../../source/blog/2025-04-04_Weve_obtained_another_NLnet_grant.rst:72
 msgid "Improve build instructions for building with KDevelop and CLion"
@@ -4514,4 +4515,3 @@ msgstr ""
 
 #~ msgid "20:00 UTC  Maker Monday"
 #~ msgstr "20:00 UTC  Maker Monday"
-
