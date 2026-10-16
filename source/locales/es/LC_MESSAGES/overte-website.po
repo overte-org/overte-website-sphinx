@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-20 14:52+0000\n"
-"PO-Revision-Date: 2025-08-05 13:02+0000\n"
-"Last-Translator: Julian Groß <julian.gro@overte.org>\n"
+"PO-Revision-Date: 2026-10-16 20:01+0000\n"
+"Last-Translator: cesc james <yfkbsbobk@mozmail.com>\n"
+"Language-Team: Spanish <https://weblate.overte.org/projects/overte/overte-"
+"website/es/>\n"
 "Language: es\n"
-"Language-Team: Spanish <https://weblate.overte.org/projects/overte"
-"/overte-website/es/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -1281,7 +1282,7 @@ msgstr "Donate now ♥︎"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:5
 msgid "August progress report"
-msgstr ""
+msgstr "Informe de progreso de agosto"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:8
 #: ../../source/blog/2025-10-13_September_progress_report.rst:11
@@ -1291,7 +1292,7 @@ msgstr "Optimización"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:11
 msgid "Employment"
-msgstr ""
+msgstr "Empleo"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:13
 msgid ""
@@ -1302,6 +1303,12 @@ msgid ""
 "say “around” and “roughly” because most months cannot be cleanly divided "
 "by 4 weeks.)"
 msgstr ""
+"En el último comentario pedimos donativos en caso de que surgiesen gastos "
+"imprevistos relacionados con mi trabajo (Julian Groß). Al final, resulta que "
+"el trabajo cuesta un poco más (~30 €) de lo que había previsto, costando "
+"alrededor de 1.000 € al mes, de los cuales 710 € acaban realmente en mi "
+"cuenta bancaria. (Digo “alrededor” y “aproximadamente” porque la mayoría de "
+"los meses no se pueden dividir exactamente en 4 semanas.)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:15
 msgid ""
@@ -1311,6 +1318,11 @@ msgid ""
 "Overte e.V. members, who keep Overte running. You know who you are, and "
 "you rock!"
 msgstr ""
+"Quiero agradecer personalmente a todos aquellos que donaron. La mayoría de "
+"las personas que donaron parecen ser nuevas personas que nunca habían "
+"probado Overte antes de donar. También quiero agradecer especialmente a "
+"nuestros donantes habituales y a los miembros de Overte e.V., que mantienen "
+"a Overte en funcionamiento. ¡Sabéis quiénes sois y sois geniales!"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:18
 msgid ""
@@ -1319,10 +1331,15 @@ msgid ""
 "donations minus transaction fees. I did it this way for accounting "
 "purposes and that was probably just a bad idea."
 msgstr ""
+"La próxima vez, debería hacer que el banner de donaciones contabilice todo "
+"el dinero destinado a Overte e.V., en lugar de solo los fondos adicionales "
+"que se suman a las donaciones habituales, una vez deducidas las comisiones "
+"de transacción. Lo hice así por razones contables y eso probablemente fue "
+"una mala idea."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:22
 msgid "NLnet grant"
-msgstr ""
+msgstr "Subvención de NLnet"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:24
 msgid ""
@@ -1331,12 +1348,20 @@ msgid ""
 " them for over 1 1/2 years now, it feels great to still be among all the "
 "amazing open source projects supported by them."
 msgstr ""
+"Por otra parte, la Fundación NLnet ha aceptado otra propuesta de subvención "
+"(enmienda) que le hemos hecho. Tras haber colaborado con éxito con ellos "
+"durante más de un año y medio, es una gran satisfacción seguir formando "
+"parte de todos los increíbles proyectos de código abierto a los que brindan "
+"su apoyo."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:26
 msgid ""
 "We want to thank NLnet and the European Commission for fostering software"
 " freedom with their Next Generation Internet programme."
 msgstr ""
+"Queremos dar las gracias a NLnet y a la Comisión Europea por promover la "
+"libertad del software a través de su programa \"Internet de próxima "
+"generación\"."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:31
 #, fuzzy
@@ -1350,15 +1375,15 @@ msgstr ""
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:36
 msgid "Multi-packet avatar updates"
-msgstr ""
+msgstr "Actualizaciones de avatares en múltiples paquetes"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:37
 msgid "linear interpolation for avatar updates"
-msgstr ""
+msgstr "interpolación lineal para las actualizaciones de avatares"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:38
 msgid "Finish multi-packet entity properties"
-msgstr ""
+msgstr "Terminar las propiedades de entidad en múltiples paquetes"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:43
 #, fuzzy
@@ -1370,16 +1395,21 @@ msgid ""
 "Switch to using a package lock file on Conan and updating it semi-"
 "automatically using something like Renovate"
 msgstr ""
+"Cambiar para utilizar un archivo de bloqueo de paquetes en Conan y "
+"actualizarlo de forma semiautomática mediante una herramienta como Renovate"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:49
 msgid ""
 "Try getting NSIS more foolproof (boolean checks are unreliable as they "
 "only check for one possible boolean naming scheme)"
 msgstr ""
+"Intentar mejorar NSIS para que sea más infalible (las comprobaciones "
+"booleanas no son fiables, ya que solo comprueban un posible esquema de "
+"nomenclatura booleana)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:50
 msgid "Document networking code"
-msgstr ""
+msgstr "Documentar el código de la red"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:55
 #, fuzzy
@@ -1401,7 +1431,7 @@ msgstr ""
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:59
 msgid "Entity Transition Shader (Fade)"
-msgstr ""
+msgstr "Entidad de sombreado de transiciones (fundido)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:61
 msgid ""
@@ -1413,20 +1443,31 @@ msgid ""
 "worlds, for example by deleting entities, is what got us to look into "
 "this."
 msgstr ""
+"Tenemos un sombreador especial que hace que el usuario parezca como si "
+"acabara de ser “teletransportado” al conectarse o desconectarse. Al parecer, "
+"la implementación para aplicar esto a otras entidades aún está incompleta, "
+"por lo que nos gustaría corregirla, terminarla y pulirla. Este puede "
+"utilizarse para varios propósitos, pero al reproducir otras animaciones "
+"similares cuando los usuarios editan mundos, por ejemplo, al eliminar "
+"entidades. Esto último fue lo que nos hizo investigarlo a fondo."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:63
 msgid "Add/fix entity transition shader"
-msgstr ""
+msgstr "Añadir/corregir la entidad del sombreador de transiciones"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:64
 msgid "Expose avatar and entity transition shader as zone properties"
 msgstr ""
+"Mostrar el avatar y la entidad del sombreador de transiciones como "
+"propiedades de zona"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:65
 msgid ""
 "Expose entity transition shader to Entities.addEntity and "
 "Entities.deleteEntity (overriding zone properties)"
 msgstr ""
+"Exponer la entidad del sombreador de transiciones a Entities.addEntity y "
+"Entities.deleteEntity (anulando las propiedades de zona)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:68
 #, fuzzy
@@ -1443,10 +1484,19 @@ msgid ""
 "who are still running our last macOS version, eagerly waiting for a new "
 "one."
 msgstr ""
+"Con la PR (solicitud de incorporación de cambios) de Vulkan a punto de "
+"fusionarse con la rama principal, el hecho de que Apple vaya a eliminar "
+"OpenGL no supone un bloqueo para nuestra compatibilidad con macOS. Sin "
+"embargo, la compatibilidad con macOS llevaba varios años sin funcionar, "
+"siempre se había dejado en un segundo plano y, entretanto, hemos cambiado "
+"los sistemas de compilación, por lo que se trata de un trabajo un poco más "
+"complejo. Contamos con un buen número de usuarios de macOS dispuestos a "
+"realizar pruebas e incluso algunas personas que siguen utilizando nuestra "
+"última versión para macOS y esperan ansiosos una nueva."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:72
 msgid "Get macOS development machine"
-msgstr ""
+msgstr "Conseguir una máquina para el desarrollo en macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:73
 #, fuzzy
@@ -1455,15 +1505,15 @@ msgstr "Construir con traducciones"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:74
 msgid "Get all of our Conan packages to build on macOS"
-msgstr ""
+msgstr "Obtener todos nuestros paquetes de Conan para compilar en macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:75
 msgid "Fix the server software crashing on macOS"
-msgstr ""
+msgstr "Solucionar el fallo de software del servidor en macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:76
 msgid "Set up automatic macOS CI builds"
-msgstr ""
+msgstr "Configurar compilaciones automáticas de integración continua en macOS"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:79
 #, fuzzy
@@ -4840,4 +4890,3 @@ msgstr ""
 
 #~ msgid "20:00 UTC  Maker Monday"
 #~ msgstr "20:00 UTC Lunes Maker"
-
