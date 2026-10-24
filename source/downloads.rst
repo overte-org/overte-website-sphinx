@@ -4,7 +4,7 @@
 Downloads
 #########
 
-The current release of Overte is version 2026.04.1.
+The current release of Overte is version 2026.10.1.
 
 Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/overte-org/overte/blob/master/CHANGELOG.md>`_
 
@@ -16,13 +16,13 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
 
             .. tab:: :octicon:`device-desktop;0.9em;` Interface (Client)
 
-                .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-x86_64.AppImage
+                .. button-link:: https://public.overte.org/build/overte/release/2026.10.1/Overte-2026.10.1-OpenGL-x86_64.AppImage
                     :shadow:
                     :color: primary
 
                         Linux AppImage for amd64/x86_64 :octicon:`desktop-download;0.9em;`
 
-                .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-aarch64.AppImage
+                .. button-link:: https://public.overte.org/build/overte/release/2026.10.1/Overte-2026.10.1-OpenGL-aarch64.AppImage
                     :shadow:
                     :color: muted
 
@@ -40,7 +40,7 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
 
             .. tab:: :octicon:`server;0.9em;` Domain Server
 
-                Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_.
+                Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.10.1/>`_.
 
                 There are also Docker images available on `hub.docker.com 🔗 <https://hub.docker.com/r/overte/overte-server/tags>`_. These images are still new, so please report any issues you run into on our `GitHub issue tracker 🔗 <https://github.com/overte-org/overte/issues>`_.
 
@@ -53,7 +53,7 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
             Select a custom install and tick “Overte Server” during the installation process if you want to run a Domain Server.
             You can always rerun the installer later to install the server software afterwards.
 
-            .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1.exe
+            .. button-link:: https://public.overte.org/build/overte/release/2026.10.1/Overte-2026.10.1.exe
                 :shadow:
                 :color: primary
 
