@@ -33,6 +33,11 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
                     You will need to set the AppImage as **executable** using your file manager,
                     or a command like: :bash:`chmod +x Overte.AppImage`.
 
+                .. note::
+
+                    For running on the Steam Frame, use the aarch64 AppImage, choose OpenXR on startup, and override the rendering backend to use OpenGL 4.1, by adding the following command line parameter: ``--graphicsAPI gl41``
+                    None of us have a Steam Frame yet, so we cannot look into why OpenGL ES doesn't work with it.
+
             .. tab:: :octicon:`server;0.9em;` Domain Server
 
                 Select the appropriate package for your distribution and architecture from `public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_.
