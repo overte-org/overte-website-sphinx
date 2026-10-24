@@ -16,10 +16,6 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
 
             .. tab:: :octicon:`device-desktop;0.9em;` Interface (Client)
 
-                .. warning::
-
-                    If you are using AppImageLauncher make sure you are using version 3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even from command line.
-
                 .. button-link:: https://public.overte.org/build/overte/release/2026.04.1/Overte-2026.04.1-x86_64.AppImage
                     :shadow:
                     :color: primary
