@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-20 14:52+0000\n"
+"POT-Creation-Date: 2026-10-24 20:54+0000\n"
 "PO-Revision-Date: 2025-04-11 04:01+0000\n"
 "Last-Translator: Julian Groß <julian.gro@overte.org>\n"
 "Language: ko\n"
@@ -2672,7 +2672,7 @@ msgid "Downloads"
 msgstr "다운로드"
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2026.04.1."
+msgid "The current release of Overte is version 2026.10.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -2692,14 +2692,7 @@ msgstr ""
 msgid ":octicon:`device-desktop;0.9em;` Interface (Client)"
 msgstr ""
 
-#: ../../source/downloads.rst:21
-msgid ""
-"If you are using AppImageLauncher make sure you are using version "
-"3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
-"from command line."
-msgstr ""
-
-#: ../../source/downloads.rst:23
+#: ../../source/downloads.rst:19
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2716,7 +2709,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:29
+#: ../../source/downloads.rst:25
 msgid ""
 "Linux AppImage for aarch64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2733,7 +2726,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:37
+#: ../../source/downloads.rst:33
 #, fuzzy
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
@@ -2742,23 +2735,32 @@ msgstr ""
 "파일 관리자를 사용하거나 다음과 같은 명령어를 사용하여 앱 이미지를 **실행 가능** 으로 설정해야 합니다: :bash:`chmod"
 " +x Overte.AppImage`."
 
-#: ../../source/downloads.rst:40
+#: ../../source/downloads.rst:38
+msgid ""
+"For running on the Steam Frame, use the aarch64 AppImage, choose OpenXR "
+"on startup, and override the rendering backend to use OpenGL 4.1, by "
+"adding the following command line parameter: ``--graphicsAPI gl41`` None "
+"of us have a Steam Frame yet, so we cannot look into why OpenGL ES "
+"doesn't work with it."
+msgstr ""
+
+#: ../../source/downloads.rst:41
 msgid ":octicon:`server;0.9em;` Domain Server"
 msgstr ""
 
-#: ../../source/downloads.rst:42
+#: ../../source/downloads.rst:43
 #, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2026.10.1/>`_."
 msgstr ""
 "아키텍처에 적합한 패키지를 '깃허브릴리스 페이지 🔗 <https://github.com/overte-"
 "org/overte/releases/tag/2023.11.1/>`_에서 선택하거나 'public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2023.11.1/>`_에서"
 " 직접 선택하실 수 있습니다."
 
-#: ../../source/downloads.rst:44
+#: ../../source/downloads.rst:45
 msgid ""
 "There are also Docker images available on `hub.docker.com 🔗 "
 "<https://hub.docker.com/r/overte/overte-server/tags>`_. These images are "
@@ -2766,11 +2768,11 @@ msgid ""
 "tracker 🔗 <https://github.com/overte-org/overte/issues>`_."
 msgstr ""
 
-#: ../../source/downloads.rst:47
+#: ../../source/downloads.rst:48
 msgid ":fa:`windows;download-icon-style` Windows"
 msgstr ""
 
-#: ../../source/downloads.rst:51
+#: ../../source/downloads.rst:52
 #, fuzzy
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
@@ -2781,7 +2783,7 @@ msgstr ""
 "윈도우 인스톨러에는 인터페이스와 도메인 서버가 모두 포함되어 있습니다. 도메인 서버를 실행하려면 사용자 지정 설치를 선택하고 설치 "
 "프로세스 중에 \"오버트 서버 \"를 선택합니다. 나중에 언제든지 인스톨러를 다시 실행하여 서버 소프트웨어를 설치할 수 있습니다."
 
-#: ../../source/downloads.rst:55
+#: ../../source/downloads.rst:56
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -2798,7 +2800,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:63
+#: ../../source/downloads.rst:64
 #, fuzzy
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
@@ -2808,11 +2810,11 @@ msgstr ""
 "윈도우 디펜더에서 윈도우 설치 프로그램이 잠재적으로 안전하지 않을 수 있다는 경고가 표시될 수 있습니다. 무시하고 실행하려면 "
 "\"**추가 정보**\"를 클릭한 다음 \"**어떻게든 실행**\"을 클릭하세요."
 
-#: ../../source/downloads.rst:67
+#: ../../source/downloads.rst:68
 msgid ":fa:`code-fork;download-icon-style` Source"
 msgstr ""
 
-#: ../../source/downloads.rst:71
+#: ../../source/downloads.rst:72
 #, fuzzy
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
@@ -4291,5 +4293,16 @@ msgstr "당사 웹사이트를 이용함으로써 귀하는 당사의 개인정�
 #~ msgstr "메이커 먼데이에 참여하기"
 
 #~ msgid "17:00 UTC  Development meetup"
+#~ msgstr ""
+
+#~ msgid "The current release of Overte is version 2026.04.1."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are using AppImageLauncher make"
+#~ " sure you are using version "
+#~ "3.0.0-alpha-3 or later, otherwise the "
+#~ "AppImage will fail to start, even "
+#~ "from command line."
 #~ msgstr ""
 

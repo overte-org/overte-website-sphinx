@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-20 14:52+0000\n"
+"POT-Creation-Date: 2026-10-24 20:54+0000\n"
 "PO-Revision-Date: 2026-10-16 20:01+0000\n"
 "Last-Translator: cesc james <yfkbsbobk@mozmail.com>\n"
-"Language-Team: Spanish <https://weblate.overte.org/projects/overte/overte-"
-"website/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish <https://weblate.overte.org/projects/overte"
+"/overte-website/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../source/blog/2023-04-01_New_website.rst:5
@@ -1303,12 +1302,13 @@ msgid ""
 "say “around” and “roughly” because most months cannot be cleanly divided "
 "by 4 weeks.)"
 msgstr ""
-"En el último comentario pedimos donativos en caso de que surgiesen gastos "
-"imprevistos relacionados con mi trabajo (Julian Groß). Al final, resulta que "
-"el trabajo cuesta un poco más (~30 €) de lo que había previsto, costando "
-"alrededor de 1.000 € al mes, de los cuales 710 € acaban realmente en mi "
-"cuenta bancaria. (Digo “alrededor” y “aproximadamente” porque la mayoría de "
-"los meses no se pueden dividir exactamente en 4 semanas.)"
+"En el último comentario pedimos donativos en caso de que surgiesen gastos"
+" imprevistos relacionados con mi trabajo (Julian Groß). Al final, resulta"
+" que el trabajo cuesta un poco más (~30 €) de lo que había previsto, "
+"costando alrededor de 1.000 € al mes, de los cuales 710 € acaban "
+"realmente en mi cuenta bancaria. (Digo “alrededor” y “aproximadamente” "
+"porque la mayoría de los meses no se pueden dividir exactamente en 4 "
+"semanas.)"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:15
 msgid ""
@@ -1318,11 +1318,12 @@ msgid ""
 "Overte e.V. members, who keep Overte running. You know who you are, and "
 "you rock!"
 msgstr ""
-"Quiero agradecer personalmente a todos aquellos que donaron. La mayoría de "
-"las personas que donaron parecen ser nuevas personas que nunca habían "
+"Quiero agradecer personalmente a todos aquellos que donaron. La mayoría "
+"de las personas que donaron parecen ser nuevas personas que nunca habían "
 "probado Overte antes de donar. También quiero agradecer especialmente a "
-"nuestros donantes habituales y a los miembros de Overte e.V., que mantienen "
-"a Overte en funcionamiento. ¡Sabéis quiénes sois y sois geniales!"
+"nuestros donantes habituales y a los miembros de Overte e.V., que "
+"mantienen a Overte en funcionamiento. ¡Sabéis quiénes sois y sois "
+"geniales!"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:18
 msgid ""
@@ -1331,11 +1332,11 @@ msgid ""
 "donations minus transaction fees. I did it this way for accounting "
 "purposes and that was probably just a bad idea."
 msgstr ""
-"La próxima vez, debería hacer que el banner de donaciones contabilice todo "
-"el dinero destinado a Overte e.V., en lugar de solo los fondos adicionales "
-"que se suman a las donaciones habituales, una vez deducidas las comisiones "
-"de transacción. Lo hice así por razones contables y eso probablemente fue "
-"una mala idea."
+"La próxima vez, debería hacer que el banner de donaciones contabilice "
+"todo el dinero destinado a Overte e.V., en lugar de solo los fondos "
+"adicionales que se suman a las donaciones habituales, una vez deducidas "
+"las comisiones de transacción. Lo hice así por razones contables y eso "
+"probablemente fue una mala idea."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:22
 msgid "NLnet grant"
@@ -1348,11 +1349,11 @@ msgid ""
 " them for over 1 1/2 years now, it feels great to still be among all the "
 "amazing open source projects supported by them."
 msgstr ""
-"Por otra parte, la Fundación NLnet ha aceptado otra propuesta de subvención "
-"(enmienda) que le hemos hecho. Tras haber colaborado con éxito con ellos "
-"durante más de un año y medio, es una gran satisfacción seguir formando "
-"parte de todos los increíbles proyectos de código abierto a los que brindan "
-"su apoyo."
+"Por otra parte, la Fundación NLnet ha aceptado otra propuesta de "
+"subvención (enmienda) que le hemos hecho. Tras haber colaborado con éxito"
+" con ellos durante más de un año y medio, es una gran satisfacción seguir"
+" formando parte de todos los increíbles proyectos de código abierto a los"
+" que brindan su apoyo."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:26
 msgid ""
@@ -1396,7 +1397,8 @@ msgid ""
 "automatically using something like Renovate"
 msgstr ""
 "Cambiar para utilizar un archivo de bloqueo de paquetes en Conan y "
-"actualizarlo de forma semiautomática mediante una herramienta como Renovate"
+"actualizarlo de forma semiautomática mediante una herramienta como "
+"Renovate"
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:49
 msgid ""
@@ -1444,12 +1446,12 @@ msgid ""
 "this."
 msgstr ""
 "Tenemos un sombreador especial que hace que el usuario parezca como si "
-"acabara de ser “teletransportado” al conectarse o desconectarse. Al parecer, "
-"la implementación para aplicar esto a otras entidades aún está incompleta, "
-"por lo que nos gustaría corregirla, terminarla y pulirla. Este puede "
-"utilizarse para varios propósitos, pero al reproducir otras animaciones "
-"similares cuando los usuarios editan mundos, por ejemplo, al eliminar "
-"entidades. Esto último fue lo que nos hizo investigarlo a fondo."
+"acabara de ser “teletransportado” al conectarse o desconectarse. Al "
+"parecer, la implementación para aplicar esto a otras entidades aún está "
+"incompleta, por lo que nos gustaría corregirla, terminarla y pulirla. "
+"Este puede utilizarse para varios propósitos, pero al reproducir otras "
+"animaciones similares cuando los usuarios editan mundos, por ejemplo, al "
+"eliminar entidades. Esto último fue lo que nos hizo investigarlo a fondo."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:63
 msgid "Add/fix entity transition shader"
@@ -1488,11 +1490,11 @@ msgstr ""
 "fusionarse con la rama principal, el hecho de que Apple vaya a eliminar "
 "OpenGL no supone un bloqueo para nuestra compatibilidad con macOS. Sin "
 "embargo, la compatibilidad con macOS llevaba varios años sin funcionar, "
-"siempre se había dejado en un segundo plano y, entretanto, hemos cambiado "
-"los sistemas de compilación, por lo que se trata de un trabajo un poco más "
-"complejo. Contamos con un buen número de usuarios de macOS dispuestos a "
-"realizar pruebas e incluso algunas personas que siguen utilizando nuestra "
-"última versión para macOS y esperan ansiosos una nueva."
+"siempre se había dejado en un segundo plano y, entretanto, hemos cambiado"
+" los sistemas de compilación, por lo que se trata de un trabajo un poco "
+"más complejo. Contamos con un buen número de usuarios de macOS dispuestos"
+" a realizar pruebas e incluso algunas personas que siguen utilizando "
+"nuestra última versión para macOS y esperan ansiosos una nueva."
 
 #: ../../source/blog/2025-09-07_August_progress_report.rst:72
 msgid "Get macOS development machine"
@@ -3111,7 +3113,7 @@ msgid "Downloads"
 msgstr "Descargas"
 
 #: ../../source/downloads.rst:7
-msgid "The current release of Overte is version 2026.04.1."
+msgid "The current release of Overte is version 2026.10.1."
 msgstr ""
 
 #: ../../source/downloads.rst:9
@@ -3130,14 +3132,7 @@ msgstr ""
 msgid ":octicon:`device-desktop;0.9em;` Interface (Client)"
 msgstr ""
 
-#: ../../source/downloads.rst:21
-msgid ""
-"If you are using AppImageLauncher make sure you are using version "
-"3.0.0-alpha-3 or later, otherwise the AppImage will fail to start, even "
-"from command line."
-msgstr ""
-
-#: ../../source/downloads.rst:23
+#: ../../source/downloads.rst:19
 msgid ""
 "Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -3154,7 +3149,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:29
+#: ../../source/downloads.rst:25
 msgid ""
 "Linux AppImage for aarch64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -3171,7 +3166,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:37
+#: ../../source/downloads.rst:33
 msgid ""
 "You will need to set the AppImage as **executable** using your file "
 "manager, or a command like: :bash:`chmod +x Overte.AppImage`."
@@ -3180,22 +3175,31 @@ msgstr ""
 "administrador de archivos o un comando como: :bash:`chmod +x "
 "Overte.AppImage`."
 
-#: ../../source/downloads.rst:40
+#: ../../source/downloads.rst:38
+msgid ""
+"For running on the Steam Frame, use the aarch64 AppImage, choose OpenXR "
+"on startup, and override the rendering backend to use OpenGL 4.1, by "
+"adding the following command line parameter: ``--graphicsAPI gl41`` None "
+"of us have a Steam Frame yet, so we cannot look into why OpenGL ES "
+"doesn't work with it."
+msgstr ""
+
+#: ../../source/downloads.rst:41
 msgid ":octicon:`server;0.9em;` Domain Server"
 msgstr ""
 
-#: ../../source/downloads.rst:42
+#: ../../source/downloads.rst:43
 #, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2026.04.1/>`_."
+"<https://public.overte.org/index.html#build/overte/release/2026.10.1/>`_."
 msgstr ""
 "Seleccione el paquete adecuado para su distribución y arquitectura en "
 "`public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2025.05.1/>`_."
 
-#: ../../source/downloads.rst:44
+#: ../../source/downloads.rst:45
 msgid ""
 "There are also Docker images available on `hub.docker.com 🔗 "
 "<https://hub.docker.com/r/overte/overte-server/tags>`_. These images are "
@@ -3208,11 +3212,11 @@ msgstr ""
 "que encuentres en nuestro `sistema de seguimiento de incidencias de "
 "GitHub 🔗 <https://github.com/overte-org/overte/issues>`_."
 
-#: ../../source/downloads.rst:47
+#: ../../source/downloads.rst:48
 msgid ":fa:`windows;download-icon-style` Windows"
 msgstr ""
 
-#: ../../source/downloads.rst:51
+#: ../../source/downloads.rst:52
 msgid ""
 "The Windows installer contains both Interface and the Domain Server. "
 "Select a custom install and tick “Overte Server” during the installation "
@@ -3225,7 +3229,7 @@ msgstr ""
 "instalación. Puede volver a ejecutar el instalador para instalar el "
 "software del servidor."
 
-#: ../../source/downloads.rst:55
+#: ../../source/downloads.rst:56
 msgid ""
 "Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
 "height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
@@ -3242,7 +3246,7 @@ msgid ""
 "1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
 msgstr ""
 
-#: ../../source/downloads.rst:63
+#: ../../source/downloads.rst:64
 msgid ""
 "Windows Defender might display a warning about the Windows installer "
 "being potentially unsafe. To run it anyway click on \"**More info**\" and"
@@ -3253,11 +3257,11 @@ msgstr ""
 "haga clic en \"**Más información**\" y, a continuación, en \"**Ejecutar "
 "de todos modos**\"."
 
-#: ../../source/downloads.rst:67
+#: ../../source/downloads.rst:68
 msgid ":fa:`code-fork;download-icon-style` Source"
 msgstr ""
 
-#: ../../source/downloads.rst:71
+#: ../../source/downloads.rst:72
 msgid ""
 "Our source code is available on `our GitHub repository 🔗 "
 "<https://github.com/overte-org/overte/>`_. If you intend to build from "
@@ -4890,3 +4894,15 @@ msgstr ""
 
 #~ msgid "20:00 UTC  Maker Monday"
 #~ msgstr "20:00 UTC Lunes Maker"
+
+#~ msgid "The current release of Overte is version 2026.04.1."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are using AppImageLauncher make"
+#~ " sure you are using version "
+#~ "3.0.0-alpha-3 or later, otherwise the "
+#~ "AppImage will fail to start, even "
+#~ "from command line."
+#~ msgstr ""
+
