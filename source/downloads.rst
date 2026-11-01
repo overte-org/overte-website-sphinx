@@ -35,8 +35,8 @@ Take a look at the changelog on GitHub: `Changelog 🔗 <https://github.com/over
 
                 .. note::
 
-                    For running on the Steam Frame, use the aarch64 AppImage, choose OpenXR on startup, and override the rendering backend to use OpenGL 4.1, by adding the following command line parameter: ``--graphicsAPI gl41``
-                    None of us have a Steam Frame yet, so we cannot look into why OpenGL ES doesn't work with it.
+                    For running on the Steam Frame, add the aarch64 AppImage to Steam, choose OpenXR on startup, and override the rendering backend to use OpenGL 4.1, by adding the following command line parameters: ``--graphicsAPI gl41``
+                    To get rid of jitter, lower the refresh rate in SteamVR to 30 and the render scale in Overte graphics settings to 0.8.
 
             .. tab:: :octicon:`server;0.9em;` Domain Server
 
