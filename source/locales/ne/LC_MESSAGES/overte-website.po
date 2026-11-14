@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Overte Website \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-01 16:04+0000\n"
+"POT-Creation-Date: 2026-11-14 14:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ne\n"
@@ -1021,10 +1021,6 @@ msgid ""
 "additional funds over the next couple of months."
 msgstr ""
 
-#: ../../source/blog/2025-06-07_Help_us_hire_a_team_member.rst:15
-msgid "Donate now ♥︎"
-msgstr ""
-
 #: ../../source/blog/2025-09-07_August_progress_report.rst:5
 msgid "August progress report"
 msgstr ""
@@ -1683,14 +1679,17 @@ msgid ""
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:10
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:10
 msgid "The planned agenda is as follows:"
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:12
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:12
 msgid "Decide on assembly leader."
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:13
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:13
 msgid ""
 "Decide on assembly secretary. The secretary will fill out the protocol "
 "during the assembly."
@@ -1705,20 +1704,24 @@ msgid "Budgeting for 2026."
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:16
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:16
 msgid "Accounting auditor report (Steve Pruneau)."
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:17
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:17
 msgid ""
 "Do we have someone that would like to become the accounting auditor? The "
 "accounting auditor cannot be a board member."
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:18
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:18
 msgid "Board report."
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:19
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:21
 msgid "Board member elections."
 msgstr ""
 
@@ -1741,6 +1744,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:23
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:24
 msgid "Protocol gets signed by the assembly secretary and assembly leader."
 msgstr ""
 
@@ -1764,6 +1768,7 @@ msgid "**[3]**    Suggested change to § 6 The Board (4) Election:"
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:33
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:28
 msgid "From:"
 msgstr ""
 
@@ -1782,6 +1787,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:37
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:32
 msgid "To:"
 msgstr ""
 
@@ -1802,14 +1808,17 @@ msgid ""
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:41
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:65
 msgid "Greetings from Germany"
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:42
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:66
 msgid "Julian Groß"
 msgstr ""
 
 #: ../../source/blog/2025-11-22_Invitiation_to_the_Overte_eV_general_assembly_2025.rst:43
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:67
 msgid "Overte e.V. accountant"
 msgstr ""
 
@@ -2277,6 +2286,180 @@ msgstr ""
 msgid "Group picture taken at a previous \"Overte Warmup\"."
 msgstr ""
 
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:6
+msgid "Invitation to the Overte e.V. general assembly 2026"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:8
+msgid ""
+"Saturday, November 28th at 19:00 UTC we will hold our annual general "
+"assembly for the Overte e.V. in Overte. While only active Overte e.V. "
+"members are allowed to vote, non-Overte-e.V.-members are also welcome to "
+"attend."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:14
+msgid "Accounting report for 2025 and 2026."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:15
+msgid "Budgeting for 2027."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:19
+msgid ""
+"Vote removing the requirement to pay previous years after a pause in "
+"membership. **[1]**"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:20
+msgid "Vote on accelerated board member elections. **[2]**"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:22
+msgid "Vote on LLM usage policy **[3]**"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:23
+msgid "Vote on exception from LLM usage policy for translation services **[4]**"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:27
+msgid ""
+"**[1]**: Suggested change to § 3 Acquisition of Membership, Membership "
+"Fees (3.1) Non-payment of fees:"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:29
+msgid ""
+"Bei Beitragsrückstand ruhen die Rechte eines Mitgliedes bis der Rückstand"
+" beglichen wurde. (…)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:30
+msgid ""
+"In the event that membership fees are not paid, the rights of a member "
+"shall be suspended until the fees have been paid. (…)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:33
+msgid ""
+"Bei Beitragsrückstand ruhen die Rechte eines Mitgliedes bis der Rückstand"
+" für das laufende Jahr beglichen wurde. (…)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:34
+msgid ""
+"In the event that membership fees are not paid, the rights of a member "
+"shall be suspended until the fees for the current year have been paid. "
+"(…)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:36
+msgid ""
+"(Technically members owe the organization money from previous years. "
+"Meaning, if they pay for the current year but not for previous years, "
+"their membership is still paused. The proposed change aims to make it "
+"easier for members to come back after not paying their membership fee for"
+" multiple years.)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:39
+msgid "**[2]**: Suggested addition to § 6 The Board (4) Election:"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:40
+#, python-format
+msgid ""
+"(…) Bei Stimmengleichheit werden alle betroffenen Kandidaten gewählt, "
+"sofern ihre Anzahl höchstens der Zahl der noch verfügbaren Sitze im "
+"Vorstand entspricht und die Zahl der Stimmen mindestens 75 % der Zahl der"
+" Wahlberechtigten beträgt."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:41
+msgid ""
+"(…) If there is a draw, and the amount of candidates that are drawing are"
+" less or equal to the amount of still available seats within the board, "
+"and the percentage of votes compared to eligible voters is >=75%, all of "
+"those candidates are elected."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:43
+msgid ""
+"(This is to cut down on voting duration, since usually most candidates "
+"have close to 100% approval. Last board election, the lowest approval "
+"rating was 7 out of 9 votes; All of the candidates got elected.)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:46
+msgid ""
+"**[3]**: On 29th of March, the board voted to ban LLM-generated "
+"contributions ( https://github.com/overte-"
+"org/overte/commit/e84e20eacbb680237184f1ee610b7c4a23b349a1 ) coming to a "
+"consensus with the line being somewhere around full line autocompletion. "
+"The entire discussion was very long, so the written rule is heavily "
+"simplified to avoid \"bikeshedding\". The reasons for the ban include "
+"copyright, ethical, and reputational concerns. This vote is for checking "
+"if the assembly agrees in principle with the decision to disallow LLM-"
+"generated contributions to Overte. (This has nothing to do with people "
+"using generated code or assets in their own worlds.)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:51
+msgid ""
+"**[4]**: I am proposing to exempt translation services from the LLM usage"
+" policy for multiple reasons:"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:53
+msgid "All good translation services I am aware of make use of LLMs."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:54
+msgid ""
+"Most of the concerns with general LLM-use are minimized for translation "
+"services:"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:56
+msgid "The generated translations are generally very good;"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:57
+msgid ""
+"Some of services believably claim to have trained their models without "
+"copyright infringement (there are large libraries of public translations "
+"available, for example from the EU; Services like DeepL claim to have "
+"been trained on their own proprietary dataset, which they have curated "
+"themselves over the years.)"
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:58
+msgid ""
+"The environmental impact is presumably *much* lower due to the clean "
+"datasets and more specialized functionality."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:60
+msgid ""
+"Using translation services' suggestions greatly speeds up translating "
+"Overte documentation."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:61
+msgid ""
+"Translation services' suggestions are good enough to act as a placeholder"
+" in case something hasn't been translated yet."
+msgstr ""
+
+#: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:62
+msgid ""
+"Some of our users aren't fluent in English and use translation services "
+"(or general purpose LLMs) to report issues or generally communicate with "
+"us."
+msgstr ""
+
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
 msgid "Calendar"
 msgstr ""
@@ -2659,38 +2842,12 @@ msgstr ""
 msgid ":octicon:`device-desktop;0.9em;` Interface (Client)"
 msgstr ""
 
-#: ../../source/downloads.rst:19
-msgid ""
-"Linux AppImage for amd64/x86_64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
-"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
-"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
-"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
-"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
-"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
-"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
-"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
-"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
-"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
-"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
+#: ../../source/downloads.rst:23
+msgid "Linux AppImage for amd64/x86_64"
 msgstr ""
 
-#: ../../source/downloads.rst:25
-msgid ""
-"Linux AppImage for aarch64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
-"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
-"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
-"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
-"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
-"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
-"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
-"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
-"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
-"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
-"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
+#: ../../source/downloads.rst:29
+msgid "Linux AppImage for aarch64"
 msgstr ""
 
 #: ../../source/downloads.rst:33
@@ -2739,21 +2896,8 @@ msgid ""
 "installer later to install the server software afterwards."
 msgstr ""
 
-#: ../../source/downloads.rst:56
-msgid ""
-"Windows Installer for x86_64 <svg version=\"1.1\" width=\"0.9em\" "
-"height=\"0.9em\" class=\"sd-octicon sd-octicon-desktop-download\" "
-"viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896 "
-"2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 "
-"5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 "
-"0-.177.427Z\"></path><path d=\"M1.573 2.573a.25.25 0 0 "
-"0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 "
-"0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 "
-"1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 "
-"11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 "
-"1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 "
-"1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 "
-"1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z\"></path></svg>"
+#: ../../source/downloads.rst:60
+msgid "Windows Installer for x86_64"
 msgstr ""
 
 #: ../../source/downloads.rst:64
@@ -4408,5 +4552,86 @@ msgstr ""
 #~ "us have a Steam Frame yet, so "
 #~ "we cannot look into why OpenGL ES"
 #~ " doesn't work with it."
+#~ msgstr ""
+
+#~ msgid "Donate now ♥︎"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Linux AppImage for amd64/x86_64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896"
+#~ " 2.896a.25.25 0 0 0 .354 "
+#~ "0l2.896-2.896A.25.25 0 0 0 10.896 "
+#~ "5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25"
+#~ " 0 0 0-.177.427Z\"></path><path d=\"M1.573 "
+#~ "2.573a.25.25 0 0 0-.073.177v7.5a.25.25 0 "
+#~ "0 0 .25.25h12.5a.25.25 0 0 0 "
+#~ ".25-.25v-7.5a.25.25 0 0 0-.25-.25h-3a.75.75"
+#~ " 0 1 1 0-1.5h3A1.75 1.75 0 0"
+#~ " 1 16 2.75v7.5A1.75 1.75 0 0 1"
+#~ " 14.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0 1 11.25 "
+#~ "16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 "
+#~ "1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 "
+#~ "1 0 10.25v-7.5A1.75 1.75 0 0 1 "
+#~ "1.75 1h3a.75.75 0 0 1 0 1.5h-"
+#~ "3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 "
+#~ "5.72 0 0 1-.765 2.5h3.566a5.72 5.72 "
+#~ "0 0 1-.765-2.5H6.982Z\"></path></svg>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Linux AppImage for aarch64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896"
+#~ " 2.896a.25.25 0 0 0 .354 "
+#~ "0l2.896-2.896A.25.25 0 0 0 10.896 "
+#~ "5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25"
+#~ " 0 0 0-.177.427Z\"></path><path d=\"M1.573 "
+#~ "2.573a.25.25 0 0 0-.073.177v7.5a.25.25 0 "
+#~ "0 0 .25.25h12.5a.25.25 0 0 0 "
+#~ ".25-.25v-7.5a.25.25 0 0 0-.25-.25h-3a.75.75"
+#~ " 0 1 1 0-1.5h3A1.75 1.75 0 0"
+#~ " 1 16 2.75v7.5A1.75 1.75 0 0 1"
+#~ " 14.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0 1 11.25 "
+#~ "16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 "
+#~ "1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 "
+#~ "1 0 10.25v-7.5A1.75 1.75 0 0 1 "
+#~ "1.75 1h3a.75.75 0 0 1 0 1.5h-"
+#~ "3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 "
+#~ "5.72 0 0 1-.765 2.5h3.566a5.72 5.72 "
+#~ "0 0 1-.765-2.5H6.982Z\"></path></svg>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Windows Installer for x86_64 <svg "
+#~ "version=\"1.1\" width=\"0.9em\" height=\"0.9em\" "
+#~ "class=\"sd-octicon sd-octicon-desktop-"
+#~ "download\" viewBox=\"0 0 16 16\" "
+#~ "aria-hidden=\"true\"><path d=\"m4.927 5.427 2.896"
+#~ " 2.896a.25.25 0 0 0 .354 "
+#~ "0l2.896-2.896A.25.25 0 0 0 10.896 "
+#~ "5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25"
+#~ " 0 0 0-.177.427Z\"></path><path d=\"M1.573 "
+#~ "2.573a.25.25 0 0 0-.073.177v7.5a.25.25 0 "
+#~ "0 0 .25.25h12.5a.25.25 0 0 0 "
+#~ ".25-.25v-7.5a.25.25 0 0 0-.25-.25h-3a.75.75"
+#~ " 0 1 1 0-1.5h3A1.75 1.75 0 0"
+#~ " 1 16 2.75v7.5A1.75 1.75 0 0 1"
+#~ " 14.25 12h-3.727c.099 1.041.52 1.872 1.292"
+#~ " 2.757A.75.75 0 0 1 11.25 "
+#~ "16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 "
+#~ "1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 "
+#~ "1 0 10.25v-7.5A1.75 1.75 0 0 1 "
+#~ "1.75 1h3a.75.75 0 0 1 0 1.5h-"
+#~ "3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 "
+#~ "5.72 0 0 1-.765 2.5h3.566a5.72 5.72 "
+#~ "0 0 1-.765-2.5H6.982Z\"></path></svg>"
 #~ msgstr ""
 
