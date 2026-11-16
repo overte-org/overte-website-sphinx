@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-14 14:46+0000\n"
-"PO-Revision-Date: 2026-11-16 21:01+0000\n"
+"PO-Revision-Date: 2026-11-16 22:04+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/overte-"
 "website/ru/>\n"
@@ -3131,11 +3131,15 @@ msgid ""
 "easier for members to come back after not paying their membership fee for"
 " multiple years.)"
 msgstr ""
+"(Технически у членов имеется задолженность за предыдущие годы. Это означает, "
+"что если они оплачивают взнос за текущий год, но не погашают долги за "
+"прошлые периоды, их членство остается приостановленным. Предлагаемое "
+"изменение призвано упростить процедуру восстановления членства для тех, кто "
+"не вносил членские взносы в течение нескольких лет.)"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:39
-#, fuzzy
 msgid "**[2]**: Suggested addition to § 6 The Board (4) Election:"
-msgstr "**[3]**: Предлагаемое изменение в § 6 Выборы совета (4):"
+msgstr "**[2]**: Предлагаемое изменение в § 6 Правление (4) Выборы совета:"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:40
 #, python-format
@@ -3153,6 +3157,10 @@ msgid ""
 "and the percentage of votes compared to eligible voters is >=75%, all of "
 "those candidates are elected."
 msgstr ""
+"(…) При равенстве голосов, если число кандидатов с равным количеством "
+"голосов меньше или равно количеству все еще свободных мест в совете и при "
+"явке >=75% от числа лиц, имеющих право голоса, все такие кандидаты считаются "
+"избранными."
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:43
 msgid ""
@@ -3160,6 +3168,10 @@ msgid ""
 "have close to 100% approval. Last board election, the lowest approval "
 "rating was 7 out of 9 votes; All of the candidates got elected.)"
 msgstr ""
+"(Это позволит сократить продолжительность голосования, поскольку, как "
+"правило, большинство кандидатов получают поддержку, близкую к 100%. На "
+"прошлых выборах в правление самый низкий показатель поддержки составил 7 "
+"голосов из 9; в итоге все кандидаты были избраны.)"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:46
 msgid ""
@@ -3174,26 +3186,43 @@ msgid ""
 "generated contributions to Overte. (This has nothing to do with people "
 "using generated code or assets in their own worlds.)"
 msgstr ""
+"**[3]**: 29 марта совет проголосовал за запрет на использование в проекте "
+"материалов, созданных с помощью LLM ( https://github.com/overte-org/overte/"
+"commit/e84e20eacbb680237184f1ee610b7c4a23b349a1 ). В ходе обсуждения был "
+"достигнут консенсус: граница допустимого проходит примерно на уровне функций "
+"автодополнения целых строк кода. Поскольку дискуссия была очень долгой, "
+"сформулированное правило намеренно упрощено — во избежание бесконечных "
+"споров по мелочам. Причины запрета включают вопросы авторского права, "
+"этические соображения и репутационные риски. Данное голосование проводится "
+"для того, чтобы выяснить, согласны ли участники сообщества в принципе с "
+"решением не допускать в Overte материалы, созданные с помощью LLM. (Это "
+"никак не затрагивает использование сгенерированного кода или других ресурсов "
+"пользователями в их собственных виртуальных мирах.)"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:51
 msgid ""
 "**[4]**: I am proposing to exempt translation services from the LLM usage"
 " policy for multiple reasons:"
 msgstr ""
+"**[4]**: Я предлагаю вывести сервисы перевода из-под действия политики "
+"использования LLM по ряду причин:"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:53
 msgid "All good translation services I am aware of make use of LLMs."
 msgstr ""
+"Все качественные сервисы перевода, о которых мне известно, используют LLM."
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:54
 msgid ""
 "Most of the concerns with general LLM-use are minimized for translation "
 "services:"
 msgstr ""
+"Большинство опасений, связанных с общим использованием LLM, в случае с "
+"сервисами перевода сведены к минимуму:"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:56
 msgid "The generated translations are generally very good;"
-msgstr ""
+msgstr "Создаваемые переводы, как правило, очень хороши;"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:57
 msgid ""
@@ -3203,24 +3232,35 @@ msgid ""
 "been trained on their own proprietary dataset, which they have curated "
 "themselves over the years.)"
 msgstr ""
+"Некоторые сервисы обоснованно заявляют, что обучали свои модели без "
+"нарушения авторских прав (существуют обширные библиотеки общедоступных "
+"переводов — например, предоставленные ЕС; а такие сервисы, как DeepL, "
+"утверждают, что их модели обучались на собственных проприетарных наборах "
+"данных, которые компания собирала и курировала на протяжении многих лет.)"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:58
 msgid ""
 "The environmental impact is presumably *much* lower due to the clean "
 "datasets and more specialized functionality."
 msgstr ""
+"воздействие на среду, предположительно, *значительно* ниже за счёт чистых "
+"данных и более узкой специализации."
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:60
 msgid ""
 "Using translation services' suggestions greatly speeds up translating "
 "Overte documentation."
 msgstr ""
+"Использование сервисов перевода существенно ускоряет перевод документации "
+"Overte."
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:61
 msgid ""
 "Translation services' suggestions are good enough to act as a placeholder"
 " in case something hasn't been translated yet."
 msgstr ""
+"Предложенные переводы от сервисов достаточно качественны, чтобы служить "
+"временной заменой в тех случаях, когда перевода еще нет."
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:62
 msgid ""
@@ -3228,6 +3268,9 @@ msgid ""
 "(or general purpose LLMs) to report issues or generally communicate with "
 "us."
 msgstr ""
+"Некоторые из наших пользователей не владеют английским языком в совершенстве "
+"и прибегают к помощи сервисов перевода (или универсальных LLM), чтобы "
+"сообщать о проблемах или просто общаться с нами."
 
 #: ../../source/calendar.rst:3 ../../source/index.rst:49
 msgid "Calendar"
@@ -3732,9 +3775,8 @@ msgid "Downloads"
 msgstr "Загрузки"
 
 #: ../../source/downloads.rst:7
-#, fuzzy
 msgid "The current release of Overte is version 2026.10.1."
-msgstr "Текущий релиз Overte версия 2026.04.1."
+msgstr "Текущий релиз Overte версия 2026.10.1."
 
 #: ../../source/downloads.rst:9
 msgid ""
@@ -3750,15 +3792,15 @@ msgstr ""
 
 #: ../../source/downloads.rst:17
 msgid ":octicon:`device-desktop;0.9em;` Interface (Client)"
-msgstr ""
+msgstr ":octicon:`device-desktop;0.9em;` Интерфейс (Клиент)"
 
 #: ../../source/downloads.rst:23
 msgid "Linux AppImage for amd64/x86_64"
-msgstr ""
+msgstr "Linux AppImage для amd64/x86_64"
 
 #: ../../source/downloads.rst:29
 msgid "Linux AppImage for aarch64"
-msgstr ""
+msgstr "Linux AppImage для aarch64"
 
 #: ../../source/downloads.rst:33
 msgid ""
@@ -3776,21 +3818,25 @@ msgid ""
 "To get rid of jitter, lower the refresh rate in SteamVR to 30 and the "
 "render scale in Overte graphics settings to 0.8."
 msgstr ""
+"Для запуска на Steam Frame добавьте AppImage-файл (версии aarch64) в Steam, "
+"при запуске выберите OpenXR и принудительно установите рендеринг через "
+"OpenGL 4.1, добавив следующий параметр командной строки: ``--graphicsAPI "
+"gl41``. Чтобы устранить дрожание изображения, снизьте частоту обновления в "
+"SteamVR до 30 Гц, а масштаб рендеринга в настройках графики Overte до 0.8."
 
 #: ../../source/downloads.rst:41
 msgid ":octicon:`server;0.9em;` Domain Server"
-msgstr ""
+msgstr ":octicon:`server;0.9em;` Доменный сервер"
 
 #: ../../source/downloads.rst:43
-#, fuzzy
 msgid ""
 "Select the appropriate package for your distribution and architecture "
 "from `public.overte.org 🔗 "
 "<https://public.overte.org/index.html#build/overte/release/2026.10.1/>`_."
 msgstr ""
-"Выберете подходящий пакет для вашего дистрибутива и архитектуры на "
-"странице `public.overte.org 🔗 "
-"<https://public.overte.org/index.html#build/overte/release/2025.12.1/>`_."
+"Выберете подходящий пакет для вашего дистрибутива и архитектуры на странице "
+"`public.overte.org 🔗 <https://public.overte.org/index.html#build/overte/"
+"release/2026.10.1/>`_."
 
 #: ../../source/downloads.rst:45
 msgid ""
@@ -3823,7 +3869,7 @@ msgstr ""
 
 #: ../../source/downloads.rst:60
 msgid "Windows Installer for x86_64"
-msgstr ""
+msgstr "Установщик Windows для x86_64"
 
 #: ../../source/downloads.rst:64
 msgid ""
