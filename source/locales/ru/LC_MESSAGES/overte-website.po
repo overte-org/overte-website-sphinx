@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Overte Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-14 14:46+0000\n"
-"PO-Revision-Date: 2026-11-16 20:44+0000\n"
+"PO-Revision-Date: 2026-11-16 21:01+0000\n"
 "Last-Translator: Pavel Volkov <plvolkov14@gmail.com>\n"
 "Language-Team: Russian <https://weblate.overte.org/projects/overte/overte-"
 "website/ru/>\n"
@@ -3072,23 +3072,27 @@ msgstr ""
 "перерыва в членстве. **[1]**"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:20
-#, fuzzy
 msgid "Vote on accelerated board member elections. **[2]**"
-msgstr "Выборы членов совета."
+msgstr "Голосование о досрочных выборах членов совета. **[2]**"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:22
 msgid "Vote on LLM usage policy **[3]**"
 msgstr ""
+"Голосование о политике использования больших языковых моделей (LLM) **[3]**"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:23
 msgid "Vote on exception from LLM usage policy for translation services **[4]**"
 msgstr ""
+"Голосование об отступлении от политики использования LLM для сервисов "
+"перевода **[4]**"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:27
 msgid ""
 "**[1]**: Suggested change to § 3 Acquisition of Membership, Membership "
 "Fees (3.1) Non-payment of fees:"
 msgstr ""
+"**[1]**: Предлагаемое изменение в § 3 Получение членства, членские взносы "
+"(3.1) Неуплата взносов:"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:29
 msgid ""
@@ -3101,6 +3105,8 @@ msgid ""
 "In the event that membership fees are not paid, the rights of a member "
 "shall be suspended until the fees have been paid. (…)"
 msgstr ""
+"В случае неуплаты членских взносов права члена приостанавливаются до момента "
+"их уплаты. (…)"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:33
 msgid ""
@@ -3114,6 +3120,8 @@ msgid ""
 "shall be suspended until the fees for the current year have been paid. "
 "(…)"
 msgstr ""
+"В случае неуплаты членских взносов права члена приостанавливаются до момента "
+"внесения взносов за текущий год. (…)"
 
 #: ../../source/blog/2026-11-14_Invitiation_to_the_Overte_eV_general_assembly_2026.rst:36
 msgid ""
